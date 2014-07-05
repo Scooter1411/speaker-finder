@@ -1,0 +1,20 @@
+-------------
+chr70
+                    85.0dB            22W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.67  74Hz  83.3dB   99.1dB   38W   96.7dB
+-------------
+alpair5gold
+                    84.5dB             6W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.74 122Hz  84.6dB   97.6dB   20W   92.4dB
+-------------
+alpair5grey
+                    85.0dB             6W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.78 126Hz  84.8dB   98.1dB   22W   92.6dB
+-------------
+alpair6
+                    15.0dB             0W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.51 107Hz  85.1dB  104.2dB   81W   -infdB

@@ -1,0 +1,16 @@
+-------------
+W160al
+            87.0dB            80W       1x70mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 20.3 Hz  45 Hz  100 Hz   81.3 dB   oo l +  11 l    1x70mm    459 mm  1020 µF
+ 21.0 Hz  46 Hz  101 Hz   81.9 dB  462 l +  11 l    1x70mm    435 mm   974 µF
+ 22.0 Hz  48 Hz  103 Hz   82.7 dB  192 l +  11 l    1x70mm    406 mm   915 µF
+ 23.0 Hz  49 Hz  104 Hz   83.5 dB  120 l +  11 l    1x70mm    379 mm   863 µF
+ 24.0 Hz  50 Hz  106 Hz   84.2 dB   87 l +  11 l    1x70mm    355 mm   815 µF
+ 25.0 Hz  52 Hz  107 Hz   84.9 dB   68 l +  11 l    1x70mm    333 mm   772 µF
+ 26.0 Hz  53 Hz  108 Hz   85.6 dB   56 l +  11 l    1x70mm    314 mm   733 µF
+ 27.0 Hz  54 Hz  110 Hz   86.3 dB   47 l +  11 l    1x70mm    295 mm   697 µF
+ 28.0 Hz  56 Hz  111 Hz   86.9 dB   41 l +  11 l    1x70mm    279 mm   664 µF
+ 29.0 Hz  57 Hz  112 Hz   87.5 dB   36 l +  11 l    1x70mm    264 mm   633 µF
+ 30.0 Hz  58 Hz  114 Hz   88.1 dB   32 l +  11 l    1x70mm    249 mm   605 µF
+

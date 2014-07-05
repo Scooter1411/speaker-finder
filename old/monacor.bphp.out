@@ -1,0 +1,16 @@
+-------------
+sp8/150pro
+            93.0dB           150W       1x70mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 20.4 Hz  56 Hz  154 Hz   91.9 dB   oo l +   5 l    1x70mm    755 mm  1090 µF
+ 21.0 Hz  57 Hz  156 Hz   92.4 dB  522 l +   5 l    1x70mm    723 mm  1046 µF
+ 22.0 Hz  59 Hz  158 Hz   93.2 dB  202 l +   5 l    1x70mm    676 mm   983 µF
+ 23.0 Hz  61 Hz  160 Hz   94.0 dB  125 l +   5 l    1x70mm    634 mm   926 µF
+ 24.0 Hz  62 Hz  163 Hz   94.7 dB   90 l +   5 l    1x70mm    596 mm   875 µF
+ 25.0 Hz  64 Hz  165 Hz   95.4 dB   70 l +   5 l    1x70mm    561 mm   829 µF
+ 26.0 Hz  66 Hz  167 Hz   96.1 dB   57 l +   5 l    1x70mm    530 mm   787 µF
+ 27.0 Hz  68 Hz  169 Hz   96.8 dB   48 l +   5 l    1x70mm    501 mm   748 µF
+ 28.0 Hz  69 Hz  171 Hz   97.4 dB   42 l +   5 l    1x70mm    475 mm   713 µF
+ 29.0 Hz  71 Hz  173 Hz   98.0 dB   37 l +   5 l    1x70mm    450 mm   680 µF
+ 30.0 Hz  73 Hz  175 Hz   98.6 dB   33 l +   5 l    1x70mm    428 mm   650 µF
+

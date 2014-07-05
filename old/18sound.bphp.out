@@ -1,0 +1,17 @@
+-------------
+8NMB420
+            88.0dB           200W       1x70mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 19.5 Hz  53 Hz  146 Hz   91.0 dB   oo l +   6 l    1x70mm    611 mm  1603 µF
+ 20.0 Hz  54 Hz  147 Hz   91.4 dB  893 l +   6 l    1x70mm    590 mm  1552 µF
+ 21.0 Hz  56 Hz  149 Hz   92.3 dB  285 l +   6 l    1x70mm    549 mm  1454 µF
+ 22.0 Hz  58 Hz  152 Hz   93.1 dB  168 l +   6 l    1x70mm    513 mm  1367 µF
+ 23.0 Hz  59 Hz  154 Hz   93.9 dB  119 l +   6 l    1x70mm    480 mm  1288 µF
+ 24.0 Hz  61 Hz  156 Hz   94.6 dB   92 l +   6 l    1x70mm    450 mm  1217 µF
+ 25.0 Hz  63 Hz  158 Hz   95.3 dB   74 l +   6 l    1x70mm    423 mm  1153 µF
+ 26.0 Hz  65 Hz  160 Hz   96.0 dB   62 l +   6 l    1x70mm    399 mm  1094 µF
+ 27.0 Hz  66 Hz  162 Hz   96.6 dB   54 l +   6 l    1x70mm    377 mm  1040 µF
+ 28.0 Hz  68 Hz  164 Hz   97.3 dB   47 l +   6 l    1x70mm    356 mm   991 µF
+ 29.0 Hz  69 Hz  166 Hz   97.9 dB   42 l +   6 l    1x70mm    337 mm   946 µF
+ 30.0 Hz  71 Hz  168 Hz   98.5 dB   38 l +   6 l    1x70mm    320 mm   904 µF
+

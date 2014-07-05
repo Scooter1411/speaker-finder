@@ -1,0 +1,30 @@
+-------------
+10lms4000svc
+      81.1dB            800W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  81.6dB: (114.8dB  5974W 106.1dB) @  28Hz
+0.60  81.1dB: (112.7dB  4201W 105.5dB) @  25Hz
+1.00  80.6dB: (110.9dB  3083W 105.0dB) @  22Hz
+              (113.9dB  6165W 105.0dB) @  26Hz
+-------------
+12lms4000svc
+      82.6dB            800W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  81.9dB: (113.8dB  4448W 106.3dB) @  21Hz
+0.60  81.3dB: (111.9dB  3265W 105.8dB) @  19Hz
+              (114.9dB  6531W 105.8dB) @  23Hz
+1.00  80.8dB: (110.2dB  2497W 105.3dB) @  17Hz
+              (113.3dB  4994W 105.3dB) @  21Hz
+-------------
+15lms4000svc
+      85.6dB            800W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  84.8dB: (116.2dB  3956W 109.2dB) @  18Hz
+              (119.2dB  7912W 109.2dB) @  22Hz
+0.60  84.2dB: (114.2dB  2866W 108.7dB) @  17Hz
+              (117.2dB  5731W 108.7dB) @  20Hz
+1.00  83.7dB: (112.5dB  2163W 108.2dB) @  15Hz
+              (115.5dB  4326W 108.2dB) @  18Hz

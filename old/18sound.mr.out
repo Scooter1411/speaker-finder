@@ -1,0 +1,21 @@
+-------------
+8NMB420
+      88.0dB            200W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  92.6dB: (121.3dB  1170W 113.6dB) @ 112Hz
+0.60  92.3dB: (120.1dB   967W 113.3dB) @ 104Hz
+              (123.1dB  1934W 113.3dB) @ 124Hz
+1.00  92.0dB: (119.1dB   811W 113.0dB) @  98Hz
+              (122.1dB  1622W 113.0dB) @ 117Hz
+-------------
+8MB400
+      93.7dB            280W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  93.3dB: (122.1dB  1202W 115.7dB) @ 114Hz
+              (125.1dB  2404W 115.7dB) @ 136Hz
+0.60  93.0dB: (120.9dB   999W 115.4dB) @ 107Hz
+              (123.9dB  1997W 115.4dB) @ 127Hz
+1.00  92.7dB: (119.9dB   843W 115.1dB) @ 101Hz
+              (122.9dB  1685W 115.1dB) @ 120Hz

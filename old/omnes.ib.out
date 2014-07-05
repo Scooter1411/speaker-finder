@@ -1,0 +1,20 @@
+-------------
+BB_301
+                    86.0dB            15W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.58 138Hz  86.0dB   92.8dB    5W   97.8dB
+-------------
+Omnes_MW_5.01
+                    85.0dB            60W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.69  57Hz  84.6dB   96.4dB   15W  102.3dB
+-------------
+Omnes_MW_7.01
+                    88.0dB            80W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.54  62Hz  85.6dB  106.0dB  110W  104.6dB
+-------------
+Omnes_MW_8.01
+                    86.0dB           100W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.70  40Hz  85.5dB  101.8dB   43W  105.5dB

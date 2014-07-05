@@ -1,0 +1,20 @@
+-------------
+R1830
+                    97.0dB           350W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.59  42Hz  93.8dB  121.4dB  578W  119.2dB
+-------------
+V8202
+                    94.5dB           150W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.61  78Hz  90.6dB  109.5dB   77W  112.3dB
+-------------
+10204
+                    96.0dB           150W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.55  76Hz  92.4dB  113.3dB  123W  114.1dB
+-------------
+R1524
+                    96.5dB           230W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.69  47Hz  94.1dB  112.4dB   66W  117.8dB

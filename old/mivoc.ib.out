@@ -1,0 +1,15 @@
+-------------
+WAL416
+                    83.0dB            60W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.57  79Hz  83.4dB  102.5dB   81W  101.2dB
+-------------
+XAW320HC+2
+                    90.0dB           220W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.51  26Hz  82.0dB  108.4dB  446W  105.4dB
+-------------
+XAW320HC+3
+                    90.0dB           220W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.55  22Hz  80.5dB  105.7dB  330W  103.9dB

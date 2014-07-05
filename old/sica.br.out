@@ -1,0 +1,22 @@
+-------------
+Sica LP 208.38/1100                    94.9dB  100W                      1x70mm
+Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+
+0.20  93.8dB:    10.2l @  83.6Hz  =>  107.3dB   29W 112.7dB @  96.4Hz   1x70mm    215 mm 
+                 11.5l @  80.4Hz  =>  106.3dB   23W 112.7dB @  90.6Hz   1x70mm    185 mm 
+             *   13.0l @  77.3Hz  =>  105.2dB   18W 112.7dB @  85.3Hz   1x70mm    157 mm 
+                 14.7l @  74.4Hz  =>  104.2dB   14W 112.7dB @  80.2Hz   1x70mm    133 mm 
+                 16.6l @  71.5Hz  =>  103.1dB   11W 112.7dB @  75.5Hz   1x70mm    112 mm 
+
+0.60  93.5dB:    11.7l @  79.9Hz  =>  106.1dB   23W 112.4dB @  89.8Hz   1x70mm    180 mm 
+                 13.3l @  76.9Hz  =>  105.1dB   18W 112.4dB @  84.5Hz   1x70mm    154 mm 
+             *   15.0l @  73.9Hz  =>  104.0dB   14W 112.4dB @  79.5Hz   1x70mm    130 mm 
+                 16.9l @  71.1Hz  =>  102.9dB   11W 112.4dB @  74.8Hz   1x70mm    109 mm 
+                 19.1l @  68.4Hz  =>  101.9dB    9W 112.4dB @  70.3Hz   1x70mm     91 mm 
+
+1.00  93.3dB:    13.4l @  76.6Hz  =>  105.0dB   19W 112.2dB @  84.1Hz   1x70mm    152 mm 
+                 15.1l @  73.7Hz  =>  103.9dB   15W 112.2dB @  79.1Hz   1x70mm    128 mm 
+             *   17.1l @  70.9Hz  =>  102.9dB   12W 112.2dB @  74.4Hz   1x70mm    108 mm 
+                 19.3l @  68.2Hz  =>  101.8dB    9W 112.2dB @  70.0Hz   1x70mm     89 mm 
+                 21.8l @  65.5Hz  =>  100.7dB    7W 112.2dB @  65.9Hz   1x70mm     73 mm 
+

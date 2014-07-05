@@ -1,0 +1,27 @@
+-------------
+FW168
+      87.3dB             50W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  86.9dB: (107.7dB   133W 103.5dB) @  78Hz
+              (110.7dB   266W 103.5dB) @  92Hz
+0.60  86.7dB: (106.9dB   117W 103.2dB) @  74Hz
+              (109.9dB   234W 103.2dB) @  88Hz
+              (112.9dB   467W 103.2dB) @ 105Hz
+1.00  86.5dB: (106.2dB   103W 103.0dB) @  71Hz
+              (109.2dB   207W 103.0dB) @  84Hz
+              (112.2dB   413W 103.0dB) @ 100Hz
+-------------
+FW146
+      86.1dB             35W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  86.0dB: (103.3dB    72W 100.2dB) @  84Hz
+              (106.3dB   145W 100.2dB) @ 100Hz
+              (109.4dB   290W 100.2dB) @ 119Hz
+0.60  85.7dB: (102.4dB    62W  99.9dB) @  80Hz
+              (105.4dB   124W  99.9dB) @  95Hz
+              (108.4dB   247W  99.9dB) @ 113Hz
+1.00  85.5dB: (101.5dB    53W  99.6dB) @  76Hz
+              (104.5dB   107W  99.6dB) @  90Hz
+              (107.5dB   214W  99.6dB) @ 107Hz

@@ -1,4 +1,4 @@
 class Alignment {
 
-    Bigdecimal f3
+    BigDecimal f3
 }

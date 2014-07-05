@@ -1,0 +1,60 @@
+-------------
+V_B200
+                    96.0dB            40W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.78  37Hz  90.6dB   92.8dB    2W  106.6dB
+-------------
+V_BG17
+                    93.0dB            40W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.75 112Hz  93.3dB  105.9dB   18W  109.3dB
+-------------
+V_W100S4
+                    86.0dB            30W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.51  96Hz  85.7dB   97.1dB   14W  100.5dB
+-------------
+V_W100S8
+                    86.0dB            30W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.64  73Hz  84.4dB   92.4dB    6W   99.2dB
+-------------
+V_W130S8
+                    87.0dB            50W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.64  73Hz  84.4dB   96.9dB   18W  101.4dB
+-------------
+V_W170S8
+                    86.0dB            50W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.53  49Hz  86.0dB   99.6dB   23W  103.0dB
+-------------
+V_WS17E4
+                    88.0dB            60W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.68  47Hz  85.1dB   98.3dB   21W  102.8dB
+-------------
+V_WS17E8
+                    88.0dB            60W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.83  40Hz  83.6dB   95.3dB   15W  101.4dB
+-------------
+V_WS20E4
+                    88.0dB            80W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.65  49Hz  86.1dB  101.5dB   35W  105.1dB
+-------------
+V_WS20E8
+                    88.0dB            80W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        1.25  35Hz  86.3dB   95.7dB    9W  105.3dB
+-------------
+V_WS25E4
+                    88.0dB            80W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        1.09  31Hz  87.3dB  102.1dB   30W  106.4dB
+-------------
+V_WS25E8
+                    88.0dB            80W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        1.02  31Hz  87.5dB  102.1dB   29W  106.5dB
