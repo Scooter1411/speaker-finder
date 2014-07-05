@@ -1,0 +1,4 @@
+class ClosedAlignment extends Alignment {
+
+
+}
