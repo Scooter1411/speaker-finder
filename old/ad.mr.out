@@ -1,21 +1,4 @@
 -------------
-S21 L1000
-      98.0dB           1000W
-Rpre   Spl     SplMech Pmech SplEle      f3
-
-0.20  95.4dB: (124.7dB  1191W 123.9dB) @  59Hz
-              (127.7dB  2381W 123.9dB) @  70Hz
-              (130.7dB  4762W 123.9dB) @  83Hz
-              (133.7dB  9525W 123.9dB) @  99Hz
-0.60  95.1dB: (123.6dB   996W 123.6dB) @  55Hz
-              (126.6dB  1992W 123.6dB) @  66Hz
-              (129.6dB  3984W 123.6dB) @  78Hz
-              (132.6dB  7968W 123.6dB) @  93Hz
-1.00  94.8dB: (122.6dB   843W 123.3dB) @  52Hz
-              (125.6dB  1687W 123.3dB) @  62Hz
-              (128.6dB  3373W 123.3dB) @  74Hz
-              (131.6dB  6747W 123.3dB) @  88Hz
--------------
 S18I1000
       98.0dB           1000W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -88,25 +71,3 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (116.6dB   348W 113.0dB) @  93Hz
               (119.6dB   696W 113.0dB) @ 110Hz
               (122.6dB  1393W 113.0dB) @ 131Hz
--------------
-R1524
-      96.5dB            230W
-Rpre   Spl     SplMech Pmech SplEle      f3
-
-0.20  94.1dB: (111.8dB    72W 116.9dB) @  45Hz
-              (114.8dB   144W 116.9dB) @  54Hz
-              (117.8dB   289W 116.9dB) @  64Hz
-              (120.8dB   577W 116.9dB) @  76Hz
-              (123.9dB  1154W 116.9dB) @  90Hz
-0.60  93.9dB: (110.9dB    62W 116.6dB) @  43Hz
-              (113.9dB   124W 116.6dB) @  51Hz
-              (116.9dB   249W 116.6dB) @  61Hz
-              (120.0dB   498W 116.6dB) @  72Hz
-              (123.0dB   996W 116.6dB) @  86Hz
-              (126.0dB  1991W 116.6dB) @ 102Hz
-1.00  93.7dB: (110.1dB    54W 116.4dB) @  41Hz
-              (113.1dB   108W 116.4dB) @  49Hz
-              (116.1dB   217W 116.4dB) @  58Hz
-              (119.1dB   434W 116.4dB) @  69Hz
-              (122.1dB   867W 116.4dB) @  82Hz
-              (125.1dB  1734W 116.4dB) @  97Hz

@@ -1,58 +1,443 @@
 -------------
-W160al
-            87.0dB            80W       1x70mm
+ax5
+            89.3dB            10W       1x50mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 19.2Hz  40Hz   83Hz   80.4dB -105l +  11l  * 1x40mm   2125mm
- 21.1Hz  42Hz   85Hz   82.0dB -195l +  11l  * 1x40mm   1894mm
- 23.1Hz  45Hz   87Hz   83.6dB -4590l +  11l  * 1x40mm   1688mm
- 25.3Hz  48Hz   89Hz   85.1dB  189l +  11l  * 1x40mm   1505mm
- 27.7Hz  50Hz   92Hz   86.7dB   87l +  11l  * 1x40mm   1341mm
- 30.2Hz  53Hz   94Hz   88.2dB   54l +  11l  * 1x40mm   1195mm
- 33.0Hz  57Hz   97Hz   89.7dB   38l +  11l  * 1x40mm   1065mm
- 35.9Hz  60Hz  100Hz   91.2dB   29l +  11l  * 1x40mm    950mm
- 39.0Hz  63Hz  103Hz   92.7dB   22l +  11l  * 1x40mm    846mm
- 42.4Hz  67Hz  106Hz   94.1dB   18l +  11l  * 1x40mm    754mm
- 46.0Hz  71Hz  110Hz   95.5dB   15l +  11l  * 1x40mm    672mm
- 49.9Hz  75Hz  114Hz   96.9dB   12l +  11l  * 1x40mm    599mm
- 54.0Hz  78Hz  118Hz   98.3dB   11l +  11l  * 1x40mm    561mm
- 58.4Hz  85Hz  122Hz   99.7dB    9l +  11l  - 1x50mm    744mm
- 63.1Hz  90Hz  127Hz  101.0dB    7l +  11l  - 1x50mm    663mm
- 68.1Hz  95Hz  132Hz  102.3dB    6l +  11l  - 1x50mm    591mm
- 73.5Hz 100Hz  137Hz  103.6dB    6l +  11l  - 1x50mm    526mm
- 19.2Hz  47Hz   83Hz   80.4dB  290l +   8l  * 1x40mm   2126mm
- 21.1Hz  49Hz   85Hz   82.0dB  106l +   8l  * 1x40mm   1894mm
- 23.1Hz  52Hz   87Hz   83.6dB   62l +   8l  * 1x40mm   1688mm
- 25.3Hz  55Hz   89Hz   85.1dB   42l +   8l  * 1x40mm   1505mm
- 27.7Hz  59Hz   92Hz   86.7dB   31l +   8l  * 1x40mm   1341mm
- 30.2Hz  62Hz   94Hz   88.2dB   24l +   8l  * 1x40mm   1195mm
- 33.0Hz  66Hz   97Hz   89.7dB   19l +   8l  * 1x40mm   1065mm
- 35.9Hz  70Hz  100Hz   91.2dB   16l +   8l  * 1x40mm    950mm
- 39.0Hz  74Hz  103Hz   92.7dB   13l +   8l  * 1x40mm    846mm
- 42.4Hz  78Hz  106Hz   94.1dB   11l +   8l  * 1x40mm    754mm
- 46.0Hz  83Hz  110Hz   95.5dB    9l +   8l  * 1x40mm    672mm
- 49.9Hz  75Hz  114Hz   96.9dB   12l +   8l  * 1x40mm    815mm
- 54.0Hz  78Hz  118Hz   98.3dB   11l +   8l  * 1x40mm    764mm
- 58.4Hz  85Hz  122Hz   99.7dB    9l +   8l  * 1x40mm    648mm
- 54.2Hz  90Hz  127Hz   98.4dB    7l +   8l  * 1x40mm    577mm
- 59.3Hz  95Hz  132Hz   99.9dB    6l +   8l  * 1x40mm    515mm
- 73.5Hz 100Hz  137Hz  103.6dB    6l +   8l  - 1x50mm    716mm
- 23.1Hz  56Hz  136Hz   83.5dB   40l +   6l  * 1x40mm   2125mm
- 25.5Hz  59Hz  138Hz   85.2dB   30l +   6l  * 1x40mm   1895mm
- 28.0Hz  63Hz  141Hz   86.9dB   23l +   6l  * 1x40mm   1689mm
- 30.8Hz  67Hz  144Hz   88.6dB   19l +   6l  * 1x40mm   1505mm
- 33.9Hz  71Hz  147Hz   90.2dB   15l +   6l  * 1x40mm   1341mm
- 37.2Hz  75Hz  150Hz   91.8dB   13l +   6l  * 1x40mm   1195mm
- 40.8Hz  79Hz  154Hz   93.4dB   11l +   6l  * 1x40mm   1065mm
- 44.6Hz  84Hz  157Hz   95.0dB    9l +   6l  * 1x40mm    949mm
- 48.8Hz  89Hz  162Hz   96.5dB    8l +   6l  * 1x40mm    846mm
- 53.2Hz  94Hz  166Hz   98.1dB    7l +   6l  * 1x40mm    754mm
- 58.1Hz 100Hz  171Hz   99.6dB    6l +   6l  * 1x40mm    672mm
- 63.2Hz 106Hz  176Hz  101.0dB    5l +   6l  * 1x40mm    599mm
- 68.8Hz 112Hz  182Hz  102.5dB    4l +   6l  * 1x40mm    534mm
- 74.7Hz 118Hz  188Hz  103.9dB    4l +   6l  - 1x50mm    744mm
- 81.1Hz 125Hz  194Hz  105.4dB    3l +   6l  - 1x50mm    663mm
- 87.9Hz 133Hz  201Hz  106.8dB    3l +   6l  - 1x50mm    591mm
- 95.2Hz 141Hz  208Hz  108.1dB    3l +   6l  - 1x50mm    526mm
+ 25.7Hz  53Hz  111Hz   77.5dB  -28l +   7l  + 1x40mm   1914mm
+ 28.2Hz  57Hz  114Hz   79.1dB  -35l +   7l  + 1x40mm   1706mm
+ 30.9Hz  60Hz  116Hz   80.7dB  -48l +   7l  + 1x40mm   1520mm
+ 33.8Hz  64Hz  119Hz   82.2dB  -84l +   7l  + 1x40mm   1355mm
+ 37.0Hz  67Hz  122Hz   83.8dB -515l +   7l  + 1x40mm   1208mm
+ 40.4Hz  71Hz  126Hz   85.3dB  108l +   7l  + 1x40mm   1076mm
+ 44.0Hz  75Hz  129Hz   86.8dB   46l +   7l  + 1x40mm    959mm
+ 47.9Hz  80Hz  133Hz   88.3dB   28l +   7l  + 1x40mm    855mm
+ 52.1Hz  85Hz  138Hz   89.8dB   19l +   7l  - 1x40mm    762mm
+ 56.7Hz  90Hz  142Hz   91.2dB   14l +   7l  - 1x40mm    679mm
+ 61.5Hz  95Hz  147Hz   92.6dB   11l +   7l  - 1x40mm    605mm
+ 66.6Hz 101Hz  152Hz   94.0dB    9l +   7l  - 1x40mm    539mm
+ 72.2Hz 104Hz  158Hz   95.4dB    8l +   7l    1x50mm    789mm
+ 78.0Hz 113Hz  164Hz   96.8dB    6l +   7l    1x50mm    670mm
+ 84.3Hz 120Hz  170Hz   98.1dB    5l +   7l    1x50mm    597mm
+ 91.0Hz 127Hz  176Hz   99.4dB    4l +   7l    1x50mm    532mm
+ 98.2Hz 134Hz  184Hz  100.8dB    4l +   7l    1x50mm    474mm
+ 25.7Hz  62Hz  111Hz   77.5dB  -67l +   5l  + 1x40mm   1914mm
+ 28.2Hz  66Hz  114Hz   79.1dB -190l +   5l  + 1x40mm   1706mm
+ 30.9Hz  70Hz  116Hz   80.7dB  182l +   5l  + 1x40mm   1520mm
+ 33.8Hz  74Hz  119Hz   82.2dB   57l +   5l  + 1x40mm   1355mm
+ 37.0Hz  78Hz  122Hz   83.8dB   32l +   5l  + 1x40mm   1208mm
+ 40.4Hz  83Hz  126Hz   85.3dB   22l +   5l  + 1x40mm   1076mm
+ 44.0Hz  88Hz  129Hz   86.8dB   16l +   5l  + 1x40mm    959mm
+ 47.9Hz  93Hz  133Hz   88.3dB   12l +   5l  + 1x40mm    855mm
+ 52.1Hz  99Hz  138Hz   89.8dB   10l +   5l  - 1x40mm    762mm
+ 56.7Hz 105Hz  142Hz   91.2dB    8l +   5l  - 1x40mm    679mm
+ 61.5Hz 111Hz  147Hz   92.6dB    6l +   5l  - 1x40mm    605mm
+ 66.6Hz 101Hz  152Hz   94.0dB    9l +   5l  - 1x40mm    734mm
+ 72.2Hz 104Hz  158Hz   95.4dB    8l +   5l  - 1x40mm    688mm
+ 78.0Hz 113Hz  164Hz   96.8dB    6l +   5l  - 1x40mm    583mm
+ 72.5Hz 120Hz  170Hz   95.5dB    5l +   5l  - 1x40mm    520mm
+ 79.2Hz 127Hz  176Hz   97.0dB    4l +   5l    1x50mm    724mm
+ 98.2Hz 134Hz  184Hz  100.8dB    4l +   5l    1x50mm    645mm
+ 30.8Hz  75Hz  182Hz   80.6dB   51l +   4l  + 1x40mm   1914mm
+ 34.0Hz  79Hz  185Hz   82.3dB   30l +   4l  + 1x40mm   1706mm
+ 37.5Hz  84Hz  188Hz   84.0dB   20l +   4l  + 1x40mm   1521mm
+ 41.2Hz  89Hz  192Hz   85.7dB   15l +   4l  + 1x40mm   1355mm
+ 45.3Hz  94Hz  196Hz   87.3dB   12l +   4l  + 1x40mm   1208mm
+ 49.7Hz 100Hz  200Hz   88.9dB    9l +   4l  + 1x40mm   1076mm
+ 54.4Hz 106Hz  205Hz   90.5dB    8l +   4l  + 1x40mm    959mm
+ 59.6Hz 112Hz  210Hz   92.1dB    6l +   4l  + 1x40mm    855mm
+ 65.1Hz 119Hz  216Hz   93.6dB    5l +   4l  - 1x40mm    762mm
+ 71.1Hz 126Hz  222Hz   95.2dB    4l +   4l  - 1x40mm    679mm
+ 77.6Hz 133Hz  228Hz   96.7dB    4l +   4l  - 1x40mm    605mm
+ 84.5Hz 141Hz  235Hz   98.1dB    3l +   4l  - 1x40mm    539mm
+ 91.9Hz 149Hz  243Hz   99.6dB    3l +   4l    1x50mm    751mm
+ 99.8Hz 158Hz  251Hz  101.0dB    2l +   4l    1x50mm    670mm
+108.3Hz 168Hz  259Hz  102.5dB    2l +   4l    1x50mm    597mm
+117.4Hz 177Hz  268Hz  103.9dB    2l +   4l    1x50mm    532mm
+127.1Hz 188Hz  278Hz  105.2dB    2l +   4l    1x50mm    474mm
+-------------
+ax6
+            91.6dB            10W       1x70mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 24.8Hz  52Hz  107Hz   84.3dB -330l +  12l  * 1x40mm   1147mm
+ 27.2Hz  55Hz  110Hz   85.9dB 1093l +  12l  * 1x40mm   1023mm
+ 29.9Hz  58Hz  112Hz   87.5dB  187l +  12l  * 1x40mm    911mm
+ 32.7Hz  61Hz  115Hz   89.1dB   97l +  12l  * 1x40mm    812mm
+ 35.7Hz  65Hz  118Hz   90.6dB   63l +  12l  * 1x40mm    724mm
+ 39.0Hz  69Hz  122Hz   92.1dB   45l +  12l  * 1x40mm    645mm
+ 42.5Hz  73Hz  125Hz   93.6dB   34l +  12l  * 1x40mm    575mm
+ 46.3Hz  77Hz  129Hz   95.1dB   27l +  12l  * 1x40mm    513mm
+ 50.4Hz  82Hz  133Hz   96.6dB   22l +  12l  - 1x50mm    714mm
+ 54.7Hz  87Hz  137Hz   98.0dB   18l +  12l  - 1x50mm    636mm
+ 59.4Hz  92Hz  142Hz   99.4dB   15l +  12l  - 1x50mm    567mm
+ 64.4Hz  97Hz  147Hz  100.8dB   13l +  12l  - 1x50mm    505mm
+ 69.7Hz 100Hz  152Hz  102.2dB   11l +  12l  - 1x50mm    473mm
+ 75.4Hz 109Hz  158Hz  103.6dB    9l +  12l    1x70mm    787mm
+ 81.5Hz 116Hz  164Hz  104.9dB    8l +  12l    1x70mm    701mm
+ 87.9Hz 122Hz  170Hz  106.3dB    7l +  12l    1x70mm    625mm
+ 94.8Hz 130Hz  177Hz  107.6dB    6l +  12l    1x70mm    557mm
+ 24.8Hz  60Hz  107Hz   84.3dB  116l +   9l  * 1x40mm   1148mm
+ 27.2Hz  64Hz  110Hz   85.9dB   71l +   9l  * 1x40mm   1023mm
+ 29.9Hz  68Hz  112Hz   87.5dB   50l +   9l  * 1x40mm    911mm
+ 32.7Hz  72Hz  115Hz   89.1dB   37l +   9l  * 1x40mm    812mm
+ 35.7Hz  76Hz  118Hz   90.6dB   29l +   9l  * 1x40mm    724mm
+ 39.0Hz  80Hz  122Hz   92.1dB   23l +   9l  * 1x40mm    645mm
+ 42.5Hz  85Hz  125Hz   93.6dB   19l +   9l  * 1x40mm    575mm
+ 46.3Hz  90Hz  129Hz   95.1dB   16l +   9l  * 1x40mm    513mm
+ 50.4Hz  95Hz  133Hz   96.6dB   13l +   9l  - 1x50mm    714mm
+ 54.7Hz 101Hz  137Hz   98.0dB   11l +   9l  - 1x50mm    636mm
+ 59.4Hz 107Hz  142Hz   99.4dB   10l +   9l  - 1x50mm    567mm
+ 64.4Hz  97Hz  147Hz  100.8dB   13l +   9l  - 1x50mm    688mm
+ 69.7Hz 100Hz  152Hz  102.2dB   11l +   9l  - 1x50mm    644mm
+ 75.4Hz 109Hz  158Hz  103.6dB    9l +   9l  - 1x50mm    546mm
+ 70.0Hz 116Hz  164Hz  102.3dB    8l +   9l  - 1x50mm    487mm
+ 76.5Hz 122Hz  170Hz  103.8dB    7l +   9l  - 1x50mm    434mm
+ 94.8Hz 130Hz  177Hz  107.6dB    6l +   9l    1x70mm    758mm
+ 29.8Hz  72Hz  175Hz   87.5dB   36l +   6l  * 1x40mm   1147mm
+ 32.8Hz  77Hz  178Hz   89.1dB   28l +   6l  * 1x40mm   1023mm
+ 36.2Hz  81Hz  182Hz   90.8dB   23l +   6l  * 1x40mm    912mm
+ 39.8Hz  86Hz  185Hz   92.5dB   18l +   6l  * 1x40mm    812mm
+ 43.7Hz  91Hz  189Hz   94.1dB   15l +   6l  * 1x40mm    724mm
+ 48.0Hz  96Hz  194Hz   95.7dB   13l +   6l  * 1x40mm    645mm
+ 52.6Hz 102Hz  198Hz   97.3dB   11l +   6l  * 1x40mm    575mm
+ 57.6Hz 108Hz  203Hz   98.9dB    9l +   6l  * 1x40mm    513mm
+ 62.9Hz 115Hz  209Hz  100.4dB    8l +   6l  - 1x50mm    714mm
+ 68.7Hz 121Hz  214Hz  102.0dB    7l +   6l  - 1x50mm    636mm
+ 74.9Hz 129Hz  221Hz  103.5dB    6l +   6l  - 1x50mm    567mm
+ 81.6Hz 136Hz  227Hz  105.0dB    5l +   6l  - 1x50mm    505mm
+ 88.8Hz 144Hz  234Hz  106.4dB    5l +   6l  - 1x50mm    450mm
+ 96.4Hz 153Hz  242Hz  107.9dB    4l +   6l    1x70mm    787mm
+104.6Hz 162Hz  250Hz  109.3dB    4l +   6l    1x70mm    701mm
+113.4Hz 171Hz  259Hz  110.7dB    3l +   6l    1x70mm    625mm
+122.8Hz 182Hz  268Hz  112.1dB    3l +   6l    1x70mm    557mm
+-------------
+ax8
+            91.7dB            10W       1x70mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 15.5Hz  32Hz   67Hz   80.8dB -350l +  49l  * 1x40mm    730mm
+ 17.0Hz  34Hz   69Hz   82.4dB -534l +  49l  * 1x40mm    651mm
+ 18.7Hz  36Hz   70Hz   84.0dB -1301l +  49l  * 1x40mm    580mm
+ 20.4Hz  38Hz   72Hz   85.5dB 2147l +  49l  * 1x40mm    517mm
+ 22.4Hz  41Hz   74Hz   87.1dB  539l +  49l  - 1x50mm    720mm
+ 24.4Hz  43Hz   76Hz   88.6dB  293l +  49l  - 1x50mm    642mm
+ 26.6Hz  46Hz   78Hz   90.1dB  194l +  49l  - 1x50mm    572mm
+ 29.0Hz  48Hz   81Hz   91.6dB  140l +  49l  - 1x50mm    510mm
+ 31.5Hz  51Hz   83Hz   93.1dB  107l +  49l  - 1x50mm    454mm
+ 34.2Hz  54Hz   86Hz   94.5dB   85l +  49l    1x70mm    794mm
+ 37.2Hz  57Hz   89Hz   95.9dB   69l +  49l    1x70mm    707mm
+ 40.3Hz  61Hz   92Hz   97.3dB   57l +  49l    1x70mm    631mm
+ 43.6Hz  63Hz   95Hz   98.7dB   51l +  49l    1x70mm    590mm
+ 47.2Hz  68Hz   99Hz  100.1dB   40l +  49l    1x70mm    501mm
+ 51.0Hz  72Hz  103Hz  101.4dB   34l +  49l    1x70mm    446mm
+ 55.0Hz  77Hz  107Hz  102.7dB   29l +  49l    1x70mm    398mm
+ 59.3Hz  81Hz  111Hz  104.1dB   25l +  49l    1x70mm    355mm
+ 15.5Hz  38Hz   67Hz   80.8dB 18721l +  36l  * 1x40mm    730mm
+ 17.0Hz  40Hz   69Hz   82.4dB  718l +  36l  * 1x40mm    651mm
+ 18.7Hz  42Hz   70Hz   84.0dB  346l +  36l  * 1x40mm    580mm
+ 20.4Hz  45Hz   72Hz   85.5dB  219l +  36l  * 1x40mm    517mm
+ 22.4Hz  47Hz   74Hz   87.1dB  155l +  36l  - 1x50mm    720mm
+ 24.4Hz  50Hz   76Hz   88.6dB  116l +  36l  - 1x50mm    642mm
+ 26.6Hz  53Hz   78Hz   90.1dB   91l +  36l  - 1x50mm    572mm
+ 29.0Hz  56Hz   81Hz   91.6dB   73l +  36l  - 1x50mm    510mm
+ 31.5Hz  60Hz   83Hz   93.1dB   60l +  36l  - 1x50mm    454mm
+ 34.2Hz  63Hz   86Hz   94.5dB   50l +  36l    1x70mm    794mm
+ 37.2Hz  67Hz   89Hz   95.9dB   42l +  36l    1x70mm    707mm
+ 40.3Hz  61Hz   92Hz   97.3dB   57l +  36l  - 1x50mm    438mm
+ 43.6Hz  63Hz   95Hz   98.7dB   51l +  36l  - 1x50mm    410mm
+ 47.2Hz  68Hz   99Hz  100.1dB   40l +  36l    1x70mm    682mm
+ 43.8Hz  72Hz  103Hz   98.8dB   34l +  36l    1x70mm    607mm
+ 47.8Hz  77Hz  107Hz  100.3dB   29l +  36l    1x70mm    541mm
+ 59.3Hz  81Hz  111Hz  104.1dB   25l +  36l    1x70mm    483mm
+ 18.6Hz  45Hz  110Hz   83.9dB  205l +  25l  * 1x40mm    730mm
+ 20.6Hz  48Hz  112Hz   85.6dB  147l +  25l  * 1x40mm    651mm
+ 22.6Hz  51Hz  114Hz   87.3dB  112l +  25l  * 1x40mm    580mm
+ 24.9Hz  54Hz  116Hz   89.0dB   88l +  25l  * 1x40mm    517mm
+ 27.4Hz  57Hz  118Hz   90.6dB   71l +  25l  - 1x50mm    720mm
+ 30.0Hz  60Hz  121Hz   92.2dB   58l +  25l  - 1x50mm    642mm
+ 32.9Hz  64Hz  124Hz   93.8dB   49l +  25l  - 1x50mm    572mm
+ 36.0Hz  68Hz  127Hz   95.4dB   41l +  25l  - 1x50mm    510mm
+ 39.4Hz  72Hz  130Hz   96.9dB   35l +  25l  - 1x50mm    454mm
+ 43.0Hz  76Hz  134Hz   98.5dB   30l +  25l    1x70mm    794mm
+ 46.9Hz  80Hz  138Hz  100.0dB   26l +  25l    1x70mm    707mm
+ 51.1Hz  85Hz  142Hz  101.4dB   22l +  25l    1x70mm    630mm
+ 55.5Hz  90Hz  147Hz  102.9dB   19l +  25l    1x70mm    562mm
+ 60.3Hz  96Hz  151Hz  104.3dB   17l +  25l    1x70mm    501mm
+ 65.5Hz 101Hz  157Hz  105.8dB   15l +  25l    1x70mm    446mm
+ 71.0Hz 107Hz  162Hz  107.2dB   13l +  25l    1x70mm    398mm
+ 76.8Hz 114Hz  168Hz  108.5dB   11l +  25l    1x70mm    355mm
+-------------
+axp06
+            93.5dB            50W       1x70mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 37.5Hz  78Hz  162Hz   95.6dB   30l +   6l  * 1x40mm   1112mm
+ 41.1Hz  83Hz  166Hz   97.2dB   24l +   6l  * 1x40mm    991mm
+ 45.0Hz  87Hz  170Hz   98.8dB   19l +   6l  * 1x40mm    884mm
+ 49.3Hz  93Hz  174Hz  100.4dB   16l +   6l  * 1x40mm    788mm
+ 53.9Hz  98Hz  178Hz  101.9dB   13l +   6l  * 1x40mm    702mm
+ 58.8Hz 104Hz  183Hz  103.4dB   11l +   6l  * 1x40mm    626mm
+ 64.2Hz 110Hz  189Hz  104.9dB   10l +   6l  * 1x40mm    558mm
+ 69.9Hz 117Hz  194Hz  106.4dB    8l +   6l  - 1x50mm    776mm
+ 76.0Hz 123Hz  201Hz  107.9dB    7l +   6l  - 1x50mm    692mm
+ 82.6Hz 131Hz  207Hz  109.3dB    6l +   6l  - 1x50mm    617mm
+ 89.6Hz 139Hz  214Hz  110.7dB    5l +   6l  - 1x50mm    550mm
+ 97.1Hz 147Hz  222Hz  112.1dB    5l +   6l  - 1x50mm    490mm
+105.2Hz 152Hz  230Hz  113.5dB    4l +   6l  - 1x50mm    459mm
+113.8Hz 165Hz  238Hz  114.9dB    4l +   6l    1x70mm    763mm
+122.9Hz 174Hz  247Hz  116.2dB    3l +   6l    1x70mm    680mm
+132.7Hz 185Hz  257Hz  117.6dB    3l +   6l    1x70mm    606mm
+143.1Hz 196Hz  268Hz  118.9dB    2l +   6l    1x70mm    540mm
+ 37.5Hz  91Hz  162Hz   95.6dB   17l +   4l  * 1x40mm   1112mm
+ 41.1Hz  96Hz  166Hz   97.2dB   14l +   4l  * 1x40mm    991mm
+ 45.0Hz 102Hz  170Hz   98.8dB   12l +   4l  * 1x40mm    884mm
+ 49.3Hz 108Hz  174Hz  100.4dB   10l +   4l  * 1x40mm    788mm
+ 53.9Hz 114Hz  178Hz  101.9dB    9l +   4l  * 1x40mm    702mm
+ 58.8Hz 121Hz  183Hz  103.4dB    7l +   4l  * 1x40mm    626mm
+ 64.2Hz 128Hz  189Hz  104.9dB    6l +   4l  * 1x40mm    558mm
+ 69.9Hz 136Hz  194Hz  106.4dB    6l +   4l  - 1x50mm    776mm
+ 76.0Hz 144Hz  201Hz  107.9dB    5l +   4l  - 1x50mm    692mm
+ 82.6Hz 153Hz  207Hz  109.3dB    4l +   4l  - 1x50mm    617mm
+ 89.6Hz 162Hz  214Hz  110.7dB    4l +   4l  - 1x50mm    550mm
+ 97.1Hz 147Hz  222Hz  112.1dB    5l +   4l  - 1x50mm    667mm
+105.2Hz 152Hz  230Hz  113.5dB    4l +   4l  - 1x50mm    625mm
+113.8Hz 165Hz  238Hz  114.9dB    4l +   4l  - 1x50mm    530mm
+105.6Hz 174Hz  247Hz  113.6dB    3l +   4l  - 1x50mm    472mm
+115.4Hz 185Hz  257Hz  115.1dB    3l +   4l  - 1x50mm    421mm
+143.1Hz 196Hz  268Hz  118.9dB    2l +   4l    1x70mm    735mm
+ 44.9Hz 109Hz  265Hz   98.8dB   10l +   3l  * 1x40mm   1112mm
+ 49.6Hz 116Hz  269Hz  100.5dB    8l +   3l  * 1x40mm    992mm
+ 54.6Hz 122Hz  274Hz  102.1dB    7l +   3l  * 1x40mm    884mm
+ 60.1Hz 130Hz  280Hz  103.8dB    6l +   3l  * 1x40mm    788mm
+ 66.0Hz 137Hz  286Hz  105.4dB    5l +   3l  * 1x40mm    702mm
+ 72.4Hz 145Hz  292Hz  107.0dB    5l +   3l  * 1x40mm    626mm
+ 79.4Hz 154Hz  299Hz  108.6dB    4l +   3l  * 1x40mm    557mm
+ 86.9Hz 163Hz  307Hz  110.2dB    4l +   3l  - 1x50mm    776mm
+ 95.0Hz 173Hz  315Hz  111.8dB    3l +   3l  - 1x50mm    692mm
+103.7Hz 183Hz  323Hz  113.3dB    3l +   3l  - 1x50mm    617mm
+113.1Hz 194Hz  333Hz  114.8dB    2l +   3l  - 1x50mm    550mm
+123.1Hz 205Hz  343Hz  116.3dB    2l +   3l  - 1x50mm    490mm
+133.9Hz 218Hz  354Hz  117.7dB    2l +   3l  - 1x50mm    437mm
+145.5Hz 231Hz  365Hz  119.2dB    2l +   3l    1x70mm    763mm
+157.9Hz 244Hz  378Hz  120.6dB    2l +   3l    1x70mm    680mm
+171.2Hz 259Hz  391Hz  122.0dB    1l +   3l    1x70mm    606mm
+185.3Hz 274Hz  405Hz  123.4dB    1l +   3l    1x70mm    540mm
+-------------
+axp08
+            93.2dB            50W       1x70mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 25.3Hz  53Hz  110Hz   94.0dB 1836l +  18l  * 1x40mm    751mm
+ 27.8Hz  56Hz  112Hz   95.6dB  310l +  18l  * 1x40mm    670mm
+ 30.4Hz  59Hz  115Hz   97.2dB  160l +  18l  * 1x40mm    597mm
+ 33.3Hz  63Hz  118Hz   98.8dB  104l +  18l  * 1x40mm    532mm
+ 36.4Hz  66Hz  121Hz  100.3dB   75l +  18l  - 1x50mm    741mm
+ 39.8Hz  70Hz  124Hz  101.8dB   57l +  18l  - 1x50mm    660mm
+ 43.4Hz  74Hz  128Hz  103.3dB   45l +  18l  - 1x50mm    589mm
+ 47.2Hz  79Hz  131Hz  104.8dB   36l +  18l  - 1x50mm    525mm
+ 51.4Hz  83Hz  136Hz  106.3dB   30l +  18l  - 1x50mm    467mm
+ 55.8Hz  88Hz  140Hz  107.7dB   25l +  18l  - 1x50mm    417mm
+ 60.6Hz  94Hz  145Hz  109.1dB   21l +  18l    1x70mm    728mm
+ 65.6Hz  99Hz  150Hz  110.5dB   18l +  18l    1x70mm    649mm
+ 71.1Hz 102Hz  155Hz  111.9dB   16l +  18l    1x70mm    608mm
+ 76.9Hz 111Hz  161Hz  113.3dB   13l +  18l    1x70mm    515mm
+ 83.1Hz 118Hz  167Hz  114.6dB   11l +  18l    1x70mm    459mm
+ 89.7Hz 125Hz  174Hz  116.0dB   10l +  18l    1x70mm    409mm
+ 96.7Hz 132Hz  181Hz  117.3dB    9l +  18l    1x70mm    365mm
+ 25.3Hz  61Hz  110Hz   94.0dB  118l +  13l  * 1x40mm    752mm
+ 27.8Hz  65Hz  112Hz   95.6dB   82l +  13l  * 1x40mm    670mm
+ 30.4Hz  69Hz  115Hz   97.2dB   62l +  13l  * 1x40mm    597mm
+ 33.3Hz  73Hz  118Hz   98.8dB   48l +  13l  * 1x40mm    532mm
+ 36.4Hz  77Hz  121Hz  100.3dB   38l +  13l  - 1x50mm    741mm
+ 39.8Hz  82Hz  124Hz  101.8dB   31l +  13l  - 1x50mm    660mm
+ 43.4Hz  87Hz  128Hz  103.3dB   26l +  13l  - 1x50mm    589mm
+ 47.2Hz  92Hz  131Hz  104.8dB   22l +  13l  - 1x50mm    525mm
+ 51.4Hz  97Hz  136Hz  106.3dB   19l +  13l  - 1x50mm    468mm
+ 55.8Hz 103Hz  140Hz  107.7dB   16l +  13l  - 1x50mm    417mm
+ 60.6Hz 109Hz  145Hz  109.1dB   14l +  13l    1x70mm    728mm
+ 65.6Hz  99Hz  150Hz  110.5dB   18l +  13l  - 1x50mm    450mm
+ 71.1Hz 102Hz  155Hz  111.9dB   16l +  13l  - 1x50mm    422mm
+ 76.9Hz 111Hz  161Hz  113.3dB   13l +  13l    1x70mm    701mm
+ 71.4Hz 118Hz  167Hz  112.0dB   11l +  13l    1x70mm    625mm
+ 78.0Hz 125Hz  174Hz  113.5dB   10l +  13l    1x70mm    557mm
+ 96.7Hz 132Hz  181Hz  117.3dB    9l +  13l    1x70mm    496mm
+ 30.4Hz  74Hz  179Hz   97.2dB   46l +   9l  * 1x40mm    751mm
+ 33.5Hz  78Hz  182Hz   98.8dB   37l +   9l  * 1x40mm    670mm
+ 36.9Hz  83Hz  185Hz  100.5dB   30l +   9l  * 1x40mm    597mm
+ 40.6Hz  88Hz  189Hz  102.2dB   25l +   9l  * 1x40mm    532mm
+ 44.6Hz  93Hz  193Hz  103.8dB   21l +   9l  - 1x50mm    741mm
+ 48.9Hz  98Hz  197Hz  105.4dB   18l +   9l  - 1x50mm    660mm
+ 53.6Hz 104Hz  202Hz  107.0dB   15l +   9l  - 1x50mm    588mm
+ 58.7Hz 110Hz  207Hz  108.6dB   13l +   9l  - 1x50mm    524mm
+ 64.2Hz 117Hz  213Hz  110.1dB   12l +   9l  - 1x50mm    467mm
+ 70.1Hz 124Hz  219Hz  111.7dB   10l +   9l  - 1x50mm    417mm
+ 76.4Hz 131Hz  225Hz  113.2dB    9l +   9l    1x70mm    728mm
+ 83.2Hz 139Hz  232Hz  114.7dB    8l +   9l    1x70mm    649mm
+ 90.5Hz 147Hz  239Hz  116.1dB    7l +   9l    1x70mm    578mm
+ 98.3Hz 156Hz  247Hz  117.6dB    6l +   9l    1x70mm    515mm
+106.7Hz 165Hz  255Hz  119.0dB    5l +   9l    1x70mm    459mm
+115.7Hz 175Hz  264Hz  120.4dB    5l +   9l    1x70mm    409mm
+125.2Hz 185Hz  274Hz  121.8dB    4l +   9l    1x70mm    365mm
+-------------
+axp10
+            94.6dB           100W      1x100mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 33.9Hz  71Hz  147Hz  105.7dB   74l +  10l  * 1x50mm   1205mm
+ 37.3Hz  75Hz  150Hz  107.3dB   54l +  10l  * 1x50mm   1074mm
+ 40.8Hz  79Hz  154Hz  108.9dB   42l +  10l  * 1x50mm    957mm
+ 44.7Hz  84Hz  158Hz  110.4dB   33l +  10l  * 1x50mm    853mm
+ 48.8Hz  89Hz  162Hz  112.0dB   27l +  10l  * 1x50mm    760mm
+ 53.3Hz  94Hz  166Hz  113.5dB   22l +  10l  * 1x50mm    678mm
+ 58.1Hz 100Hz  171Hz  115.0dB   19l +  10l  * 1x50mm    604mm
+ 63.3Hz 106Hz  176Hz  116.5dB   16l +  10l  * 1x50mm    538mm
+ 68.9Hz 112Hz  182Hz  118.0dB   13l +  10l  * 1x50mm    480mm
+ 74.8Hz 119Hz  188Hz  119.4dB   11l +  10l  * 1x50mm    428mm
+ 81.2Hz 126Hz  194Hz  120.8dB   10l +  10l  - 1x70mm    747mm
+ 88.0Hz 133Hz  201Hz  122.2dB    9l +  10l  - 1x70mm    666mm
+ 95.3Hz 137Hz  208Hz  123.6dB    8l +  10l  - 1x70mm    624mm
+103.1Hz 149Hz  216Hz  125.0dB    6l +  10l  - 1x70mm    529mm
+111.4Hz 158Hz  224Hz  126.3dB    6l +  10l  - 1x70mm    471mm
+120.2Hz 167Hz  233Hz  127.6dB    5l +  10l  - 1x70mm    420mm
+129.7Hz 177Hz  243Hz  128.9dB    4l +  10l    1x100mm   764mm
+ 33.9Hz  82Hz  147Hz  105.7dB   35l +   7l  * 1x50mm   1205mm
+ 37.3Hz  87Hz  150Hz  107.3dB   29l +   7l  * 1x50mm   1074mm
+ 40.8Hz  92Hz  154Hz  108.9dB   23l +   7l  * 1x50mm    957mm
+ 44.7Hz  98Hz  158Hz  110.4dB   20l +   7l  * 1x50mm    853mm
+ 48.8Hz 104Hz  162Hz  112.0dB   17l +   7l  * 1x50mm    761mm
+ 53.3Hz 110Hz  166Hz  113.5dB   14l +   7l  * 1x50mm    678mm
+ 58.1Hz 116Hz  171Hz  115.0dB   12l +   7l  * 1x50mm    604mm
+ 63.3Hz 123Hz  176Hz  116.5dB   10l +   7l  * 1x50mm    538mm
+ 68.9Hz 131Hz  182Hz  118.0dB    9l +   7l  * 1x50mm    480mm
+ 74.8Hz 138Hz  188Hz  119.4dB    8l +   7l  * 1x50mm    428mm
+ 81.2Hz 146Hz  194Hz  120.8dB    7l +   7l  - 1x70mm    747mm
+ 88.0Hz 133Hz  201Hz  122.2dB    9l +   7l  * 1x50mm    462mm
+ 95.3Hz 137Hz  208Hz  123.6dB    8l +   7l  * 1x50mm    433mm
+103.1Hz 149Hz  216Hz  125.0dB    6l +   7l  - 1x70mm    720mm
+ 95.7Hz 158Hz  224Hz  123.7dB    6l +   7l  - 1x70mm    642mm
+104.6Hz 167Hz  233Hz  125.2dB    5l +   7l  - 1x70mm    572mm
+129.7Hz 177Hz  243Hz  128.9dB    4l +   7l  - 1x70mm    510mm
+ 40.7Hz  99Hz  240Hz  108.8dB   19l +   5l  * 1x50mm   1205mm
+ 44.9Hz 105Hz  244Hz  110.5dB   16l +   5l  * 1x50mm   1074mm
+ 49.5Hz 111Hz  249Hz  112.2dB   14l +   5l  * 1x50mm    958mm
+ 54.4Hz 117Hz  254Hz  113.9dB   12l +   5l  * 1x50mm    853mm
+ 59.8Hz 124Hz  259Hz  115.5dB   10l +   5l  * 1x50mm    761mm
+ 65.6Hz 132Hz  265Hz  117.1dB    9l +   5l  * 1x50mm    678mm
+ 71.9Hz 140Hz  271Hz  118.7dB    8l +   5l  * 1x50mm    604mm
+ 78.7Hz 148Hz  278Hz  120.3dB    7l +   5l  * 1x50mm    538mm
+ 86.0Hz 157Hz  285Hz  121.8dB    6l +   5l  * 1x50mm    480mm
+ 93.9Hz 166Hz  293Hz  123.3dB    5l +   5l  * 1x50mm    428mm
+102.5Hz 176Hz  302Hz  124.8dB    4l +   5l  - 1x70mm    747mm
+111.6Hz 186Hz  311Hz  126.3dB    4l +   5l  - 1x70mm    666mm
+121.4Hz 197Hz  320Hz  127.8dB    3l +   5l  - 1x70mm    593mm
+131.9Hz 209Hz  331Hz  129.2dB    3l +   5l  - 1x70mm    529mm
+143.1Hz 221Hz  342Hz  130.7dB    3l +   5l  - 1x70mm    471mm
+155.1Hz 234Hz  354Hz  132.1dB    2l +   5l  - 1x70mm    420mm
+167.9Hz 248Hz  367Hz  133.4dB    2l +   5l    1x100mm   764mm
+-------------
+axp12
+            95.8dB           100W      2x100mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 24.8Hz  52Hz  107Hz  103.2dB  316l +  32l  * 1x70mm   1345mm
+ 27.2Hz  55Hz  110Hz  104.8dB  214l +  32l  * 1x70mm   1199mm
+ 29.8Hz  58Hz  112Hz  106.4dB  157l +  32l  * 1x70mm   1068mm
+ 32.6Hz  61Hz  115Hz  108.0dB  121l +  32l  * 1x70mm    952mm
+ 35.7Hz  65Hz  118Hz  109.5dB   96l +  32l  * 1x70mm    848mm
+ 39.0Hz  69Hz  121Hz  111.0dB   78l +  32l  * 1x70mm    756mm
+ 42.5Hz  73Hz  125Hz  112.5dB   65l +  32l  * 1x70mm    674mm
+ 46.3Hz  77Hz  129Hz  114.0dB   54l +  32l  * 1x70mm    601mm
+ 50.3Hz  82Hz  133Hz  115.5dB   46l +  32l  * 1x70mm    535mm
+ 54.7Hz  87Hz  137Hz  116.9dB   39l +  32l  * 1x70mm    477mm
+ 59.3Hz  92Hz  142Hz  118.3dB   34l +  32l  * 1x70mm    425mm
+ 64.3Hz  97Hz  147Hz  119.7dB   29l +  32l  - 1x100mm   774mm
+ 69.6Hz 100Hz  152Hz  121.1dB   27l +  32l  - 1x100mm   724mm
+ 75.3Hz 109Hz  158Hz  122.5dB   22l +  32l  - 1x100mm   614mm
+ 81.4Hz 115Hz  164Hz  123.8dB   19l +  32l  - 1x100mm   548mm
+ 87.9Hz 122Hz  170Hz  125.2dB   17l +  32l  - 1x100mm   488mm
+ 94.7Hz 130Hz  177Hz  126.5dB   15l +  32l  - 1x100mm   435mm
+ 24.8Hz  60Hz  107Hz  103.2dB  131l +  24l  * 1x70mm   1345mm
+ 27.2Hz  64Hz  110Hz  104.8dB  103l +  24l  * 1x70mm   1198mm
+ 29.8Hz  68Hz  112Hz  106.4dB   84l +  24l  * 1x70mm   1068mm
+ 32.6Hz  72Hz  115Hz  108.0dB   69l +  24l  * 1x70mm    952mm
+ 35.7Hz  76Hz  118Hz  109.5dB   57l +  24l  * 1x70mm    849mm
+ 39.0Hz  80Hz  121Hz  111.0dB   48l +  24l  * 1x70mm    756mm
+ 42.5Hz  85Hz  125Hz  112.5dB   41l +  24l  * 1x70mm    674mm
+ 46.3Hz  90Hz  129Hz  114.0dB   35l +  24l  * 1x70mm    601mm
+ 50.3Hz  95Hz  133Hz  115.5dB   30l +  24l  * 1x70mm    535mm
+ 54.7Hz 101Hz  137Hz  116.9dB   26l +  24l  * 1x70mm    477mm
+ 59.3Hz 107Hz  142Hz  118.3dB   23l +  24l  * 1x70mm    425mm
+ 64.3Hz  97Hz  147Hz  119.7dB   29l +  24l  * 1x70mm    516mm
+ 69.6Hz 100Hz  152Hz  121.1dB   27l +  24l  * 1x70mm    483mm
+ 75.3Hz 109Hz  158Hz  122.5dB   22l +  24l  * 1x70mm    410mm
+ 70.0Hz 115Hz  164Hz  121.2dB   19l +  24l  - 1x100mm   745mm
+ 76.4Hz 122Hz  170Hz  122.7dB   17l +  24l  - 1x100mm   664mm
+ 94.7Hz 130Hz  177Hz  126.5dB   15l +  24l  - 1x100mm   592mm
+ 29.8Hz  72Hz  175Hz  106.3dB   67l +  16l  * 1x70mm   1345mm
+ 32.8Hz  76Hz  178Hz  108.0dB   56l +  16l  * 1x70mm   1199mm
+ 36.1Hz  81Hz  182Hz  109.7dB   47l +  16l  * 1x70mm   1068mm
+ 39.8Hz  86Hz  185Hz  111.4dB   40l +  16l  * 1x70mm    952mm
+ 43.7Hz  91Hz  189Hz  113.0dB   34l +  16l  * 1x70mm    849mm
+ 48.0Hz  96Hz  193Hz  114.6dB   30l +  16l  * 1x70mm    756mm
+ 52.6Hz 102Hz  198Hz  116.2dB   26l +  16l  * 1x70mm    674mm
+ 57.5Hz 108Hz  203Hz  117.8dB   22l +  16l  * 1x70mm    601mm
+ 62.9Hz 114Hz  208Hz  119.3dB   19l +  16l  * 1x70mm    535mm
+ 68.6Hz 121Hz  214Hz  120.9dB   17l +  16l  * 1x70mm    477mm
+ 74.9Hz 128Hz  220Hz  122.4dB   15l +  16l  * 1x70mm    425mm
+ 81.5Hz 136Hz  227Hz  123.9dB   13l +  16l  - 1x100mm   774mm
+ 88.7Hz 144Hz  234Hz  125.3dB   11l +  16l  - 1x100mm   689mm
+ 96.3Hz 153Hz  242Hz  126.8dB   10l +  16l  - 1x100mm   614mm
+104.6Hz 162Hz  250Hz  128.2dB    9l +  16l  - 1x100mm   548mm
+113.3Hz 171Hz  259Hz  129.6dB    8l +  16l  - 1x100mm   488mm
+122.7Hz 181Hz  268Hz  131.0dB    7l +  16l  - 1x100mm   435mm
+-------------
+axt04
+            86.6dB            10W       1x40mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 37.8Hz  79Hz  164Hz   84.1dB  -11l +   1l    1x40mm   5220mm
+ 41.5Hz  83Hz  167Hz   85.8dB  -19l +   1l    1x40mm   4653mm
+ 45.5Hz  88Hz  171Hz   87.3dB -150l +   1l    1x40mm   4146mm
+ 49.8Hz  94Hz  176Hz   88.9dB   22l +   1l    1x40mm   3696mm
+ 54.5Hz  99Hz  180Hz   90.5dB   10l +   1l    1x40mm   3294mm
+ 59.4Hz 105Hz  185Hz   92.0dB    6l +   1l    1x40mm   2936mm
+ 64.8Hz 111Hz  191Hz   93.5dB    4l +   1l    1x40mm   2617mm
+ 70.6Hz 118Hz  196Hz   95.0dB    3l +   1l    1x40mm   2332mm
+ 76.8Hz 125Hz  203Hz   96.4dB    2l +   1l    1x40mm   2078mm
+ 83.4Hz 132Hz  209Hz   97.9dB    2l +   1l    1x40mm   1852mm
+ 90.5Hz 140Hz  216Hz   99.3dB    2l +   1l    1x40mm   1651mm
+ 98.1Hz 148Hz  224Hz  100.7dB    1l +   1l    1x40mm   1471mm
+106.3Hz 153Hz  232Hz  102.1dB    1l +   1l    1x40mm   1378mm
+114.9Hz 166Hz  241Hz  103.4dB    1l +   1l    1x40mm   1169mm
+124.2Hz 176Hz  250Hz  104.8dB    1l +   1l    1x40mm   1042mm
+134.0Hz 187Hz  260Hz  106.1dB    1l +   1l    1x40mm    928mm
+144.6Hz 198Hz  270Hz  107.4dB    1l +   1l    1x40mm    827mm
+ 37.8Hz  92Hz  164Hz   84.1dB   35l +   1l    1x40mm   5221mm
+ 41.5Hz  97Hz  167Hz   85.8dB   12l +   1l    1x40mm   4652mm
+ 45.5Hz 103Hz  171Hz   87.3dB    7l +   1l    1x40mm   4146mm
+ 49.8Hz 109Hz  176Hz   88.9dB    5l +   1l    1x40mm   3696mm
+ 54.5Hz 116Hz  180Hz   90.5dB    3l +   1l    1x40mm   3294mm
+ 59.4Hz 122Hz  185Hz   92.0dB    3l +   1l    1x40mm   2935mm
+ 64.8Hz 130Hz  191Hz   93.5dB    2l +   1l    1x40mm   2617mm
+ 70.6Hz 137Hz  196Hz   95.0dB    2l +   1l    1x40mm   2332mm
+ 76.8Hz 146Hz  203Hz   96.4dB    1l +   1l    1x40mm   2079mm
+ 83.4Hz 154Hz  209Hz   97.9dB    1l +   1l    1x40mm   1852mm
+ 90.5Hz 163Hz  216Hz   99.3dB    1l +   1l    1x40mm   1651mm
+ 98.1Hz 148Hz  224Hz  100.7dB    1l +   1l    1x40mm   2003mm
+106.3Hz 153Hz  232Hz  102.1dB    1l +   1l    1x40mm   1876mm
+114.9Hz 166Hz  241Hz  103.4dB    1l +   1l    1x40mm   1591mm
+106.7Hz 176Hz  250Hz  102.2dB    1l +   1l    1x40mm   1418mm
+116.6Hz 187Hz  260Hz  103.7dB    1l +   1l    1x40mm   1264mm
+144.6Hz 198Hz  270Hz  107.4dB    1l +   1l    1x40mm   1126mm
+ 45.4Hz 110Hz  267Hz   87.3dB    4l +   1l    1x40mm   5220mm
+ 50.1Hz 117Hz  272Hz   89.0dB    3l +   1l    1x40mm   4653mm
+ 55.2Hz 124Hz  277Hz   90.7dB    2l +   1l    1x40mm   4147mm
+ 60.7Hz 131Hz  283Hz   92.3dB    2l +   1l    1x40mm   3696mm
+ 66.7Hz 139Hz  289Hz   94.0dB    2l +   1l    1x40mm   3294mm
+ 73.2Hz 147Hz  295Hz   95.6dB    1l +   1l    1x40mm   2936mm
+ 80.2Hz 156Hz  302Hz   97.2dB    1l +   1l    1x40mm   2616mm
+ 87.8Hz 165Hz  310Hz   98.8dB    1l +   1l    1x40mm   2332mm
+ 95.9Hz 175Hz  318Hz  100.3dB    1l +   1l    1x40mm   2078mm
+104.7Hz 185Hz  327Hz  101.8dB    1l +   1l    1x40mm   1852mm
+114.2Hz 196Hz  336Hz  103.3dB    1l +   1l    1x40mm   1651mm
+124.4Hz 208Hz  346Hz  104.8dB    1l +   1l    1x40mm   1471mm
+135.3Hz 220Hz  357Hz  106.3dB    0l +   1l    1x40mm   1311mm
+147.0Hz 233Hz  369Hz  107.7dB    0l +   1l    1x40mm   1169mm
+159.5Hz 247Hz  382Hz  109.1dB    0l +   1l    1x40mm   1042mm
+172.9Hz 261Hz  395Hz  110.5dB    0l +   1l    1x40mm    928mm
+187.2Hz 277Hz  409Hz  111.9dB    0l +   1l    1x40mm    827mm
 -------------
 axt05
             89.7dB            10W       1x50mm
@@ -219,277 +604,167 @@ axt08
 119.1Hz 180Hz  272Hz  120.7dB    2l +   5l    1x70mm    684mm
 129.0Hz 191Hz  282Hz  122.1dB    2l +   5l    1x70mm    610mm
 -------------
-ax5
-            89.3dB            10W       1x50mm
+axt10
+            92.9dB           100W      1x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 25.7Hz  53Hz  111Hz   77.5dB  -28l +   7l  + 1x40mm   1914mm
- 28.2Hz  57Hz  114Hz   79.1dB  -35l +   7l  + 1x40mm   1706mm
- 30.9Hz  60Hz  116Hz   80.7dB  -48l +   7l  + 1x40mm   1520mm
- 33.8Hz  64Hz  119Hz   82.2dB  -84l +   7l  + 1x40mm   1355mm
- 37.0Hz  67Hz  122Hz   83.8dB -515l +   7l  + 1x40mm   1208mm
- 40.4Hz  71Hz  126Hz   85.3dB  108l +   7l  + 1x40mm   1076mm
- 44.0Hz  75Hz  129Hz   86.8dB   46l +   7l  + 1x40mm    959mm
- 47.9Hz  80Hz  133Hz   88.3dB   28l +   7l  + 1x40mm    855mm
- 52.1Hz  85Hz  138Hz   89.8dB   19l +   7l  - 1x40mm    762mm
- 56.7Hz  90Hz  142Hz   91.2dB   14l +   7l  - 1x40mm    679mm
- 61.5Hz  95Hz  147Hz   92.6dB   11l +   7l  - 1x40mm    605mm
- 66.6Hz 101Hz  152Hz   94.0dB    9l +   7l  - 1x40mm    539mm
- 72.2Hz 104Hz  158Hz   95.4dB    8l +   7l    1x50mm    789mm
- 78.0Hz 113Hz  164Hz   96.8dB    6l +   7l    1x50mm    670mm
- 84.3Hz 120Hz  170Hz   98.1dB    5l +   7l    1x50mm    597mm
- 91.0Hz 127Hz  176Hz   99.4dB    4l +   7l    1x50mm    532mm
- 98.2Hz 134Hz  184Hz  100.8dB    4l +   7l    1x50mm    474mm
- 25.7Hz  62Hz  111Hz   77.5dB  -67l +   5l  + 1x40mm   1914mm
- 28.2Hz  66Hz  114Hz   79.1dB -190l +   5l  + 1x40mm   1706mm
- 30.9Hz  70Hz  116Hz   80.7dB  182l +   5l  + 1x40mm   1520mm
- 33.8Hz  74Hz  119Hz   82.2dB   57l +   5l  + 1x40mm   1355mm
- 37.0Hz  78Hz  122Hz   83.8dB   32l +   5l  + 1x40mm   1208mm
- 40.4Hz  83Hz  126Hz   85.3dB   22l +   5l  + 1x40mm   1076mm
- 44.0Hz  88Hz  129Hz   86.8dB   16l +   5l  + 1x40mm    959mm
- 47.9Hz  93Hz  133Hz   88.3dB   12l +   5l  + 1x40mm    855mm
- 52.1Hz  99Hz  138Hz   89.8dB   10l +   5l  - 1x40mm    762mm
- 56.7Hz 105Hz  142Hz   91.2dB    8l +   5l  - 1x40mm    679mm
- 61.5Hz 111Hz  147Hz   92.6dB    6l +   5l  - 1x40mm    605mm
- 66.6Hz 101Hz  152Hz   94.0dB    9l +   5l  - 1x40mm    734mm
- 72.2Hz 104Hz  158Hz   95.4dB    8l +   5l  - 1x40mm    688mm
- 78.0Hz 113Hz  164Hz   96.8dB    6l +   5l  - 1x40mm    583mm
- 72.5Hz 120Hz  170Hz   95.5dB    5l +   5l  - 1x40mm    520mm
- 79.2Hz 127Hz  176Hz   97.0dB    4l +   5l    1x50mm    724mm
- 98.2Hz 134Hz  184Hz  100.8dB    4l +   5l    1x50mm    645mm
- 30.8Hz  75Hz  182Hz   80.6dB   51l +   4l  + 1x40mm   1914mm
- 34.0Hz  79Hz  185Hz   82.3dB   30l +   4l  + 1x40mm   1706mm
- 37.5Hz  84Hz  188Hz   84.0dB   20l +   4l  + 1x40mm   1521mm
- 41.2Hz  89Hz  192Hz   85.7dB   15l +   4l  + 1x40mm   1355mm
- 45.3Hz  94Hz  196Hz   87.3dB   12l +   4l  + 1x40mm   1208mm
- 49.7Hz 100Hz  200Hz   88.9dB    9l +   4l  + 1x40mm   1076mm
- 54.4Hz 106Hz  205Hz   90.5dB    8l +   4l  + 1x40mm    959mm
- 59.6Hz 112Hz  210Hz   92.1dB    6l +   4l  + 1x40mm    855mm
- 65.1Hz 119Hz  216Hz   93.6dB    5l +   4l  - 1x40mm    762mm
- 71.1Hz 126Hz  222Hz   95.2dB    4l +   4l  - 1x40mm    679mm
- 77.6Hz 133Hz  228Hz   96.7dB    4l +   4l  - 1x40mm    605mm
- 84.5Hz 141Hz  235Hz   98.1dB    3l +   4l  - 1x40mm    539mm
- 91.9Hz 149Hz  243Hz   99.6dB    3l +   4l    1x50mm    751mm
- 99.8Hz 158Hz  251Hz  101.0dB    2l +   4l    1x50mm    670mm
-108.3Hz 168Hz  259Hz  102.5dB    2l +   4l    1x50mm    597mm
-117.4Hz 177Hz  268Hz  103.9dB    2l +   4l    1x50mm    532mm
-127.1Hz 188Hz  278Hz  105.2dB    2l +   4l    1x50mm    474mm
+ 22.9Hz  48Hz   99Hz   98.9dB   88l +  20l  * 1x50mm   1285mm
+ 25.2Hz  51Hz  101Hz  100.5dB   73l +  20l  * 1x50mm   1146mm
+ 27.6Hz  54Hz  104Hz  102.1dB   61l +  20l  * 1x50mm   1021mm
+ 30.2Hz  57Hz  106Hz  103.6dB   51l +  20l  * 1x50mm    910mm
+ 33.0Hz  60Hz  109Hz  105.2dB   44l +  20l  * 1x50mm    811mm
+ 36.0Hz  64Hz  112Hz  106.7dB   37l +  20l  * 1x50mm    723mm
+ 39.3Hz  67Hz  116Hz  108.2dB   32l +  20l  * 1x50mm    644mm
+ 42.8Hz  71Hz  119Hz  109.7dB   28l +  20l  * 1x50mm    574mm
+ 46.5Hz  76Hz  123Hz  111.1dB   24l +  20l  * 1x50mm    512mm
+ 50.6Hz  80Hz  127Hz  112.6dB   21l +  20l  * 1x50mm    456mm
+ 54.9Hz  85Hz  131Hz  114.0dB   18l +  20l  - 1x70mm    797mm
+ 59.5Hz  90Hz  136Hz  115.4dB   16l +  20l  - 1x70mm    710mm
+ 64.4Hz  93Hz  141Hz  116.8dB   15l +  20l  - 1x70mm    665mm
+ 69.7Hz 101Hz  146Hz  118.1dB   13l +  20l  - 1x70mm    564mm
+ 75.3Hz 107Hz  152Hz  119.5dB   11l +  20l  - 1x70mm    503mm
+ 81.2Hz 113Hz  158Hz  120.8dB   10l +  20l  - 1x70mm    448mm
+ 87.6Hz 120Hz  164Hz  122.1dB    9l +  20l  - 1x70mm    399mm
+ 22.9Hz  56Hz   99Hz   98.9dB   54l +  15l  * 1x50mm   1286mm
+ 25.2Hz  59Hz  101Hz  100.5dB   46l +  15l  * 1x50mm   1146mm
+ 27.6Hz  62Hz  104Hz  102.1dB   39l +  15l  * 1x50mm   1021mm
+ 30.2Hz  66Hz  106Hz  103.6dB   34l +  15l  * 1x50mm    910mm
+ 33.0Hz  70Hz  109Hz  105.2dB   29l +  15l  * 1x50mm    811mm
+ 36.0Hz  74Hz  112Hz  106.7dB   25l +  15l  * 1x50mm    723mm
+ 39.3Hz  79Hz  116Hz  108.2dB   22l +  15l  * 1x50mm    644mm
+ 42.8Hz  83Hz  119Hz  109.7dB   19l +  15l  * 1x50mm    574mm
+ 46.5Hz  88Hz  123Hz  111.1dB   17l +  15l  * 1x50mm    512mm
+ 50.6Hz  93Hz  127Hz  112.6dB   15l +  15l  * 1x50mm    456mm
+ 54.9Hz  99Hz  131Hz  114.0dB   13l +  15l  - 1x70mm    797mm
+ 59.5Hz  90Hz  136Hz  115.4dB   16l +  15l  * 1x50mm    493mm
+ 64.4Hz  93Hz  141Hz  116.8dB   15l +  15l  * 1x50mm    462mm
+ 69.7Hz 101Hz  146Hz  118.1dB   13l +  15l  - 1x70mm    768mm
+ 64.7Hz 107Hz  152Hz  116.9dB   11l +  15l  - 1x70mm    684mm
+ 70.7Hz 113Hz  158Hz  118.4dB   10l +  15l  - 1x70mm    610mm
+ 87.6Hz 120Hz  164Hz  122.1dB    9l +  15l  - 1x70mm    544mm
+ 27.5Hz  67Hz  162Hz  102.0dB   33l +  10l  * 1x50mm   1285mm
+ 30.3Hz  71Hz  165Hz  103.7dB   29l +  10l  * 1x50mm   1146mm
+ 33.4Hz  75Hz  168Hz  105.4dB   25l +  10l  * 1x50mm   1021mm
+ 36.8Hz  79Hz  171Hz  107.0dB   22l +  10l  * 1x50mm    910mm
+ 40.4Hz  84Hz  175Hz  108.7dB   19l +  10l  * 1x50mm    811mm
+ 44.3Hz  89Hz  179Hz  110.3dB   17l +  10l  * 1x50mm    723mm
+ 48.6Hz  94Hz  183Hz  111.9dB   15l +  10l  * 1x50mm    644mm
+ 53.2Hz 100Hz  188Hz  113.5dB   13l +  10l  * 1x50mm    574mm
+ 58.1Hz 106Hz  193Hz  115.0dB   11l +  10l  * 1x50mm    512mm
+ 63.5Hz 112Hz  198Hz  116.5dB   10l +  10l  * 1x50mm    456mm
+ 69.2Hz 119Hz  204Hz  118.0dB    9l +  10l  - 1x70mm    797mm
+ 75.4Hz 126Hz  210Hz  119.5dB    8l +  10l  - 1x70mm    710mm
+ 82.0Hz 133Hz  217Hz  121.0dB    7l +  10l  - 1x70mm    633mm
+ 89.1Hz 141Hz  224Hz  122.4dB    6l +  10l  - 1x70mm    564mm
+ 96.7Hz 150Hz  231Hz  123.8dB    5l +  10l  - 1x70mm    503mm
+104.8Hz 158Hz  239Hz  125.2dB    5l +  10l  - 1x70mm    448mm
+113.5Hz 168Hz  248Hz  126.6dB    4l +  10l  - 1x70mm    399mm
 -------------
-ax6
-            91.6dB            10W       1x70mm
+axt12
+            92.9dB           100W      2x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 24.8Hz  52Hz  107Hz   84.3dB -330l +  12l  * 1x40mm   1147mm
- 27.2Hz  55Hz  110Hz   85.9dB 1093l +  12l  * 1x40mm   1023mm
- 29.9Hz  58Hz  112Hz   87.5dB  187l +  12l  * 1x40mm    911mm
- 32.7Hz  61Hz  115Hz   89.1dB   97l +  12l  * 1x40mm    812mm
- 35.7Hz  65Hz  118Hz   90.6dB   63l +  12l  * 1x40mm    724mm
- 39.0Hz  69Hz  122Hz   92.1dB   45l +  12l  * 1x40mm    645mm
- 42.5Hz  73Hz  125Hz   93.6dB   34l +  12l  * 1x40mm    575mm
- 46.3Hz  77Hz  129Hz   95.1dB   27l +  12l  * 1x40mm    513mm
- 50.4Hz  82Hz  133Hz   96.6dB   22l +  12l  - 1x50mm    714mm
- 54.7Hz  87Hz  137Hz   98.0dB   18l +  12l  - 1x50mm    636mm
- 59.4Hz  92Hz  142Hz   99.4dB   15l +  12l  - 1x50mm    567mm
- 64.4Hz  97Hz  147Hz  100.8dB   13l +  12l  - 1x50mm    505mm
- 69.7Hz 100Hz  152Hz  102.2dB   11l +  12l  - 1x50mm    473mm
- 75.4Hz 109Hz  158Hz  103.6dB    9l +  12l    1x70mm    787mm
- 81.5Hz 116Hz  164Hz  104.9dB    8l +  12l    1x70mm    701mm
- 87.9Hz 122Hz  170Hz  106.3dB    7l +  12l    1x70mm    625mm
- 94.8Hz 130Hz  177Hz  107.6dB    6l +  12l    1x70mm    557mm
- 24.8Hz  60Hz  107Hz   84.3dB  116l +   9l  * 1x40mm   1148mm
- 27.2Hz  64Hz  110Hz   85.9dB   71l +   9l  * 1x40mm   1023mm
- 29.9Hz  68Hz  112Hz   87.5dB   50l +   9l  * 1x40mm    911mm
- 32.7Hz  72Hz  115Hz   89.1dB   37l +   9l  * 1x40mm    812mm
- 35.7Hz  76Hz  118Hz   90.6dB   29l +   9l  * 1x40mm    724mm
- 39.0Hz  80Hz  122Hz   92.1dB   23l +   9l  * 1x40mm    645mm
- 42.5Hz  85Hz  125Hz   93.6dB   19l +   9l  * 1x40mm    575mm
- 46.3Hz  90Hz  129Hz   95.1dB   16l +   9l  * 1x40mm    513mm
- 50.4Hz  95Hz  133Hz   96.6dB   13l +   9l  - 1x50mm    714mm
- 54.7Hz 101Hz  137Hz   98.0dB   11l +   9l  - 1x50mm    636mm
- 59.4Hz 107Hz  142Hz   99.4dB   10l +   9l  - 1x50mm    567mm
- 64.4Hz  97Hz  147Hz  100.8dB   13l +   9l  - 1x50mm    688mm
- 69.7Hz 100Hz  152Hz  102.2dB   11l +   9l  - 1x50mm    644mm
- 75.4Hz 109Hz  158Hz  103.6dB    9l +   9l  - 1x50mm    546mm
- 70.0Hz 116Hz  164Hz  102.3dB    8l +   9l  - 1x50mm    487mm
- 76.5Hz 122Hz  170Hz  103.8dB    7l +   9l  - 1x50mm    434mm
- 94.8Hz 130Hz  177Hz  107.6dB    6l +   9l    1x70mm    758mm
- 29.8Hz  72Hz  175Hz   87.5dB   36l +   6l  * 1x40mm   1147mm
- 32.8Hz  77Hz  178Hz   89.1dB   28l +   6l  * 1x40mm   1023mm
- 36.2Hz  81Hz  182Hz   90.8dB   23l +   6l  * 1x40mm    912mm
- 39.8Hz  86Hz  185Hz   92.5dB   18l +   6l  * 1x40mm    812mm
- 43.7Hz  91Hz  189Hz   94.1dB   15l +   6l  * 1x40mm    724mm
- 48.0Hz  96Hz  194Hz   95.7dB   13l +   6l  * 1x40mm    645mm
- 52.6Hz 102Hz  198Hz   97.3dB   11l +   6l  * 1x40mm    575mm
- 57.6Hz 108Hz  203Hz   98.9dB    9l +   6l  * 1x40mm    513mm
- 62.9Hz 115Hz  209Hz  100.4dB    8l +   6l  - 1x50mm    714mm
- 68.7Hz 121Hz  214Hz  102.0dB    7l +   6l  - 1x50mm    636mm
- 74.9Hz 129Hz  221Hz  103.5dB    6l +   6l  - 1x50mm    567mm
- 81.6Hz 136Hz  227Hz  105.0dB    5l +   6l  - 1x50mm    505mm
- 88.8Hz 144Hz  234Hz  106.4dB    5l +   6l  - 1x50mm    450mm
- 96.4Hz 153Hz  242Hz  107.9dB    4l +   6l    1x70mm    787mm
-104.6Hz 162Hz  250Hz  109.3dB    4l +   6l    1x70mm    701mm
-113.4Hz 171Hz  259Hz  110.7dB    3l +   6l    1x70mm    625mm
-122.8Hz 182Hz  268Hz  112.1dB    3l +   6l    1x70mm    557mm
+ 19.8Hz  41Hz   86Hz   99.3dB  117l +  32l  * 1x70mm   2144mm
+ 21.8Hz  44Hz   88Hz  100.9dB   99l +  32l  * 1x70mm   1911mm
+ 23.9Hz  46Hz   90Hz  102.5dB   85l +  32l  * 1x70mm   1703mm
+ 26.1Hz  49Hz   92Hz  104.1dB   73l +  32l  * 1x70mm   1518mm
+ 28.5Hz  52Hz   94Hz  105.6dB   63l +  32l  * 1x70mm   1353mm
+ 31.2Hz  55Hz   97Hz  107.1dB   55l +  32l  * 1x70mm   1206mm
+ 34.0Hz  58Hz  100Hz  108.6dB   47l +  32l  * 1x70mm   1075mm
+ 37.0Hz  62Hz  103Hz  110.1dB   41l +  32l  * 1x70mm    958mm
+ 40.2Hz  65Hz  106Hz  111.6dB   36l +  32l  * 1x70mm    854mm
+ 43.7Hz  69Hz  110Hz  113.0dB   32l +  32l  * 1x70mm    761mm
+ 47.4Hz  73Hz  113Hz  114.5dB   28l +  32l  * 1x70mm    678mm
+ 51.4Hz  78Hz  117Hz  115.9dB   25l +  32l  * 1x70mm    604mm
+ 55.7Hz  80Hz  122Hz  117.2dB   23l +  32l  * 1x70mm    566mm
+ 60.2Hz  87Hz  126Hz  118.6dB   19l +  32l  * 1x70mm    480mm
+ 65.1Hz  92Hz  131Hz  119.9dB   17l +  32l  * 1x70mm    428mm
+ 70.2Hz  98Hz  136Hz  121.3dB   15l +  32l  - 1x100mm   778mm
+ 75.8Hz 104Hz  142Hz  122.6dB   13l +  32l  - 1x100mm   694mm
+ 19.8Hz  48Hz   86Hz   99.3dB   76l +  23l  * 1x70mm   2144mm
+ 21.8Hz  51Hz   88Hz  100.9dB   66l +  23l  * 1x70mm   1911mm
+ 23.9Hz  54Hz   90Hz  102.5dB   57l +  23l  * 1x70mm   1703mm
+ 26.1Hz  57Hz   92Hz  104.1dB   50l +  23l  * 1x70mm   1518mm
+ 28.5Hz  61Hz   94Hz  105.6dB   43l +  23l  * 1x70mm   1353mm
+ 31.2Hz  64Hz   97Hz  107.1dB   38l +  23l  * 1x70mm   1206mm
+ 34.0Hz  68Hz  100Hz  108.6dB   33l +  23l  * 1x70mm   1075mm
+ 37.0Hz  72Hz  103Hz  110.1dB   29l +  23l  * 1x70mm    958mm
+ 40.2Hz  76Hz  106Hz  111.6dB   26l +  23l  * 1x70mm    854mm
+ 43.7Hz  81Hz  110Hz  113.0dB   23l +  23l  * 1x70mm    761mm
+ 47.4Hz  86Hz  113Hz  114.5dB   20l +  23l  * 1x70mm    678mm
+ 51.4Hz  78Hz  117Hz  115.9dB   25l +  23l  * 1x70mm    823mm
+ 55.7Hz  80Hz  122Hz  117.2dB   23l +  23l  * 1x70mm    770mm
+ 60.2Hz  87Hz  126Hz  118.6dB   19l +  23l  * 1x70mm    653mm
+ 55.9Hz  92Hz  131Hz  117.3dB   17l +  23l  * 1x70mm    582mm
+ 61.1Hz  98Hz  136Hz  118.8dB   15l +  23l  * 1x70mm    519mm
+ 75.8Hz 104Hz  142Hz  122.6dB   13l +  23l  * 1x70mm    463mm
+ 23.8Hz  58Hz  140Hz  102.5dB   49l +  16l  * 1x70mm   2144mm
+ 26.2Hz  61Hz  143Hz  104.2dB   42l +  16l  * 1x70mm   1911mm
+ 28.9Hz  65Hz  145Hz  105.8dB   37l +  16l  * 1x70mm   1703mm
+ 31.8Hz  69Hz  148Hz  107.5dB   32l +  16l  * 1x70mm   1518mm
+ 34.9Hz  73Hz  151Hz  109.1dB   29l +  16l  * 1x70mm   1353mm
+ 38.3Hz  77Hz  155Hz  110.7dB   25l +  16l  * 1x70mm   1206mm
+ 42.0Hz  82Hz  158Hz  112.3dB   22l +  16l  * 1x70mm   1075mm
+ 46.0Hz  86Hz  162Hz  113.9dB   20l +  16l  * 1x70mm    958mm
+ 50.3Hz  92Hz  167Hz  115.5dB   17l +  16l  * 1x70mm    854mm
+ 54.9Hz  97Hz  171Hz  117.0dB   15l +  16l  * 1x70mm    761mm
+ 59.9Hz 103Hz  176Hz  118.5dB   14l +  16l  * 1x70mm    678mm
+ 65.2Hz 109Hz  182Hz  120.0dB   12l +  16l  * 1x70mm    604mm
+ 70.9Hz 115Hz  187Hz  121.4dB   11l +  16l  * 1x70mm    539mm
+ 77.0Hz 122Hz  193Hz  122.9dB    9l +  16l  * 1x70mm    480mm
+ 83.6Hz 129Hz  200Hz  124.3dB    8l +  16l  * 1x70mm    428mm
+ 90.6Hz 137Hz  207Hz  125.7dB    7l +  16l  - 1x100mm   778mm
+ 98.1Hz 145Hz  214Hz  127.1dB    7l +  16l  - 1x100mm   694mm
 -------------
-ax8
-            91.7dB            10W       1x70mm
+W160al
+            87.0dB            80W       1x70mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 15.5Hz  32Hz   67Hz   80.8dB -350l +  49l  * 1x40mm    730mm
- 17.0Hz  34Hz   69Hz   82.4dB -534l +  49l  * 1x40mm    651mm
- 18.7Hz  36Hz   70Hz   84.0dB -1301l +  49l  * 1x40mm    580mm
- 20.4Hz  38Hz   72Hz   85.5dB 2147l +  49l  * 1x40mm    517mm
- 22.4Hz  41Hz   74Hz   87.1dB  539l +  49l  - 1x50mm    720mm
- 24.4Hz  43Hz   76Hz   88.6dB  293l +  49l  - 1x50mm    642mm
- 26.6Hz  46Hz   78Hz   90.1dB  194l +  49l  - 1x50mm    572mm
- 29.0Hz  48Hz   81Hz   91.6dB  140l +  49l  - 1x50mm    510mm
- 31.5Hz  51Hz   83Hz   93.1dB  107l +  49l  - 1x50mm    454mm
- 34.2Hz  54Hz   86Hz   94.5dB   85l +  49l    1x70mm    794mm
- 37.2Hz  57Hz   89Hz   95.9dB   69l +  49l    1x70mm    707mm
- 40.3Hz  61Hz   92Hz   97.3dB   57l +  49l    1x70mm    631mm
- 43.6Hz  63Hz   95Hz   98.7dB   51l +  49l    1x70mm    590mm
- 47.2Hz  68Hz   99Hz  100.1dB   40l +  49l    1x70mm    501mm
- 51.0Hz  72Hz  103Hz  101.4dB   34l +  49l    1x70mm    446mm
- 55.0Hz  77Hz  107Hz  102.7dB   29l +  49l    1x70mm    398mm
- 59.3Hz  81Hz  111Hz  104.1dB   25l +  49l    1x70mm    355mm
- 15.5Hz  38Hz   67Hz   80.8dB 18721l +  36l  * 1x40mm    730mm
- 17.0Hz  40Hz   69Hz   82.4dB  718l +  36l  * 1x40mm    651mm
- 18.7Hz  42Hz   70Hz   84.0dB  346l +  36l  * 1x40mm    580mm
- 20.4Hz  45Hz   72Hz   85.5dB  219l +  36l  * 1x40mm    517mm
- 22.4Hz  47Hz   74Hz   87.1dB  155l +  36l  - 1x50mm    720mm
- 24.4Hz  50Hz   76Hz   88.6dB  116l +  36l  - 1x50mm    642mm
- 26.6Hz  53Hz   78Hz   90.1dB   91l +  36l  - 1x50mm    572mm
- 29.0Hz  56Hz   81Hz   91.6dB   73l +  36l  - 1x50mm    510mm
- 31.5Hz  60Hz   83Hz   93.1dB   60l +  36l  - 1x50mm    454mm
- 34.2Hz  63Hz   86Hz   94.5dB   50l +  36l    1x70mm    794mm
- 37.2Hz  67Hz   89Hz   95.9dB   42l +  36l    1x70mm    707mm
- 40.3Hz  61Hz   92Hz   97.3dB   57l +  36l  - 1x50mm    438mm
- 43.6Hz  63Hz   95Hz   98.7dB   51l +  36l  - 1x50mm    410mm
- 47.2Hz  68Hz   99Hz  100.1dB   40l +  36l    1x70mm    682mm
- 43.8Hz  72Hz  103Hz   98.8dB   34l +  36l    1x70mm    607mm
- 47.8Hz  77Hz  107Hz  100.3dB   29l +  36l    1x70mm    541mm
- 59.3Hz  81Hz  111Hz  104.1dB   25l +  36l    1x70mm    483mm
- 18.6Hz  45Hz  110Hz   83.9dB  205l +  25l  * 1x40mm    730mm
- 20.6Hz  48Hz  112Hz   85.6dB  147l +  25l  * 1x40mm    651mm
- 22.6Hz  51Hz  114Hz   87.3dB  112l +  25l  * 1x40mm    580mm
- 24.9Hz  54Hz  116Hz   89.0dB   88l +  25l  * 1x40mm    517mm
- 27.4Hz  57Hz  118Hz   90.6dB   71l +  25l  - 1x50mm    720mm
- 30.0Hz  60Hz  121Hz   92.2dB   58l +  25l  - 1x50mm    642mm
- 32.9Hz  64Hz  124Hz   93.8dB   49l +  25l  - 1x50mm    572mm
- 36.0Hz  68Hz  127Hz   95.4dB   41l +  25l  - 1x50mm    510mm
- 39.4Hz  72Hz  130Hz   96.9dB   35l +  25l  - 1x50mm    454mm
- 43.0Hz  76Hz  134Hz   98.5dB   30l +  25l    1x70mm    794mm
- 46.9Hz  80Hz  138Hz  100.0dB   26l +  25l    1x70mm    707mm
- 51.1Hz  85Hz  142Hz  101.4dB   22l +  25l    1x70mm    630mm
- 55.5Hz  90Hz  147Hz  102.9dB   19l +  25l    1x70mm    562mm
- 60.3Hz  96Hz  151Hz  104.3dB   17l +  25l    1x70mm    501mm
- 65.5Hz 101Hz  157Hz  105.8dB   15l +  25l    1x70mm    446mm
- 71.0Hz 107Hz  162Hz  107.2dB   13l +  25l    1x70mm    398mm
- 76.8Hz 114Hz  168Hz  108.5dB   11l +  25l    1x70mm    355mm
--------------
-axp-06
-            93.5dB            10W       1x70mm
-   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 37.5Hz  78Hz  162Hz   95.6dB   30l +   6l  * 1x40mm   1112mm
- 41.1Hz  83Hz  166Hz   97.2dB   24l +   6l  * 1x40mm    991mm
- 45.0Hz  87Hz  170Hz   98.8dB   19l +   6l  * 1x40mm    884mm
- 49.3Hz  93Hz  174Hz  100.4dB   16l +   6l  * 1x40mm    788mm
- 53.9Hz  98Hz  178Hz  101.9dB   13l +   6l  * 1x40mm    702mm
- 58.8Hz 104Hz  183Hz  103.4dB   11l +   6l  * 1x40mm    626mm
- 64.2Hz 110Hz  189Hz  104.9dB   10l +   6l  * 1x40mm    558mm
- 69.9Hz 117Hz  194Hz  106.4dB    8l +   6l  - 1x50mm    776mm
- 76.0Hz 123Hz  201Hz  107.9dB    7l +   6l  - 1x50mm    692mm
- 82.6Hz 131Hz  207Hz  109.3dB    6l +   6l  - 1x50mm    617mm
- 89.6Hz 139Hz  214Hz  110.7dB    5l +   6l  - 1x50mm    550mm
- 97.1Hz 147Hz  222Hz  112.1dB    5l +   6l  - 1x50mm    490mm
-105.2Hz 152Hz  230Hz  113.5dB    4l +   6l  - 1x50mm    459mm
-113.8Hz 165Hz  238Hz  114.9dB    4l +   6l    1x70mm    763mm
-122.9Hz 174Hz  247Hz  116.2dB    3l +   6l    1x70mm    680mm
-132.7Hz 185Hz  257Hz  117.6dB    3l +   6l    1x70mm    606mm
-143.1Hz 196Hz  268Hz  118.9dB    2l +   6l    1x70mm    540mm
- 37.5Hz  91Hz  162Hz   95.6dB   17l +   4l  * 1x40mm   1112mm
- 41.1Hz  96Hz  166Hz   97.2dB   14l +   4l  * 1x40mm    991mm
- 45.0Hz 102Hz  170Hz   98.8dB   12l +   4l  * 1x40mm    884mm
- 49.3Hz 108Hz  174Hz  100.4dB   10l +   4l  * 1x40mm    788mm
- 53.9Hz 114Hz  178Hz  101.9dB    9l +   4l  * 1x40mm    702mm
- 58.8Hz 121Hz  183Hz  103.4dB    7l +   4l  * 1x40mm    626mm
- 64.2Hz 128Hz  189Hz  104.9dB    6l +   4l  * 1x40mm    558mm
- 69.9Hz 136Hz  194Hz  106.4dB    6l +   4l  - 1x50mm    776mm
- 76.0Hz 144Hz  201Hz  107.9dB    5l +   4l  - 1x50mm    692mm
- 82.6Hz 153Hz  207Hz  109.3dB    4l +   4l  - 1x50mm    617mm
- 89.6Hz 162Hz  214Hz  110.7dB    4l +   4l  - 1x50mm    550mm
- 97.1Hz 147Hz  222Hz  112.1dB    5l +   4l  - 1x50mm    667mm
-105.2Hz 152Hz  230Hz  113.5dB    4l +   4l  - 1x50mm    625mm
-113.8Hz 165Hz  238Hz  114.9dB    4l +   4l  - 1x50mm    530mm
-105.6Hz 174Hz  247Hz  113.6dB    3l +   4l  - 1x50mm    472mm
-115.4Hz 185Hz  257Hz  115.1dB    3l +   4l  - 1x50mm    421mm
-143.1Hz 196Hz  268Hz  118.9dB    2l +   4l    1x70mm    735mm
- 44.9Hz 109Hz  265Hz   98.8dB   10l +   3l  * 1x40mm   1112mm
- 49.6Hz 116Hz  269Hz  100.5dB    8l +   3l  * 1x40mm    992mm
- 54.6Hz 122Hz  274Hz  102.1dB    7l +   3l  * 1x40mm    884mm
- 60.1Hz 130Hz  280Hz  103.8dB    6l +   3l  * 1x40mm    788mm
- 66.0Hz 137Hz  286Hz  105.4dB    5l +   3l  * 1x40mm    702mm
- 72.4Hz 145Hz  292Hz  107.0dB    5l +   3l  * 1x40mm    626mm
- 79.4Hz 154Hz  299Hz  108.6dB    4l +   3l  * 1x40mm    557mm
- 86.9Hz 163Hz  307Hz  110.2dB    4l +   3l  - 1x50mm    776mm
- 95.0Hz 173Hz  315Hz  111.8dB    3l +   3l  - 1x50mm    692mm
-103.7Hz 183Hz  323Hz  113.3dB    3l +   3l  - 1x50mm    617mm
-113.1Hz 194Hz  333Hz  114.8dB    2l +   3l  - 1x50mm    550mm
-123.1Hz 205Hz  343Hz  116.3dB    2l +   3l  - 1x50mm    490mm
-133.9Hz 218Hz  354Hz  117.7dB    2l +   3l  - 1x50mm    437mm
-145.5Hz 231Hz  365Hz  119.2dB    2l +   3l    1x70mm    763mm
-157.9Hz 244Hz  378Hz  120.6dB    2l +   3l    1x70mm    680mm
-171.2Hz 259Hz  391Hz  122.0dB    1l +   3l    1x70mm    606mm
-185.3Hz 274Hz  405Hz  123.4dB    1l +   3l    1x70mm    540mm
--------------
-axp-08
-            93.2dB            10W       1x70mm
-   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 25.3Hz  53Hz  110Hz   94.0dB 1836l +  18l  * 1x40mm    751mm
- 27.8Hz  56Hz  112Hz   95.6dB  310l +  18l  * 1x40mm    670mm
- 30.4Hz  59Hz  115Hz   97.2dB  160l +  18l  * 1x40mm    597mm
- 33.3Hz  63Hz  118Hz   98.8dB  104l +  18l  * 1x40mm    532mm
- 36.4Hz  66Hz  121Hz  100.3dB   75l +  18l  - 1x50mm    741mm
- 39.8Hz  70Hz  124Hz  101.8dB   57l +  18l  - 1x50mm    660mm
- 43.4Hz  74Hz  128Hz  103.3dB   45l +  18l  - 1x50mm    589mm
- 47.2Hz  79Hz  131Hz  104.8dB   36l +  18l  - 1x50mm    525mm
- 51.4Hz  83Hz  136Hz  106.3dB   30l +  18l  - 1x50mm    467mm
- 55.8Hz  88Hz  140Hz  107.7dB   25l +  18l  - 1x50mm    417mm
- 60.6Hz  94Hz  145Hz  109.1dB   21l +  18l    1x70mm    728mm
- 65.6Hz  99Hz  150Hz  110.5dB   18l +  18l    1x70mm    649mm
- 71.1Hz 102Hz  155Hz  111.9dB   16l +  18l    1x70mm    608mm
- 76.9Hz 111Hz  161Hz  113.3dB   13l +  18l    1x70mm    515mm
- 83.1Hz 118Hz  167Hz  114.6dB   11l +  18l    1x70mm    459mm
- 89.7Hz 125Hz  174Hz  116.0dB   10l +  18l    1x70mm    409mm
- 96.7Hz 132Hz  181Hz  117.3dB    9l +  18l    1x70mm    365mm
- 25.3Hz  61Hz  110Hz   94.0dB  118l +  13l  * 1x40mm    752mm
- 27.8Hz  65Hz  112Hz   95.6dB   82l +  13l  * 1x40mm    670mm
- 30.4Hz  69Hz  115Hz   97.2dB   62l +  13l  * 1x40mm    597mm
- 33.3Hz  73Hz  118Hz   98.8dB   48l +  13l  * 1x40mm    532mm
- 36.4Hz  77Hz  121Hz  100.3dB   38l +  13l  - 1x50mm    741mm
- 39.8Hz  82Hz  124Hz  101.8dB   31l +  13l  - 1x50mm    660mm
- 43.4Hz  87Hz  128Hz  103.3dB   26l +  13l  - 1x50mm    589mm
- 47.2Hz  92Hz  131Hz  104.8dB   22l +  13l  - 1x50mm    525mm
- 51.4Hz  97Hz  136Hz  106.3dB   19l +  13l  - 1x50mm    468mm
- 55.8Hz 103Hz  140Hz  107.7dB   16l +  13l  - 1x50mm    417mm
- 60.6Hz 109Hz  145Hz  109.1dB   14l +  13l    1x70mm    728mm
- 65.6Hz  99Hz  150Hz  110.5dB   18l +  13l  - 1x50mm    450mm
- 71.1Hz 102Hz  155Hz  111.9dB   16l +  13l  - 1x50mm    422mm
- 76.9Hz 111Hz  161Hz  113.3dB   13l +  13l    1x70mm    701mm
- 71.4Hz 118Hz  167Hz  112.0dB   11l +  13l    1x70mm    625mm
- 78.0Hz 125Hz  174Hz  113.5dB   10l +  13l    1x70mm    557mm
- 96.7Hz 132Hz  181Hz  117.3dB    9l +  13l    1x70mm    496mm
- 30.4Hz  74Hz  179Hz   97.2dB   46l +   9l  * 1x40mm    751mm
- 33.5Hz  78Hz  182Hz   98.8dB   37l +   9l  * 1x40mm    670mm
- 36.9Hz  83Hz  185Hz  100.5dB   30l +   9l  * 1x40mm    597mm
- 40.6Hz  88Hz  189Hz  102.2dB   25l +   9l  * 1x40mm    532mm
- 44.6Hz  93Hz  193Hz  103.8dB   21l +   9l  - 1x50mm    741mm
- 48.9Hz  98Hz  197Hz  105.4dB   18l +   9l  - 1x50mm    660mm
- 53.6Hz 104Hz  202Hz  107.0dB   15l +   9l  - 1x50mm    588mm
- 58.7Hz 110Hz  207Hz  108.6dB   13l +   9l  - 1x50mm    524mm
- 64.2Hz 117Hz  213Hz  110.1dB   12l +   9l  - 1x50mm    467mm
- 70.1Hz 124Hz  219Hz  111.7dB   10l +   9l  - 1x50mm    417mm
- 76.4Hz 131Hz  225Hz  113.2dB    9l +   9l    1x70mm    728mm
- 83.2Hz 139Hz  232Hz  114.7dB    8l +   9l    1x70mm    649mm
- 90.5Hz 147Hz  239Hz  116.1dB    7l +   9l    1x70mm    578mm
- 98.3Hz 156Hz  247Hz  117.6dB    6l +   9l    1x70mm    515mm
-106.7Hz 165Hz  255Hz  119.0dB    5l +   9l    1x70mm    459mm
-115.7Hz 175Hz  264Hz  120.4dB    5l +   9l    1x70mm    409mm
-125.2Hz 185Hz  274Hz  121.8dB    4l +   9l    1x70mm    365mm
+ 19.2Hz  40Hz   83Hz   80.4dB -105l +  11l  * 1x40mm   2125mm
+ 21.1Hz  42Hz   85Hz   82.0dB -195l +  11l  * 1x40mm   1894mm
+ 23.1Hz  45Hz   87Hz   83.6dB -4590l +  11l  * 1x40mm   1688mm
+ 25.3Hz  48Hz   89Hz   85.1dB  189l +  11l  * 1x40mm   1505mm
+ 27.7Hz  50Hz   92Hz   86.7dB   87l +  11l  * 1x40mm   1341mm
+ 30.2Hz  53Hz   94Hz   88.2dB   54l +  11l  * 1x40mm   1195mm
+ 33.0Hz  57Hz   97Hz   89.7dB   38l +  11l  * 1x40mm   1065mm
+ 35.9Hz  60Hz  100Hz   91.2dB   29l +  11l  * 1x40mm    950mm
+ 39.0Hz  63Hz  103Hz   92.7dB   22l +  11l  * 1x40mm    846mm
+ 42.4Hz  67Hz  106Hz   94.1dB   18l +  11l  * 1x40mm    754mm
+ 46.0Hz  71Hz  110Hz   95.5dB   15l +  11l  * 1x40mm    672mm
+ 49.9Hz  75Hz  114Hz   96.9dB   12l +  11l  * 1x40mm    599mm
+ 54.0Hz  78Hz  118Hz   98.3dB   11l +  11l  * 1x40mm    561mm
+ 58.4Hz  85Hz  122Hz   99.7dB    9l +  11l  - 1x50mm    744mm
+ 63.1Hz  90Hz  127Hz  101.0dB    7l +  11l  - 1x50mm    663mm
+ 68.1Hz  95Hz  132Hz  102.3dB    6l +  11l  - 1x50mm    591mm
+ 73.5Hz 100Hz  137Hz  103.6dB    6l +  11l  - 1x50mm    526mm
+ 19.2Hz  47Hz   83Hz   80.4dB  290l +   8l  * 1x40mm   2126mm
+ 21.1Hz  49Hz   85Hz   82.0dB  106l +   8l  * 1x40mm   1894mm
+ 23.1Hz  52Hz   87Hz   83.6dB   62l +   8l  * 1x40mm   1688mm
+ 25.3Hz  55Hz   89Hz   85.1dB   42l +   8l  * 1x40mm   1505mm
+ 27.7Hz  59Hz   92Hz   86.7dB   31l +   8l  * 1x40mm   1341mm
+ 30.2Hz  62Hz   94Hz   88.2dB   24l +   8l  * 1x40mm   1195mm
+ 33.0Hz  66Hz   97Hz   89.7dB   19l +   8l  * 1x40mm   1065mm
+ 35.9Hz  70Hz  100Hz   91.2dB   16l +   8l  * 1x40mm    950mm
+ 39.0Hz  74Hz  103Hz   92.7dB   13l +   8l  * 1x40mm    846mm
+ 42.4Hz  78Hz  106Hz   94.1dB   11l +   8l  * 1x40mm    754mm
+ 46.0Hz  83Hz  110Hz   95.5dB    9l +   8l  * 1x40mm    672mm
+ 49.9Hz  75Hz  114Hz   96.9dB   12l +   8l  * 1x40mm    815mm
+ 54.0Hz  78Hz  118Hz   98.3dB   11l +   8l  * 1x40mm    764mm
+ 58.4Hz  85Hz  122Hz   99.7dB    9l +   8l  * 1x40mm    648mm
+ 54.2Hz  90Hz  127Hz   98.4dB    7l +   8l  * 1x40mm    577mm
+ 59.3Hz  95Hz  132Hz   99.9dB    6l +   8l  * 1x40mm    515mm
+ 73.5Hz 100Hz  137Hz  103.6dB    6l +   8l  - 1x50mm    716mm
+ 23.1Hz  56Hz  136Hz   83.5dB   40l +   6l  * 1x40mm   2125mm
+ 25.5Hz  59Hz  138Hz   85.2dB   30l +   6l  * 1x40mm   1895mm
+ 28.0Hz  63Hz  141Hz   86.9dB   23l +   6l  * 1x40mm   1689mm
+ 30.8Hz  67Hz  144Hz   88.6dB   19l +   6l  * 1x40mm   1505mm
+ 33.9Hz  71Hz  147Hz   90.2dB   15l +   6l  * 1x40mm   1341mm
+ 37.2Hz  75Hz  150Hz   91.8dB   13l +   6l  * 1x40mm   1195mm
+ 40.8Hz  79Hz  154Hz   93.4dB   11l +   6l  * 1x40mm   1065mm
+ 44.6Hz  84Hz  157Hz   95.0dB    9l +   6l  * 1x40mm    949mm
+ 48.8Hz  89Hz  162Hz   96.5dB    8l +   6l  * 1x40mm    846mm
+ 53.2Hz  94Hz  166Hz   98.1dB    7l +   6l  * 1x40mm    754mm
+ 58.1Hz 100Hz  171Hz   99.6dB    6l +   6l  * 1x40mm    672mm
+ 63.2Hz 106Hz  176Hz  101.0dB    5l +   6l  * 1x40mm    599mm
+ 68.8Hz 112Hz  182Hz  102.5dB    4l +   6l  * 1x40mm    534mm
+ 74.7Hz 118Hz  188Hz  103.9dB    4l +   6l  - 1x50mm    744mm
+ 81.1Hz 125Hz  194Hz  105.4dB    3l +   6l  - 1x50mm    663mm
+ 87.9Hz 133Hz  201Hz  106.8dB    3l +   6l  - 1x50mm    591mm
+ 95.2Hz 141Hz  208Hz  108.1dB    3l +   6l  - 1x50mm    526mm

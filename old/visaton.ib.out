@@ -9,6 +9,11 @@ V_BG17
          qts   f3   Spl     SplMech Pmech  SplEle  
         0.75 112Hz  93.3dB  105.9dB   18W  109.3dB
 -------------
+V_HX10_4
+                    81.0dB            40W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.52 102Hz  86.2dB   96.0dB    9W  102.2dB
+-------------
 V_W100S4
                     86.0dB            30W
          qts   f3   Spl     SplMech Pmech  SplEle  

@@ -152,6 +152,28 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (124.8dB   811W 118.7dB) @ 117Hz
               (127.8dB  1622W 118.7dB) @ 139Hz
 -------------
+V_HX10_4
+      81.0dB             40W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  86.2dB: ( 94.6dB    13W  99.5dB) @  94Hz
+              ( 97.6dB    26W  99.5dB) @ 112Hz
+              (100.6dB    51W  99.5dB) @ 133Hz
+              (103.6dB   103W  99.5dB) @ 158Hz
+              (106.6dB   206W  99.5dB) @ 188Hz
+0.60  85.8dB: ( 93.4dB    11W  99.2dB) @  88Hz
+              ( 96.4dB    21W  99.2dB) @ 104Hz
+              ( 99.4dB    42W  99.2dB) @ 124Hz
+              (102.4dB    85W  99.2dB) @ 147Hz
+              (105.4dB   170W  99.2dB) @ 175Hz
+              (108.5dB   340W  99.2dB) @ 208Hz
+1.00  85.5dB: ( 92.3dB     9W  98.8dB) @  82Hz
+              ( 95.3dB    18W  98.8dB) @  98Hz
+              ( 98.3dB    36W  98.8dB) @ 116Hz
+              (101.3dB    71W  98.8dB) @ 138Hz
+              (104.4dB   143W  98.8dB) @ 164Hz
+              (107.4dB   286W  98.8dB) @ 196Hz
+-------------
 V_Ti100
       86.0dB             40W
 Rpre   Spl     SplMech Pmech SplEle      f3

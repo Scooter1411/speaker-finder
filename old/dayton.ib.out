@@ -20,10 +20,20 @@ ib385-8
          qts   f3   Spl     SplMech Pmech  SplEle  
         0.68  22Hz  87.9dB  112.3dB  279W  113.3dB
 -------------
-rss225s-4
+rs225s-4
                     92.0dB            80W
          qts   f3   Spl     SplMech Pmech  SplEle  
         0.51  61Hz  87.1dB  110.4dB  212W  106.1dB
+-------------
+rs315hf-4
+                    86.0dB           400W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.51  36Hz  85.2dB  117.1dB 1551W  111.2dB
+-------------
+rs315hfa-8
+                    86.0dB           400W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.57  36Hz  85.6dB  115.3dB  949W  111.6dB
 -------------
 sd215-88
                     89.0dB            60W

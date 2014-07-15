@@ -17,3 +17,17 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (122.5dB  1016W 119.5dB) @  49Hz
               (125.5dB  2032W 119.5dB) @  59Hz
               (128.6dB  4064W 119.5dB) @  70Hz
+-------------
+Colossus 18XB
+      99.0dB           1000W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  95.5dB: (127.7dB  2043W 124.5dB) @  67Hz
+              (130.7dB  4087W 124.5dB) @  79Hz
+              (133.7dB  8173W 124.5dB) @  94Hz
+0.60  95.2dB: (126.7dB  1742W 124.3dB) @  63Hz
+              (129.7dB  3484W 124.3dB) @  75Hz
+              (132.7dB  6967W 124.3dB) @  89Hz
+1.00  95.0dB: (125.8dB  1499W 124.1dB) @  60Hz
+              (128.8dB  2998W 124.1dB) @  71Hz
+              (131.8dB  5996W 124.1dB) @  85Hz

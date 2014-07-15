@@ -330,6 +330,20 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (113.4dB   582W 106.5dB) @  76Hz
               (116.4dB  1165W 106.5dB) @  90Hz
 -------------
+w22ny001
+      91.8dB             80W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  91.5dB: (113.1dB   184W 109.5dB) @  84Hz
+              (116.1dB   368W 109.5dB) @ 100Hz
+              (119.2dB   735W 109.5dB) @ 119Hz
+0.60  91.3dB: (112.3dB   160W 109.3dB) @  80Hz
+              (115.3dB   320W 109.3dB) @  95Hz
+              (118.3dB   641W 109.3dB) @ 113Hz
+1.00  91.0dB: (111.5dB   141W 109.0dB) @  77Hz
+              (114.5dB   282W 109.0dB) @  91Hz
+              (117.5dB   564W 109.0dB) @ 108Hz
+-------------
 w26fx001
       87.0dB            150W
 Rpre   Spl     SplMech Pmech SplEle      f3

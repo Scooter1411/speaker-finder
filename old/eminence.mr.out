@@ -95,3 +95,13 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (120.3dB  1173W 118.6dB) @  50Hz
               (123.3dB  2347W 118.6dB) @  60Hz
               (126.3dB  4693W 118.6dB) @  71Hz
+-------------
+LAB12
+      89.2dB            400W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  87.0dB: (117.3dB  2032W 110.3dB) @  39Hz
+0.60  86.6dB: (115.9dB  1590W 109.9dB) @  36Hz
+              (118.9dB  3180W 109.9dB) @  43Hz
+1.00  86.3dB: (114.6dB  1269W 109.6dB) @  33Hz
+              (117.6dB  2538W 109.6dB) @  39Hz

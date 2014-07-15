@@ -226,6 +226,35 @@ Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3
                 1.1   61.5l: (112.7dB    51W 118.7dB) @  58Hz (  582uF)
 
 -------------
+V_HX10_4
+      81.0dB                             40W
+Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3
+
+0.20  86.2dB:   0.6   15.9l: ( 94.2dB    12W  99.5dB) @  92Hz
+                0.7    6.4l: ( 94.3dB    12W  99.5dB) @  92Hz
+                0.8    3.8l: ( 95.7dB    16W  99.5dB) @ 100Hz
+                0.9    2.6l: ( 96.2dB    18W  99.5dB) @ 103Hz
+                1.0    1.9l: ( 96.7dB    21W  99.5dB) @ 106Hz
+                1.1    1.5l: ( 97.5dB    25W  99.5dB) @ 111Hz
+                1.1    1.5l: ( 94.6dB    13W  99.5dB) @  94Hz (  548uF)
+
+0.60  85.8dB:   0.6   34.1l: ( 93.0dB    10W  99.2dB) @  86Hz
+                0.7    9.0l: ( 93.1dB    10W  99.2dB) @  86Hz
+                0.8    4.9l: ( 94.5dB    14W  99.2dB) @  93Hz
+                0.9    3.2l: ( 94.9dB    15W  99.2dB) @  96Hz
+                1.0    2.3l: ( 95.5dB    17W  99.2dB) @  99Hz
+                1.1    1.8l: ( 96.3dB    20W  99.2dB) @ 103Hz
+                1.1    1.8l: ( 93.4dB    11W  99.2dB) @  88Hz (  587uF)
+
+1.00  85.5dB:   0.6  358.9l: ( 91.9dB     8W  98.8dB) @  80Hz
+                0.7   13.4l: ( 92.0dB     8W  98.8dB) @  81Hz
+                0.8    6.4l: ( 93.4dB    11W  98.8dB) @  87Hz
+                0.9    4.0l: ( 93.9dB    13W  98.8dB) @  90Hz
+                1.0    2.8l: ( 94.4dB    14W  98.8dB) @  93Hz
+                1.1    2.1l: ( 95.2dB    17W  98.8dB) @  97Hz
+                1.1    2.1l: ( 92.3dB     9W  98.8dB) @  82Hz (  625uF)
+
+-------------
 V_Ti100
       86.0dB                             40W
 Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3

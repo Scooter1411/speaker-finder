@@ -50,3 +50,20 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 0.20  91.6dB: (115.6dB   288W 105.8dB) @ 101Hz
 0.60  91.3dB: (114.8dB   253W 105.5dB) @  97Hz
 1.00  91.1dB: (114.0dB   224W 105.3dB) @  92Hz
+-------------
+alpair10.2
+      87.0dB             35W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  86.6dB: (101.3dB    34W 101.5dB) @  69Hz
+              (104.4dB    67W 101.5dB) @  82Hz
+              (107.4dB   134W 101.5dB) @  97Hz
+              (110.4dB   269W 101.5dB) @ 115Hz
+0.60  86.3dB: (100.6dB    30W 101.3dB) @  66Hz
+              (103.6dB    59W 101.3dB) @  78Hz
+              (106.6dB   118W 101.3dB) @  93Hz
+              (109.6dB   236W 101.3dB) @ 110Hz
+1.00  86.1dB: ( 99.8dB    26W 101.1dB) @  63Hz
+              (102.8dB    52W 101.1dB) @  75Hz
+              (105.9dB   105W 101.1dB) @  89Hz
+              (108.9dB   210W 101.1dB) @ 106Hz

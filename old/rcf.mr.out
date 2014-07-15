@@ -12,3 +12,25 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 1.00  91.3dB: (113.9dB   238W 112.4dB) @  89Hz
               (116.9dB   476W 112.4dB) @ 105Hz
               (119.9dB   952W 112.4dB) @ 125Hz
+-------------
+L21X451
+      97.0dB           2000W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  95.0dB: (130.1dB  4760W 126.3dB) @  51Hz
+              (133.1dB  9519W 126.3dB) @  61Hz
+              (136.1dB 19037W 126.3dB) @  73Hz
+0.60  94.7dB: (129.0dB  3931W 126.0dB) @  48Hz
+              (132.0dB  7862W 126.0dB) @  57Hz
+              (135.0dB 15724W 126.0dB) @  68Hz
+1.00  94.5dB: (127.9dB  3291W 125.8dB) @  45Hz
+              (130.9dB  6581W 125.8dB) @  54Hz
+              (133.9dB 13162W 125.8dB) @  64Hz
+-------------
+LF21N451
+      98.5dB           1500W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  97.4dB: (137.5dB 14592W 127.6dB) @  79Hz
+0.60  97.1dB: (136.4dB 12094W 127.3dB) @  74Hz
+1.00  96.9dB: (135.4dB 10149W 127.1dB) @  69Hz
