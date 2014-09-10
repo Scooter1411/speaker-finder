@@ -1,0 +1,28 @@
+-------------
+PDW21250
+            95.0dB          1000W      4x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+  8.3 Hz  22 Hz   61 Hz   97.8 dB   oo l + 155 l  - 3x100mm   764 mm  3016 µF
+  9.0 Hz  24 Hz   62 Hz   99.3 dB 5949 l + 155 l  - 3x100mm   668 mm  2697 µF
+ 10.0 Hz  25 Hz   65 Hz  101.1 dB 2452 l + 155 l    4x100mm   777 mm  2343 µF
+ 11.0 Hz  27 Hz   67 Hz  102.8 dB 1525 l + 155 l    4x100mm   665 mm  2064 µF
+ 12.0 Hz  29 Hz   69 Hz  104.3 dB 1098 l + 155 l    4x100mm   575 mm  1838 µF
+ 13.0 Hz  30 Hz   70 Hz  105.7 dB  852 l + 155 l    4x100mm   500 mm  1652 µF
+ 14.0 Hz  32 Hz   72 Hz  107.0 dB  693 l + 155 l    4x100mm   438 mm  1496 µF
+ 15.0 Hz  33 Hz   74 Hz  108.2 dB  582 l + 155 l    4x100mm   386 mm  1365 µF
+ 16.0 Hz  35 Hz   76 Hz  109.3 dB  500 l + 155 l    4x100mm   341 mm  1252 µF
+ 17.0 Hz  36 Hz   77 Hz  110.3 dB  437 l + 155 l    4x100mm   302 mm  1155 µF
+ 18.0 Hz  38 Hz   79 Hz  111.3 dB  387 l + 155 l    4x100mm   268 mm  1070 µF
+ 19.0 Hz  39 Hz   80 Hz  112.3 dB  347 l + 155 l    4x100mm   238 mm   996 µF
+ 20.0 Hz  40 Hz   81 Hz  113.2 dB  314 l + 155 l    4x100mm   212 mm   930 µF
+ 21.0 Hz  42 Hz   83 Hz  114.0 dB  286 l + 155 l    4x100mm   188 mm   871 µF
+ 22.0 Hz  43 Hz   84 Hz  114.8 dB  262 l + 155 l    4x100mm   167 mm   819 µF
+ 23.0 Hz  44 Hz   85 Hz  115.6 dB  242 l + 155 l    4x100mm   149 mm   772 µF
+ 24.0 Hz  46 Hz   86 Hz  116.3 dB  224 l + 155 l    4x100mm   132 mm   729 µF
+ 25.0 Hz  47 Hz   88 Hz  117.0 dB  209 l + 155 l    4x100mm   116 mm   691 µF
+ 26.0 Hz  48 Hz   89 Hz  117.7 dB  195 l + 155 l    4x100mm   102 mm   655 µF
+ 27.0 Hz  49 Hz   90 Hz  118.4 dB  183 l + 155 l    4x100mm    89 mm   623 µF
+ 28.0 Hz  50 Hz   91 Hz  119.0 dB  173 l + 155 l    4x100mm    77 mm   594 µF
+ 29.0 Hz  52 Hz   92 Hz  119.6 dB  163 l + 155 l    4x100mm    67 mm   567 µF
+ 30.0 Hz  53 Hz   93 Hz  120.2 dB  154 l + 155 l    4x100mm    57 mm   542 µF
+

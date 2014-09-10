@@ -1,0 +1,21 @@
+-------------
+15B450
+           100.0dB           450W      2x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 15.5 Hz  45 Hz  131 Hz  100.0 dB   oo l +  24 l  - 1x100mm   399 mm  2045 µF
+ 16.0 Hz  46 Hz  132 Hz  100.5 dB 3509 l +  24 l  - 1x100mm   380 mm  1963 µF
+ 17.0 Hz  48 Hz  135 Hz  101.6 dB 1133 l +  24 l    2x100mm   731 mm  1810 µF
+ 18.0 Hz  50 Hz  138 Hz  102.6 dB  670 l +  24 l    2x100mm   669 mm  1678 µF
+ 19.0 Hz  52 Hz  140 Hz  103.5 dB  473 l +  24 l    2x100mm   615 mm  1561 µF
+ 20.0 Hz  53 Hz  143 Hz  104.4 dB  365 l +  24 l    2x100mm   566 mm  1458 µF
+ 21.0 Hz  55 Hz  145 Hz  105.2 dB  295 l +  24 l    2x100mm   524 mm  1366 µF
+ 22.0 Hz  57 Hz  147 Hz  106.0 dB  248 l +  24 l    2x100mm   485 mm  1284 µF
+ 23.0 Hz  59 Hz  149 Hz  106.8 dB  213 l +  24 l    2x100mm   451 mm  1210 µF
+ 24.0 Hz  60 Hz  151 Hz  107.6 dB  186 l +  24 l    2x100mm   420 mm  1143 µF
+ 25.0 Hz  62 Hz  154 Hz  108.3 dB  165 l +  24 l    2x100mm   392 mm  1083 µF
+ 26.0 Hz  64 Hz  156 Hz  108.9 dB  148 l +  24 l    2x100mm   366 mm  1027 µF
+ 27.0 Hz  65 Hz  158 Hz  109.6 dB  134 l +  24 l    2x100mm   342 mm   977 µF
+ 28.0 Hz  67 Hz  159 Hz  110.2 dB  123 l +  24 l    2x100mm   321 mm   931 µF
+ 29.0 Hz  68 Hz  161 Hz  110.8 dB  113 l +  24 l    2x100mm   301 mm   888 µF
+ 30.0 Hz  70 Hz  163 Hz  111.4 dB  104 l +  24 l    2x100mm   283 mm   849 µF
+

@@ -1,0 +1,20 @@
+-------------
+IB 18
+      89.4dB            600W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.9dB: (116.9dB  3355W 109.4dB) @  23Hz
+0.60  88.0dB: (114.1dB  2170W 108.5dB) @  19Hz
+              (117.1dB  4340W 108.5dB) @  23Hz
+1.00  87.3dB: (111.9dB  1554W 107.8dB) @  17Hz
+              (114.9dB  3107W 107.8dB) @  20Hz
+-------------
+IB 15
+      90.0dB            250W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  89.2dB: (114.3dB  1608W 106.2dB) @  28Hz
+0.60  88.3dB: (111.4dB  1006W 105.3dB) @  24Hz
+              (114.4dB  2013W 105.3dB) @  28Hz
+1.00  87.6dB: (109.0dB   694W 104.6dB) @  21Hz
+              (112.0dB  1387W 104.6dB) @  25Hz

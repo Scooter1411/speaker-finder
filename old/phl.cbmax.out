@@ -1,0 +1,66 @@
+-------------
+b20-2002
+      93.0dB                            120W
+SplMech  Pmech SplEle     f3
+
+ 86.5dB     0W 110.3dB @  16Hz
+ 88.5dB     1W 110.3dB @  18Hz
+ 90.3dB     1W 110.3dB @  20Hz
+ 92.0dB     2W 110.3dB @  22Hz
+ 93.5dB     3W 110.3dB @  24Hz
+ 94.9dB     3W 110.3dB @  26Hz
+ 96.2dB     5W 110.3dB @  28Hz
+ 97.4dB     6W 110.3dB @  30Hz
+ 98.5dB     8W 110.3dB @  32Hz
+ 99.6dB    10W 110.3dB @  34Hz
+100.5dB    13W 110.3dB @  36Hz
+101.5dB    16W 110.3dB @  38Hz
+102.4dB    19W 110.3dB @  40Hz
+103.2dB    24W 110.3dB @  42Hz
+104.0dB    28W 110.3dB @  44Hz
+104.8dB    34W 110.3dB @  46Hz
+105.5dB    40W 110.3dB @  48Hz
+-------------
+B25-3002
+      91.0dB                            200W
+SplMech  Pmech SplEle     f3
+
+ 88.7dB     1W 111.6dB @  16Hz
+ 90.8dB     2W 111.6dB @  18Hz
+ 92.6dB     3W 111.6dB @  20Hz
+ 94.2dB     4W 111.6dB @  22Hz
+ 95.8dB     5W 111.6dB @  24Hz
+ 97.2dB     7W 111.6dB @  26Hz
+ 98.4dB    10W 111.6dB @  28Hz
+ 99.6dB    13W 111.6dB @  30Hz
+100.8dB    16W 111.6dB @  32Hz
+101.8dB    21W 111.6dB @  34Hz
+102.8dB    26W 111.6dB @  36Hz
+103.7dB    33W 111.6dB @  38Hz
+104.6dB    40W 111.6dB @  40Hz
+105.5dB    49W 111.6dB @  42Hz
+106.3dB    59W 111.6dB @  44Hz
+107.1dB    70W 111.6dB @  46Hz
+107.8dB    83W 111.6dB @  48Hz
+-------------
+1280
+      93.0dB                            100W
+SplMech  Pmech SplEle     f3
+
+ 78.9dB     0W 111.0dB @  16Hz
+ 81.0dB     0W 111.0dB @  18Hz
+ 82.8dB     0W 111.0dB @  20Hz
+ 84.4dB     0W 111.0dB @  22Hz
+ 86.0dB     0W 111.0dB @  24Hz
+ 87.3dB     0W 111.0dB @  26Hz
+ 88.6dB     1W 111.0dB @  28Hz
+ 89.8dB     1W 111.0dB @  30Hz
+ 90.9dB     1W 111.0dB @  32Hz
+ 92.0dB     1W 111.0dB @  34Hz
+ 93.0dB     2W 111.0dB @  36Hz
+ 93.9dB     2W 111.0dB @  38Hz
+ 94.8dB     2W 111.0dB @  40Hz
+ 95.7dB     3W 111.0dB @  42Hz
+ 96.5dB     4W 111.0dB @  44Hz
+ 97.3dB     4W 111.0dB @  46Hz
+ 98.0dB     5W 111.0dB @  48Hz

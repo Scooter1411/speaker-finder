@@ -1,0 +1,20 @@
+-------------
+LAT250 4/4
+                    91.0dB           100W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.70  66Hz  85.6dB  105.6dB  100W  105.6dB
+-------------
+LAT500 8/8
+                    92.0dB           250W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.50  41Hz  87.1dB  112.7dB  360W  111.1dB
+-------------
+LAT700 16/16
+                    86.0dB           500W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.67  26Hz  85.0dB  110.5dB  351W  112.0dB
+-------------
+LAT700 8/8
+                    89.0dB           500W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.57  31Hz  85.3dB  113.4dB  639W  112.3dB

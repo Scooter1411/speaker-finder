@@ -1,0 +1,286 @@
+-------------
+Aura_NSW1_205_8A
+      78.0dB                              5W
+SplMech  Pmech SplEle     f3
+
+ 43.6dB     0W  83.5dB @  16Hz
+ 45.6dB     0W  83.5dB @  18Hz
+ 47.4dB     0W  83.5dB @  20Hz
+ 49.1dB     0W  83.5dB @  22Hz
+ 50.6dB     0W  83.5dB @  24Hz
+ 52.0dB     0W  83.5dB @  26Hz
+ 53.3dB     0W  83.5dB @  28Hz
+ 54.5dB     0W  83.5dB @  30Hz
+ 55.6dB     0W  83.5dB @  32Hz
+ 56.7dB     0W  83.5dB @  34Hz
+ 57.6dB     0W  83.5dB @  36Hz
+ 58.6dB     0W  83.5dB @  38Hz
+ 59.5dB     0W  83.5dB @  40Hz
+ 60.3dB     0W  83.5dB @  42Hz
+ 61.1dB     0W  83.5dB @  44Hz
+ 61.9dB     0W  83.5dB @  46Hz
+ 62.6dB     0W  83.5dB @  48Hz
+-------------
+Aura_NSW2_326_8A
+      84.0dB                             15W
+SplMech  Pmech SplEle     f3
+
+ 52.9dB     0W  92.5dB @  16Hz
+ 55.0dB     0W  92.5dB @  18Hz
+ 56.8dB     0W  92.5dB @  20Hz
+ 58.5dB     0W  92.5dB @  22Hz
+ 60.0dB     0W  92.5dB @  24Hz
+ 61.4dB     0W  92.5dB @  26Hz
+ 62.7dB     0W  92.5dB @  28Hz
+ 63.9dB     0W  92.5dB @  30Hz
+ 65.0dB     0W  92.5dB @  32Hz
+ 66.0dB     0W  92.5dB @  34Hz
+ 67.0dB     0W  92.5dB @  36Hz
+ 68.0dB     0W  92.5dB @  38Hz
+ 68.9dB     0W  92.5dB @  40Hz
+ 69.7dB     0W  92.5dB @  42Hz
+ 70.5dB     0W  92.5dB @  44Hz
+ 71.3dB     0W  92.5dB @  46Hz
+ 72.0dB     0W  92.5dB @  48Hz
+-------------
+Aura_NS3_193_8A
+      80.0dB                             20W
+SplMech  Pmech SplEle     f3
+
+ 69.4dB     0W  93.8dB @  16Hz
+ 71.4dB     0W  93.8dB @  18Hz
+ 73.2dB     0W  93.8dB @  20Hz
+ 74.9dB     0W  93.8dB @  22Hz
+ 76.4dB     0W  93.8dB @  24Hz
+ 77.8dB     1W  93.8dB @  26Hz
+ 79.1dB     1W  93.8dB @  28Hz
+ 80.3dB     1W  93.8dB @  30Hz
+ 81.4dB     1W  93.8dB @  32Hz
+ 82.5dB     1W  93.8dB @  34Hz
+ 83.4dB     2W  93.8dB @  36Hz
+ 84.4dB     2W  93.8dB @  38Hz
+ 85.3dB     3W  93.8dB @  40Hz
+ 86.1dB     3W  93.8dB @  42Hz
+ 86.9dB     4W  93.8dB @  44Hz
+ 87.7dB     5W  93.8dB @  46Hz
+ 88.4dB     6W  93.8dB @  48Hz
+-------------
+Aura_NS4_255_8D
+      84.0dB                             20W
+SplMech  Pmech SplEle     f3
+
+ 74.2dB     0W  95.7dB @  16Hz
+ 76.2dB     0W  95.7dB @  18Hz
+ 78.1dB     0W  95.7dB @  20Hz
+ 79.7dB     1W  95.7dB @  22Hz
+ 81.2dB     1W  95.7dB @  24Hz
+ 82.6dB     1W  95.7dB @  26Hz
+ 83.9dB     1W  95.7dB @  28Hz
+ 85.1dB     2W  95.7dB @  30Hz
+ 86.2dB     2W  95.7dB @  32Hz
+ 87.3dB     3W  95.7dB @  34Hz
+ 88.3dB     4W  95.7dB @  36Hz
+ 89.2dB     4W  95.7dB @  38Hz
+ 90.1dB     5W  95.7dB @  40Hz
+ 90.9dB     7W  95.7dB @  42Hz
+ 91.8dB     8W  95.7dB @  44Hz
+ 92.5dB    10W  95.7dB @  46Hz
+ 93.3dB    11W  95.7dB @  48Hz
+-------------
+Aura_NS4_255_4D
+      84.0dB                             20W
+SplMech  Pmech SplEle     f3
+
+ 74.2dB     0W  93.5dB @  16Hz
+ 76.2dB     0W  93.5dB @  18Hz
+ 78.1dB     1W  93.5dB @  20Hz
+ 79.7dB     1W  93.5dB @  22Hz
+ 81.2dB     1W  93.5dB @  24Hz
+ 82.6dB     2W  93.5dB @  26Hz
+ 83.9dB     2W  93.5dB @  28Hz
+ 85.1dB     3W  93.5dB @  30Hz
+ 86.2dB     4W  93.5dB @  32Hz
+ 87.3dB     5W  93.5dB @  34Hz
+ 88.3dB     6W  93.5dB @  36Hz
+ 89.2dB     7W  93.5dB @  38Hz
+ 90.1dB     9W  93.5dB @  40Hz
+ 90.9dB    11W  93.5dB @  42Hz
+ 91.8dB    13W  93.5dB @  44Hz
+ 92.5dB    16W  93.5dB @  46Hz
+ 93.3dB    19W  93.5dB @  48Hz
+-------------
+Aura_NFS8_495_8B
+      84.0dB                            100W
+SplMech  Pmech SplEle     f3
+
+ 87.1dB     2W 104.4dB @  16Hz
+ 89.2dB     3W 104.4dB @  18Hz
+ 91.0dB     5W 104.4dB @  20Hz
+ 92.7dB     7W 104.4dB @  22Hz
+ 94.2dB     9W 104.4dB @  24Hz
+ 95.6dB    13W 104.4dB @  26Hz
+ 96.9dB    17W 104.4dB @  28Hz
+ 98.1dB    23W 104.4dB @  30Hz
+ 99.2dB    30W 104.4dB @  32Hz
+100.2dB    38W 104.4dB @  34Hz
+101.2dB    48W 104.4dB @  36Hz
+102.2dB    59W 104.4dB @  38Hz
+103.1dB    72W 104.4dB @  40Hz
+103.9dB    88W 104.4dB @  42Hz
+104.7dB   106W 104.4dB @  44Hz
+105.5dB   127W 104.4dB @  46Hz
+106.2dB   150W 104.4dB @  48Hz
+-------------
+Aura_NFS8_495_4A
+      84.0dB                            100W
+SplMech  Pmech SplEle     f3
+
+ 82.5dB     1W 100.8dB @  16Hz
+ 84.5dB     2W 100.8dB @  18Hz
+ 86.3dB     4W 100.8dB @  20Hz
+ 88.0dB     5W 100.8dB @  22Hz
+ 89.5dB     7W 100.8dB @  24Hz
+ 90.9dB    10W 100.8dB @  26Hz
+ 92.2dB    14W 100.8dB @  28Hz
+ 93.4dB    18W 100.8dB @  30Hz
+ 94.5dB    23W 100.8dB @  32Hz
+ 95.5dB    30W 100.8dB @  34Hz
+ 96.5dB    38W 100.8dB @  36Hz
+ 97.5dB    47W 100.8dB @  38Hz
+ 98.4dB    57W 100.8dB @  40Hz
+ 99.2dB    70W 100.8dB @  42Hz
+100.0dB    84W 100.8dB @  44Hz
+100.8dB   100W 100.8dB @  46Hz
+101.5dB   119W 100.8dB @  48Hz
+-------------
+Aura_NS10_513_4A
+      84.0dB                            200W
+SplMech  Pmech SplEle     f3
+
+ 96.4dB    22W 106.1dB @  16Hz
+ 98.5dB    35W 106.1dB @  18Hz
+100.3dB    53W 106.1dB @  20Hz
+102.0dB    78W 106.1dB @  22Hz
+103.5dB   110W 106.1dB @  24Hz
+104.9dB   152W 106.1dB @  26Hz
+106.2dB   204W 106.1dB @  28Hz
+107.4dB   269W 106.1dB @  30Hz
+108.5dB   348W 106.1dB @  32Hz
+109.5dB   444W 106.1dB @  34Hz
+110.5dB   558W 106.1dB @  36Hz
+111.5dB   693W 106.1dB @  38Hz
+112.3dB   851W 106.1dB @  40Hz
+113.2dB  1034W 106.1dB @  42Hz
+114.0dB  1245W 106.1dB @  44Hz
+114.8dB  1488W 106.1dB @  46Hz
+115.5dB  1764W 106.1dB @  48Hz
+-------------
+Aura_NS10_794_4A
+      83.0dB                            400W
+SplMech  Pmech SplEle     f3
+
+100.7dB    70W 108.3dB @  16Hz
+102.7dB   112W 108.3dB @  18Hz
+104.6dB   170W 108.3dB @  20Hz
+106.2dB   249W 108.3dB @  22Hz
+107.7dB   353W 108.3dB @  24Hz
+109.1dB   486W 108.3dB @  26Hz
+110.4dB   654W 108.3dB @  28Hz
+111.6dB   862W 108.3dB @  30Hz
+112.7dB  1116W 108.3dB @  32Hz
+113.8dB  1422W 108.3dB @  34Hz
+114.8dB  1788W 108.3dB @  36Hz
+115.7dB  2219W 108.3dB @  38Hz
+116.6dB  2725W 108.3dB @  40Hz
+117.4dB  3312W 108.3dB @  42Hz
+118.2dB  3989W 108.3dB @  44Hz
+119.0dB  4766W 108.3dB @  46Hz
+119.8dB  5650W 108.3dB @  48Hz
+-------------
+Aura_NS12_513_4A
+      85.0dB                            200W
+SplMech  Pmech SplEle     f3
+
+ 99.5dB    43W 106.2dB @  16Hz
+101.6dB    68W 106.2dB @  18Hz
+103.4dB   104W 106.2dB @  20Hz
+105.1dB   153W 106.2dB @  22Hz
+106.6dB   216W 106.2dB @  24Hz
+108.0dB   298W 106.2dB @  26Hz
+109.3dB   401W 106.2dB @  28Hz
+110.4dB   528W 106.2dB @  30Hz
+111.6dB   684W 106.2dB @  32Hz
+112.6dB   872W 106.2dB @  34Hz
+113.6dB  1096W 106.2dB @  36Hz
+114.6dB  1360W 106.2dB @  38Hz
+115.4dB  1670W 106.2dB @  40Hz
+116.3dB  2030W 106.2dB @  42Hz
+117.1dB  2445W 106.2dB @  44Hz
+117.9dB  2920W 106.2dB @  46Hz
+118.6dB  3462W 106.2dB @  48Hz
+-------------
+Aura_NS12_794_4A
+      84.0dB                            400W
+SplMech  Pmech SplEle     f3
+
+104.4dB   128W 109.4dB @  16Hz
+106.5dB   205W 109.4dB @  18Hz
+108.3dB   312W 109.4dB @  20Hz
+109.9dB   457W 109.4dB @  22Hz
+111.4dB   648W 109.4dB @  24Hz
+112.8dB   892W 109.4dB @  26Hz
+114.1dB  1200W 109.4dB @  28Hz
+115.3dB  1582W 109.4dB @  30Hz
+116.4dB  2048W 109.4dB @  32Hz
+117.5dB  2610W 109.4dB @  34Hz
+118.5dB  3280W 109.4dB @  36Hz
+119.4dB  4072W 109.4dB @  38Hz
+120.3dB  4999W 109.4dB @  40Hz
+121.2dB  6076W 109.4dB @  42Hz
+122.0dB  7319W 109.4dB @  44Hz
+122.8dB  8744W 109.4dB @  46Hz
+123.5dB 10366W 109.4dB @  48Hz
+-------------
+Aura_NS15_992_4A
+      86.0dB                            800W
+SplMech  Pmech SplEle     f3
+
+111.2dB   663W 112.1dB @  16Hz
+113.3dB  1062W 112.1dB @  18Hz
+115.1dB  1618W 112.1dB @  20Hz
+116.8dB  2369W 112.1dB @  22Hz
+118.3dB  3356W 112.1dB @  24Hz
+119.7dB  4622W 112.1dB @  26Hz
+121.0dB  6217W 112.1dB @  28Hz
+122.2dB  8193W 112.1dB @  30Hz
+123.3dB 10606W 112.1dB @  32Hz
+124.3dB 13516W 112.1dB @  34Hz
+125.3dB 16988W 112.1dB @  36Hz
+126.3dB 21090W 112.1dB @  38Hz
+127.2dB 25893W 112.1dB @  40Hz
+128.0dB 31473W 112.1dB @  42Hz
+128.8dB 37910W 112.1dB @  44Hz
+129.6dB 45287W 112.1dB @  46Hz
+130.3dB 53692W 112.1dB @  48Hz
+-------------
+Aura_NS18_992_4A
+      86.0dB                            800W
+SplMech  Pmech SplEle     f3
+
+115.1dB  1128W 113.6dB @  16Hz
+117.1dB  1808W 113.6dB @  18Hz
+119.0dB  2755W 113.6dB @  20Hz
+120.6dB  4034W 113.6dB @  22Hz
+122.1dB  5713W 113.6dB @  24Hz
+123.5dB  7869W 113.6dB @  26Hz
+124.8dB 10584W 113.6dB @  28Hz
+126.0dB 13948W 113.6dB @  30Hz
+127.1dB 18056W 113.6dB @  32Hz
+128.2dB 23011W 113.6dB @  34Hz
+129.2dB 28922W 113.6dB @  36Hz
+130.1dB 35905W 113.6dB @  38Hz
+131.0dB 44082W 113.6dB @  40Hz
+131.9dB 53581W 113.6dB @  42Hz
+132.7dB 64540W 113.6dB @  44Hz
+133.4dB 77099W 113.6dB @  46Hz
+134.2dB 91407W 113.6dB @  48Hz
