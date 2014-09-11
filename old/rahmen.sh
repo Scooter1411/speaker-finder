@@ -21,6 +21,6 @@ for I in *.sh
 for I in *.out
   do
     if [ ! -s $I ] ; then
-        rm $I
+        rm -f $I
     fi
   done
