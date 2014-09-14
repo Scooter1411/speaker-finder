@@ -1,14 +1,4 @@
 -------------
-SDS106(830851)
-                    85.0dB            50W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.55  85Hz  83.3dB   93.5dB   11W  100.3dB
--------------
-HDS106PPB
-                    84.8dB            40W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.57 109Hz  84.5dB  102.9dB   70W  100.5dB
--------------
 sls10 (830668)
                     88.7dB           100W
          qts   f3   Spl     SplMech Pmech  SplEle  

@@ -1,19 +1,4 @@
 -------------
-FR125S
-                    80.0dB            30W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.57  58Hz  82.5dB   97.4dB   31W   97.2dB
--------------
-WR125S
-                    80.0dB            30W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.84  53Hz  82.8dB   95.8dB   20W   97.6dB
--------------
-WR125ST
-                    80.0dB            30W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.78  63Hz  83.7dB   98.9dB   34W   98.4dB
--------------
 SDX15
                     87.3dB           225W
   R||    qts   f3   Spl     SplMech Pmech  SplEle  

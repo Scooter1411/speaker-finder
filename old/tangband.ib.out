@@ -1,14 +1,4 @@
 -------------
-W3-315SC
-                    85.0dB            15W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.63 100Hz  85.5dB   81.5dB    0W   97.2dB
--------------
-W3-871S
-                    87.0dB            15W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        1.11 111Hz  84.9dB   83.3dB    1W   96.6dB
--------------
 W6-1139SH
                     81.0dB            45W
   R||    qts   f3   Spl     SplMech Pmech  SplEle  
@@ -28,8 +18,3 @@ W6-1139SH
  100.0  1.03  27Hz  78.4dB   98.7dB  106W   94.9dB
  150.0  1.04  27Hz  78.4dB   98.7dB  106W   94.9dB
 9999.0  1.06  26Hz  78.4dB   98.2dB   96W   94.9dB
--------------
-W6-1530S
-                    87.0dB            45W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.62  57Hz  87.7dB  101.4dB   24W  104.2dB

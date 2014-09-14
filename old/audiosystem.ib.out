@@ -1,33 +1,8 @@
 -------------
-ax165k
-                    93.0dB           120W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.71  68Hz  86.2dB   92.2dB    4W  107.0dB
--------------
-ax165xl
-                    94.0dB           130W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.69  82Hz  85.5dB   95.5dB   10W  106.6dB
--------------
-ex165sq
-                    92.0dB           140W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.56  71Hz  87.7dB   94.0dB    4W  109.2dB
--------------
-ax165fl
-                    89.0dB            80W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.68  63Hz  88.4dB   90.9dB    2W  107.5dB
--------------
 ax8fl
                     90.0dB           100W
          qts   f3   Spl     SplMech Pmech  SplEle  
         1.71  47Hz  85.6dB   78.3dB    0W  105.6dB
--------------
-radion10
-                    94.0dB           200W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.52  59Hz  87.8dB  115.6dB  612W  110.8dB
 -------------
 radion15
                     94.0dB           400W

@@ -1,34 +1,4 @@
 -------------
-6/90 PCD  	
-                    97.0dB            90W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.62 243Hz  97.3dB  121.9dB  292W  116.8dB
--------------
-8/100 SD 	
-                    97.0dB           100W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.69 148Hz  96.8dB  117.8dB  126W  116.8dB
--------------
-10/100 SD 	
-                    96.0dB           100W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.71  67Hz  94.9dB  109.2dB   27W  114.9dB
--------------
-10/150 SD 	
-                    98.0dB           150W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.56 104Hz  97.4dB  117.0dB   91W  119.1dB
--------------
-12/150 SD 	
-                    99.0dB           150W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.51  88Hz  99.7dB  117.7dB   63W  121.4dB
--------------
-15/200 SD 	
-                    98.0dB           200W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.70  58Hz  98.3dB  114.7dB   43W  121.4dB
--------------
 15/150+150 SD 	
                     99.0dB             2W
   R||    qts   f3   Spl     SplMech Pmech  SplEle  

@@ -4,11 +4,6 @@ sph8xtb
          qts   f3   Spl     SplMech Pmech  SplEle  
         0.56  44Hz  86.9dB  109.4dB  178W  105.9dB
 -------------
-sp200x
-                    92.0dB            35W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.53  68Hz  91.1dB  101.1dB   10W  106.5dB
--------------
 sph300tc
                     91.0dB           180W
   R||    qts   f3   Spl     SplMech Pmech  SplEle  

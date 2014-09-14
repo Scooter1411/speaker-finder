@@ -77,10 +77,6 @@ BEGIN{
         qes1=qes * ( re + r ) / re;
         qts1=1/((1/qms)+(1/qes1))
         if( qts1 >= 0.5 ) {
-            printf("-------------\n%s\n",name);
-            printf("                   %5.1fdB          %4.0fW\n", spl, pmax );
-            printf("         qts   f3   Spl     SplMech Pmech  SplEle  ");
-            printf("\n");
 
             fc  = fs;
             qtc = qts1;
@@ -114,17 +110,24 @@ BEGIN{
             } else {
                 f3 = 0.75 * fs 
             } 
-    
-            eff = 9.64 * 0.0000000001 * fs*fs*fs * vas / qes1;
-            spl1 = 112 + 10 * log( eff ) / log(10); 
-            
-            vd = sd * 2 * xmax / 10;
-            spl2 = 20 * log( 0.37 * f3 * f3 * vd ) / log(10);
-            
-            p2 = p0 * exp(( spl2 - spl1)/10*log(10));
-            spl3 = spl1 + 10 * log( pmax / p0 ) / log(10);
-            
-            printf("       %5.2f %3.0fHz %5.1fdB  %5.1fdB %4.0fW  %5.1fdB\n",qts1,f3,spl1,spl2,p2,spl3);
+            if( f3 < 50 ){
+
+                printf("-------------\n%s\n",name);
+                printf("                   %5.1fdB          %4.0fW\n", spl, pmax );
+                printf("         qts   f3   Spl     SplMech Pmech  SplEle  ");
+                printf("\n");
+	        
+                eff = 9.64 * 0.0000000001 * fs*fs*fs * vas / qes1;
+                spl1 = 112 + 10 * log( eff ) / log(10); 
+                
+                vd = sd * 2 * xmax / 10;
+                spl2 = 20 * log( 0.37 * f3 * f3 * vd ) / log(10);
+                
+                p2 = p0 * exp(( spl2 - spl1)/10*log(10));
+                spl3 = spl1 + 10 * log( pmax / p0 ) / log(10);
+                
+                printf("       %5.2f %3.0fHz %5.1fdB  %5.1fdB %4.0fW  %5.1fdB\n",qts1,f3,spl1,spl2,p2,spl3);
+            }
         }
     } else if( nvc == 2 && mms > 0 ) {
         # Güteänderung 
@@ -140,65 +143,65 @@ BEGIN{
         pmax1 = 0.75 * pmax;
 
         qts1=1/((1/qms)+(1/qes1))
-        if( qts1 >= 0.5 ) {
+        if(( qts1 >= 0.5 )&&( fs < 80 )) {
             printf("-------------\n%s\n",name);
             printf("                   %5.1fdB          %4.0fW\n", spl, pmax1 );
             printf("  R||    qts   f3   Spl     SplMech Pmech  SplEle  ");
             printf("\n");
-        }
-        for( i=1; i<=rparamax; i++ ) {
-            rp=rpara[i];
-
-            rms  = 2 * 3.1416 * fs * mms / qms;
-            rms2 = bl * bl / ( re1 + rp );
-            rmt  = rms + rms2;
-            qms1 = 2 * 3.1416 * fs * mms / rmt;
-            qts1=1/((1/qms1)+(1/qes1))
-#print rp " " qts1
-            if( qts1 >= 0.5 ) {
-                fc  = fs;
-                qtc = qts1;
-
-                if( qtc < 0.525 ) {
-                    f3 = 1.45 * fs
-                } else if ( qtc < 0.55 ) {
-                    f3 = 1.35 * fs 
-                } else if ( qtc < 0.575 ) {
-                    f3 = 1.29 * fs 
-                } else if ( qtc < 0.60 ) {
-                    f3 = 1.24 * fs 
-                } else if ( qtc < 0.65 ) {
-                    f3 = 1.14 * fs 
-                } else if ( qtc < 0.7 ) {
-                    f3 = 1.05 * fs 
-                } else if ( qtc < 0.75 ) {
-                    f3 = 0.98 * fs 
-                } else if ( qtc < 0.8 ) {
-                    f3 = 0.93 * fs 
-                } else if ( qtc < 0.85 ) {
-                    f3 = 0.88 * fs 
-                } else if ( qtc < 0.9 ) {
-                    f3 = 0.85 * fs 
-                } else if ( qtc < 0.95 ) {
-                    f3 = 0.81 * fs 
-                } else if ( qtc < 1.0 ) {
-                    f3 = 0.79 * fs 
-                } else if ( qtc < 1.05 ) {
-                    f3 = 0.77 * fs
-                } else {
-                    f3 = 0.75 * fs 
-                } 
+            for( i=1; i<=rparamax; i++ ) {
+                rp=rpara[i];
     
-                eff = 9.64 * 0.0000000001 * fs*fs*fs * vas / qes1;
-                spl1 = 112 + 10 * log( eff ) / log(10); 
-                
-                vd = sd * 2 * xmax / 10;
-                spl2 = 20 * log( 0.37 * f3 * f3 * vd ) / log(10);
-                
-                p2 = p0 * exp(( spl2 - spl1)/10*log(10));
-                spl3 = spl1 + 10 * log( pmax1 / p0 ) / log(10);
-                
-                printf("%6.1f %5.2f %3.0fHz %5.1fdB  %5.1fdB %4.0fW  %5.1fdB\n",rp,qts1,f3,spl1,spl2,p2,spl3);
+                rms  = 2 * 3.1416 * fs * mms / qms;
+                rms2 = bl * bl / ( re1 + rp );
+                rmt  = rms + rms2;
+                qms1 = 2 * 3.1416 * fs * mms / rmt;
+                qts1=1/((1/qms1)+(1/qes1))
+    #print rp " " qts1
+                if( qts1 >= 0.5 ) {
+                    fc  = fs;
+                    qtc = qts1;
+    
+                    if( qtc < 0.525 ) {
+                        f3 = 1.45 * fs
+                    } else if ( qtc < 0.55 ) {
+                        f3 = 1.35 * fs 
+                    } else if ( qtc < 0.575 ) {
+                        f3 = 1.29 * fs 
+                    } else if ( qtc < 0.60 ) {
+                        f3 = 1.24 * fs 
+                    } else if ( qtc < 0.65 ) {
+                        f3 = 1.14 * fs 
+                    } else if ( qtc < 0.7 ) {
+                        f3 = 1.05 * fs 
+                    } else if ( qtc < 0.75 ) {
+                        f3 = 0.98 * fs 
+                    } else if ( qtc < 0.8 ) {
+                        f3 = 0.93 * fs 
+                    } else if ( qtc < 0.85 ) {
+                        f3 = 0.88 * fs 
+                    } else if ( qtc < 0.9 ) {
+                        f3 = 0.85 * fs 
+                    } else if ( qtc < 0.95 ) {
+                        f3 = 0.81 * fs 
+                    } else if ( qtc < 1.0 ) {
+                        f3 = 0.79 * fs 
+                    } else if ( qtc < 1.05 ) {
+                        f3 = 0.77 * fs
+                    } else {
+                        f3 = 0.75 * fs 
+                    } 
+        
+                    eff = 9.64 * 0.0000000001 * fs*fs*fs * vas / qes1;
+                    spl1 = 112 + 10 * log( eff ) / log(10); 
+                    
+                    vd = sd * 2 * xmax / 10;
+                    spl2 = 20 * log( 0.37 * f3 * f3 * vd ) / log(10);
+                    
+                    p2 = p0 * exp(( spl2 - spl1)/10*log(10));
+                    spl3 = spl1 + 10 * log( pmax1 / p0 ) / log(10);
+                    
+                    printf("%6.1f %5.2f %3.0fHz %5.1fdB  %5.1fdB %4.0fW  %5.1fdB\n",rp,qts1,f3,spl1,spl2,p2,spl3);
+                }
             }
         }
     }

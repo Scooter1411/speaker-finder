@@ -1,14 +1,4 @@
 -------------
-215 RTF 64
-                    97.0dB            35W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.57  77Hz  96.3dB  107.4dB   13W  111.7dB
--------------
-215 RTF 64 bic
-                    96.0dB            35W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.55  67Hz  94.2dB  104.9dB   12W  109.6dB
--------------
 215 sig
                     94.0dB            35W
          qts   f3   Spl     SplMech Pmech  SplEle  
@@ -19,45 +9,10 @@
          qts   f3   Spl     SplMech Pmech  SplEle  
         0.84  44Hz  92.4dB  103.6dB   13W  107.8dB
 -------------
-165-2000
-                    94.0dB            35W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.82  62Hz  93.5dB  107.3dB   24W  108.9dB
--------------
 165exc 5V
                     91.8dB            35W
          qts   f3   Spl     SplMech Pmech  SplEle  
         1.09  49Hz  91.7dB  103.2dB   14W  107.1dB
--------------
-165exc 6V
-                    92.9dB            35W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.89  55Hz  92.8dB  105.4dB   18W  108.2dB
--------------
-165exc 7V
-                    93.5dB            35W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.78  60Hz  93.4dB  107.0dB   23W  108.8dB
--------------
-165exc 8V
-                    93.9dB            35W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.71  64Hz  93.9dB  107.9dB   25W  109.3dB
--------------
-165exc 9V
-                    94.2dB            35W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.67  68Hz  94.2dB  109.1dB   31W  109.6dB
--------------
-165exc 10V
-                    94.4dB            35W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.64  74Hz  94.4dB  110.5dB   41W  109.8dB
--------------
-285exc 6V
-                    97.1dB            70W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.66  56Hz  97.0dB  112.7dB   37W  115.4dB
 -------------
 400exc 5V
                     91.5dB            70W

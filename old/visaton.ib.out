@@ -4,31 +4,6 @@ V_B200
          qts   f3   Spl     SplMech Pmech  SplEle  
         0.78  37Hz  90.6dB   92.8dB    2W  106.6dB
 -------------
-V_BG17
-                    93.0dB            40W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.75 112Hz  93.3dB  105.9dB   18W  109.3dB
--------------
-V_HX10_4
-                    81.0dB            40W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.52 102Hz  86.2dB   96.0dB    9W  102.2dB
--------------
-V_W100S4
-                    86.0dB            30W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.51  96Hz  85.7dB   97.1dB   14W  100.5dB
--------------
-V_W100S8
-                    86.0dB            30W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.64  73Hz  84.4dB   92.4dB    6W   99.2dB
--------------
-V_W130S8
-                    87.0dB            50W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.64  73Hz  84.4dB   96.9dB   18W  101.4dB
--------------
 V_W170S8
                     86.0dB            50W
          qts   f3   Spl     SplMech Pmech  SplEle  
