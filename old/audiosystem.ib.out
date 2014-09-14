@@ -77,3 +77,8 @@ helon15spl
  100.0  0.76  33Hz  85.4dB  124.6dB 8266W  114.2dB
  150.0  0.77  33Hz  85.4dB  124.6dB 8266W  114.2dB
 9999.0  0.77  33Hz  85.4dB  124.6dB 8266W  114.2dB
+-------------
+m15
+                    89.1dB           400W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.58  30Hz  89.0dB  114.7dB  376W  115.0dB
