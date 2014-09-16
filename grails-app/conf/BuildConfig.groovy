@@ -98,5 +98,6 @@ grails.project.dependency.resolution = {
         compile ":searchable:0.6.7"
         compile ":class-domain-uml:0.1.5"
         compile ":platform-core:1.0.0"
+        compile ":easygrid:1.5.0"
     }
 }
