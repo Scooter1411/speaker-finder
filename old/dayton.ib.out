@@ -4,6 +4,11 @@ da175-8
          qts   f3   Spl     SplMech Pmech  SplEle  
         0.59  48Hz  83.1dB   99.8dB   47W  100.1dB
 -------------
+dcs380-4
+                    89.0dB           250W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.53  31Hz  88.3dB  113.7dB  347W  112.3dB
+-------------
 dvc310-88
                     92.0dB           262W
   R||    qts   f3   Spl     SplMech Pmech  SplEle  

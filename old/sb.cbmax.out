@@ -21,6 +21,50 @@ SplMech  Pmech SplEle     f3
  96.2dB    12W 102.3dB @  46Hz
  96.9dB    14W 102.3dB @  48Hz
 -------------
+SB17NRXC35-8
+      89.0dB                             60W
+SplMech  Pmech SplEle     f3
+
+ 81.8dB     0W 104.1dB @  16Hz
+ 83.8dB     1W 104.1dB @  18Hz
+ 85.7dB     1W 104.1dB @  20Hz
+ 87.3dB     1W 104.1dB @  22Hz
+ 88.8dB     2W 104.1dB @  24Hz
+ 90.2dB     2W 104.1dB @  26Hz
+ 91.5dB     3W 104.1dB @  28Hz
+ 92.7dB     4W 104.1dB @  30Hz
+ 93.8dB     6W 104.1dB @  32Hz
+ 94.9dB     7W 104.1dB @  34Hz
+ 95.9dB     9W 104.1dB @  36Hz
+ 96.8dB    11W 104.1dB @  38Hz
+ 97.7dB    14W 104.1dB @  40Hz
+ 98.6dB    17W 104.1dB @  42Hz
+ 99.4dB    20W 104.1dB @  44Hz
+100.1dB    24W 104.1dB @  46Hz
+100.9dB    29W 104.1dB @  48Hz
+-------------
+SB17NRXC35-4
+      92.0dB                             60W
+SplMech  Pmech SplEle     f3
+
+ 81.8dB     1W 101.7dB @  16Hz
+ 83.8dB     1W 101.7dB @  18Hz
+ 85.7dB     1W 101.7dB @  20Hz
+ 87.3dB     2W 101.7dB @  22Hz
+ 88.8dB     3W 101.7dB @  24Hz
+ 90.2dB     4W 101.7dB @  26Hz
+ 91.5dB     6W 101.7dB @  28Hz
+ 92.7dB     8W 101.7dB @  30Hz
+ 93.8dB    10W 101.7dB @  32Hz
+ 94.9dB    12W 101.7dB @  34Hz
+ 95.9dB    16W 101.7dB @  36Hz
+ 96.8dB    20W 101.7dB @  38Hz
+ 97.7dB    24W 101.7dB @  40Hz
+ 98.6dB    29W 101.7dB @  42Hz
+ 99.4dB    35W 101.7dB @  44Hz
+100.1dB    42W 101.7dB @  46Hz
+100.9dB    50W 101.7dB @  48Hz
+-------------
 SB23NRXS45-8
       88.5dB                             60W
 SplMech  Pmech SplEle     f3

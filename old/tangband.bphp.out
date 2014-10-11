@@ -50,7 +50,7 @@ W8-740C
 
 -------------
 W8Q-1071
-            86.7dB           200W      1x100mm
+            86.7dB           250W      1x100mm
    fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
  11.0 Hz  28 Hz   73 Hz   92.3 dB   oo l +  14 l  * 1x50mm    473 mm  2938 µF
  12.0 Hz  30 Hz   75 Hz   93.7 dB  441 l +  14 l  * 1x50mm    473 mm  2630 µF

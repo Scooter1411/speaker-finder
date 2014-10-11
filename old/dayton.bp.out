@@ -494,6 +494,61 @@ dcs305-4
  52.4Hz  79Hz  120Hz  119.5dB   11l +  22l  * 1x50mm    431mm
  56.7Hz  84Hz  124Hz  120.9dB    9l +  22l  - 1x70mm    752mm
 -------------
+dcs380-4
+            89.0dB           250W      2x100mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+  9.3Hz  19Hz   40Hz   92.9dB -832l + 130l  * 1x70mm   2364mm
+ 10.2Hz  21Hz   41Hz   94.6dB -1209l + 130l  * 1x70mm   2107mm
+ 11.2Hz  22Hz   42Hz   96.2dB -2463l + 130l  * 1x70mm   1878mm
+ 12.3Hz  23Hz   43Hz   97.7dB 15378l + 130l  * 1x70mm   1674mm
+ 13.4Hz  24Hz   44Hz   99.3dB 1679l + 130l  * 1x70mm   1492mm
+ 14.7Hz  26Hz   46Hz  100.8dB  841l + 130l  * 1x70mm   1330mm
+ 16.0Hz  27Hz   47Hz  102.3dB  539l + 130l  * 1x70mm   1185mm
+ 17.4Hz  29Hz   48Hz  103.8dB  384l + 130l  * 1x70mm   1056mm
+ 18.9Hz  31Hz   50Hz  105.2dB  290l + 130l  * 1x70mm    941mm
+ 20.6Hz  33Hz   52Hz  106.7dB  228l + 130l  * 1x70mm    839mm
+ 22.3Hz  35Hz   53Hz  108.1dB  184l + 130l  * 1x70mm    748mm
+ 24.2Hz  37Hz   55Hz  109.5dB  151l + 130l  * 1x70mm    666mm
+ 26.2Hz  38Hz   57Hz  110.9dB  136l + 130l  * 1x70mm    624mm
+ 28.4Hz  41Hz   59Hz  112.2dB  106l + 130l  * 1x70mm    529mm
+ 30.6Hz  43Hz   62Hz  113.6dB   90l + 130l  * 1x70mm    472mm
+ 33.1Hz  46Hz   64Hz  114.9dB   77l + 130l  * 1x70mm    420mm
+ 35.7Hz  49Hz   67Hz  116.2dB   66l + 130l  - 1x100mm   765mm
+  9.3Hz  23Hz   40Hz   92.9dB -10828l +  95l  * 1x70mm   2364mm
+ 10.2Hz  24Hz   41Hz   94.6dB 2388l +  95l  * 1x70mm   2107mm
+ 11.2Hz  25Hz   42Hz   96.2dB 1009l +  95l  * 1x70mm   1878mm
+ 12.3Hz  27Hz   43Hz   97.7dB  612l +  95l  * 1x70mm   1674mm
+ 13.4Hz  29Hz   44Hz   99.3dB  425l +  95l  * 1x70mm   1492mm
+ 14.7Hz  30Hz   46Hz  100.8dB  316l +  95l  * 1x70mm   1329mm
+ 16.0Hz  32Hz   47Hz  102.3dB  246l +  95l  * 1x70mm   1185mm
+ 17.4Hz  34Hz   48Hz  103.8dB  197l +  95l  * 1x70mm   1056mm
+ 18.9Hz  36Hz   50Hz  105.2dB  160l +  95l  * 1x70mm    941mm
+ 20.6Hz  38Hz   52Hz  106.7dB  133l +  95l  * 1x70mm    839mm
+ 22.3Hz  40Hz   53Hz  108.1dB  112l +  95l  * 1x70mm    748mm
+ 24.2Hz  37Hz   55Hz  109.5dB  151l +  95l  * 1x70mm    907mm
+ 26.2Hz  38Hz   57Hz  110.9dB  136l +  95l  * 1x70mm    849mm
+ 28.4Hz  41Hz   59Hz  112.2dB  106l +  95l  * 1x70mm    720mm
+ 26.3Hz  43Hz   62Hz  111.0dB   90l +  95l  * 1x70mm    642mm
+ 28.8Hz  46Hz   64Hz  112.5dB   77l +  95l  * 1x70mm    572mm
+ 35.7Hz  49Hz   67Hz  116.2dB   66l +  95l  * 1x70mm    510mm
+ 11.2Hz  27Hz   66Hz   96.1dB  572l +  66l  * 1x70mm   2364mm
+ 12.4Hz  29Hz   67Hz   97.8dB  403l +  66l  * 1x70mm   2107mm
+ 13.6Hz  30Hz   68Hz   99.5dB  302l +  66l  * 1x70mm   1878mm
+ 15.0Hz  32Hz   70Hz  101.1dB  236l +  66l  * 1x70mm   1674mm
+ 16.4Hz  34Hz   71Hz  102.8dB  190l +  66l  * 1x70mm   1492mm
+ 18.0Hz  36Hz   73Hz  104.4dB  155l +  66l  * 1x70mm   1330mm
+ 19.8Hz  38Hz   75Hz  106.0dB  129l +  66l  * 1x70mm   1185mm
+ 21.6Hz  41Hz   76Hz  107.6dB  109l +  66l  * 1x70mm   1056mm
+ 23.7Hz  43Hz   78Hz  109.1dB   92l +  66l  * 1x70mm    941mm
+ 25.8Hz  46Hz   81Hz  110.6dB   79l +  66l  * 1x70mm    839mm
+ 28.2Hz  48Hz   83Hz  112.1dB   68l +  66l  * 1x70mm    748mm
+ 30.7Hz  51Hz   85Hz  113.6dB   58l +  66l  * 1x70mm    666mm
+ 33.4Hz  54Hz   88Hz  115.1dB   51l +  66l  * 1x70mm    594mm
+ 36.3Hz  57Hz   91Hz  116.5dB   44l +  66l  * 1x70mm    529mm
+ 39.3Hz  61Hz   94Hz  117.9dB   39l +  66l  * 1x70mm    472mm
+ 42.7Hz  64Hz   97Hz  119.3dB   34l +  66l  * 1x70mm    420mm
+ 46.2Hz  68Hz  101Hz  120.7dB   30l +  66l  - 1x100mm   765mm
+-------------
 dcs450-4
             94.0dB           300W      3x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C

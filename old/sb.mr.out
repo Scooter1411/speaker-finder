@@ -13,6 +13,33 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (106.5dB   149W 101.8dB) @  83Hz
               (109.5dB   298W 101.8dB) @  99Hz
 -------------
+SB17NRXC35-8
+      89.0dB             60W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  87.8dB: (106.0dB    94W 104.1dB) @  65Hz
+              (109.0dB   189W 104.1dB) @  77Hz
+              (112.1dB   377W 104.1dB) @  91Hz
+0.60  87.5dB: (105.0dB    79W 103.8dB) @  61Hz
+              (108.0dB   158W 103.8dB) @  72Hz
+              (111.0dB   316W 103.8dB) @  86Hz
+1.00  87.2dB: (104.0dB    67W 103.5dB) @  57Hz
+              (107.0dB   134W 103.5dB) @  68Hz
+              (110.0dB   268W 103.5dB) @  81Hz
+              (113.0dB   535W 103.5dB) @  97Hz
+-------------
+SB17NRXC35-4
+      92.0dB             60W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.0dB: (108.0dB   253W 101.7dB) @  72Hz
+              (111.0dB   507W 101.7dB) @  86Hz
+0.60  87.5dB: (106.1dB   185W 101.2dB) @  65Hz
+              (109.1dB   370W 101.2dB) @  77Hz
+1.00  87.1dB: (104.4dB   140W 100.8dB) @  59Hz
+              (107.5dB   280W 100.8dB) @  70Hz
+              (110.5dB   561W 100.8dB) @  83Hz
+-------------
 SB23NRXS45-8
       88.5dB             60W
 Rpre   Spl     SplMech Pmech SplEle      f3

@@ -72,6 +72,19 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (106.9dB   157W 102.7dB) @  78Hz
               (109.9dB   314W 102.7dB) @  93Hz
 -------------
+WF182BD01
+      88.0dB             80W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  84.8dB: (104.3dB   227W  99.8dB) @  56Hz
+              (107.3dB   454W  99.8dB) @  66Hz
+0.60  84.3dB: (102.5dB   165W  99.3dB) @  50Hz
+              (105.5dB   330W  99.3dB) @  59Hz
+              (108.5dB   660W  99.3dB) @  71Hz
+1.00  83.8dB: (100.8dB   124W  98.9dB) @  45Hz
+              (103.8dB   248W  98.9dB) @  54Hz
+              (106.8dB   496W  98.9dB) @  64Hz
+-------------
 WF182BD02
       85.0dB             80W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -89,6 +102,34 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (105.9dB   194W 102.0dB) @  61Hz
               (108.9dB   387W 102.0dB) @  72Hz
               (111.9dB   775W 102.0dB) @  86Hz
+-------------
+WF182BD09/11
+      88.5dB             80W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  85.3dB: (105.9dB   290W 100.3dB) @  61Hz
+              (108.9dB   580W 100.3dB) @  72Hz
+0.60  84.8dB: (104.1dB   211W  99.8dB) @  55Hz
+              (107.1dB   422W  99.8dB) @  65Hz
+1.00  84.4dB: (102.4dB   159W  99.4dB) @  50Hz
+              (105.4dB   318W  99.4dB) @  59Hz
+              (108.4dB   636W  99.4dB) @  70Hz
+-------------
+WF182BD10/12
+      86.0dB             80W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  85.1dB: (104.2dB   101W 103.2dB) @  55Hz
+              (107.2dB   201W 103.2dB) @  65Hz
+              (110.2dB   403W 103.2dB) @  78Hz
+0.60  84.9dB: (103.2dB    85W 102.9dB) @  52Hz
+              (106.2dB   171W 102.9dB) @  62Hz
+              (109.2dB   341W 102.9dB) @  74Hz
+              (112.2dB   682W 102.9dB) @  88Hz
+1.00  84.6dB: (102.3dB    73W 102.7dB) @  49Hz
+              (105.3dB   146W 102.7dB) @  59Hz
+              (108.3dB   292W 102.7dB) @  70Hz
+              (111.3dB   583W 102.7dB) @  83Hz
 -------------
 SW178WA01
       86.0dB            100W

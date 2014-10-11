@@ -305,6 +305,38 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
                 392.4l @  15.5Hz  =>   98.6dB   53W 105.3dB @  12.5Hz   1x100mm    41 mm 
 
 -------------
+dcs380-4                               89.0dB  250W                     2x100mm
+Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+
+0.20  88.3dB:   400.5l @  19.3Hz  =>  107.9dB  231W 108.2dB @  17.5Hz   2x100mm   118 mm 
+                448.5l @  18.6Hz  =>  106.9dB  184W 108.2dB @  16.5Hz   2x100mm    95 mm 
+                502.4l @  17.9Hz  =>  105.9dB  147W 108.2dB @  15.6Hz   2x100mm    74 mm 
+             *  562.6l @  17.3Hz  =>  104.9dB  117W 108.2dB @  14.8Hz   2x100mm    55 mm 
+                630.2l @  16.7Hz  =>  103.9dB   93W 108.2dB @  14.0Hz   2x100mm    38 mm 
+                705.8l @  16.1Hz  =>  102.9dB   74W 108.2dB @  13.2Hz   2x100mm    23 mm 
+                790.5l @  15.5Hz  =>  102.0dB   59W 108.2dB @  12.5Hz + 3x100mm    42 mm 
+                885.3l @  15.0Hz  =>  101.0dB   47W 108.2dB @  11.8Hz + 3x100mm    24 mm 
+                991.6l @  14.4Hz  =>  100.0dB   38W 108.2dB @  11.1Hz + 4x100mm    34 mm 
+               1110.6l @  13.9Hz  =>   99.0dB   30W 108.2dB @  10.5Hz + 5x100mm    38 mm 
+               1243.8l @  13.4Hz  =>   98.0dB   24W 108.2dB @   9.9Hz + 6x100mm    36 mm 
+
+0.60  87.8dB:   527.5l @  17.7Hz  =>  105.5dB  149W 107.7dB @  15.2Hz   2x100mm    65 mm 
+                590.8l @  17.0Hz  =>  104.5dB  119W 107.7dB @  14.4Hz   2x100mm    47 mm 
+                661.6l @  16.4Hz  =>  103.5dB   95W 107.7dB @  13.6Hz   2x100mm    31 mm 
+             *  741.0l @  15.8Hz  =>  102.5dB   76W 107.7dB @  12.9Hz + 3x100mm    54 mm 
+                830.0l @  15.3Hz  =>  101.5dB   60W 107.7dB @  12.2Hz + 3x100mm    34 mm 
+                929.6l @  14.7Hz  =>  100.5dB   48W 107.7dB @  11.5Hz + 4x100mm    46 mm 
+               1041.1l @  14.2Hz  =>   99.6dB   38W 107.7dB @  10.9Hz + 4x100mm    25 mm 
+
+1.00  87.4dB:   672.3l @  16.3Hz  =>  103.4dB  102W 107.3dB @  13.5Hz   2x100mm    29 mm 
+                753.0l @  15.8Hz  =>  102.4dB   81W 107.3dB @  12.8Hz + 3x100mm    51 mm 
+                843.3l @  15.2Hz  =>  101.4dB   65W 107.3dB @  12.1Hz + 3x100mm    32 mm 
+             *  944.5l @  14.7Hz  =>  100.4dB   52W 107.3dB @  11.4Hz + 4x100mm    43 mm 
+               1057.9l @  14.1Hz  =>   99.4dB   41W 107.3dB @  10.8Hz + 4x100mm    23 mm 
+               1184.8l @  13.6Hz  =>   98.4dB   33W 107.3dB @  10.2Hz + 5x100mm    25 mm 
+               1327.0l @  13.1Hz  =>   97.5dB   26W 107.3dB @   9.6Hz + 6x100mm    23 mm 
+
+-------------
 dcs450-4                               94.0dB  300W                     3x100mm
 Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 

@@ -115,6 +115,19 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 1.00  85.6dB: (109.9dB   717W 105.3dB) @  30Hz
               (112.9dB  1435W 105.3dB) @  36Hz
 -------------
+dcs380-4
+      89.0dB            250W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.3dB: (113.3dB   811W 108.2dB) @  30Hz
+              (116.3dB  1622W 108.2dB) @  36Hz
+0.60  87.8dB: (111.6dB   620W 107.7dB) @  27Hz
+              (114.7dB  1239W 107.7dB) @  33Hz
+              (117.7dB  2478W 107.7dB) @  39Hz
+1.00  87.4dB: (110.2dB   490W 107.3dB) @  25Hz
+              (113.2dB   979W 107.3dB) @  30Hz
+              (116.2dB  1958W 107.3dB) @  36Hz
+-------------
 dcs450-4
       94.0dB            300W
 Rpre   Spl     SplMech Pmech SplEle      f3

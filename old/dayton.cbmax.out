@@ -197,6 +197,28 @@ SplMech  Pmech SplEle     f3
 117.2dB  3093W 106.3dB @  46Hz
 118.0dB  3667W 106.3dB @  48Hz
 -------------
+dcs380-4
+      89.0dB                            250W
+SplMech  Pmech SplEle     f3
+
+102.3dB    64W 108.2dB @  16Hz
+104.4dB   103W 108.2dB @  18Hz
+106.2dB   157W 108.2dB @  20Hz
+107.8dB   230W 108.2dB @  22Hz
+109.3dB   325W 108.2dB @  24Hz
+110.7dB   448W 108.2dB @  26Hz
+112.0dB   603W 108.2dB @  28Hz
+113.2dB   795W 108.2dB @  30Hz
+114.3dB  1029W 108.2dB @  32Hz
+115.4dB  1311W 108.2dB @  34Hz
+116.4dB  1648W 108.2dB @  36Hz
+117.3dB  2045W 108.2dB @  38Hz
+118.2dB  2511W 108.2dB @  40Hz
+119.1dB  3052W 108.2dB @  42Hz
+119.9dB  3676W 108.2dB @  44Hz
+120.7dB  4392W 108.2dB @  46Hz
+121.4dB  5207W 108.2dB @  48Hz
+-------------
 dcs450-4
       94.0dB                            300W
 SplMech  Pmech SplEle     f3
