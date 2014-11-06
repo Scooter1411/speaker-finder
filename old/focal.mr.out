@@ -111,3 +111,11 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 1.00  91.7dB: (116.8dB   406W 114.2dB) @  43Hz
               (119.8dB   812W 114.2dB) @  51Hz
               (122.8dB  1624W 114.2dB) @  60Hz
+-------------
+13W7653
+      90.6dB            200W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  90.1dB: (120.6dB  2798W 109.1dB) @  78Hz
+0.60  89.6dB: (118.8dB  2074W 108.7dB) @  70Hz
+1.00  89.2dB: (117.2dB  1590W 108.2dB) @  64Hz

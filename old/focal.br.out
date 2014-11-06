@@ -291,3 +291,47 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
                 425.0l @  22.3Hz  =>  108.6dB   61W 114.2dB @  21.1Hz   2x100mm    81 mm 
                 476.0l @  21.5Hz  =>  107.6dB   49W 114.2dB @  20.0Hz   2x100mm    61 mm 
 
+-------------
+13W7653                                90.6dB  200W                     2x100mm
+Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+
+0.20  90.1dB:    25.7l @  48.8Hz  =>  117.1dB 1235W 109.1dB @  50.4Hz - 1x100mm   358 mm 
+                 28.8l @  47.0Hz  =>  116.1dB  984W 109.1dB @  47.6Hz   2x100mm   661 mm 
+                 32.2l @  45.4Hz  =>  115.1dB  785W 109.1dB @  45.0Hz   2x100mm   579 mm 
+             *   36.1l @  43.8Hz  =>  114.1dB  626W 109.1dB @  42.5Hz   2x100mm   506 mm 
+                 40.4l @  42.2Hz  =>  113.1dB  499W 109.1dB @  40.2Hz   2x100mm   441 mm 
+                 45.3l @  40.7Hz  =>  112.1dB  398W 109.1dB @  38.0Hz   2x100mm   383 mm 
+                 50.7l @  39.2Hz  =>  111.1dB  317W 109.1dB @  35.9Hz   2x100mm   331 mm 
+                 56.8l @  37.8Hz  =>  110.2dB  253W 109.1dB @  33.9Hz   2x100mm   284 mm 
+                 63.6l @  36.5Hz  =>  109.2dB  201W 109.1dB @  32.0Hz   2x100mm   243 mm 
+                 71.3l @  35.2Hz  =>  108.2dB  161W 109.1dB @  30.3Hz   2x100mm   206 mm 
+                 79.8l @  33.9Hz  =>  107.2dB  128W 109.1dB @  28.6Hz   2x100mm   173 mm 
+                 89.4l @  32.7Hz  =>  106.2dB  102W 109.1dB @  27.0Hz   2x100mm   143 mm 
+                100.1l @  31.6Hz  =>  105.2dB   81W 109.1dB @  25.5Hz   2x100mm   117 mm 
+                112.1l @  30.4Hz  =>  104.3dB   65W 109.1dB @  24.1Hz   2x100mm    93 mm 
+                125.6l @  29.4Hz  =>  103.3dB   52W 109.1dB @  22.8Hz   2x100mm    72 mm 
+                140.7l @  28.3Hz  =>  102.3dB   41W 109.1dB @  21.6Hz   2x100mm    53 mm 
+                157.5l @  27.3Hz  =>  101.3dB   33W 109.1dB @  20.4Hz   2x100mm    37 mm 
+                176.4l @  26.3Hz  =>  100.3dB   26W 109.1dB @  19.2Hz   2x100mm    22 mm 
+                197.6l @  25.4Hz  =>   99.3dB   21W 109.1dB @  18.2Hz + 3x100mm    41 mm 
+                221.3l @  24.5Hz  =>   98.4dB   17W 109.1dB @  17.2Hz + 3x100mm    23 mm 
+                247.9l @  23.6Hz  =>   97.4dB   13W 109.1dB @  16.2Hz + 4x100mm    32 mm 
+                277.6l @  22.8Hz  =>   96.4dB   11W 109.1dB @  15.3Hz + 5x100mm    36 mm 
+                311.0l @  22.0Hz  =>   95.4dB    8W 109.1dB @  14.5Hz + 6x100mm    34 mm 
+
+0.60  89.6dB:    34.5l @  44.4Hz  =>  114.5dB  766W 108.7dB @  43.5Hz   2x100mm   535 mm 
+                 38.6l @  42.8Hz  =>  113.5dB  611W 108.7dB @  41.1Hz   2x100mm   466 mm 
+                 43.3l @  41.3Hz  =>  112.5dB  487W 108.7dB @  38.9Hz   2x100mm   405 mm 
+             *   48.5l @  39.8Hz  =>  111.5dB  388W 108.7dB @  36.7Hz   2x100mm   351 mm 
+                 54.3l @  38.4Hz  =>  110.6dB  309W 108.7dB @  34.7Hz   2x100mm   302 mm 
+                 60.8l @  37.0Hz  =>  109.6dB  247W 108.7dB @  32.8Hz   2x100mm   259 mm 
+                 68.1l @  35.7Hz  =>  108.6dB  197W 108.7dB @  31.0Hz   2x100mm   220 mm 
+
+1.00  89.2dB:    44.9l @  40.8Hz  =>  112.2dB  501W 108.2dB @  38.2Hz   2x100mm   387 mm 
+                 50.2l @  39.4Hz  =>  111.2dB  399W 108.2dB @  36.1Hz   2x100mm   335 mm 
+                 56.3l @  38.0Hz  =>  110.2dB  318W 108.2dB @  34.1Hz   2x100mm   288 mm 
+             *   63.0l @  36.6Hz  =>  109.3dB  254W 108.2dB @  32.2Hz   2x100mm   246 mm 
+                 70.6l @  35.3Hz  =>  108.3dB  202W 108.2dB @  30.4Hz   2x100mm   209 mm 
+                 79.1l @  34.0Hz  =>  107.3dB  161W 108.2dB @  28.7Hz   2x100mm   175 mm 
+                 88.5l @  32.8Hz  =>  106.3dB  128W 108.2dB @  27.2Hz   2x100mm   145 mm 
+
