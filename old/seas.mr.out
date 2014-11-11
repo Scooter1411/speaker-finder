@@ -175,6 +175,14 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (110.6dB   317W 106.6dB) @  45Hz
               (113.6dB   635W 106.6dB) @  53Hz
 -------------
+L26ROY
+      88.0dB            250W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  86.1dB: (118.6dB  4639W 105.9dB) @  48Hz
+0.60  85.6dB: (116.8dB  3418W 105.4dB) @  43Hz
+1.00  85.1dB: (115.1dB  2608W 105.0dB) @  39Hz
+-------------
 L26RO4Y
       85.5dB            250W
 Rpre   Spl     SplMech Pmech SplEle      f3

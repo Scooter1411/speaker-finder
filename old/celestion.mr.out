@@ -68,6 +68,20 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (123.9dB  1177W 117.1dB) @ 126Hz
               (126.9dB  2354W 117.1dB) @ 150Hz
 -------------
+tf1225cx
+      97.0dB            250W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  96.5dB: (122.1dB   517W 118.9dB) @ 114Hz
+              (125.1dB  1035W 118.9dB) @ 135Hz
+              (128.1dB  2070W 118.9dB) @ 161Hz
+0.60  96.2dB: (121.0dB   437W 118.6dB) @ 107Hz
+              (124.0dB   874W 118.6dB) @ 127Hz
+              (127.1dB  1747W 118.6dB) @ 151Hz
+1.00  95.9dB: (120.1dB   373W 118.3dB) @ 101Hz
+              (123.1dB   747W 118.3dB) @ 121Hz
+              (126.1dB  1494W 118.3dB) @ 143Hz
+-------------
 tf1525
       98.0dB            250W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -90,7 +104,7 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (123.1dB  1010W 117.0dB) @  95Hz
               (126.1dB  2020W 117.0dB) @ 113Hz
 -------------
-FTR18-4080HDX
+ftr18-4080hdx
       97.0dB           1000W
 Rpre   Spl     SplMech Pmech SplEle      f3
 
@@ -102,6 +116,20 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 1.00  93.4dB: (124.3dB  1920W 121.5dB) @  49Hz
               (127.3dB  3839W 121.5dB) @  58Hz
               (130.3dB  7678W 121.5dB) @  69Hz
+-------------
+ftr18-4080fd
+      97.0dB           1000W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  95.5dB: (127.0dB  2095W 123.8dB) @  65Hz
+              (130.0dB  4190W 123.8dB) @  77Hz
+              (133.0dB  8380W 123.8dB) @  92Hz
+0.60  95.2dB: (125.9dB  1735W 123.5dB) @  61Hz
+              (128.9dB  3469W 123.5dB) @  72Hz
+              (131.9dB  6938W 123.5dB) @  86Hz
+1.00  94.9dB: (124.8dB  1455W 123.2dB) @  57Hz
+              (127.8dB  2911W 123.2dB) @  68Hz
+              (130.8dB  5821W 123.2dB) @  81Hz
 -------------
 CF18VJD
       97.0dB           1600W

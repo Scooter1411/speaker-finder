@@ -387,6 +387,34 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
                 209.7l @  18.7Hz  =>   98.9dB   21W 106.6dB @  18.1Hz   1x100mm   206 mm 
 
 -------------
+L26ROY                                 88.0dB  250W                     1x100mm
+Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+
+0.20  86.1dB:    35.9l @  29.2Hz  =>  116.9dB 3132W 105.9dB @  34.2Hz - 1x70mm    609 mm 
+                 40.2l @  28.2Hz  =>  115.9dB 2496W 105.9dB @  32.4Hz - 1x70mm    538 mm 
+                 45.0l @  27.2Hz  =>  114.9dB 1990W 105.9dB @  30.6Hz - 1x70mm    475 mm 
+             *   50.5l @  26.2Hz  =>  113.9dB 1587W 105.9dB @  28.9Hz - 1x70mm    418 mm 
+                 56.5l @  25.3Hz  =>  113.0dB 1265W 105.9dB @  27.3Hz - 1x70mm    368 mm 
+                 63.3l @  24.4Hz  =>  112.0dB 1008W 105.9dB @  25.8Hz   1x100mm   691 mm 
+                 70.9l @  23.5Hz  =>  111.0dB  804W 105.9dB @  24.4Hz   1x100mm   609 mm 
+
+0.60  85.6dB:    48.5l @  26.5Hz  =>  114.3dB 1922W 105.4dB @  29.5Hz - 1x70mm    437 mm 
+                 54.4l @  25.6Hz  =>  113.3dB 1532W 105.4dB @  27.8Hz - 1x70mm    385 mm 
+                 60.9l @  24.7Hz  =>  112.3dB 1221W 105.4dB @  26.3Hz - 1x70mm    338 mm 
+             *   68.2l @  23.8Hz  =>  111.3dB  974W 105.4dB @  24.8Hz   1x100mm   636 mm 
+                 76.4l @  22.9Hz  =>  110.3dB  776W 105.4dB @  23.5Hz   1x100mm   560 mm 
+                 85.5l @  22.1Hz  =>  109.3dB  619W 105.4dB @  22.2Hz   1x100mm   492 mm 
+                 95.8l @  21.3Hz  =>  108.4dB  493W 105.4dB @  21.0Hz   1x100mm   432 mm 
+
+1.00  85.1dB:    63.4l @  24.3Hz  =>  111.9dB 1247W 105.0dB @  25.8Hz   1x100mm   689 mm 
+                 71.1l @  23.5Hz  =>  111.0dB  994W 105.0dB @  24.3Hz   1x100mm   607 mm 
+                 79.6l @  22.6Hz  =>  110.0dB  792W 105.0dB @  23.0Hz   1x100mm   535 mm 
+             *   89.1l @  21.8Hz  =>  109.0dB  632W 105.0dB @  21.7Hz   1x100mm   469 mm 
+                 99.8l @  21.1Hz  =>  108.0dB  504W 105.0dB @  20.5Hz   1x100mm   411 mm 
+                111.8l @  20.3Hz  =>  107.0dB  401W 105.0dB @  19.4Hz   1x100mm   359 mm 
+                125.2l @  19.6Hz  =>  106.0dB  320W 105.0dB @  18.3Hz   1x100mm   313 mm 
+
+-------------
 L26RO4Y                                85.5dB  250W                     1x100mm
 Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
