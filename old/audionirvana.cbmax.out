@@ -3,20 +3,20 @@ Super 8.cf
       97.3dB                             30W
 SplMech  Pmech SplEle     f3
 
- 71.8dB     0W 111.5dB @  16Hz
- 73.9dB     0W 111.5dB @  18Hz
- 75.7dB     0W 111.5dB @  20Hz
- 77.4dB     0W 111.5dB @  22Hz
- 78.9dB     0W 111.5dB @  24Hz
- 80.3dB     0W 111.5dB @  26Hz
- 81.5dB     0W 111.5dB @  28Hz
- 82.7dB     0W 111.5dB @  30Hz
- 83.9dB     0W 111.5dB @  32Hz
- 84.9dB     0W 111.5dB @  34Hz
- 85.9dB     0W 111.5dB @  36Hz
- 86.9dB     0W 111.5dB @  38Hz
- 87.7dB     0W 111.5dB @  40Hz
- 88.6dB     0W 111.5dB @  42Hz
- 89.4dB     0W 111.5dB @  44Hz
- 90.2dB     0W 111.5dB @  46Hz
- 90.9dB     0W 111.5dB @  48Hz
+ 71.8dB    53W  69.3dB @  16Hz   42
+ 73.9dB    54W  71.4dB @  18Hz   40
+ 75.7dB    54W  73.2dB @  20Hz   38
+ 77.4dB    54W  74.8dB @  22Hz   37
+ 78.9dB    54W  76.3dB @  24Hz   35
+ 80.3dB    54W  77.7dB @  26Hz   34
+ 81.5dB    54W  79.0dB @  28Hz   33
+ 82.7dB    54W  80.2dB @  30Hz   31
+ 83.9dB    54W  81.3dB @  32Hz   30
+ 84.9dB    54W  82.4dB @  34Hz   29
+ 85.9dB    54W  83.4dB @  36Hz   28
+ 86.9dB    54W  84.3dB @  38Hz   27
+ 87.7dB    54W  85.2dB @  40Hz   26
+ 88.6dB    54W  86.0dB @  42Hz   25
+ 89.4dB    54W  86.8dB @  44Hz   25
+ 90.2dB    54W  87.6dB @  46Hz   24
+ 90.9dB    54W  88.3dB @  48Hz   23
