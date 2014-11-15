@@ -8,6 +8,24 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 1.00  86.9dB: (103.8dB    67W  97.2dB) @ 149Hz
               (106.8dB   135W  97.2dB) @ 177Hz
 -------------
+10F8424G00
+      86.6dB             15W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  87.4dB: (105.7dB    93W  97.8dB) @ 167Hz
+0.60  87.1dB: (104.7dB    78W  97.5dB) @ 157Hz
+1.00  86.9dB: (103.8dB    67W  97.2dB) @ 149Hz
+              (106.8dB   135W  97.2dB) @ 177Hz
+-------------
+15M4831G00
+      90.0dB             40W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  87.9dB: (109.3dB   312W 100.3dB) @ 102Hz
+0.60  87.5dB: (107.6dB   234W  99.9dB) @  92Hz
+1.00  87.1dB: (106.1dB   181W  99.5dB) @  85Hz
+              (109.1dB   362W  99.5dB) @ 100Hz
+-------------
 15M4831G00
       90.0dB             40W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -85,6 +103,34 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (107.5dB   223W 102.5dB) @  68Hz
               (110.5dB   446W 102.5dB) @  81Hz
 -------------
+18W8434G00
+      88.7dB             55W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.9dB: (108.3dB   122W 104.8dB) @  78Hz
+              (111.3dB   244W 104.8dB) @  93Hz
+              (114.3dB   487W 104.8dB) @ 110Hz
+0.60  88.7dB: (107.2dB   101W 104.5dB) @  73Hz
+              (110.2dB   203W 104.5dB) @  87Hz
+              (113.2dB   405W 104.5dB) @ 104Hz
+1.00  88.4dB: (106.1dB    85W 104.2dB) @  69Hz
+              (109.2dB   171W 104.2dB) @  82Hz
+              (112.2dB   342W 104.2dB) @  98Hz
+-------------
+18W8434G00
+      88.7dB             55W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.9dB: (108.3dB   122W 104.8dB) @  78Hz
+              (111.3dB   244W 104.8dB) @  93Hz
+              (114.3dB   487W 104.8dB) @ 110Hz
+0.60  88.7dB: (107.2dB   101W 104.5dB) @  73Hz
+              (110.2dB   203W 104.5dB) @  87Hz
+              (113.2dB   405W 104.5dB) @ 104Hz
+1.00  88.4dB: (106.1dB    85W 104.2dB) @  69Hz
+              (109.2dB   171W 104.2dB) @  82Hz
+              (112.2dB   342W 104.2dB) @  98Hz
+-------------
 18W8531G
       87.0dB             60W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -123,7 +169,18 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (110.7dB   379W 104.9dB) @  70Hz
               (113.7dB   759W 104.9dB) @  84Hz
 -------------
-22W-8534G00
+22W4534G00
+      92.4dB             70W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  89.6dB: (110.7dB   340W 103.8dB) @  58Hz
+              (113.7dB   679W 103.8dB) @  69Hz
+0.60  89.1dB: (108.7dB   246W 103.3dB) @  52Hz
+              (111.7dB   491W 103.3dB) @  62Hz
+1.00  88.6dB: (107.0dB   184W 102.8dB) @  47Hz
+              (110.0dB   369W 102.8dB) @  56Hz
+-------------
+22W8534G00
       88.8dB             70W
 Rpre   Spl     SplMech Pmech SplEle      f3
 
@@ -188,6 +245,19 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (111.3dB   336W 105.1dB) @  49Hz
               (114.3dB   671W 105.1dB) @  58Hz
 -------------
+26W4534G00
+      90.5dB             90W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.7dB: (109.2dB   234W 105.0dB) @  43Hz
+              (112.2dB   468W 105.0dB) @  51Hz
+0.60  88.3dB: (107.6dB   179W 104.6dB) @  39Hz
+              (110.6dB   357W 104.6dB) @  47Hz
+              (113.6dB   715W 104.6dB) @  56Hz
+1.00  87.9dB: (106.1dB   140W 104.2dB) @  36Hz
+              (109.2dB   280W 104.2dB) @  43Hz
+              (112.2dB   559W 104.2dB) @  51Hz
+-------------
 30W4558T00
       89.0dB            350W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -197,17 +267,3 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (115.2dB  2920W 106.0dB) @  37Hz
 1.00  85.0dB: (110.4dB  1065W 105.5dB) @  28Hz
               (113.4dB  2131W 105.5dB) @  33Hz
--------------
-18W/8434G00
-      88.7dB             55W
-Rpre   Spl     SplMech Pmech SplEle      f3
-
-0.20  88.9dB: (108.3dB   122W 104.8dB) @  78Hz
-              (111.3dB   244W 104.8dB) @  93Hz
-              (114.3dB   487W 104.8dB) @ 110Hz
-0.60  88.7dB: (107.2dB   101W 104.5dB) @  73Hz
-              (110.2dB   203W 104.5dB) @  87Hz
-              (113.2dB   405W 104.5dB) @ 104Hz
-1.00  88.4dB: (106.1dB    85W 104.2dB) @  69Hz
-              (109.2dB   171W 104.2dB) @  82Hz
-              (112.2dB   342W 104.2dB) @  98Hz
