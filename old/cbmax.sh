@@ -67,15 +67,17 @@ BEGIN{
             qts1=1/((1/qms)+(1/qes1))
             eff = 9.64 * 0.0000000001 * fs*fs*fs * vas / qes1;
             spl1 = 112 + 10 * log( eff ) / log(10); 
-            fc = qtc /qts1 * fs;
+            fc = 0.7/qts1 * fs;
+            f3x = 1.05 * fc
 
             for( f3=16; f3<50; f3+=2 ) {
                     
-                spl2 = 20 * log( 0.37 * f3 * f3 * vd ) / log(10);            
-                p2   = p0 * exp(( spl2 - spl1)/10*log(10));
-                spl3 = spl1 + 10 * log( pmax / p0 ) / log(10);
+                spl2 = 20 * log( 0.37 * f3 * f3 * vd ) / log(10);   
+                splx = 12 / log(2) * log( f3x/f3 )
+                p2   = p0 * exp(( spl2 - spl1 + splx )/10*log(10));
+                spl3 = spl1 + 10 * log( pmax / p0 ) / log(10) - splx;
         
-                printf("%5.1fdB %5.0fW %5.1fdB @%4.0fHz\n",spl2,p2,spl3,f3);
+                printf("%5.1fdB %5.0fW %5.1fdB @%4.0fHz %4.0f\n",spl2,p2,spl3,f3,splx);
             }
      }
 }
