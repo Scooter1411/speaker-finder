@@ -36,6 +36,20 @@ blackbass12
  150.0  0.94  23Hz  83.2dB  109.5dB  427W  108.0dB
 9999.0  0.96  23Hz  83.2dB  109.1dB  386W  108.0dB
 -------------
+blackbass-300
+                    88.0dB           300W
+  R||    qts   f3   Spl     SplMech Pmech  SplEle  
+   6.8  0.51  42Hz  85.5dB  116.5dB 1261W  110.2dB
+  10.0  0.54  39Hz  85.5dB  115.2dB  948W  110.2dB
+  15.0  0.57  37Hz  85.5dB  114.5dB  790W  110.2dB
+  22.0  0.60  36Hz  85.5dB  113.8dB  675W  110.2dB
+  33.0  0.61  33Hz  85.5dB  112.3dB  482W  110.2dB
+  47.0  0.63  33Hz  85.5dB  112.3dB  482W  110.2dB
+  68.0  0.64  33Hz  85.5dB  112.3dB  482W  110.2dB
+ 100.0  0.65  33Hz  85.5dB  112.3dB  482W  110.2dB
+ 150.0  0.65  30Hz  85.5dB  110.9dB  347W  110.2dB
+9999.0  0.67  30Hz  85.5dB  110.9dB  347W  110.2dB
+-------------
 crb10tc
                     86.0dB           150W
   R||    qts   f3   Spl     SplMech Pmech  SplEle  
@@ -95,6 +109,11 @@ predator10
  150.0  0.86  33Hz  82.5dB  110.4dB  621W  107.3dB
 9999.0  0.87  33Hz  82.5dB  110.4dB  621W  107.3dB
 -------------
+pulsar-300
+                    89.0dB           225W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.56  44Hz  88.3dB  115.3dB  498W  111.8dB
+-------------
 raptor15
                     89.0dB          1000W
          qts   f3   Spl     SplMech Pmech  SplEle  
@@ -119,6 +138,26 @@ sonic10
  100.0  1.01  24Hz  79.7dB  111.2dB 1427W  106.2dB
  150.0  1.01  24Hz  79.7dB  111.2dB 1427W  106.2dB
 9999.0  1.02  24Hz  79.7dB  111.2dB 1427W  106.2dB
+-------------
+sonic10mk2
+                    84.0dB           450W
+  R||    qts   f3   Spl     SplMech Pmech  SplEle  
+   0.0  0.52  48Hz  79.7dB  123.3dB 22916W  106.3dB
+   1.0  0.62  38Hz  79.7dB  119.1dB 8756W  106.3dB
+   1.5  0.66  35Hz  79.7dB  117.7dB 6301W  106.3dB
+   2.2  0.70  32Hz  79.7dB  116.5dB 4782W  106.3dB
+   3.3  0.75  32Hz  79.7dB  116.5dB 4782W  106.3dB
+   4.7  0.79  31Hz  79.7dB  115.6dB 3878W  106.3dB
+   6.8  0.84  29Hz  79.7dB  114.6dB 3109W  106.3dB
+  10.0  0.88  28Hz  79.7dB  114.0dB 2706W  106.3dB
+  15.0  0.91  27Hz  79.7dB  113.2dB 2232W  106.3dB
+  22.0  0.94  27Hz  79.7dB  113.2dB 2232W  106.3dB
+  33.0  0.96  26Hz  79.7dB  112.8dB 2019W  106.3dB
+  47.0  0.98  26Hz  79.7dB  112.8dB 2019W  106.3dB
+  68.0  0.99  26Hz  79.7dB  112.8dB 2019W  106.3dB
+ 100.0  0.99  26Hz  79.7dB  112.8dB 2019W  106.3dB
+ 150.0  1.00  26Hz  79.7dB  112.8dB 2019W  106.3dB
+9999.0  1.01  25Hz  79.7dB  112.3dB 1822W  106.3dB
 -------------
 sonic12
                     85.0dB           525W
@@ -158,3 +197,8 @@ sonic15
  100.0  1.02  19Hz  84.2dB  115.1dB 1237W  112.0dB
  150.0  1.03  19Hz  84.2dB  115.1dB 1237W  112.0dB
 9999.0  1.04  19Hz  84.2dB  115.1dB 1237W  112.0dB
+-------------
+sp-302c
+                    93.0dB           150W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.63  38Hz  90.6dB  108.9dB   68W  112.3dB

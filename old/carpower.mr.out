@@ -17,6 +17,16 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 1.00  85.9dB: (117.6dB  1620W 111.5dB) @  37Hz
               (120.6dB  3240W 111.5dB) @  44Hz
 -------------
+blackbass-300
+      88.0dB            400W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.6dB: (121.6dB  2218W 114.2dB) @  56Hz
+0.60  88.4dB: (120.8dB  1936W 113.9dB) @  54Hz
+              (123.8dB  3872W 113.9dB) @  64Hz
+1.00  88.2dB: (120.0dB  1704W 113.7dB) @  52Hz
+              (123.0dB  3407W 113.7dB) @  61Hz
+-------------
 crb10tc
       86.0dB            200W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -50,6 +60,17 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 0.20  85.7dB: (120.7dB  7324W 108.0dB) @  60Hz
 0.60  85.3dB: (119.0dB  5584W 107.6dB) @  54Hz
 1.00  84.9dB: (117.6dB  4386W 107.2dB) @  50Hz
+-------------
+pulsar-300
+      89.0dB            225W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.3dB: (114.8dB  1049W 108.1dB) @  43Hz
+              (117.8dB  2099W 108.1dB) @  51Hz
+0.60  87.9dB: (113.0dB   779W 107.7dB) @  39Hz
+              (116.1dB  1559W 107.7dB) @  46Hz
+1.00  87.4dB: (111.5dB   596W 107.2dB) @  35Hz
+              (114.5dB  1193W 107.2dB) @  42Hz
 -------------
 raptor12
       87.0dB           1000W
@@ -97,6 +118,14 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 0.60  82.5dB: (119.3dB 10123W 107.0dB) @  38Hz
 1.00  82.1dB: (117.9dB  7996W 106.7dB) @  35Hz
 -------------
+sonic10mk2
+      84.0dB            600W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  82.9dB: (122.1dB 17253W 107.5dB) @  45Hz
+0.60  82.5dB: (120.5dB 13330W 107.1dB) @  41Hz
+1.00  82.1dB: (119.1dB 10557W 106.7dB) @  38Hz
+-------------
 sonic12
       85.0dB            700W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -112,3 +141,21 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 0.20  87.4dB: (124.8dB 11473W 113.2dB) @  34Hz
 0.60  87.0dB: (123.2dB  8785W 112.8dB) @  31Hz
 1.00  86.6dB: (121.8dB  6895W 112.4dB) @  28Hz
+-------------
+sp-302c
+      93.0dB            150W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  90.6dB: (108.3dB   129W 109.0dB) @  36Hz
+              (111.3dB   257W 109.0dB) @  43Hz
+              (114.3dB   515W 109.0dB) @  51Hz
+              (117.3dB  1030W 109.0dB) @  61Hz
+0.60  90.1dB: (106.9dB   102W 108.5dB) @  34Hz
+              (109.9dB   204W 108.5dB) @  40Hz
+              (112.9dB   409W 108.5dB) @  47Hz
+              (115.9dB   817W 108.5dB) @  56Hz
+1.00  89.7dB: (105.6dB    83W 108.2dB) @  31Hz
+              (108.6dB   166W 108.2dB) @  37Hz
+              (111.6dB   332W 108.2dB) @  44Hz
+              (114.6dB   665W 108.2dB) @  52Hz
+              (117.6dB  1330W 108.2dB) @  62Hz

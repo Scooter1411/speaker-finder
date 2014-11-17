@@ -84,6 +84,50 @@ blackbass12 || 100000.0Ohm  0.49  87.0dB  300W 1x100 mm
  18.0 Hz  36 Hz   73 Hz  104.9 dB  109 l +  30 l    1x100 mm  518 mm   901 uF
 
 *****************************************************************************
+blackbass-300 ||    0.0Ohm  0.25  88.0dB  300W 2x100 mm
+ fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+  9.1 Hz  29 Hz   92 Hz   89.9 dB   oo l +   9 l  * 1x70 mm  1386 mm  2821 uF
+ 14.0 Hz  39 Hz  107 Hz   97.4 dB  101 l +   9 l  * 1x70 mm   757 mm  1590 uF
+ 15.0 Hz  40 Hz  109 Hz   98.6 dB   83 l +   9 l  * 1x70 mm   686 mm  1450 uF
+ 16.0 Hz  42 Hz  111 Hz   99.7 dB   70 l +   9 l  * 1x70 mm   624 mm  1331 uF
+ 17.0 Hz  44 Hz  114 Hz  100.8 dB   60 l +   9 l  * 1x70 mm   572 mm  1227 uF
+ 18.0 Hz  46 Hz  116 Hz  101.7 dB   53 l +   9 l  * 1x70 mm   526 mm  1137 uF
+
+blackbass-300 ||    2.7Ohm  0.28  88.0dB  300W 2x100 mm
+ fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+  9.8 Hz  29 Hz   86 Hz   91.2 dB   oo l +  13 l  * 1x70 mm  1023 mm  2440 uF
+ 12.0 Hz  33 Hz   92 Hz   94.7 dB  251 l +  13 l  * 1x70 mm   767 mm  1861 uF
+ 13.0 Hz  35 Hz   94 Hz   96.1 dB  170 l +  13 l  * 1x70 mm   683 mm  1672 uF
+ 14.0 Hz  37 Hz   97 Hz   97.4 dB  128 l +  13 l  * 1x70 mm   614 mm  1515 uF
+ 15.0 Hz  39 Hz   99 Hz   98.6 dB  102 l +  13 l  * 1x70 mm   555 mm  1382 uF
+ 16.0 Hz  40 Hz  101 Hz   99.7 dB   84 l +  13 l  * 1x70 mm   505 mm  1268 uF
+ 17.0 Hz  42 Hz  103 Hz  100.8 dB   72 l +  13 l  * 1x70 mm   461 mm  1169 uF
+ 18.0 Hz  44 Hz  105 Hz  101.7 dB   62 l +  13 l  * 1x70 mm   423 mm  1084 uF
+
+blackbass-300 ||    6.8Ohm  0.31  88.0dB  300W 2x100 mm
+ fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 10.2 Hz  29 Hz   82 Hz   91.9 dB   oo l +  15 l  * 1x70 mm   853 mm  2239 uF
+ 11.0 Hz  30 Hz   84 Hz   93.2 dB  760 l +  15 l  * 1x70 mm   768 mm  2031 uF
+ 12.0 Hz  32 Hz   87 Hz   94.7 dB  327 l +  15 l  * 1x70 mm   678 mm  1808 uF
+ 13.0 Hz  34 Hz   89 Hz   96.1 dB  206 l +  15 l  * 1x70 mm   603 mm  1625 uF
+ 14.0 Hz  36 Hz   91 Hz   97.4 dB  150 l +  15 l  * 1x70 mm   541 mm  1472 uF
+ 15.0 Hz  37 Hz   93 Hz   98.6 dB  117 l +  15 l  * 1x70 mm   489 mm  1343 uF
+ 16.0 Hz  39 Hz   96 Hz   99.7 dB   95 l +  15 l  * 1x70 mm   444 mm  1232 uF
+ 17.0 Hz  41 Hz   97 Hz  100.8 dB   80 l +  15 l  * 1x70 mm   405 mm  1136 uF
+ 18.0 Hz  42 Hz   99 Hz  101.7 dB   69 l +  15 l  - 1x100 mm  792 mm  1053 uF
+
+blackbass-300 || 100000.0Ohm  0.36  88.0dB  300W 2x100 mm
+ fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 11.0 Hz  29 Hz   76 Hz   93.2 dB   oo l +  20 l  * 1x70 mm   620 mm  1931 uF
+ 12.0 Hz  31 Hz   79 Hz   94.7 dB  640 l +  20 l  * 1x70 mm   546 mm  1721 uF
+ 13.0 Hz  32 Hz   81 Hz   96.1 dB  314 l +  20 l  * 1x70 mm   485 mm  1547 uF
+ 14.0 Hz  34 Hz   83 Hz   97.4 dB  206 l +  20 l  * 1x70 mm   434 mm  1401 uF
+ 15.0 Hz  36 Hz   85 Hz   98.6 dB  153 l +  20 l  * 1x70 mm   391 mm  1278 uF
+ 16.0 Hz  37 Hz   87 Hz   99.7 dB  121 l +  20 l  - 1x100 mm  758 mm  1173 uF
+ 17.0 Hz  39 Hz   88 Hz  100.8 dB   99 l +  20 l  - 1x100 mm  693 mm  1082 uF
+ 18.0 Hz  40 Hz   90 Hz  101.7 dB   84 l +  20 l  - 1x100 mm  636 mm  1002 uF
+
+*****************************************************************************
 crb10tc ||    0.0Ohm  0.37  86.0dB  150W 1x100 mm
  fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
  13.1 Hz  34 Hz   89 Hz   92.4 dB   oo l +  10 l  * 1x50 mm   451 mm  1485 uF
@@ -215,6 +259,38 @@ sonic10 || 100000.0Ohm  0.52  84.0dB  450W 1x100 mm
  16.0 Hz  34 Hz   71 Hz  104.3 dB  138 l +  13 l  - 1x70 mm   720 mm  2006 uF
  17.0 Hz  35 Hz   72 Hz  105.3 dB   88 l +  13 l  - 1x70 mm   659 mm  1851 uF
  18.0 Hz  36 Hz   73 Hz  106.3 dB   64 l +  13 l  - 1x70 mm   607 mm  1715 uF
+
+*****************************************************************************
+sonic10mk2 ||    0.0Ohm  0.35  84.0dB  450W 1x100 mm
+ fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 12.3 Hz  33 Hz   88 Hz   99.8 dB   oo l +   5 l  * 1x50 mm  1067 mm  3320 uF
+ 16.0 Hz  39 Hz   96 Hz  104.3 dB   48 l +   5 l  * 1x50 mm   742 mm  2345 uF
+ 17.0 Hz  41 Hz   98 Hz  105.3 dB   37 l +   5 l  * 1x50 mm   681 mm  2163 uF
+ 18.0 Hz  42 Hz  100 Hz  106.3 dB   30 l +   5 l  * 1x50 mm   628 mm  2004 uF
+
+sonic10mk2 ||    2.7Ohm  0.43  84.0dB  450W 1x100 mm
+ fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 13.7 Hz  33 Hz   79 Hz  101.6 dB   oo l +   7 l  * 1x50 mm   681 mm  2680 uF
+ 14.0 Hz  33 Hz   80 Hz  102.0 dB  736 l +   7 l  * 1x50 mm   662 mm  2609 uF
+ 15.0 Hz  35 Hz   82 Hz  103.2 dB  159 l +   7 l  * 1x50 mm   600 mm  2379 uF
+ 16.0 Hz  37 Hz   84 Hz  104.3 dB   88 l +   7 l  * 1x50 mm   548 mm  2183 uF
+ 17.0 Hz  38 Hz   85 Hz  105.3 dB   60 l +   7 l  * 1x50 mm   502 mm  2014 uF
+ 18.0 Hz  40 Hz   87 Hz  106.3 dB   46 l +   7 l  * 1x50 mm   462 mm  1866 uF
+
+sonic10mk2 ||    6.8Ohm  0.47  84.0dB  450W 1x100 mm
+ fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 14.3 Hz  33 Hz   76 Hz  102.3 dB   oo l +   9 l  * 1x50 mm   571 mm  2467 uF
+ 15.0 Hz  34 Hz   77 Hz  103.2 dB  304 l +   9 l  * 1x50 mm   534 mm  2315 uF
+ 16.0 Hz  36 Hz   79 Hz  104.3 dB  124 l +   9 l  * 1x50 mm   486 mm  2124 uF
+ 17.0 Hz  37 Hz   81 Hz  105.3 dB   77 l +   9 l  * 1x50 mm   446 mm  1959 uF
+ 18.0 Hz  38 Hz   82 Hz  106.3 dB   56 l +   9 l  * 1x50 mm   410 mm  1815 uF
+
+sonic10mk2 || 100000.0Ohm  0.52  84.0dB  450W 1x100 mm
+ fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 15.0 Hz  33 Hz   72 Hz  103.2 dB   oo l +  11 l  * 1x50 mm   459 mm  2229 uF
+ 16.0 Hz  34 Hz   74 Hz  104.3 dB  234 l +  11 l  * 1x50 mm   420 mm  2053 uF
+ 17.0 Hz  36 Hz   75 Hz  105.3 dB  113 l +  11 l  - 1x70 mm   775 mm  1894 uF
+ 18.0 Hz  37 Hz   77 Hz  106.3 dB   74 l +  11 l  - 1x70 mm   714 mm  1755 uF
 
 *****************************************************************************
 sonic12 ||    0.0Ohm  0.33  85.0dB  525W 2x100 mm

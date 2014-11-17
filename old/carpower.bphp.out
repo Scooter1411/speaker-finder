@@ -20,6 +20,26 @@ predator12
  30.0 Hz  51 Hz   88 Hz   97.0 dB   45 l +  27 l    1x40mm     20 mm  3323 µF
 
 -------------
+pulsar-300
+            89.0dB           225W      2x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 16.1 Hz  34 Hz   72 Hz   97.8 dB   oo l +  37 l  - 1x100mm   469 mm  2248 µF
+ 17.0 Hz  35 Hz   73 Hz   98.8 dB  849 l +  37 l  - 1x100mm   429 mm  2087 µF
+ 18.0 Hz  37 Hz   75 Hz   99.8 dB  404 l +  37 l  - 1x100mm   392 mm  1933 µF
+ 19.0 Hz  38 Hz   76 Hz  100.7 dB  263 l +  37 l    2x100mm   760 mm  1799 µF
+ 20.0 Hz  39 Hz   77 Hz  101.6 dB  194 l +  37 l    2x100mm   702 mm  1680 µF
+ 21.0 Hz  41 Hz   79 Hz  102.5 dB  153 l +  37 l    2x100mm   651 mm  1574 µF
+ 22.0 Hz  42 Hz   80 Hz  103.3 dB  126 l +  37 l    2x100mm   605 mm  1480 µF
+ 23.0 Hz  43 Hz   81 Hz  104.1 dB  107 l +  37 l    2x100mm   564 mm  1394 µF
+ 24.0 Hz  44 Hz   82 Hz  104.8 dB   93 l +  37 l    2x100mm   526 mm  1317 µF
+ 25.0 Hz  46 Hz   83 Hz  105.5 dB   82 l +  37 l    2x100mm   493 mm  1248 µF
+ 26.0 Hz  47 Hz   84 Hz  106.2 dB   73 l +  37 l    2x100mm   462 mm  1184 µF
+ 27.0 Hz  48 Hz   85 Hz  106.9 dB   66 l +  37 l    2x100mm   434 mm  1126 µF
+ 28.0 Hz  49 Hz   87 Hz  107.5 dB   60 l +  37 l    2x100mm   408 mm  1073 µF
+ 29.0 Hz  50 Hz   88 Hz  108.1 dB   55 l +  37 l    2x100mm   384 mm  1024 µF
+ 30.0 Hz  52 Hz   89 Hz  108.7 dB   51 l +  37 l    2x100mm   362 mm   978 µF
+
+-------------
 raptor12
             87.0dB          1000W      1x100mm
    fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
