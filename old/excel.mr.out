@@ -1,4 +1,18 @@
 -------------
+c16n001/f
+      85.0dB             80W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  82.8dB: (101.7dB   197W  97.8dB) @  50Hz
+              (104.7dB   394W  97.8dB) @  59Hz
+              (107.7dB   789W  97.8dB) @  71Hz
+0.60  82.3dB: (100.1dB   152W  97.3dB) @  46Hz
+              (103.1dB   304W  97.3dB) @  54Hz
+              (106.1dB   609W  97.3dB) @  64Hz
+1.00  81.8dB: ( 98.7dB   121W  96.9dB) @  42Hz
+              (101.7dB   243W  96.9dB) @  50Hz
+              (104.7dB   485W  96.9dB) @  59Hz
+-------------
 m15ch002
       88.0dB             70W
 Rpre   Spl     SplMech Pmech SplEle      f3

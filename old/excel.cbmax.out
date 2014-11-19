@@ -1,4 +1,26 @@
 -------------
+c16n001/f
+      85.0dB                             80W
+SplMech  Pmech SplEle     f3
+
+ 81.9dB   236W  77.2dB @  16Hz   21
+ 84.0dB   236W  79.3dB @  18Hz   19
+ 85.8dB   237W  81.1dB @  20Hz   17
+ 87.4dB   237W  82.7dB @  22Hz   15
+ 89.0dB   237W  84.2dB @  24Hz   14
+ 90.3dB   237W  85.6dB @  26Hz   12
+ 91.6dB   238W  86.9dB @  28Hz   11
+ 92.8dB   238W  88.1dB @  30Hz   10
+ 94.0dB   238W  89.2dB @  32Hz    9
+ 95.0dB   238W  90.3dB @  34Hz    8
+ 96.0dB   238W  91.3dB @  36Hz    7
+ 96.9dB   239W  92.2dB @  38Hz    6
+ 97.8dB   239W  93.1dB @  40Hz    5
+ 98.7dB   239W  93.9dB @  42Hz    4
+ 99.5dB   239W  94.7dB @  44Hz    3
+100.3dB   239W  95.5dB @  46Hz    2
+101.0dB   239W  96.2dB @  48Hz    2
+-------------
 m15ch002
       88.0dB                             70W
 SplMech  Pmech SplEle     f3
