@@ -221,6 +221,19 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (104.9dB   874W  99.0dB) @  28Hz
               (107.9dB  1748W  99.0dB) @  34Hz
 -------------
+26W4534G00
+      90.5dB             90W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.7dB: (109.2dB   234W 105.0dB) @  43Hz
+              (112.2dB   468W 105.0dB) @  51Hz
+0.60  88.3dB: (107.6dB   179W 104.6dB) @  39Hz
+              (110.6dB   357W 104.6dB) @  47Hz
+              (113.6dB   715W 104.6dB) @  56Hz
+1.00  87.9dB: (106.1dB   140W 104.2dB) @  36Hz
+              (109.2dB   280W 104.2dB) @  43Hz
+              (112.2dB   559W 104.2dB) @  51Hz
+-------------
 26W4558T00
       88.0dB            150W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -244,19 +257,6 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (108.3dB   168W 105.1dB) @  41Hz
               (111.3dB   336W 105.1dB) @  49Hz
               (114.3dB   671W 105.1dB) @  58Hz
--------------
-26W4534G00
-      90.5dB             90W
-Rpre   Spl     SplMech Pmech SplEle      f3
-
-0.20  88.7dB: (109.2dB   234W 105.0dB) @  43Hz
-              (112.2dB   468W 105.0dB) @  51Hz
-0.60  88.3dB: (107.6dB   179W 104.6dB) @  39Hz
-              (110.6dB   357W 104.6dB) @  47Hz
-              (113.6dB   715W 104.6dB) @  56Hz
-1.00  87.9dB: (106.1dB   140W 104.2dB) @  36Hz
-              (109.2dB   280W 104.2dB) @  43Hz
-              (112.2dB   559W 104.2dB) @  51Hz
 -------------
 30W4558T00
       89.0dB            350W
