@@ -1,15 +1,54 @@
 -------------
 HSB21
-      94.9dB                            500W
+-------------
+ 94.9dB           125.1l (1.1)               500W
 SplMech  Pmech SplEle     f3
 
 108.0dB   850W 105.7dB @  16Hz   15
 110.0dB   851W 107.7dB @  18Hz   13
+            8W  91.5dB @  20Hz 
+           10W  92.5dB @  20Hz 
+           12W  93.5dB @  20Hz 
+           16W  94.5dB @  20Hz 
+           20W  95.5dB @  20Hz 
+           25W  96.5dB @  20Hz 
+           31W  97.5dB @  20Hz 
+           39W  98.5dB @  20Hz 
+           50W  99.5dB @  20Hz 
+           62W 100.5dB @  20Hz 
+           79W 101.5dB @  20Hz 
+           99W 102.5dB @  20Hz 
+          125W 103.5dB @  20Hz 
+          157W 104.5dB @  20Hz 
+          198W 105.5dB @  20Hz 
+          250W 106.5dB @  20Hz 
+          315W 107.5dB @  20Hz 
+          397W 108.5dB @  20Hz 
+          500W 109.5dB @  20Hz 
 111.9dB   853W 109.5dB @  20Hz   11
 113.5dB   854W 111.2dB @  22Hz    9
 115.0dB   855W 112.7dB @  24Hz    8
 116.4dB   856W 114.1dB @  26Hz    6
 117.7dB   857W 115.4dB @  28Hz    5
+            8W  98.5dB @  30Hz 
+           10W  99.5dB @  30Hz 
+           12W 100.5dB @  30Hz 
+           16W 101.5dB @  30Hz 
+           20W 102.5dB @  30Hz 
+           25W 103.5dB @  30Hz 
+           31W 104.5dB @  30Hz 
+           39W 105.5dB @  30Hz 
+           50W 106.5dB @  30Hz 
+           62W 107.5dB @  30Hz 
+           79W 108.5dB @  30Hz 
+           99W 109.5dB @  30Hz 
+          125W 110.5dB @  30Hz 
+          157W 111.5dB @  30Hz 
+          198W 112.6dB @  30Hz 
+          250W 113.6dB @  30Hz 
+          315W 114.6dB @  30Hz 
+          397W 115.6dB @  30Hz 
+          500W 116.6dB @  30Hz 
 118.9dB   857W 116.6dB @  30Hz    4
 120.0dB   858W 117.7dB @  32Hz    3
 121.1dB   859W 118.7dB @  34Hz    2

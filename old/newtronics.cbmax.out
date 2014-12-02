@@ -1,38 +1,9 @@
 -------------
-BMS 13/4
-      86.5dB                             60W
-SplMech  Pmech SplEle     f3
-
- 75.0dB   552W  65.4dB @  16Hz   37
- 77.1dB   553W  67.4dB @  18Hz   35
- 78.9dB   554W  69.2dB @  20Hz   33
- 80.6dB   554W  70.9dB @  22Hz   31
- 82.1dB   555W  72.4dB @  24Hz   30
- 83.5dB   556W  73.8dB @  26Hz   28
- 84.7dB   556W  75.1dB @  28Hz   27
- 85.9dB   557W  76.3dB @  30Hz   26
- 87.1dB   557W  77.4dB @  32Hz   25
- 88.1dB   558W  78.4dB @  34Hz   24
- 89.1dB   558W  79.4dB @  36Hz   23
- 90.0dB   559W  80.4dB @  38Hz   22
- 90.9dB   559W  81.2dB @  40Hz   21
- 91.8dB   559W  82.1dB @  42Hz   20
- 92.6dB   560W  82.9dB @  44Hz   19
- 93.4dB   560W  83.7dB @  46Hz   18
- 94.1dB   560W  84.4dB @  48Hz   18
--------------
 BM 17/8
-      89.0dB                             90W
+-------------
+ 89.0dB             4.1l (1.1)                90W
 SplMech  Pmech SplEle     f3
 
- 80.6dB   137W  78.7dB @  16Hz   28
- 82.6dB   137W  80.8dB @  18Hz   26
- 84.5dB   138W  82.6dB @  20Hz   25
- 86.1dB   138W  84.3dB @  22Hz   23
- 87.6dB   138W  85.8dB @  24Hz   21
- 89.0dB   138W  87.1dB @  26Hz   20
- 90.3dB   138W  88.4dB @  28Hz   19
- 91.5dB   138W  89.6dB @  30Hz   18
  92.6dB   138W  90.7dB @  32Hz   16
  93.7dB   139W  91.8dB @  34Hz   15
  94.7dB   139W  92.8dB @  36Hz   14

@@ -1,15 +1,19 @@
 -------------
 m10
-      92.1dB                            200W
+-------------
+ 92.1dB             9.4l (1.1)               200W
 SplMech  Pmech SplEle     f3
 
- 90.8dB   743W  85.1dB @  16Hz   22
- 92.8dB   745W  87.1dB @  18Hz   20
- 94.7dB   746W  89.0dB @  20Hz   19
  96.3dB   747W  90.6dB @  22Hz   17
  97.8dB   747W  92.1dB @  24Hz   15
  99.2dB   748W  93.5dB @  26Hz   14
 100.5dB   749W  94.8dB @  28Hz   13
+           63W  91.0dB @  30Hz 
+           79W  92.0dB @  30Hz 
+          100W  93.0dB @  30Hz 
+          126W  94.0dB @  30Hz 
+          159W  95.0dB @  30Hz 
+          200W  96.0dB @  30Hz 
 101.7dB   750W  96.0dB @  30Hz   12
 102.8dB   750W  97.1dB @  32Hz   10
 103.9dB   751W  98.1dB @  34Hz    9
@@ -22,16 +26,31 @@ SplMech  Pmech SplEle     f3
 109.9dB   755W 104.1dB @  48Hz    3
 -------------
 m12
-      92.2dB                            300W
+-------------
+ 92.2dB            16.7l (1.1)               300W
 SplMech  Pmech SplEle     f3
 
- 93.3dB   715W  89.6dB @  16Hz   21
  95.4dB   716W  91.6dB @  18Hz   19
+          150W  90.4dB @  20Hz 
+          189W  91.4dB @  20Hz 
+          238W  92.4dB @  20Hz 
+          300W  93.4dB @  20Hz 
  97.2dB   717W  93.4dB @  20Hz   17
  98.9dB   718W  95.1dB @  22Hz   16
 100.4dB   719W  96.6dB @  24Hz   14
 101.8dB   720W  98.0dB @  26Hz   13
 103.1dB   721W  99.2dB @  28Hz   11
+           30W  90.4dB @  30Hz 
+           37W  91.4dB @  30Hz 
+           47W  92.4dB @  30Hz 
+           60W  93.4dB @  30Hz 
+           75W  94.4dB @  30Hz 
+           94W  95.4dB @  30Hz 
+          119W  96.4dB @  30Hz 
+          150W  97.4dB @  30Hz 
+          189W  98.4dB @  30Hz 
+          238W  99.4dB @  30Hz 
+          300W 100.4dB @  30Hz 
 104.3dB   721W 100.4dB @  30Hz   10
 105.4dB   722W 101.6dB @  32Hz    9
 106.4dB   723W 102.6dB @  34Hz    8
@@ -44,16 +63,48 @@ SplMech  Pmech SplEle     f3
 112.4dB   726W 108.6dB @  48Hz    2
 -------------
 m15
-      93.3dB                            400W
+-------------
+ 93.3dB            49.0l (1.1)               400W
 SplMech  Pmech SplEle     f3
 
 103.9dB  1888W  97.2dB @  16Hz   16
 106.0dB  1891W  99.2dB @  18Hz   14
+           31W  90.0dB @  20Hz 
+           40W  91.0dB @  20Hz 
+           50W  92.0dB @  20Hz 
+           63W  93.0dB @  20Hz 
+           79W  94.0dB @  20Hz 
+          100W  95.0dB @  20Hz 
+          126W  96.0dB @  20Hz 
+          159W  97.0dB @  20Hz 
+          200W  98.0dB @  20Hz 
+          252W  99.0dB @  20Hz 
+          317W 100.0dB @  20Hz 
+          400W 101.1dB @  20Hz 
 107.8dB  1894W 101.1dB @  20Hz   12
 109.5dB  1896W 102.7dB @  22Hz   10
 111.0dB  1899W 104.2dB @  24Hz    9
 112.4dB  1901W 105.6dB @  26Hz    7
 113.7dB  1903W 106.9dB @  28Hz    6
+            6W  90.0dB @  30Hz 
+            8W  91.0dB @  30Hz 
+           10W  92.0dB @  30Hz 
+           12W  93.0dB @  30Hz 
+           16W  94.0dB @  30Hz 
+           20W  95.0dB @  30Hz 
+           25W  96.0dB @  30Hz 
+           31W  97.0dB @  30Hz 
+           40W  98.0dB @  30Hz 
+           50W  99.0dB @  30Hz 
+           63W 100.0dB @  30Hz 
+           79W 101.0dB @  30Hz 
+          100W 102.1dB @  30Hz 
+          126W 103.1dB @  30Hz 
+          159W 104.1dB @  30Hz 
+          200W 105.1dB @  30Hz 
+          252W 106.1dB @  30Hz 
+          317W 107.1dB @  30Hz 
+          400W 108.1dB @  30Hz 
 114.9dB  1905W 108.1dB @  30Hz    5
 116.0dB  1906W 109.2dB @  32Hz    4
 117.0dB  1908W 110.2dB @  34Hz    3

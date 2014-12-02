@@ -52,23 +52,28 @@ BEGIN{
        re = re1;
     }
     if( pmax > 0 ) {
+
         p0= 2.83 * 2.83 / re;
         #p0=1;
-        printf("-------------\n%s\n",name);
-        printf("     %5.1fdB                          %5.0fW\n", spl, pmax );
-        printf("SplMech  Pmech SplEle     f3\n");
-        printf("\n");
-
-        vd = sd * 2 * xmax / 10;
 
         r=0.2
         
-            qes1=qes * ( re + r ) / re;
-            qts1=1/((1/qms)+(1/qes1))
-            eff = 9.64 * 0.0000000001 * fs*fs*fs * vas / qes1;
-            spl1 = 112 + 10 * log( eff ) / log(10); 
-            fc = 0.7/qts1 * fs;
-            f3x = 1.05 * fc
+        vd = sd * 2 * xmax / 10;
+        qes1=qes * ( re + r ) / re;
+        qts1=1/((1/qms)+(1/qes1))
+        eff = 9.64 * 0.0000000001 * fs*fs*fs * vas / qes1;
+        spl1 = 112 + 10 * log( eff ) / log(10); 
+        fc = 0.7/qts1 * fs;
+        f3x = 1.05 * fc
+        qtc = 1.1
+        vb   = vas / (((qtc^2)/(qts1^2))-1);
+
+        if(( vb > 2 )&&( vb < 500 )){
+
+            printf("-------------\n%s\n-------------\n",name);
+            printf("%5.1fdB           %5.1fl (1.1)             %5.0fW\n", spl, vb, pmax );
+            printf("SplMech  Pmech SplEle     f3\n");
+            printf("\n");
 
             for( f3=16; f3<50; f3+=2 ) {
                     
@@ -76,10 +81,19 @@ BEGIN{
                 splx = 12 / log(2) * log( f3x/f3 )
                 p2   = p0 * exp(( spl2 - spl1 + splx )/10*log(10));
                 spl3 = spl1 + 10 * log( pmax / p0 ) / log(10) - splx;
-        
-                printf("%5.1fdB %5.0fW %5.1fdB @%4.0fHz %4.0f\n",spl2,p2,spl3,f3,splx);
+                if(( f3 == 20 )||( f3 == 30 )){
+                    for( px = pmax / 64; px <= pmax; px *= 1.2599 ) {
+                            
+                        spl3 = spl1 + 10 * log( px / p0 ) / log(10) - splx;
+                        if(( spl3 > 90 )&&( spl3 < spl2 ))
+                            printf("        %5.0fW %5.1fdB @%4.0fHz \n",px,spl3,f3);
+                    }
+                }
+                if(( spl2 > 90 )&&( spl3 > 90 ))
+                    printf("%5.1fdB %5.0fW %5.1fdB @%4.0fHz %4.0f\n",spl2,p2,spl3,f3,splx);
             }
-     }
+        }
+    }
 }
 END{
 }
