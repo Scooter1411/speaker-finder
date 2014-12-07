@@ -25,7 +25,7 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
                 455.0l @  29.4Hz  =>  113.9dB  110W 123.4dB @  25.1Hz + 6x100mm    24 mm 
 
 -------------
-S18I1000                               98.0dB 1000W                     3x100mm
+S18 I1000                              98.0dB 1000W                     3x100mm
 Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  97.3dB:    51.1l @  55.7Hz  =>  129.5dB 1671W 127.3dB @  72.3Hz - 2x100mm   640 mm 
@@ -136,7 +136,29 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
                 305.7l @  34.4Hz  =>  114.5dB  114W 123.0dB @  29.0Hz + 6x100mm    32 mm 
 
 -------------
-scb15g800                              95.5dB  800W                     2x100mm
+C1530 B4                               98.0dB  400W                     2x100mm
+Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+
+0.20  95.7dB:   187.0l @  40.7Hz  =>  112.0dB   47W 121.3dB @  39.0Hz   2x100mm    25 mm 
+                209.5l @  39.3Hz  =>  111.1dB   38W 121.3dB @  36.9Hz + 3x100mm    46 mm 
+                234.6l @  37.9Hz  =>  110.1dB   30W 121.3dB @  34.8Hz + 3x100mm    28 mm 
+             *  262.7l @  36.5Hz  =>  109.1dB   24W 121.3dB @  32.9Hz + 4x100mm    38 mm 
+                294.3l @  35.2Hz  =>  108.1dB   19W 121.3dB @  31.1Hz + 5x100mm    42 mm 
+                329.6l @  34.0Hz  =>  107.1dB   15W 121.3dB @  29.4Hz + 5x100mm    20 mm 
+
+0.60  95.5dB:   214.9l @  39.0Hz  =>  110.8dB   38W 121.1dB @  36.4Hz + 3x100mm    42 mm 
+                240.7l @  37.6Hz  =>  109.9dB   30W 121.1dB @  34.4Hz + 3x100mm    24 mm 
+                269.5l @  36.2Hz  =>  108.9dB   24W 121.1dB @  32.5Hz + 4x100mm    33 mm 
+             *  301.9l @  34.9Hz  =>  107.9dB   19W 121.1dB @  30.7Hz + 5x100mm    37 mm 
+                338.1l @  33.7Hz  =>  106.9dB   15W 121.1dB @  29.0Hz + 6x100mm    35 mm 
+
+1.00  95.3dB:   245.1l @  37.4Hz  =>  109.7dB   30W 120.9dB @  34.1Hz + 3x100mm    21 mm 
+                274.5l @  36.0Hz  =>  108.7dB   24W 120.9dB @  32.2Hz + 4x100mm    30 mm 
+                307.4l @  34.7Hz  =>  107.7dB   19W 120.9dB @  30.4Hz + 5x100mm    34 mm 
+             *  344.3l @  33.5Hz  =>  106.7dB   15W 120.9dB @  28.7Hz + 6x100mm    32 mm 
+
+-------------
+SCB15 G800                             95.5dB  800W                     2x100mm
 Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  93.7dB:   190.6l @  37.5Hz  =>  115.0dB  142W 122.5dB @  32.4Hz + 3x100mm    29 mm 
@@ -152,7 +174,7 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
                 275.0l @  33.3Hz  =>  111.9dB   75W 122.1dB @  26.9Hz + 6x100mm    37 mm 
 
 -------------
-s15g710                                99.0dB  700W                     2x100mm
+S15 G710                               99.0dB  700W                     2x100mm
 Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  94.5dB:    93.9l @  50.3Hz  =>  117.4dB  205W 122.7dB @  44.1Hz + 3x100mm    57 mm 
@@ -230,29 +252,7 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
                 173.3l @  34.0Hz  =>   98.2dB    5W 113.0dB @  25.5Hz + 4x100mm    22 mm 
 
 -------------
-C 1530 B4                              98.0dB  400W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
-
-0.20  95.7dB:   187.0l @  40.7Hz  =>  112.0dB   47W 121.3dB @  39.0Hz   2x100mm    25 mm 
-                209.5l @  39.3Hz  =>  111.1dB   38W 121.3dB @  36.9Hz + 3x100mm    46 mm 
-                234.6l @  37.9Hz  =>  110.1dB   30W 121.3dB @  34.8Hz + 3x100mm    28 mm 
-             *  262.7l @  36.5Hz  =>  109.1dB   24W 121.3dB @  32.9Hz + 4x100mm    38 mm 
-                294.3l @  35.2Hz  =>  108.1dB   19W 121.3dB @  31.1Hz + 5x100mm    42 mm 
-                329.6l @  34.0Hz  =>  107.1dB   15W 121.3dB @  29.4Hz + 5x100mm    20 mm 
-
-0.60  95.5dB:   214.9l @  39.0Hz  =>  110.8dB   38W 121.1dB @  36.4Hz + 3x100mm    42 mm 
-                240.7l @  37.6Hz  =>  109.9dB   30W 121.1dB @  34.4Hz + 3x100mm    24 mm 
-                269.5l @  36.2Hz  =>  108.9dB   24W 121.1dB @  32.5Hz + 4x100mm    33 mm 
-             *  301.9l @  34.9Hz  =>  107.9dB   19W 121.1dB @  30.7Hz + 5x100mm    37 mm 
-                338.1l @  33.7Hz  =>  106.9dB   15W 121.1dB @  29.0Hz + 6x100mm    35 mm 
-
-1.00  95.3dB:   245.1l @  37.4Hz  =>  109.7dB   30W 120.9dB @  34.1Hz + 3x100mm    21 mm 
-                274.5l @  36.0Hz  =>  108.7dB   24W 120.9dB @  32.2Hz + 4x100mm    30 mm 
-                307.4l @  34.7Hz  =>  107.7dB   19W 120.9dB @  30.4Hz + 5x100mm    34 mm 
-             *  344.3l @  33.5Hz  =>  106.7dB   15W 120.9dB @  28.7Hz + 6x100mm    32 mm 
-
--------------
-C 1225 P34                             97.0dB  250W                     2x100mm
+C1225 P34                              97.0dB  250W                     2x100mm
 Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  93.9dB:   131.7l @  43.7Hz  =>  104.5dB   13W 117.2dB @  36.2Hz + 4x100mm    45 mm 

@@ -15,7 +15,7 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (129.0dB  3570W 123.4dB) @  76Hz
               (132.0dB  7141W 123.4dB) @  90Hz
 -------------
-S18I1000
+S18 I1000
       98.0dB           1000W
 Rpre   Spl     SplMech Pmech SplEle      f3
 
@@ -83,7 +83,29 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (129.9dB  3854W 123.0dB) @  88Hz
               (132.9dB  7707W 123.0dB) @ 105Hz
 -------------
-scb15g800
+C1530 B4
+      98.0dB            400W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  95.7dB: (116.7dB   138W 121.3dB) @  64Hz
+              (119.7dB   277W 121.3dB) @  76Hz
+              (122.7dB   553W 121.3dB) @  91Hz
+              (125.7dB  1106W 121.3dB) @ 108Hz
+              (128.8dB  2213W 121.3dB) @ 129Hz
+0.60  95.5dB: (115.9dB   120W 121.1dB) @  61Hz
+              (118.9dB   240W 121.1dB) @  73Hz
+              (121.9dB   480W 121.1dB) @  87Hz
+              (124.9dB   960W 121.1dB) @ 103Hz
+              (127.9dB  1921W 121.1dB) @ 122Hz
+              (130.9dB  3841W 121.1dB) @ 146Hz
+1.00  95.3dB: (115.1dB   105W 120.9dB) @  58Hz
+              (118.1dB   210W 120.9dB) @  70Hz
+              (121.1dB   420W 120.9dB) @  83Hz
+              (124.1dB   840W 120.9dB) @  98Hz
+              (127.1dB  1680W 120.9dB) @ 117Hz
+              (130.1dB  3360W 120.9dB) @ 139Hz
+-------------
+SCB15 G800
       95.5dB            800W
 Rpre   Spl     SplMech Pmech SplEle      f3
 
@@ -101,7 +123,7 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (128.7dB  3655W 122.1dB) @  90Hz
               (131.7dB  7311W 122.1dB) @ 106Hz
 -------------
-s15g710
+S15 G710
       99.0dB            700W
 Rpre   Spl     SplMech Pmech SplEle      f3
 
@@ -156,29 +178,7 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (119.6dB   696W 113.0dB) @ 110Hz
               (122.6dB  1393W 113.0dB) @ 131Hz
 -------------
-C 1530 B4
-      98.0dB            400W
-Rpre   Spl     SplMech Pmech SplEle      f3
-
-0.20  95.7dB: (116.7dB   138W 121.3dB) @  64Hz
-              (119.7dB   277W 121.3dB) @  76Hz
-              (122.7dB   553W 121.3dB) @  91Hz
-              (125.7dB  1106W 121.3dB) @ 108Hz
-              (128.8dB  2213W 121.3dB) @ 129Hz
-0.60  95.5dB: (115.9dB   120W 121.1dB) @  61Hz
-              (118.9dB   240W 121.1dB) @  73Hz
-              (121.9dB   480W 121.1dB) @  87Hz
-              (124.9dB   960W 121.1dB) @ 103Hz
-              (127.9dB  1921W 121.1dB) @ 122Hz
-              (130.9dB  3841W 121.1dB) @ 146Hz
-1.00  95.3dB: (115.1dB   105W 120.9dB) @  58Hz
-              (118.1dB   210W 120.9dB) @  70Hz
-              (121.1dB   420W 120.9dB) @  83Hz
-              (124.1dB   840W 120.9dB) @  98Hz
-              (127.1dB  1680W 120.9dB) @ 117Hz
-              (130.1dB  3360W 120.9dB) @ 139Hz
--------------
-C 1225 P34
+C1225 P34
       97.0dB            250W
 Rpre   Spl     SplMech Pmech SplEle      f3
 

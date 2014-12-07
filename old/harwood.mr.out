@@ -48,3 +48,26 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (103.3dB   107W 102.1dB) @  73Hz
               (106.3dB   214W 102.1dB) @  87Hz
               (109.4dB   428W 102.1dB) @ 104Hz
+-------------
+TM 130 MK II
+      80.5dB             60W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  85.8dB: ( 96.4dB    13W 103.2dB) @  53Hz
+              ( 99.4dB    25W 103.2dB) @  63Hz
+              (102.4dB    50W 103.2dB) @  74Hz
+              (105.4dB   100W 103.2dB) @  88Hz
+              (108.4dB   201W 103.2dB) @ 105Hz
+              (111.4dB   402W 103.2dB) @ 125Hz
+0.60  85.6dB: ( 95.6dB    11W 103.0dB) @  50Hz
+              ( 98.6dB    22W 103.0dB) @  60Hz
+              (101.6dB    44W 103.0dB) @  71Hz
+              (104.6dB    88W 103.0dB) @  85Hz
+              (107.6dB   176W 103.0dB) @ 101Hz
+              (110.7dB   353W 103.0dB) @ 120Hz
+1.00  85.4dB: ( 94.9dB    10W 102.7dB) @  48Hz
+              ( 97.9dB    20W 102.7dB) @  57Hz
+              (100.9dB    39W 102.7dB) @  68Hz
+              (103.9dB    78W 102.7dB) @  81Hz
+              (106.9dB   156W 102.7dB) @  96Hz
+              (109.9dB   313W 102.7dB) @ 115Hz
