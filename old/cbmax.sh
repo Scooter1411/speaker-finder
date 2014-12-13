@@ -68,7 +68,13 @@ BEGIN{
         qtc = 1.1
         vb   = vas / (((qtc^2)/(qts1^2))-1);
 
-        if(( vb > 2 )&&( vb < 500 )){
+        pdiv = 64
+        if( pmax < 160 ) pdiv = 32
+        if( pmax <  80 ) pdiv = 16
+        if( pmax <  40 ) pdiv = 8
+        if( pmax <  20 ) pdiv = 4
+
+        if( vb < 500 ){
 
             printf("-------------\n%s\n-------------\n",name);
             printf("%5.1fdB           %5.1fl (1.1)             %5.0fW\n", spl, vb, pmax );
@@ -79,18 +85,19 @@ BEGIN{
                     
                 spl2 = 20 * log( 0.37 * f3 * f3 * vd ) / log(10);   
                 splx = 12 / log(2) * log( f3x/f3 )
-                p2   = p0 * exp(( spl2 - spl1 + splx )/10*log(10));
-                spl3 = spl1 + 10 * log( pmax / p0 ) / log(10) - splx;
-                if(( f3 == 20 )||( f3 == 30 )){
-                    for( px = pmax / 64; px <= pmax; px *= 1.2599 ) {
-                            
-                        spl3 = spl1 + 10 * log( px / p0 ) / log(10) - splx;
-                        if(( spl3 > 90 )&&( spl3 < spl2 ))
-                            printf("        %5.0fW %5.1fdB @%4.0fHz \n",px,spl3,f3);
+                if( splx < 20 ){
+                    p2   = p0 * exp(( spl2 - spl1 + splx )/10*log(10));
+                    spl3 = spl1 + 10 * log( pmax / p0 ) / log(10) - splx;
+                    if(( f3 == 20 )||( f3 == 30 )){
+                        for( px = pmax / pdiv; px <= pmax; px *= 1.2599 ) {
+                                
+                            spl3 = spl1 + 10 * log( px / p0 ) / log(10) - splx;
+                            if( spl3 < spl2 )
+                                printf("        %5.0fW %5.1fdB @%4.0fHz \n",px,spl3,f3);
+                        }
                     }
-                }
-                if(( spl2 > 90 )&&( spl3 > 90 ))
                     printf("%5.1fdB %5.0fW %5.1fdB @%4.0fHz %4.0f\n",spl2,p2,spl3,f3,splx);
+                }
             }
         }
     }

@@ -1,4 +1,49 @@
 -------------
+fe126e
+-------------
+ 93.0dB             0.5l (1.1)                15W
+SplMech  Pmech SplEle     f3
+
+-------------
+FE103En
+-------------
+ 89.0dB             0.6l (1.1)                 5W
+SplMech  Pmech SplEle     f3
+
+-------------
+fw208n
+-------------
+ 90.0dB             1.7l (1.1)                34W
+SplMech  Pmech SplEle     f3
+
+ 83.9dB    42W  83.0dB @  32Hz   20
+ 84.9dB    42W  84.0dB @  34Hz   19
+ 85.9dB    42W  85.0dB @  36Hz   18
+ 86.9dB    42W  85.9dB @  38Hz   17
+ 87.7dB    42W  86.8dB @  40Hz   16
+ 88.6dB    42W  87.7dB @  42Hz   15
+ 89.4dB    42W  88.5dB @  44Hz   14
+ 90.2dB    42W  89.2dB @  46Hz   13
+ 90.9dB    42W  90.0dB @  48Hz   13
+-------------
+FE108ES
+-------------
+ 90.0dB             0.5l (1.1)                 8W
+SplMech  Pmech SplEle     f3
+
+-------------
+FE126E
+-------------
+ 93.0dB             0.5l (1.1)                15W
+SplMech  Pmech SplEle     f3
+
+-------------
+FE126En
+-------------
+ 93.0dB             0.8l (1.1)                15W
+SplMech  Pmech SplEle     f3
+
+-------------
 FE166En
 -------------
  94.0dB             2.1l (1.1)                22W
@@ -10,3 +55,11 @@ FE206En
  96.0dB             2.2l (1.1)                30W
 SplMech  Pmech SplEle     f3
 
+-------------
+FE83En
+-------------
+ 88.0dB             1.1l (1.1)                 5W
+SplMech  Pmech SplEle     f3
+
+ 56.5dB     0W  73.7dB @  46Hz   19
+ 57.2dB     0W  74.4dB @  48Hz   19

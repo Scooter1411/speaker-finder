@@ -1,9 +1,41 @@
 -------------
+C90-T6-89
+-------------
+ 89.2dB             1.0l (1.1)               100W
+SplMech  Pmech SplEle     f3
+
+ 87.9dB   131W  86.7dB @  36Hz   20
+ 88.8dB   131W  87.6dB @  38Hz   19
+ 89.7dB   131W  88.5dB @  40Hz   18
+ 90.6dB   131W  89.4dB @  42Hz   17
+ 91.4dB   131W  90.2dB @  44Hz   16
+ 92.1dB   131W  90.9dB @  46Hz   15
+ 92.9dB   132W  91.7dB @  48Hz   15
+-------------
 C180 T6-95
 -------------
  89.1dB             2.5l (1.1)               130W
 SplMech  Pmech SplEle     f3
 
+ 90.4dB   261W  87.4dB @  26Hz   20
+ 91.7dB   262W  88.7dB @  28Hz   19
+            4W  74.8dB @  30Hz 
+            5W  75.8dB @  30Hz 
+            6W  76.8dB @  30Hz 
+            8W  77.8dB @  30Hz 
+           10W  78.8dB @  30Hz 
+           13W  79.9dB @  30Hz 
+           16W  80.9dB @  30Hz 
+           20W  81.9dB @  30Hz 
+           26W  82.9dB @  30Hz 
+           32W  83.9dB @  30Hz 
+           41W  84.9dB @  30Hz 
+           52W  85.9dB @  30Hz 
+           65W  86.9dB @  30Hz 
+           82W  87.9dB @  30Hz 
+          103W  88.9dB @  30Hz 
+          130W  89.9dB @  30Hz 
+ 92.9dB   262W  89.9dB @  30Hz   17
  94.0dB   262W  91.0dB @  32Hz   16
  95.1dB   262W  92.1dB @  34Hz   15
  96.1dB   262W  93.0dB @  36Hz   14

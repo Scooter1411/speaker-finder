@@ -1,11 +1,30 @@
 -------------
+6cx200nd
+-------------
+ 92.0dB             0.8l (1.1)               200W
+SplMech  Pmech SplEle     f3
+
+102.0dB  2242W  91.6dB @  48Hz   20
+-------------
+6P200ND
+-------------
+ 92.0dB             1.0l (1.1)               200W
+SplMech  Pmech SplEle     f3
+
+100.5dB  1557W  91.6dB @  44Hz   19
+101.3dB  1558W  92.4dB @  46Hz   19
+102.0dB  1558W  93.1dB @  48Hz   18
+-------------
 SM118N
 -------------
  97.0dB            80.5l (1.1)               400W
 SplMech  Pmech SplEle     f3
 
-101.6dB   515W 100.5dB @  16Hz   21
 103.6dB   516W 102.5dB @  18Hz   18
+            6W  86.3dB @  20Hz 
+            8W  87.3dB @  20Hz 
+           10W  88.3dB @  20Hz 
+           12W  89.3dB @  20Hz 
            16W  90.3dB @  20Hz 
            20W  91.3dB @  20Hz 
            25W  92.3dB @  20Hz 
@@ -61,8 +80,10 @@ SplMech  Pmech SplEle     f3
  97.0dB            55.0l (1.1)               700W
 SplMech  Pmech SplEle     f3
 
-104.4dB  1465W 101.2dB @  16Hz   22
 106.5dB  1467W 103.2dB @  18Hz   20
+           11W  87.0dB @  20Hz 
+           14W  88.0dB @  20Hz 
+           17W  89.0dB @  20Hz 
            22W  90.0dB @  20Hz 
            28W  91.0dB @  20Hz 
            35W  92.0dB @  20Hz 
@@ -119,8 +140,10 @@ SplMech  Pmech SplEle     f3
  96.5dB            41.8l (1.1)              1000W
 SplMech  Pmech SplEle     f3
 
-106.6dB  3111W 101.6dB @  16Hz   20
 108.6dB  3116W 103.7dB @  18Hz   18
+           16W  87.4dB @  20Hz 
+           20W  88.4dB @  20Hz 
+           25W  89.5dB @  20Hz 
            31W  90.5dB @  20Hz 
            39W  91.5dB @  20Hz 
            50W  92.5dB @  20Hz 

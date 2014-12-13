@@ -6,6 +6,7 @@ SplMech  Pmech SplEle     f3
 
 103.0dB   441W 103.5dB @  16Hz   17
 105.0dB   442W 105.5dB @  18Hz   14
+            8W  89.3dB @  20Hz 
            10W  90.3dB @  20Hz 
            12W  91.3dB @  20Hz 
            16W  92.3dB @  20Hz 
@@ -62,23 +63,6 @@ Colossus 18XB
  99.0dB            26.1l (1.1)              1000W
 SplMech  Pmech SplEle     f3
 
-102.9dB  2434W  99.0dB @  16Hz   26
-104.9dB  2438W 101.1dB @  18Hz   23
-           62W  90.8dB @  20Hz 
-           79W  91.8dB @  20Hz 
-           99W  92.8dB @  20Hz 
-          125W  93.8dB @  20Hz 
-          157W  94.8dB @  20Hz 
-          198W  95.9dB @  20Hz 
-          250W  96.9dB @  20Hz 
-          315W  97.9dB @  20Hz 
-          397W  98.9dB @  20Hz 
-          500W  99.9dB @  20Hz 
-          630W 100.9dB @  20Hz 
-          793W 101.9dB @  20Hz 
-         1000W 102.9dB @  20Hz 
-106.8dB  2442W 102.9dB @  20Hz   22
-108.4dB  2445W 104.5dB @  22Hz   20
 109.9dB  2448W 106.0dB @  24Hz   19
 111.3dB  2450W 107.4dB @  26Hz   17
 112.6dB  2453W 108.7dB @  28Hz   16

@@ -1,10 +1,95 @@
 -------------
+Aura_NSW1_205_8A
+-------------
+ 78.0dB             0.0l (1.1)                 5W
+SplMech  Pmech SplEle     f3
+
+-------------
+Aura_NSW2_326_8A
+-------------
+ 84.0dB             0.1l (1.1)                15W
+SplMech  Pmech SplEle     f3
+
+-------------
+Aura_NS3_193_8A
+-------------
+ 80.0dB             0.8l (1.1)                20W
+SplMech  Pmech SplEle     f3
+
+ 79.1dB    59W  74.4dB @  28Hz   19
+            2W  66.5dB @  30Hz 
+            3W  67.5dB @  30Hz 
+            4W  68.5dB @  30Hz 
+            5W  69.5dB @  30Hz 
+            6W  70.5dB @  30Hz 
+            8W  71.5dB @  30Hz 
+           10W  72.6dB @  30Hz 
+           13W  73.6dB @  30Hz 
+           16W  74.6dB @  30Hz 
+           20W  75.6dB @  30Hz 
+ 80.3dB    59W  75.6dB @  30Hz   18
+ 81.4dB    59W  76.7dB @  32Hz   17
+ 82.5dB    59W  77.7dB @  34Hz   16
+ 83.4dB    59W  78.7dB @  36Hz   15
+ 84.4dB    59W  79.7dB @  38Hz   14
+ 85.3dB    59W  80.5dB @  40Hz   13
+ 86.1dB    59W  81.4dB @  42Hz   12
+ 86.9dB    60W  82.2dB @  44Hz   12
+ 87.7dB    60W  83.0dB @  46Hz   11
+ 88.4dB    60W  83.7dB @  48Hz   10
+-------------
+Aura_NS4_255_8D
+-------------
+ 84.0dB             0.7l (1.1)                20W
+SplMech  Pmech SplEle     f3
+
+ 86.2dB   209W  76.0dB @  32Hz   20
+ 87.3dB   210W  77.1dB @  34Hz   19
+ 88.3dB   210W  78.1dB @  36Hz   18
+ 89.2dB   210W  79.0dB @  38Hz   17
+ 90.1dB   210W  79.9dB @  40Hz   16
+ 90.9dB   210W  80.7dB @  42Hz   15
+ 91.8dB   210W  81.5dB @  44Hz   14
+ 92.5dB   210W  82.3dB @  46Hz   13
+ 93.3dB   211W  83.0dB @  48Hz   13
+-------------
+Aura_NS4_255_4D
+-------------
+ 84.0dB             0.6l (1.1)                20W
+SplMech  Pmech SplEle     f3
+
+ 87.3dB   393W  74.3dB @  34Hz   19
+ 88.3dB   393W  75.3dB @  36Hz   18
+ 89.2dB   394W  76.3dB @  38Hz   17
+ 90.1dB   394W  77.2dB @  40Hz   16
+ 90.9dB   394W  78.0dB @  42Hz   15
+ 91.8dB   394W  78.8dB @  44Hz   15
+ 92.5dB   395W  79.6dB @  46Hz   14
+ 93.3dB   395W  80.3dB @  48Hz   13
+-------------
 Aura_NFS8_495_8B
 -------------
  84.0dB             3.9l (1.1)               100W
 SplMech  Pmech SplEle     f3
 
+ 92.7dB   459W  86.1dB @  22Hz   18
+ 94.2dB   459W  87.6dB @  24Hz   17
+ 95.6dB   460W  88.9dB @  26Hz   16
  96.9dB   460W  90.2dB @  28Hz   14
+            3W  76.4dB @  30Hz 
+            4W  77.4dB @  30Hz 
+            5W  78.4dB @  30Hz 
+            6W  79.4dB @  30Hz 
+            8W  80.4dB @  30Hz 
+           10W  81.4dB @  30Hz 
+           12W  82.4dB @  30Hz 
+           16W  83.4dB @  30Hz 
+           20W  84.4dB @  30Hz 
+           25W  85.4dB @  30Hz 
+           31W  86.4dB @  30Hz 
+           40W  87.4dB @  30Hz 
+           50W  88.4dB @  30Hz 
+           63W  89.4dB @  30Hz 
            79W  90.4dB @  30Hz 
           100W  91.4dB @  30Hz 
  98.1dB   460W  91.4dB @  30Hz   13
@@ -18,14 +103,81 @@ SplMech  Pmech SplEle     f3
 105.5dB   463W  98.8dB @  46Hz    6
 106.2dB   463W  99.6dB @  48Hz    5
 -------------
+Aura_NFS8_495_4A
+-------------
+ 84.0dB             1.2l (1.1)               100W
+SplMech  Pmech SplEle     f3
+
+            3W  66.6dB @  30Hz 
+            4W  67.6dB @  30Hz 
+            5W  68.6dB @  30Hz 
+            6W  69.6dB @  30Hz 
+            8W  70.6dB @  30Hz 
+           10W  71.6dB @  30Hz 
+           12W  72.6dB @  30Hz 
+           16W  73.6dB @  30Hz 
+           20W  74.6dB @  30Hz 
+           25W  75.6dB @  30Hz 
+           31W  76.6dB @  30Hz 
+           40W  77.6dB @  30Hz 
+           50W  78.6dB @  30Hz 
+           63W  79.6dB @  30Hz 
+           79W  80.6dB @  30Hz 
+          100W  81.6dB @  30Hz 
+ 93.4dB  1490W  81.6dB @  30Hz   19
+ 94.5dB  1491W  82.8dB @  32Hz   18
+ 95.5dB  1493W  83.8dB @  34Hz   17
+ 96.5dB  1494W  84.8dB @  36Hz   16
+ 97.5dB  1495W  85.7dB @  38Hz   15
+ 98.4dB  1496W  86.6dB @  40Hz   14
+ 99.2dB  1497W  87.5dB @  42Hz   13
+100.0dB  1498W  88.3dB @  44Hz   13
+100.8dB  1499W  89.0dB @  46Hz   12
+101.5dB  1500W  89.8dB @  48Hz   11
+-------------
 Aura_NS10_513_4A
 -------------
  84.0dB             6.4l (1.1)               200W
 SplMech  Pmech SplEle     f3
 
+            3W  69.2dB @  20Hz 
+            4W  70.2dB @  20Hz 
+            5W  71.2dB @  20Hz 
+            6W  72.2dB @  20Hz 
+            8W  73.2dB @  20Hz 
+           10W  74.2dB @  20Hz 
+           12W  75.2dB @  20Hz 
+           16W  76.2dB @  20Hz 
+           20W  77.2dB @  20Hz 
+           25W  78.2dB @  20Hz 
+           31W  79.2dB @  20Hz 
+           40W  80.2dB @  20Hz 
+           50W  81.2dB @  20Hz 
+           63W  82.2dB @  20Hz 
+           79W  83.2dB @  20Hz 
+          100W  84.2dB @  20Hz 
+          126W  85.2dB @  20Hz 
+          159W  86.2dB @  20Hz 
+          200W  87.2dB @  20Hz 
+100.3dB  4065W  87.2dB @  20Hz   19
+102.0dB  4070W  88.9dB @  22Hz   17
 103.5dB  4075W  90.4dB @  24Hz   16
 104.9dB  4079W  91.8dB @  26Hz   14
 106.2dB  4083W  93.1dB @  28Hz   13
+            3W  76.2dB @  30Hz 
+            4W  77.2dB @  30Hz 
+            5W  78.2dB @  30Hz 
+            6W  79.2dB @  30Hz 
+            8W  80.2dB @  30Hz 
+           10W  81.2dB @  30Hz 
+           12W  82.2dB @  30Hz 
+           16W  83.2dB @  30Hz 
+           20W  84.2dB @  30Hz 
+           25W  85.2dB @  30Hz 
+           31W  86.2dB @  30Hz 
+           40W  87.2dB @  30Hz 
+           50W  88.2dB @  30Hz 
+           63W  89.2dB @  30Hz 
            79W  90.2dB @  30Hz 
           100W  91.2dB @  30Hz 
           126W  92.2dB @  30Hz 
@@ -47,12 +199,42 @@ Aura_NS10_794_4A
  83.0dB             5.6l (1.1)               400W
 SplMech  Pmech SplEle     f3
 
+102.7dB 10356W  88.6dB @  18Hz   20
+            6W  72.4dB @  20Hz 
+            8W  73.4dB @  20Hz 
+           10W  74.4dB @  20Hz 
+           12W  75.4dB @  20Hz 
+           16W  76.4dB @  20Hz 
+           20W  77.4dB @  20Hz 
+           25W  78.4dB @  20Hz 
+           31W  79.4dB @  20Hz 
+           40W  80.4dB @  20Hz 
+           50W  81.4dB @  20Hz 
+           63W  82.4dB @  20Hz 
+           79W  83.4dB @  20Hz 
+          100W  84.4dB @  20Hz 
+          126W  85.4dB @  20Hz 
+          159W  86.4dB @  20Hz 
+          200W  87.4dB @  20Hz 
+          252W  88.4dB @  20Hz 
+          317W  89.4dB @  20Hz 
           400W  90.4dB @  20Hz 
 104.6dB 10371W  90.4dB @  20Hz   18
 106.2dB 10385W  92.1dB @  22Hz   16
 107.7dB 10397W  93.6dB @  24Hz   15
 109.1dB 10408W  95.0dB @  26Hz   13
 110.4dB 10419W  96.2dB @  28Hz   12
+            6W  79.4dB @  30Hz 
+            8W  80.4dB @  30Hz 
+           10W  81.4dB @  30Hz 
+           12W  82.4dB @  30Hz 
+           16W  83.4dB @  30Hz 
+           20W  84.4dB @  30Hz 
+           25W  85.4dB @  30Hz 
+           31W  86.4dB @  30Hz 
+           40W  87.4dB @  30Hz 
+           50W  88.4dB @  30Hz 
+           63W  89.4dB @  30Hz 
            79W  90.4dB @  30Hz 
           100W  91.4dB @  30Hz 
           126W  92.4dB @  30Hz 
@@ -77,7 +259,23 @@ Aura_NS12_513_4A
  85.0dB            19.7l (1.1)               200W
 SplMech  Pmech SplEle     f3
 
+ 99.5dB  2078W  89.4dB @  16Hz   17
 101.6dB  2081W  91.4dB @  18Hz   15
+            3W  75.2dB @  20Hz 
+            4W  76.2dB @  20Hz 
+            5W  77.2dB @  20Hz 
+            6W  78.2dB @  20Hz 
+            8W  79.2dB @  20Hz 
+           10W  80.2dB @  20Hz 
+           12W  81.2dB @  20Hz 
+           16W  82.2dB @  20Hz 
+           20W  83.2dB @  20Hz 
+           25W  84.2dB @  20Hz 
+           31W  85.2dB @  20Hz 
+           40W  86.2dB @  20Hz 
+           50W  87.2dB @  20Hz 
+           63W  88.2dB @  20Hz 
+           79W  89.2dB @  20Hz 
           100W  90.2dB @  20Hz 
           126W  91.2dB @  20Hz 
           159W  92.2dB @  20Hz 
@@ -87,6 +285,14 @@ SplMech  Pmech SplEle     f3
 106.6dB  2089W  96.4dB @  24Hz   10
 108.0dB  2091W  97.8dB @  26Hz    8
 109.3dB  2094W  99.1dB @  28Hz    7
+            3W  82.2dB @  30Hz 
+            4W  83.2dB @  30Hz 
+            5W  84.2dB @  30Hz 
+            6W  85.2dB @  30Hz 
+            8W  86.2dB @  30Hz 
+           10W  87.2dB @  30Hz 
+           12W  88.2dB @  30Hz 
+           16W  89.2dB @  30Hz 
            20W  90.2dB @  30Hz 
            25W  91.2dB @  30Hz 
            31W  92.2dB @  30Hz 
@@ -116,6 +322,19 @@ SplMech  Pmech SplEle     f3
 
 104.4dB  7559W  91.6dB @  16Hz   18
 106.5dB  7571W  93.7dB @  18Hz   16
+            6W  77.4dB @  20Hz 
+            8W  78.4dB @  20Hz 
+           10W  79.4dB @  20Hz 
+           12W  80.5dB @  20Hz 
+           16W  81.5dB @  20Hz 
+           20W  82.5dB @  20Hz 
+           25W  83.5dB @  20Hz 
+           31W  84.5dB @  20Hz 
+           40W  85.5dB @  20Hz 
+           50W  86.5dB @  20Hz 
+           63W  87.5dB @  20Hz 
+           79W  88.5dB @  20Hz 
+          100W  89.5dB @  20Hz 
           126W  90.5dB @  20Hz 
           159W  91.5dB @  20Hz 
           200W  92.5dB @  20Hz 
@@ -127,6 +346,12 @@ SplMech  Pmech SplEle     f3
 111.4dB  7601W  98.7dB @  24Hz   11
 112.8dB  7609W 100.0dB @  26Hz    9
 114.1dB  7617W 101.3dB @  28Hz    8
+            6W  84.5dB @  30Hz 
+            8W  85.5dB @  30Hz 
+           10W  86.5dB @  30Hz 
+           12W  87.5dB @  30Hz 
+           16W  88.5dB @  30Hz 
+           20W  89.5dB @  30Hz 
            25W  90.5dB @  30Hz 
            31W  91.5dB @  30Hz 
            40W  92.5dB @  30Hz 
@@ -158,6 +383,13 @@ SplMech  Pmech SplEle     f3
 
 111.2dB 17726W  97.8dB @  16Hz   14
 113.3dB 17755W  99.8dB @  18Hz   12
+           12W  83.6dB @  20Hz 
+           16W  84.6dB @  20Hz 
+           20W  85.6dB @  20Hz 
+           25W  86.6dB @  20Hz 
+           31W  87.6dB @  20Hz 
+           40W  88.6dB @  20Hz 
+           50W  89.6dB @  20Hz 
            63W  90.6dB @  20Hz 
            79W  91.6dB @  20Hz 
           100W  92.6dB @  20Hz 
@@ -212,6 +444,8 @@ SplMech  Pmech SplEle     f3
 
 115.1dB 12980W 103.0dB @  16Hz   11
 117.1dB 13001W 105.0dB @  18Hz    9
+           12W  88.8dB @  20Hz 
+           16W  89.8dB @  20Hz 
            20W  90.8dB @  20Hz 
            25W  91.8dB @  20Hz 
            31W  92.8dB @  20Hz 

@@ -176,8 +176,9 @@ BEGIN{
                 vd = sd * 2 * xmax / 10;
                 spl2 = 20 * log( 0.37 * fu * fu * vd ) / log(10);
                 
-                printf("%5.1fHz %3.0fHz %4.0fHz %6.1fdB %4.0fl +%4.0fl  %1s %-8s %4.0fmm\n",
-                        fu,fb,fo,spl2,vr,vf,dkorr,dname[di],l);
+                if(( vr >= 1 )&&( vf >= 1 )&&( fu < 85 ))
+                    printf("%5.1fHz %3.0fHz %4.0fHz %6.1fdB %4.0fl +%4.0fl  %1s %-8s %4.0fmm\n",
+                             fu,fb,fo,spl2,vr,vf,dkorr,dname[di],l);
             }
         }
     }

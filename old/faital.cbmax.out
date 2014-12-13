@@ -4,8 +4,11 @@
  98.0dB            29.3l (1.1)              1200W
 SplMech  Pmech SplEle     f3
 
-105.1dB  4169W  99.7dB @  16Hz   23
-107.1dB  4176W 101.7dB @  18Hz   21
+           19W  85.5dB @  20Hz 
+           24W  86.5dB @  20Hz 
+           30W  87.5dB @  20Hz 
+           37W  88.5dB @  20Hz 
+           47W  89.5dB @  20Hz 
            60W  90.5dB @  20Hz 
            75W  91.5dB @  20Hz 
            94W  92.5dB @  20Hz 

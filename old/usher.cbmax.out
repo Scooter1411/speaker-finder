@@ -4,10 +4,37 @@ W8137K
  89.5dB            13.5l (1.1)                80W
 SplMech  Pmech SplEle     f3
 
+ 88.2dB   100W  87.2dB @  18Hz   19
+            2W  74.0dB @  20Hz 
+            3W  75.0dB @  20Hz 
+            4W  76.0dB @  20Hz 
+            5W  77.0dB @  20Hz 
+            6W  78.0dB @  20Hz 
+            8W  79.0dB @  20Hz 
+           10W  80.0dB @  20Hz 
+           13W  81.0dB @  20Hz 
+           16W  82.0dB @  20Hz 
+           20W  83.0dB @  20Hz 
+           25W  84.0dB @  20Hz 
+           32W  85.0dB @  20Hz 
+           40W  86.0dB @  20Hz 
+           50W  87.0dB @  20Hz 
+           63W  88.0dB @  20Hz 
+           80W  89.1dB @  20Hz 
+ 90.0dB   100W  89.1dB @  20Hz   17
  91.7dB   100W  90.7dB @  22Hz   15
  93.2dB   100W  92.2dB @  24Hz   14
  94.6dB   100W  93.6dB @  26Hz   13
  95.9dB   100W  94.9dB @  28Hz   11
+            2W  81.0dB @  30Hz 
+            3W  82.0dB @  30Hz 
+            4W  83.0dB @  30Hz 
+            5W  84.0dB @  30Hz 
+            6W  85.0dB @  30Hz 
+            8W  86.0dB @  30Hz 
+           10W  87.0dB @  30Hz 
+           13W  88.0dB @  30Hz 
+           16W  89.0dB @  30Hz 
            20W  90.1dB @  30Hz 
            25W  91.1dB @  30Hz 
            32W  92.1dB @  30Hz 
