@@ -11,14 +11,6 @@ Beta 8cx
  69.1Hz 118Hz  203Hz  101.5dB    8l +   4l  * 1x40mm    598mm
  75.2Hz 125Hz  209Hz  103.0dB    7l +   4l  * 1x40mm    533mm
  81.8Hz 133Hz  216Hz  104.4dB    6l +   4l  - 1x50mm    742mm
- 88.9Hz 141Hz  223Hz  105.9dB    5l +   4l  - 1x50mm    662mm
- 96.4Hz 149Hz  231Hz  107.3dB    4l +   4l  - 1x50mm    590mm
-104.5Hz 158Hz  239Hz  108.7dB    4l +   4l  - 1x50mm    526mm
-113.2Hz 163Hz  247Hz  110.1dB    4l +   4l  - 1x50mm    492mm
-122.4Hz 177Hz  257Hz  111.4dB    3l +   4l  - 1x50mm    418mm
-132.3Hz 188Hz  266Hz  112.8dB    3l +   4l    1x70mm    729mm
-142.8Hz 199Hz  277Hz  114.1dB    2l +   4l    1x70mm    650mm
-154.0Hz 211Hz  288Hz  115.4dB    2l +   4l    1x70mm    579mm
  40.3Hz  98Hz  174Hz   92.1dB   14l +   3l  * 1x40mm   1194mm
  44.2Hz 104Hz  178Hz   93.7dB   12l +   3l  * 1x40mm   1064mm
  48.5Hz 110Hz  183Hz   95.3dB   10l +   3l  * 1x40mm    948mm
@@ -28,31 +20,12 @@ Beta 8cx
  69.1Hz 138Hz  203Hz  101.5dB    5l +   3l  * 1x40mm    598mm
  75.2Hz 146Hz  209Hz  103.0dB    5l +   3l  * 1x40mm    533mm
  81.8Hz 155Hz  216Hz  104.4dB    4l +   3l  - 1x50mm    742mm
- 88.9Hz 164Hz  223Hz  105.9dB    3l +   3l  - 1x50mm    662mm
- 96.4Hz 174Hz  231Hz  107.3dB    3l +   3l  - 1x50mm    590mm
-104.5Hz 158Hz  239Hz  108.7dB    4l +   3l  - 1x50mm    715mm
-113.2Hz 163Hz  247Hz  110.1dB    4l +   3l  - 1x50mm    670mm
-122.4Hz 177Hz  257Hz  111.4dB    3l +   3l  - 1x50mm    568mm
-113.7Hz 188Hz  266Hz  110.1dB    3l +   3l  - 1x50mm    506mm
-124.2Hz 199Hz  277Hz  111.7dB    2l +   3l  - 1x50mm    451mm
-154.0Hz 211Hz  288Hz  115.4dB    2l +   3l    1x70mm    788mm
  48.4Hz 117Hz  285Hz   95.3dB    8l +   2l  * 1x40mm   1193mm
  53.3Hz 124Hz  290Hz   97.0dB    7l +   2l  * 1x40mm   1064mm
  58.8Hz 132Hz  295Hz   98.7dB    6l +   2l  * 1x40mm    948mm
  64.6Hz 140Hz  301Hz  100.3dB    5l +   2l  * 1x40mm    845mm
  71.0Hz 148Hz  307Hz  102.0dB    4l +   2l  * 1x40mm    753mm
  77.9Hz 157Hz  314Hz  103.6dB    4l +   2l  * 1x40mm    671mm
- 85.4Hz 166Hz  322Hz  105.2dB    3l +   2l  * 1x40mm    598mm
- 93.5Hz 176Hz  330Hz  106.7dB    3l +   2l  * 1x40mm    533mm
-102.2Hz 186Hz  339Hz  108.3dB    3l +   2l  - 1x50mm    742mm
-111.6Hz 197Hz  348Hz  109.8dB    2l +   2l  - 1x50mm    662mm
-121.7Hz 209Hz  358Hz  111.3dB    2l +   2l  - 1x50mm    590mm
-132.5Hz 221Hz  369Hz  112.8dB    2l +   2l  - 1x50mm    526mm
-144.1Hz 234Hz  381Hz  114.3dB    2l +   2l  - 1x50mm    468mm
-156.6Hz 248Hz  393Hz  115.7dB    1l +   2l  - 1x50mm    418mm
-169.9Hz 263Hz  406Hz  117.1dB    1l +   2l    1x70mm    729mm
-184.2Hz 278Hz  421Hz  118.5dB    1l +   2l    1x70mm    650mm
-199.4Hz 295Hz  436Hz  119.9dB    1l +   2l    1x70mm    579mm
 -------------
 Beta 10cx
             93.3dB           250W      1x100mm
@@ -72,8 +45,6 @@ Beta 10cx
  72.6Hz 105Hz  159Hz  110.5dB   18l +  21l  - 1x70mm    497mm
  78.6Hz 114Hz  165Hz  111.9dB   15l +  21l  - 1x70mm    421mm
  84.9Hz 120Hz  171Hz  113.3dB   13l +  21l    1x100mm   766mm
- 91.6Hz 128Hz  178Hz  114.6dB   11l +  21l    1x100mm   683mm
- 98.8Hz 135Hz  185Hz  115.9dB   10l +  21l    1x100mm   608mm
  25.9Hz  63Hz  112Hz   92.6dB  100l +  16l  * 1x50mm    960mm
  28.4Hz  66Hz  114Hz   94.2dB   76l +  16l  * 1x50mm    855mm
  31.1Hz  70Hz  117Hz   95.8dB   60l +  16l  * 1x50mm    762mm
@@ -90,7 +61,6 @@ Beta 10cx
  78.6Hz 114Hz  165Hz  111.9dB   15l +  16l  - 1x70mm    573mm
  73.0Hz 120Hz  171Hz  110.6dB   13l +  16l  - 1x70mm    511mm
  79.7Hz 128Hz  178Hz  112.2dB   11l +  16l  - 1x70mm    455mm
- 98.8Hz 135Hz  185Hz  115.9dB   10l +  16l  - 1x70mm    406mm
  31.0Hz  75Hz  183Hz   95.8dB   47l +  11l  * 1x50mm    960mm
  34.2Hz  80Hz  186Hz   97.5dB   39l +  11l  * 1x50mm    856mm
  37.7Hz  85Hz  189Hz   99.2dB   33l +  11l  * 1x50mm    763mm
@@ -102,18 +72,10 @@ Beta 10cx
  65.6Hz 119Hz  217Hz  108.8dB   13l +  11l  - 1x70mm    749mm
  71.6Hz 126Hz  223Hz  110.3dB   11l +  11l  - 1x70mm    667mm
  78.1Hz 134Hz  230Hz  111.8dB   10l +  11l  - 1x70mm    595mm
- 85.0Hz 142Hz  237Hz  113.3dB    9l +  11l  - 1x70mm    530mm
- 92.5Hz 150Hz  244Hz  114.7dB    8l +  11l  - 1x70mm    473mm
-100.5Hz 159Hz  252Hz  116.2dB    7l +  11l  - 1x70mm    421mm
-109.0Hz 169Hz  261Hz  117.6dB    6l +  11l    1x100mm   766mm
-118.2Hz 179Hz  270Hz  119.0dB    5l +  11l    1x100mm   683mm
-128.0Hz 189Hz  280Hz  120.4dB    5l +  11l    1x100mm   609mm
 -------------
 Beta 12cx
             95.1dB           250W      2x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 20.8Hz  43Hz   90Hz   89.2dB -1054l +  76l  * 1x70mm    815mm
- 22.8Hz  46Hz   92Hz   90.9dB -3260l +  76l  * 1x70mm    727mm
  25.0Hz  49Hz   94Hz   92.4dB 2415l +  76l  * 1x70mm    648mm
  27.4Hz  51Hz   97Hz   94.0dB  819l +  76l  * 1x70mm    577mm
  29.9Hz  54Hz   99Hz   95.6dB  470l +  76l  * 1x70mm    514mm
@@ -160,9 +122,6 @@ Beta 12cx
  68.4Hz 114Hz  190Hz  109.9dB   33l +  39l  - 1x100mm   469mm
  74.4Hz 121Hz  196Hz  111.4dB   29l +  39l  - 1x100mm   418mm
  80.8Hz 128Hz  203Hz  112.8dB   25l +  39l    2x100mm   741mm
- 87.7Hz 136Hz  210Hz  114.2dB   22l +  39l    2x100mm   660mm
- 95.0Hz 144Hz  217Hz  115.6dB   19l +  39l    2x100mm   588mm
-102.9Hz 152Hz  225Hz  117.0dB   17l +  39l    2x100mm   524mm
 -------------
 Kappa15LFA
             99.0dB           600W      2x100mm
@@ -215,9 +174,6 @@ Kappa15LFA
  69.9Hz 117Hz  195Hz  124.6dB   20l +  25l  - 1x100mm   690mm
  76.0Hz 124Hz  201Hz  126.1dB   18l +  25l  - 1x100mm   615mm
  82.6Hz 131Hz  207Hz  127.5dB   15l +  25l  - 1x100mm   548mm
- 89.6Hz 139Hz  214Hz  128.9dB   14l +  25l  - 1x100mm   488mm
- 97.2Hz 147Hz  222Hz  130.3dB   12l +  25l  - 1x100mm   435mm
-105.2Hz 156Hz  230Hz  131.7dB   11l +  25l    2x100mm   771mm
 -------------
 OmegaPro18C
             96.4dB           800W      3x100mm
@@ -277,11 +233,6 @@ OmegaPro18C
 Kilomax PRO 18A
            1250.0dB             0W       1x40mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 12.4Hz  26Hz   54Hz   80.6dB -620l + 156l    1x40mm    362mm
- 13.6Hz  27Hz   55Hz   82.2dB -769l + 156l    1x40mm    323mm
- 14.9Hz  29Hz   56Hz   83.8dB -1051l + 156l    1x40mm    288mm
- 16.4Hz  31Hz   58Hz   85.4dB -1788l + 156l    1x40mm    257mm
- 17.9Hz  33Hz   59Hz   86.9dB -8465l + 156l    1x40mm    229mm
  19.5Hz  34Hz   61Hz   88.4dB 2661l + 156l    1x40mm    204mm
  21.3Hz  36Hz   63Hz   89.9dB 1075l + 156l    1x40mm    182mm
  23.2Hz  39Hz   64Hz   91.4dB  644l + 156l    1x40mm    162mm
@@ -294,8 +245,6 @@ Kilomax PRO 18A
  40.8Hz  58Hz   82Hz  101.2dB  116l + 156l    1x40mm     72mm
  44.0Hz  61Hz   85Hz  102.5dB   98l + 156l    1x40mm     64mm
  47.5Hz  65Hz   89Hz  103.9dB   84l + 156l    1x40mm     57mm
- 12.4Hz  30Hz   54Hz   80.6dB -1449l + 114l    1x40mm    362mm
- 13.6Hz  32Hz   55Hz   82.2dB -3770l + 114l    1x40mm    323mm
  14.9Hz  34Hz   56Hz   83.8dB 4741l + 114l    1x40mm    288mm
  16.4Hz  36Hz   58Hz   85.4dB 1343l + 114l    1x40mm    257mm
  17.9Hz  38Hz   59Hz   86.9dB  744l + 114l    1x40mm    229mm
@@ -380,9 +329,6 @@ Sigma Pro 18-2
  66.8Hz 112Hz  186Hz  127.1dB   30l +  39l  * 1x100mm   482mm
  72.7Hz 118Hz  192Hz  128.5dB   26l +  39l  * 1x100mm   430mm
  79.0Hz 125Hz  198Hz  130.0dB   23l +  39l  - 2x100mm   762mm
- 85.7Hz 133Hz  205Hz  131.4dB   21l +  39l  - 2x100mm   679mm
- 92.9Hz 140Hz  212Hz  132.8dB   18l +  39l  - 2x100mm   605mm
-100.6Hz 149Hz  220Hz  134.2dB   16l +  39l  - 2x100mm   539mm
 -------------
 LAB12
             89.2dB           400W      2x100mm

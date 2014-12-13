@@ -10,15 +10,6 @@ Sica LP 208.38/1100
  69.2Hz 122Hz  216Hz   97.6dB    9l +   4l  * 1x40mm    563mm
  75.5Hz 129Hz  222Hz   99.1dB    8l +   4l  - 1x50mm    784mm
  82.2Hz 137Hz  229Hz  100.6dB    6l +   4l  - 1x50mm    698mm
- 89.4Hz 145Hz  236Hz  102.0dB    6l +   4l  - 1x50mm    622mm
- 97.1Hz 154Hz  244Hz  103.5dB    5l +   4l  - 1x50mm    555mm
-105.4Hz 163Hz  252Hz  104.9dB    4l +   4l  - 1x50mm    494mm
-114.2Hz 173Hz  261Hz  106.3dB    4l +   4l  - 1x50mm    441mm
-123.7Hz 178Hz  270Hz  107.7dB    3l +   4l  - 1x50mm    413mm
-133.8Hz 194Hz  280Hz  109.0dB    3l +   4l    1x70mm    686mm
-144.6Hz 205Hz  291Hz  110.4dB    3l +   4l    1x70mm    611mm
-156.0Hz 217Hz  303Hz  111.7dB    2l +   4l    1x70mm    545mm
-168.3Hz 230Hz  315Hz  113.0dB    2l +   4l    1x70mm    486mm
  44.1Hz 107Hz  191Hz   89.8dB   13l +   3l  * 1x40mm   1001mm
  48.3Hz 113Hz  195Hz   91.4dB   11l +   3l  * 1x40mm    892mm
  53.0Hz 120Hz  199Hz   93.0dB    9l +   3l  * 1x40mm    795mm
@@ -27,29 +18,8 @@ Sica LP 208.38/1100
  69.2Hz 143Hz  216Hz   97.6dB    6l +   3l  * 1x40mm    563mm
  75.5Hz 151Hz  222Hz   99.1dB    5l +   3l  - 1x50mm    784mm
  82.2Hz 160Hz  229Hz  100.6dB    4l +   3l  - 1x50mm    698mm
- 89.4Hz 169Hz  236Hz  102.0dB    4l +   3l  - 1x50mm    622mm
- 97.1Hz 179Hz  244Hz  103.5dB    3l +   3l  - 1x50mm    555mm
-105.4Hz 190Hz  252Hz  104.9dB    3l +   3l  - 1x50mm    494mm
-114.2Hz 173Hz  261Hz  106.3dB    4l +   3l  - 1x50mm    600mm
-123.7Hz 178Hz  270Hz  107.7dB    3l +   3l  - 1x50mm    562mm
-133.8Hz 194Hz  280Hz  109.0dB    3l +   3l  - 1x50mm    476mm
-124.2Hz 205Hz  291Hz  107.8dB    3l +   3l  - 1x50mm    425mm
-135.7Hz 217Hz  303Hz  109.3dB    2l +   3l    1x70mm    742mm
-168.3Hz 230Hz  315Hz  113.0dB    2l +   3l    1x70mm    661mm
  52.9Hz 128Hz  311Hz   92.9dB    8l +   2l  * 1x40mm   1000mm
  58.3Hz 136Hz  317Hz   94.6dB    7l +   2l  * 1x40mm    892mm
  64.2Hz 144Hz  323Hz   96.3dB    6l +   2l  * 1x40mm    795mm
  70.6Hz 152Hz  329Hz   97.9dB    5l +   2l  * 1x40mm    708mm
  77.6Hz 161Hz  336Hz   99.6dB    4l +   2l  * 1x40mm    631mm
- 85.2Hz 171Hz  344Hz  101.2dB    4l +   2l  * 1x40mm    563mm
- 93.3Hz 181Hz  352Hz  102.8dB    3l +   2l  - 1x50mm    783mm
-102.1Hz 192Hz  361Hz  104.4dB    3l +   2l  - 1x50mm    698mm
-111.7Hz 203Hz  370Hz  105.9dB    3l +   2l  - 1x50mm    622mm
-121.9Hz 215Hz  380Hz  107.4dB    2l +   2l  - 1x50mm    555mm
-132.9Hz 228Hz  391Hz  108.9dB    2l +   2l  - 1x50mm    494mm
-144.8Hz 242Hz  403Hz  110.4dB    2l +   2l  - 1x50mm    441mm
-157.5Hz 256Hz  416Hz  111.9dB    2l +   2l    1x70mm    770mm
-171.1Hz 271Hz  429Hz  113.3dB    1l +   2l    1x70mm    686mm
-185.7Hz 287Hz  444Hz  114.7dB    1l +   2l    1x70mm    611mm
-201.3Hz 304Hz  460Hz  116.1dB    1l +   2l    1x70mm    545mm
-217.9Hz 322Hz  476Hz  117.5dB    1l +   2l    1x70mm    486mm

@@ -57,9 +57,6 @@
 12lms4000svc
             82.6dB           800W      1x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
-  6.6Hz  14Hz   28Hz   93.4dB -664l +  81l  * 1x50mm   3897mm
-  7.2Hz  14Hz   29Hz   95.0dB -1103l +  81l  * 1x50mm   3473mm
-  7.9Hz  15Hz   30Hz   96.6dB -4255l +  81l  * 1x50mm   3096mm
   8.6Hz  16Hz   30Hz   98.2dB 1935l +  81l  * 1x50mm   2760mm
   9.4Hz  17Hz   31Hz   99.7dB  733l +  81l  * 1x50mm   2459mm
  10.3Hz  18Hz   32Hz  101.3dB  433l +  81l  * 1x50mm   2192mm
@@ -112,9 +109,6 @@
 15lms4000svc
             85.6dB           800W      2x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
-  5.7Hz  12Hz   25Hz   95.8dB -1519l + 233l  * 1x70mm   3506mm
-  6.3Hz  13Hz   25Hz   97.4dB -2225l + 233l  * 1x70mm   3125mm
-  6.9Hz  13Hz   26Hz   99.0dB -4653l + 233l  * 1x70mm   2785mm
   7.5Hz  14Hz   27Hz  100.6dB 21093l + 233l  * 1x70mm   2483mm
   8.2Hz  15Hz   27Hz  102.1dB 2916l + 233l  * 1x70mm   2212mm
   9.0Hz  16Hz   28Hz  103.7dB 1484l + 233l  * 1x70mm   1972mm
@@ -129,7 +123,6 @@
  18.8Hz  27Hz   38Hz  116.5dB  161l + 233l  * 1x70mm    700mm
  20.3Hz  28Hz   39Hz  117.8dB  138l + 233l  * 1x70mm    624mm
  21.9Hz  30Hz   41Hz  119.1dB  119l + 233l  * 1x70mm    556mm
-  5.7Hz  14Hz   25Hz   95.8dB -24854l + 171l  * 1x70mm   3506mm
   6.3Hz  15Hz   25Hz   97.4dB 4091l + 171l  * 1x70mm   3124mm
   6.9Hz  16Hz   26Hz   99.0dB 1775l + 171l  * 1x70mm   2785mm
   7.5Hz  16Hz   27Hz  100.6dB 1086l + 171l  * 1x70mm   2482mm

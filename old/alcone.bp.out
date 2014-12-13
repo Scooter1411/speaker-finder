@@ -17,8 +17,6 @@ AC_5_25_HE-S
  68.1Hz  98Hz  149Hz  100.5dB    5l +   6l  - 1x40mm    694mm
  73.6Hz 107Hz  154Hz  101.8dB    4l +   6l  - 1x40mm    589mm
  79.6Hz 113Hz  160Hz  103.2dB    3l +   6l  - 1x40mm    525mm
- 85.9Hz 120Hz  166Hz  104.5dB    3l +   6l    1x50mm    731mm
- 92.6Hz 127Hz  173Hz  105.8dB    3l +   6l    1x50mm    651mm
  24.2Hz  59Hz  105Hz   82.5dB   34l +   4l  + 1x40mm   2629mm
  26.6Hz  62Hz  107Hz   84.2dB   24l +   4l  + 1x40mm   2343mm
  29.2Hz  66Hz  110Hz   85.7dB   18l +   4l  + 1x40mm   2088mm
@@ -35,7 +33,6 @@ AC_5_25_HE-S
  73.6Hz 107Hz  154Hz  101.8dB    4l +   4l  + 1x40mm    801mm
  68.4Hz 113Hz  160Hz  100.6dB    3l +   4l  - 1x40mm    714mm
  74.7Hz 120Hz  166Hz  102.1dB    3l +   4l  - 1x40mm    636mm
- 92.6Hz 127Hz  173Hz  105.8dB    3l +   4l  - 1x40mm    567mm
  29.1Hz  71Hz  171Hz   85.7dB   14l +   3l  + 1x40mm   2629mm
  32.1Hz  75Hz  174Hz   87.4dB   11l +   3l  + 1x40mm   2344mm
  35.3Hz  79Hz  178Hz   89.1dB    9l +   3l  + 1x40mm   2089mm
@@ -48,11 +45,6 @@ AC_5_25_HE-S
  67.1Hz 119Hz  209Hz  100.2dB    3l +   3l  + 1x40mm    933mm
  73.2Hz 126Hz  215Hz  101.7dB    3l +   3l  + 1x40mm    832mm
  79.7Hz 133Hz  222Hz  103.2dB    2l +   3l  - 1x40mm    741mm
- 86.7Hz 141Hz  229Hz  104.7dB    2l +   3l  - 1x40mm    660mm
- 94.2Hz 149Hz  236Hz  106.1dB    2l +   3l  - 1x40mm    589mm
-102.2Hz 158Hz  244Hz  107.5dB    2l +   3l  - 1x40mm    525mm
-110.8Hz 167Hz  253Hz  108.9dB    1l +   3l    1x50mm    731mm
-119.9Hz 177Hz  262Hz  110.3dB    1l +   3l    1x50mm    651mm
 -------------
 AC_6_5_HE
             90.0dB            80W       1x70mm
@@ -104,10 +96,6 @@ AC_6_5_HE
  66.9Hz 115Hz  197Hz  103.8dB    5l +   6l  - 1x50mm    750mm
  72.9Hz 122Hz  203Hz  105.3dB    5l +   6l  - 1x50mm    669mm
  79.3Hz 129Hz  209Hz  106.8dB    4l +   6l  - 1x50mm    596mm
- 86.1Hz 136Hz  216Hz  108.2dB    4l +   6l  - 1x50mm    531mm
- 93.5Hz 145Hz  224Hz  109.6dB    3l +   6l  - 1x50mm    473mm
-101.3Hz 153Hz  231Hz  111.0dB    3l +   6l  - 1x50mm    422mm
-109.7Hz 162Hz  240Hz  112.4dB    3l +   6l    1x70mm    737mm
 -------------
 AC_8_HE
             91.0dB           100W       1x70mm
@@ -161,8 +149,6 @@ AC_8_HE
  70.1Hz 114Hz  185Hz  111.0dB    8l +  12l    1x70mm    743mm
  76.1Hz 121Hz  191Hz  112.4dB    7l +  12l    1x70mm    663mm
  82.6Hz 128Hz  198Hz  113.8dB    6l +  12l    1x70mm    590mm
- 89.6Hz 135Hz  205Hz  115.2dB    6l +  12l    1x70mm    526mm
- 97.0Hz 143Hz  212Hz  116.6dB    5l +  12l    1x70mm    469mm
 -------------
 AC_10_HE
             90.0dB           150W      1x100mm
@@ -217,7 +203,6 @@ AC_10_HE
  71.0Hz 113Hz  178Hz  113.1dB    7l +  11l  * 1x50mm    423mm
  77.1Hz 119Hz  184Hz  114.5dB    6l +  11l  - 1x70mm    738mm
  83.6Hz 126Hz  191Hz  115.9dB    5l +  11l  - 1x70mm    658mm
- 90.5Hz 134Hz  198Hz  117.3dB    5l +  11l  - 1x70mm    586mm
 -------------
 AC_8SW8
             89.0dB           120W       1x70mm
@@ -234,11 +219,6 @@ AC_8SW8
  70.8Hz 112Hz  178Hz  111.8dB    3l +   3l  * 1x40mm   1023mm
  76.8Hz 119Hz  184Hz  113.3dB    3l +   3l  * 1x40mm    912mm
  83.3Hz 126Hz  190Hz  114.7dB    2l +   3l  * 1x40mm    812mm
- 90.1Hz 130Hz  197Hz  116.0dB    2l +   3l  * 1x40mm    761mm
- 97.5Hz 141Hz  204Hz  117.4dB    2l +   3l  * 1x40mm    645mm
-105.4Hz 150Hz  212Hz  118.8dB    2l +   3l  * 1x40mm    575mm
-113.7Hz 158Hz  220Hz  120.1dB    1l +   3l  * 1x40mm    513mm
-122.6Hz 168Hz  229Hz  121.4dB    1l +   3l  - 1x50mm    714mm
  32.1Hz  78Hz  139Hz   98.1dB    7l +   2l  * 1x40mm   2882mm
  35.2Hz  83Hz  142Hz   99.7dB    6l +   2l  * 1x40mm   2568mm
  38.6Hz  87Hz  145Hz  101.3dB    5l +   2l  * 1x40mm   2289mm
@@ -251,11 +231,6 @@ AC_8SW8
  70.8Hz 131Hz  178Hz  111.8dB    2l +   2l  * 1x40mm   1023mm
  76.8Hz 139Hz  184Hz  113.3dB    2l +   2l  * 1x40mm    911mm
  83.3Hz 126Hz  190Hz  114.7dB    2l +   2l  * 1x40mm   1106mm
- 90.1Hz 130Hz  197Hz  116.0dB    2l +   2l  * 1x40mm   1036mm
- 97.5Hz 141Hz  204Hz  117.4dB    2l +   2l  * 1x40mm    878mm
- 90.5Hz 150Hz  212Hz  116.1dB    2l +   2l  * 1x40mm    783mm
- 98.9Hz 158Hz  220Hz  117.7dB    1l +   2l  * 1x40mm    698mm
-122.6Hz 168Hz  229Hz  121.4dB    1l +   2l  * 1x40mm    622mm
  38.5Hz  93Hz  227Hz  101.3dB    4l +   1l  * 1x40mm   2882mm
  42.5Hz  99Hz  231Hz  103.0dB    4l +   1l  * 1x40mm   2569mm
  46.8Hz 105Hz  235Hz  104.7dB    3l +   1l  * 1x40mm   2290mm
@@ -265,14 +240,6 @@ AC_8SW8
  68.0Hz 132Hz  256Hz  111.2dB    2l +   1l  * 1x40mm   1444mm
  74.5Hz 140Hz  263Hz  112.7dB    2l +   1l  * 1x40mm   1287mm
  81.4Hz 148Hz  270Hz  114.3dB    2l +   1l  * 1x40mm   1147mm
- 88.9Hz 157Hz  277Hz  115.8dB    1l +   1l  * 1x40mm   1023mm
- 96.9Hz 166Hz  285Hz  117.3dB    1l +   1l  * 1x40mm    911mm
-105.5Hz 176Hz  294Hz  118.8dB    1l +   1l  * 1x40mm    812mm
-114.8Hz 187Hz  303Hz  120.2dB    1l +   1l  * 1x40mm    724mm
-124.7Hz 198Hz  313Hz  121.7dB    1l +   1l  * 1x40mm    645mm
-135.3Hz 209Hz  324Hz  123.1dB    1l +   1l  * 1x40mm    575mm
-146.7Hz 222Hz  335Hz  124.5dB    1l +   1l  * 1x40mm    513mm
-158.8Hz 235Hz  347Hz  125.9dB    1l +   1l  - 1x50mm    714mm
 -------------
 AC_8SW4
             92.0dB           120W       1x70mm
@@ -290,10 +257,6 @@ AC_8SW4
  69.4Hz 107Hz  166Hz  109.6dB    3l +   3l  * 1x40mm    951mm
  75.2Hz 114Hz  172Hz  111.0dB    3l +   3l  * 1x40mm    848mm
  81.5Hz 117Hz  178Hz  112.3dB    3l +   3l  * 1x40mm    794mm
- 88.1Hz 128Hz  185Hz  113.7dB    2l +   3l  * 1x40mm    673mm
- 95.2Hz 135Hz  192Hz  115.1dB    2l +   3l  * 1x40mm    600mm
-102.8Hz 143Hz  199Hz  116.4dB    2l +   3l  * 1x40mm    535mm
-110.8Hz 152Hz  207Hz  117.7dB    1l +   3l  - 1x50mm    745mm
  29.0Hz  70Hz  125Hz   94.4dB    9l +   3l  * 1x40mm   3007mm
  31.8Hz  75Hz  128Hz   96.0dB    8l +   3l  * 1x40mm   2680mm
  34.9Hz  79Hz  131Hz   97.6dB    6l +   3l  * 1x40mm   2389mm
@@ -307,10 +270,7 @@ AC_8SW4
  69.4Hz 125Hz  166Hz  109.6dB    2l +   3l  * 1x40mm    951mm
  75.2Hz 114Hz  172Hz  111.0dB    3l +   3l  * 1x40mm   1154mm
  81.5Hz 117Hz  178Hz  112.3dB    3l +   3l  * 1x40mm   1081mm
- 88.1Hz 128Hz  185Hz  113.7dB    2l +   3l  * 1x40mm    916mm
  81.8Hz 135Hz  192Hz  112.4dB    2l +   3l  * 1x40mm    817mm
- 89.4Hz 143Hz  199Hz  114.0dB    2l +   3l  * 1x40mm    728mm
-110.8Hz 152Hz  207Hz  117.7dB    1l +   3l  * 1x40mm    649mm
  34.8Hz  84Hz  205Hz   97.6dB    5l +   2l  * 1x40mm   3007mm
  38.4Hz  89Hz  209Hz   99.3dB    5l +   2l  * 1x40mm   2681mm
  42.3Hz  95Hz  212Hz  101.0dB    4l +   2l  * 1x40mm   2389mm
@@ -321,13 +281,6 @@ AC_8SW4
  67.3Hz 126Hz  237Hz  109.0dB    2l +   2l  * 1x40mm   1343mm
  73.5Hz 134Hz  244Hz  110.6dB    2l +   2l  * 1x40mm   1197mm
  80.3Hz 142Hz  250Hz  112.1dB    2l +   2l  * 1x40mm   1067mm
- 87.6Hz 150Hz  258Hz  113.6dB    1l +   2l  * 1x40mm    951mm
- 95.4Hz 159Hz  266Hz  115.1dB    1l +   2l  * 1x40mm    848mm
-103.7Hz 169Hz  274Hz  116.5dB    1l +   2l  * 1x40mm    755mm
-112.7Hz 179Hz  283Hz  118.0dB    1l +   2l  * 1x40mm    673mm
-122.3Hz 189Hz  292Hz  119.4dB    1l +   2l  * 1x40mm    600mm
-132.6Hz 200Hz  303Hz  120.8dB    1l +   2l  * 1x40mm    535mm
-143.5Hz 212Hz  314Hz  122.2dB    1l +   2l  - 1x50mm    745mm
 -------------
 AC_10SW8
             89.0dB           170W      1x100mm
@@ -381,8 +334,6 @@ AC_10SW8
  66.5Hz 108Hz  176Hz  115.1dB    5l +   7l  * 1x50mm    730mm
  72.3Hz 115Hz  181Hz  116.5dB    4l +   7l  * 1x50mm    650mm
  78.4Hz 121Hz  188Hz  117.9dB    4l +   7l  * 1x50mm    580mm
- 85.0Hz 128Hz  194Hz  119.3dB    3l +   7l  * 1x50mm    517mm
- 92.1Hz 136Hz  201Hz  120.7dB    3l +   7l  * 1x50mm    460mm
 -------------
 AC_10SW4
             92.0dB           170W      1x100mm
@@ -402,8 +353,6 @@ AC_10SW4
  69.4Hz 100Hz  152Hz  115.8dB    4l +   6l  * 1x50mm   1017mm
  75.1Hz 109Hz  157Hz  117.2dB    3l +   6l  * 1x50mm    862mm
  81.1Hz 115Hz  163Hz  118.5dB    3l +   6l  * 1x50mm    768mm
- 87.6Hz 122Hz  170Hz  119.8dB    3l +   6l  * 1x50mm    685mm
- 94.5Hz 129Hz  177Hz  121.2dB    2l +   6l  * 1x50mm    610mm
  24.7Hz  60Hz  107Hz   97.9dB   14l +   4l  * 1x50mm   3852mm
  27.1Hz  64Hz  109Hz   99.5dB   12l +   4l  * 1x50mm   3432mm
  29.7Hz  67Hz  112Hz  101.1dB   10l +   4l  * 1x50mm   3059mm
@@ -420,7 +369,6 @@ AC_10SW4
  75.1Hz 109Hz  157Hz  117.2dB    3l +   4l  * 1x50mm   1174mm
  69.7Hz 115Hz  163Hz  115.9dB    3l +   4l  * 1x50mm   1046mm
  76.2Hz 122Hz  170Hz  117.4dB    3l +   4l  * 1x50mm    932mm
- 94.5Hz 129Hz  177Hz  121.2dB    2l +   4l  * 1x50mm    831mm
  29.7Hz  72Hz  175Hz  101.0dB    9l +   3l  * 1x50mm   3851mm
  32.7Hz  76Hz  178Hz  102.7dB    8l +   3l  * 1x50mm   3433mm
  36.0Hz  81Hz  181Hz  104.4dB    7l +   3l  * 1x50mm   3060mm
@@ -433,11 +381,6 @@ AC_10SW4
  68.4Hz 121Hz  213Hz  115.6dB    3l +   3l  * 1x50mm   1366mm
  74.6Hz 128Hz  220Hz  117.1dB    2l +   3l  * 1x50mm   1218mm
  81.3Hz 136Hz  226Hz  118.5dB    2l +   3l  * 1x50mm   1086mm
- 88.4Hz 144Hz  233Hz  120.0dB    2l +   3l  * 1x50mm    968mm
- 96.0Hz 152Hz  241Hz  121.4dB    2l +   3l  * 1x50mm    862mm
-104.2Hz 161Hz  249Hz  122.9dB    2l +   3l  * 1x50mm    769mm
-113.0Hz 171Hz  258Hz  124.3dB    1l +   3l  * 1x50mm    685mm
-122.3Hz 181Hz  267Hz  125.6dB    1l +   3l  * 1x50mm    610mm
 -------------
 AC_12SW8
             90.0dB           250W      2x100mm
@@ -457,8 +400,6 @@ AC_12SW8
  68.6Hz  99Hz  150Hz  121.6dB    6l +   9l  * 1x70mm   1348mm
  74.2Hz 107Hz  155Hz  122.9dB    5l +   9l  * 1x70mm   1143mm
  80.1Hz 114Hz  161Hz  124.3dB    5l +   9l  * 1x70mm   1019mm
- 86.5Hz 120Hz  168Hz  125.6dB    4l +   9l  * 1x70mm    908mm
- 93.3Hz 128Hz  174Hz  126.9dB    4l +   9l  * 1x70mm    809mm
  24.4Hz  59Hz  106Hz  103.6dB   20l +   6l  * 1x70mm   5107mm
  26.8Hz  63Hz  108Hz  105.3dB   17l +   6l  * 1x70mm   4551mm
  29.4Hz  66Hz  111Hz  106.8dB   15l +   6l  * 1x70mm   4056mm
@@ -475,7 +416,6 @@ AC_12SW8
  74.2Hz 107Hz  155Hz  122.9dB    5l +   6l  * 1x70mm   1556mm
  68.9Hz 114Hz  161Hz  121.6dB    5l +   6l  * 1x70mm   1387mm
  75.2Hz 120Hz  168Hz  123.2dB    4l +   6l  * 1x70mm   1236mm
- 93.3Hz 128Hz  174Hz  126.9dB    4l +   6l  * 1x70mm   1102mm
  29.3Hz  71Hz  173Hz  106.8dB   13l +   4l  * 1x70mm   5107mm
  32.3Hz  75Hz  176Hz  108.5dB   11l +   4l  * 1x70mm   4552mm
  35.6Hz  80Hz  179Hz  110.2dB   10l +   4l  * 1x70mm   4057mm
@@ -488,11 +428,6 @@ AC_12SW8
  67.6Hz 119Hz  211Hz  121.3dB    4l +   4l  * 1x70mm   1812mm
  73.7Hz 126Hz  217Hz  122.8dB    4l +   4l  * 1x70mm   1615mm
  80.2Hz 134Hz  223Hz  124.3dB    3l +   4l  * 1x70mm   1439mm
- 87.3Hz 142Hz  231Hz  125.8dB    3l +   4l  * 1x70mm   1283mm
- 94.8Hz 150Hz  238Hz  127.2dB    3l +   4l  * 1x70mm   1143mm
-102.9Hz 159Hz  246Hz  128.6dB    2l +   4l  * 1x70mm   1019mm
-111.6Hz 169Hz  255Hz  130.0dB    2l +   4l  * 1x70mm    908mm
-120.8Hz 179Hz  264Hz  131.4dB    2l +   4l  * 1x70mm    809mm
 -------------
 AC_12SW4
             93.0dB           250W      2x100mm
@@ -513,7 +448,6 @@ AC_12SW4
  72.5Hz 105Hz  152Hz  121.1dB    5l +   8l  * 1x70mm   1385mm
  78.3Hz 111Hz  158Hz  122.4dB    4l +   8l  * 1x70mm   1234mm
  84.5Hz 118Hz  164Hz  123.8dB    4l +   8l  * 1x70mm   1100mm
- 91.1Hz 125Hz  170Hz  125.1dB    3l +   8l  * 1x70mm    980mm
  23.9Hz  58Hz  103Hz  101.8dB   17l +   6l  * 1x70mm   6187mm
  26.2Hz  61Hz  106Hz  103.4dB   15l +   6l  * 1x70mm   5513mm
  28.7Hz  65Hz  108Hz  105.0dB   13l +   6l  * 1x70mm   4914mm
@@ -530,7 +464,6 @@ AC_12SW4
  72.5Hz 105Hz  152Hz  121.1dB    5l +   6l  * 1x70mm   1885mm
  67.3Hz 111Hz  158Hz  119.8dB    4l +   6l  * 1x70mm   1680mm
  73.5Hz 118Hz  164Hz  121.3dB    4l +   6l  * 1x70mm   1498mm
- 91.1Hz 125Hz  170Hz  125.1dB    3l +   6l  * 1x70mm   1335mm
  28.6Hz  69Hz  169Hz  105.0dB   11l +   4l  * 1x70mm   6186mm
  31.6Hz  74Hz  172Hz  106.6dB   10l +   4l  * 1x70mm   5515mm
  34.8Hz  78Hz  175Hz  108.3dB    9l +   4l  * 1x70mm   4915mm
@@ -543,8 +476,3 @@ AC_12SW4
  66.0Hz 117Hz  206Hz  119.5dB    4l +   4l  * 1x70mm   2195mm
  72.0Hz 124Hz  212Hz  121.0dB    3l +   4l  * 1x70mm   1957mm
  78.4Hz 131Hz  218Hz  122.5dB    3l +   4l  * 1x70mm   1744mm
- 85.3Hz 139Hz  225Hz  123.9dB    3l +   4l  * 1x70mm   1554mm
- 92.7Hz 147Hz  233Hz  125.4dB    2l +   4l  * 1x70mm   1385mm
-100.6Hz 156Hz  241Hz  126.8dB    2l +   4l  * 1x70mm   1234mm
-109.0Hz 165Hz  249Hz  128.2dB    2l +   4l  * 1x70mm   1100mm
-118.0Hz 175Hz  258Hz  129.6dB    2l +   4l  * 1x70mm    981mm

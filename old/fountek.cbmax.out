@@ -1,4 +1,44 @@
 -------------
+FE85
+-------------
+ 85.7dB             0.2l (1.1)                12W
+SplMech  Pmech SplEle     f3
+
+-------------
+FE87
+-------------
+ 84.0dB             1.1l (1.1)                13W
+SplMech  Pmech SplEle     f3
+
+ 66.3dB     2W  74.0dB @  32Hz   20
+ 67.4dB     2W  75.1dB @  34Hz   18
+ 68.4dB     2W  76.0dB @  36Hz   17
+ 69.3dB     2W  77.0dB @  38Hz   17
+ 70.2dB     2W  77.9dB @  40Hz   16
+ 71.1dB     2W  78.7dB @  42Hz   15
+ 71.9dB     2W  79.5dB @  44Hz   14
+ 72.6dB     2W  80.3dB @  46Hz   13
+ 73.4dB     2W  81.0dB @  48Hz   12
+-------------
+FR88
+-------------
+ 85.0dB             0.5l (1.1)                15W
+SplMech  Pmech SplEle     f3
+
+ 71.0dB     6W  75.0dB @  40Hz   20
+ 71.9dB     6W  75.9dB @  42Hz   19
+ 72.7dB     6W  76.7dB @  44Hz   18
+ 73.5dB     6W  77.5dB @  46Hz   17
+ 74.2dB     6W  78.2dB @  48Hz   17
+-------------
+FR88EX
+-------------
+ 84.3dB             0.3l (1.1)                15W
+SplMech  Pmech SplEle     f3
+
+ 82.2dB    81W  74.8dB @  46Hz   20
+ 82.9dB    81W  75.6dB @  48Hz   19
+-------------
 FW168
 -------------
  87.3dB             2.6l (1.1)                50W

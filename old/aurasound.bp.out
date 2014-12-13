@@ -2,124 +2,14 @@
 Aura_NSW1_205_8A
             78.0dB             5W       1x40mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 64.7Hz 135Hz  280Hz   67.8dB   -0l +   0l    1x40mm   48910mm
- 71.0Hz 143Hz  286Hz   69.4dB   -0l +   0l    1x40mm   43592mm
- 77.8Hz 151Hz  293Hz   71.0dB   -0l +   0l    1x40mm   38849mm
- 85.2Hz 160Hz  300Hz   72.6dB   -0l +   0l    1x40mm   34633mm
- 93.1Hz 169Hz  308Hz   74.2dB   -0l +   0l    1x40mm   30860mm
-101.6Hz 179Hz  317Hz   75.7dB   -0l +   0l    1x40mm   27506mm
-110.8Hz 190Hz  326Hz   77.2dB   -0l +   0l    1x40mm   24515mm
-120.7Hz 201Hz  336Hz   78.7dB   -0l +   0l    1x40mm   21851mm
-131.3Hz 213Hz  346Hz   80.1dB   -1l +   0l    1x40mm   19472mm
-142.6Hz 226Hz  358Hz   81.6dB    1l +   0l    1x40mm   17356mm
-154.8Hz 239Hz  370Hz   83.0dB    0l +   0l    1x40mm   15469mm
-167.8Hz 253Hz  383Hz   84.4dB    0l +   0l    1x40mm   13787mm
-181.7Hz 262Hz  397Hz   85.8dB    0l +   0l    1x40mm   12911mm
-196.5Hz 284Hz  412Hz   87.1dB    0l +   0l    1x40mm   10951mm
-212.3Hz 301Hz  428Hz   88.5dB    0l +   0l    1x40mm   9759mm
-229.2Hz 319Hz  444Hz   89.8dB    0l +   0l    1x40mm   8699mm
-247.2Hz 338Hz  462Hz   91.1dB    0l +   0l    1x40mm   7752mm
- 64.7Hz 157Hz  280Hz   67.8dB   -0l +   0l    1x40mm   48913mm
- 71.0Hz 166Hz  286Hz   69.4dB   -0l +   0l    1x40mm   43587mm
- 77.8Hz 176Hz  293Hz   71.0dB   -0l +   0l    1x40mm   38847mm
- 85.2Hz 187Hz  300Hz   72.6dB   -0l +   0l    1x40mm   34629mm
- 93.1Hz 198Hz  308Hz   74.2dB   -0l +   0l    1x40mm   30866mm
-101.6Hz 209Hz  317Hz   75.7dB   -0l +   0l    1x40mm   27503mm
-110.8Hz 222Hz  326Hz   77.2dB    2l +   0l    1x40mm   24515mm
-120.7Hz 235Hz  336Hz   78.7dB    0l +   0l    1x40mm   21850mm
-131.3Hz 249Hz  346Hz   80.1dB    0l +   0l    1x40mm   19474mm
-142.6Hz 264Hz  358Hz   81.6dB    0l +   0l    1x40mm   17356mm
-154.8Hz 279Hz  370Hz   83.0dB    0l +   0l    1x40mm   15468mm
-167.8Hz 253Hz  383Hz   84.4dB    0l +   0l    1x40mm   18765mm
-181.7Hz 262Hz  397Hz   85.8dB    0l +   0l    1x40mm   17574mm
-196.5Hz 284Hz  412Hz   87.1dB    0l +   0l    1x40mm   14905mm
-182.5Hz 301Hz  428Hz   85.8dB    0l +   0l    1x40mm   13283mm
-199.3Hz 319Hz  444Hz   87.4dB    0l +   0l    1x40mm   11840mm
-247.2Hz 338Hz  462Hz   91.1dB    0l +   0l    1x40mm   10551mm
- 77.6Hz 188Hz  457Hz   71.0dB   -0l +   0l    1x40mm   48907mm
- 85.6Hz 200Hz  465Hz   72.7dB   -0l +   0l    1x40mm   43600mm
- 94.3Hz 211Hz  474Hz   74.4dB   -1l +   0l    1x40mm   38858mm
-103.7Hz 224Hz  483Hz   76.0dB    1l +   0l    1x40mm   34627mm
-114.0Hz 237Hz  494Hz   77.7dB    0l +   0l    1x40mm   30864mm
-125.1Hz 251Hz  505Hz   79.3dB    0l +   0l    1x40mm   27506mm
-137.1Hz 266Hz  517Hz   80.9dB    0l +   0l    1x40mm   24512mm
-150.1Hz 282Hz  530Hz   82.4dB    0l +   0l    1x40mm   21847mm
-164.0Hz 299Hz  544Hz   84.0dB    0l +   0l    1x40mm   19473mm
-179.1Hz 316Hz  559Hz   85.5dB    0l +   0l    1x40mm   17354mm
-195.3Hz 335Hz  575Hz   87.0dB    0l +   0l    1x40mm   15468mm
-212.7Hz 355Hz  592Hz   88.5dB    0l +   0l    1x40mm   13786mm
-231.3Hz 376Hz  611Hz   90.0dB    0l +   0l    1x40mm   12287mm
-251.3Hz 398Hz  631Hz   91.4dB    0l +   0l    1x40mm   10951mm
-272.7Hz 422Hz  652Hz   92.8dB    0l +   0l    1x40mm   9760mm
-295.7Hz 447Hz  675Hz   94.2dB    0l +   0l    1x40mm   8699mm
-320.1Hz 473Hz  700Hz   95.6dB    0l +   0l    1x40mm   7752mm
 -------------
 Aura_NSW2_326_8A
             84.0dB            15W       1x40mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 61.8Hz 128Hz  267Hz   76.4dB   -0l +   0l    1x40mm   23672mm
- 67.8Hz 136Hz  273Hz   78.0dB   -0l +   0l    1x40mm   21098mm
- 74.3Hz 144Hz  280Hz   79.6dB   -0l +   0l    1x40mm   18803mm
- 81.3Hz 153Hz  287Hz   81.2dB   -0l +   0l    1x40mm   16762mm
- 88.9Hz 162Hz  294Hz   82.7dB   -0l +   0l    1x40mm   14936mm
- 97.0Hz 171Hz  302Hz   84.2dB   -0l +   0l    1x40mm   13313mm
-105.8Hz 181Hz  311Hz   85.7dB   -1l +   0l    1x40mm   11865mm
-115.2Hz 192Hz  321Hz   87.2dB   -1l +   0l    1x40mm   10576mm
-125.3Hz 204Hz  331Hz   88.7dB    3l +   0l    1x40mm   9424mm
-136.1Hz 216Hz  341Hz   90.1dB    1l +   0l    1x40mm   8400mm
-147.7Hz 228Hz  353Hz   91.5dB    0l +   0l    1x40mm   7487mm
-160.1Hz 242Hz  365Hz   92.9dB    0l +   0l    1x40mm   6673mm
-173.4Hz 250Hz  379Hz   94.3dB    0l +   0l    1x40mm   6249mm
-187.5Hz 271Hz  393Hz   95.7dB    0l +   0l    1x40mm   5300mm
-202.6Hz 288Hz  408Hz   97.0dB    0l +   0l    1x40mm   4723mm
-218.7Hz 305Hz  424Hz   98.4dB    0l +   0l    1x40mm   4210mm
-235.9Hz 323Hz  441Hz   99.7dB    0l +   0l    1x40mm   3752mm
- 61.8Hz 150Hz  267Hz   76.4dB   -0l +   0l    1x40mm   23674mm
- 67.8Hz 159Hz  273Hz   78.0dB   -0l +   0l    1x40mm   21096mm
- 74.3Hz 168Hz  280Hz   79.6dB   -0l +   0l    1x40mm   18802mm
- 81.3Hz 178Hz  287Hz   81.2dB   -0l +   0l    1x40mm   16761mm
- 88.9Hz 189Hz  294Hz   82.7dB   -1l +   0l    1x40mm   14939mm
- 97.0Hz 200Hz  302Hz   84.2dB  -58l +   0l    1x40mm   13311mm
-105.8Hz 212Hz  311Hz   85.7dB    1l +   0l    1x40mm   11865mm
-115.2Hz 224Hz  321Hz   87.2dB    0l +   0l    1x40mm   10575mm
-125.3Hz 237Hz  331Hz   88.7dB    0l +   0l    1x40mm   9426mm
-136.1Hz 252Hz  341Hz   90.1dB    0l +   0l    1x40mm   8400mm
-147.7Hz 266Hz  353Hz   91.5dB    0l +   0l    1x40mm   7487mm
-160.1Hz 242Hz  365Hz   92.9dB    0l +   0l    1x40mm   9082mm
-173.4Hz 250Hz  379Hz   94.3dB    0l +   0l    1x40mm   8506mm
-187.5Hz 271Hz  393Hz   95.7dB    0l +   0l    1x40mm   7214mm
-174.1Hz 288Hz  408Hz   94.4dB    0l +   0l    1x40mm   6429mm
-190.2Hz 305Hz  424Hz   95.9dB    0l +   0l    1x40mm   5731mm
-235.9Hz 323Hz  441Hz   99.7dB    0l +   0l    1x40mm   5107mm
- 74.1Hz 180Hz  436Hz   79.6dB   -1l +   0l    1x40mm   23671mm
- 81.7Hz 190Hz  444Hz   81.3dB   -1l +   0l    1x40mm   21102mm
- 90.0Hz 202Hz  452Hz   82.9dB    6l +   0l    1x40mm   18807mm
- 99.0Hz 214Hz  461Hz   84.6dB    1l +   0l    1x40mm   16760mm
-108.8Hz 226Hz  471Hz   86.2dB    0l +   0l    1x40mm   14938mm
-119.4Hz 240Hz  482Hz   87.8dB    0l +   0l    1x40mm   13313mm
-130.8Hz 254Hz  493Hz   89.4dB    0l +   0l    1x40mm   11864mm
-143.2Hz 269Hz  505Hz   91.0dB    0l +   0l    1x40mm   10574mm
-156.5Hz 285Hz  519Hz   92.6dB    0l +   0l    1x40mm   9425mm
-170.9Hz 302Hz  533Hz   94.1dB    0l +   0l    1x40mm   8399mm
-186.4Hz 320Hz  549Hz   95.6dB    0l +   0l    1x40mm   7487mm
-203.0Hz 339Hz  565Hz   97.1dB    0l +   0l    1x40mm   6672mm
-220.8Hz 359Hz  583Hz   98.5dB    0l +   0l    1x40mm   5947mm
-239.9Hz 380Hz  602Hz  100.0dB    0l +   0l    1x40mm   5300mm
-260.3Hz 403Hz  623Hz  101.4dB    0l +   0l    1x40mm   4724mm
-282.2Hz 426Hz  644Hz  102.8dB    0l +   0l    1x40mm   4210mm
-305.5Hz 452Hz  668Hz  104.2dB    0l +   0l    1x40mm   3752mm
 -------------
 Aura_NS3_193_8A
             80.0dB            20W       1x40mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 25.3Hz  53Hz  109Hz   77.3dB   -2l +   1l    1x40mm   12329mm
- 27.8Hz  56Hz  112Hz   78.9dB   -2l +   1l    1x40mm   10989mm
- 30.4Hz  59Hz  115Hz   80.5dB   -3l +   1l    1x40mm   9793mm
- 33.3Hz  63Hz  117Hz   82.1dB   -3l +   1l    1x40mm   8730mm
- 36.4Hz  66Hz  121Hz   83.6dB   -4l +   1l    1x40mm   7779mm
- 39.8Hz  70Hz  124Hz   85.2dB   -5l +   1l    1x40mm   6934mm
- 43.3Hz  74Hz  127Hz   86.7dB   -9l +   1l    1x40mm   6180mm
- 47.2Hz  79Hz  131Hz   88.2dB  -39l +   1l    1x40mm   5508mm
  51.3Hz  83Hz  135Hz   89.6dB   14l +   1l    1x40mm   4909mm
  55.8Hz  88Hz  140Hz   91.1dB    5l +   1l    1x40mm   4375mm
  60.5Hz  94Hz  145Hz   92.5dB    3l +   1l    1x40mm   3900mm
@@ -127,47 +17,10 @@ Aura_NS3_193_8A
  71.0Hz 102Hz  155Hz   95.3dB    2l +   1l    1x40mm   3255mm
  76.9Hz 111Hz  161Hz   96.6dB    1l +   1l    1x40mm   2760mm
  83.0Hz 118Hz  167Hz   98.0dB    1l +   1l    1x40mm   2460mm
- 89.6Hz 125Hz  174Hz   99.3dB    1l +   1l    1x40mm   2193mm
- 96.7Hz 132Hz  181Hz  100.6dB    1l +   1l    1x40mm   1954mm
- 25.3Hz  61Hz  109Hz   77.3dB   -3l +   1l    1x40mm   12330mm
- 27.8Hz  65Hz  112Hz   78.9dB   -4l +   1l    1x40mm   10987mm
- 30.4Hz  69Hz  115Hz   80.5dB   -5l +   1l    1x40mm   9793mm
- 33.3Hz  73Hz  117Hz   82.1dB   -7l +   1l    1x40mm   8729mm
- 36.4Hz  77Hz  121Hz   83.6dB  -18l +   1l    1x40mm   7781mm
- 39.8Hz  82Hz  124Hz   85.2dB   25l +   1l    1x40mm   6933mm
- 43.3Hz  87Hz  127Hz   86.7dB    7l +   1l    1x40mm   6180mm
- 47.2Hz  92Hz  131Hz   88.2dB    4l +   1l    1x40mm   5508mm
- 51.3Hz  97Hz  135Hz   89.6dB    3l +   1l    1x40mm   4909mm
- 55.8Hz 103Hz  140Hz   91.1dB    2l +   1l    1x40mm   4375mm
- 60.5Hz 109Hz  145Hz   92.5dB    1l +   1l    1x40mm   3899mm
- 65.6Hz  99Hz  150Hz   93.9dB    2l +   1l    1x40mm   4730mm
- 71.0Hz 102Hz  155Hz   95.3dB    2l +   1l    1x40mm   4430mm
- 76.9Hz 111Hz  161Hz   96.6dB    1l +   1l    1x40mm   3757mm
- 71.4Hz 118Hz  167Hz   95.3dB    1l +   1l    1x40mm   3348mm
- 78.0Hz 125Hz  174Hz   96.9dB    1l +   1l    1x40mm   2985mm
- 96.7Hz 132Hz  181Hz  100.6dB    1l +   1l    1x40mm   2660mm
- 30.4Hz  74Hz  179Hz   80.5dB   -8l +   1l    1x40mm   12329mm
- 33.5Hz  78Hz  182Hz   82.2dB  -25l +   1l    1x40mm   10991mm
- 36.9Hz  83Hz  185Hz   83.9dB   18l +   1l    1x40mm   9796mm
- 40.6Hz  88Hz  189Hz   85.5dB    6l +   1l    1x40mm   8729mm
- 44.6Hz  93Hz  193Hz   87.2dB    3l +   1l    1x40mm   7780mm
- 48.9Hz  98Hz  197Hz   88.8dB    2l +   1l    1x40mm   6934mm
- 53.6Hz 104Hz  202Hz   90.4dB    2l +   1l    1x40mm   6179mm
- 58.7Hz 110Hz  207Hz   91.9dB    1l +   1l    1x40mm   5507mm
- 64.1Hz 117Hz  213Hz   93.5dB    1l +   1l    1x40mm   4909mm
- 70.0Hz 124Hz  218Hz   95.0dB    1l +   1l    1x40mm   4375mm
- 76.4Hz 131Hz  225Hz   96.5dB    1l +   1l    1x40mm   3899mm
- 83.2Hz 139Hz  232Hz   98.0dB    1l +   1l    1x40mm   3475mm
- 90.5Hz 147Hz  239Hz   99.5dB    1l +   1l    1x40mm   3097mm
- 98.3Hz 156Hz  247Hz  100.9dB    0l +   1l    1x40mm   2760mm
-106.7Hz 165Hz  255Hz  102.3dB    0l +   1l    1x40mm   2460mm
-115.6Hz 175Hz  264Hz  103.7dB    0l +   1l    1x40mm   2193mm
-125.2Hz 185Hz  274Hz  105.1dB    0l +   1l    1x40mm   1954mm
 -------------
 Aura_NS4_255_8D
             84.0dB            20W       1x40mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 29.4Hz  61Hz  127Hz   84.8dB -122l +   1l    1x40mm   7698mm
  32.3Hz  65Hz  130Hz   86.4dB   35l +   1l    1x40mm   6861mm
  35.4Hz  69Hz  133Hz   88.0dB   14l +   1l    1x40mm   6114mm
  38.7Hz  73Hz  137Hz   89.5dB    9l +   1l    1x40mm   5451mm
@@ -180,44 +33,6 @@ Aura_NS4_255_8D
  70.4Hz 109Hz  168Hz   99.9dB    2l +   1l    1x40mm   2435mm
  76.3Hz 115Hz  174Hz  101.3dB    1l +   1l    1x40mm   2170mm
  82.6Hz 119Hz  180Hz  102.7dB    1l +   1l    1x40mm   2032mm
- 89.3Hz 129Hz  187Hz  104.1dB    1l +   1l    1x40mm   1724mm
- 96.5Hz 137Hz  194Hz  105.4dB    1l +   1l    1x40mm   1536mm
-104.2Hz 145Hz  202Hz  106.7dB    1l +   1l    1x40mm   1369mm
-112.4Hz 154Hz  210Hz  108.0dB    1l +   1l    1x40mm   1220mm
- 29.4Hz  71Hz  127Hz   84.8dB   10l +   1l    1x40mm   7698mm
- 32.3Hz  76Hz  130Hz   86.4dB    7l +   1l    1x40mm   6860mm
- 35.4Hz  80Hz  133Hz   88.0dB    5l +   1l    1x40mm   6114mm
- 38.7Hz  85Hz  137Hz   89.5dB    4l +   1l    1x40mm   5450mm
- 42.3Hz  90Hz  140Hz   91.1dB    3l +   1l    1x40mm   4858mm
- 46.2Hz  95Hz  144Hz   92.6dB    2l +   1l    1x40mm   4329mm
- 50.4Hz 101Hz  148Hz   94.1dB    2l +   1l    1x40mm   3858mm
- 54.9Hz 107Hz  153Hz   95.6dB    2l +   1l    1x40mm   3439mm
- 59.7Hz 113Hz  158Hz   97.0dB    1l +   1l    1x40mm   3065mm
- 64.8Hz 120Hz  163Hz   98.5dB    1l +   1l    1x40mm   2732mm
- 70.4Hz 127Hz  168Hz   99.9dB    1l +   1l    1x40mm   2435mm
- 76.3Hz 115Hz  174Hz  101.3dB    1l +   1l    1x40mm   2953mm
- 82.6Hz 119Hz  180Hz  102.7dB    1l +   1l    1x40mm   2766mm
- 89.3Hz 129Hz  187Hz  104.1dB    1l +   1l    1x40mm   2346mm
- 83.0Hz 137Hz  194Hz  102.8dB    1l +   1l    1x40mm   2091mm
- 90.6Hz 145Hz  202Hz  104.3dB    1l +   1l    1x40mm   1863mm
-112.4Hz 154Hz  210Hz  108.0dB    1l +   1l    1x40mm   1661mm
- 35.3Hz  86Hz  208Hz   87.9dB    4l +   1l    1x40mm   7697mm
- 38.9Hz  91Hz  211Hz   89.6dB    3l +   1l    1x40mm   6862mm
- 42.9Hz  96Hz  215Hz   91.3dB    2l +   1l    1x40mm   6116mm
- 47.2Hz 102Hz  220Hz   93.0dB    2l +   1l    1x40mm   5450mm
- 51.8Hz 108Hz  224Hz   94.6dB    2l +   1l    1x40mm   4858mm
- 56.9Hz 114Hz  229Hz   96.2dB    1l +   1l    1x40mm   4329mm
- 62.3Hz 121Hz  235Hz   97.8dB    1l +   1l    1x40mm   3858mm
- 68.2Hz 128Hz  241Hz   99.4dB    1l +   1l    1x40mm   3438mm
- 74.6Hz 136Hz  247Hz  100.9dB    1l +   1l    1x40mm   3065mm
- 81.4Hz 144Hz  254Hz  102.4dB    1l +   1l    1x40mm   2731mm
- 88.8Hz 152Hz  261Hz  103.9dB    1l +   1l    1x40mm   2435mm
- 96.7Hz 161Hz  269Hz  105.4dB    1l +   1l    1x40mm   2170mm
-105.2Hz 171Hz  278Hz  106.9dB    0l +   1l    1x40mm   1934mm
-114.3Hz 181Hz  287Hz  108.3dB    0l +   1l    1x40mm   1724mm
-124.0Hz 192Hz  297Hz  109.7dB    0l +   1l    1x40mm   1536mm
-134.4Hz 203Hz  307Hz  111.1dB    0l +   1l    1x40mm   1369mm
-145.5Hz 215Hz  318Hz  112.5dB    0l +   1l    1x40mm   1220mm
 -------------
 Aura_NS4_255_4D
             84.0dB            20W       1x40mm
@@ -234,51 +49,10 @@ Aura_NS4_255_4D
  66.8Hz 106Hz  168Hz   99.0dB    2l +   1l    1x40mm   2722mm
  72.5Hz 112Hz  173Hz  100.4dB    1l +   1l    1x40mm   2426mm
  78.6Hz 119Hz  179Hz  101.8dB    1l +   1l    1x40mm   2162mm
- 85.1Hz 123Hz  186Hz  103.2dB    1l +   1l    1x40mm   2025mm
- 92.0Hz 133Hz  193Hz  104.6dB    1l +   1l    1x40mm   1717mm
- 99.4Hz 141Hz  200Hz  105.9dB    1l +   1l    1x40mm   1530mm
-107.3Hz 149Hz  208Hz  107.2dB    1l +   1l    1x40mm   1364mm
-115.8Hz 158Hz  217Hz  108.6dB    1l +   1l    1x40mm   1216mm
- 30.3Hz  74Hz  131Hz   85.3dB    6l +   1l    1x40mm   7670mm
- 33.3Hz  78Hz  134Hz   86.9dB    4l +   1l    1x40mm   6835mm
- 36.4Hz  83Hz  137Hz   88.5dB    3l +   1l    1x40mm   6092mm
- 39.9Hz  87Hz  141Hz   90.0dB    3l +   1l    1x40mm   5430mm
- 43.6Hz  93Hz  144Hz   91.6dB    2l +   1l    1x40mm   4840mm
- 47.6Hz  98Hz  148Hz   93.1dB    2l +   1l    1x40mm   4313mm
- 51.9Hz 104Hz  153Hz   94.6dB    2l +   1l    1x40mm   3844mm
- 56.5Hz 110Hz  157Hz   96.1dB    1l +   1l    1x40mm   3426mm
- 61.5Hz 117Hz  162Hz   97.6dB    1l +   1l    1x40mm   3054mm
- 66.8Hz 123Hz  168Hz   99.0dB    1l +   1l    1x40mm   2722mm
- 72.5Hz 131Hz  173Hz  100.4dB    1l +   1l    1x40mm   2426mm
- 78.6Hz 119Hz  179Hz  101.8dB    1l +   1l    1x40mm   2943mm
- 85.1Hz 123Hz  186Hz  103.2dB    1l +   1l    1x40mm   2756mm
- 92.0Hz 133Hz  193Hz  104.6dB    1l +   1l    1x40mm   2337mm
- 85.5Hz 141Hz  200Hz  103.3dB    1l +   1l    1x40mm   2083mm
- 93.3Hz 149Hz  208Hz  104.8dB    1l +   1l    1x40mm   1857mm
-115.8Hz 158Hz  217Hz  108.6dB    1l +   1l    1x40mm   1654mm
- 36.4Hz  88Hz  214Hz   88.4dB    3l +   1l    1x40mm   7669mm
- 40.1Hz  93Hz  218Hz   90.1dB    2l +   1l    1x40mm   6837mm
- 44.2Hz  99Hz  222Hz   91.8dB    2l +   1l    1x40mm   6093mm
- 48.6Hz 105Hz  226Hz   93.5dB    2l +   1l    1x40mm   5430mm
- 53.4Hz 111Hz  231Hz   95.1dB    1l +   1l    1x40mm   4840mm
- 58.6Hz 118Hz  236Hz   96.7dB    1l +   1l    1x40mm   4313mm
- 64.2Hz 125Hz  242Hz   98.3dB    1l +   1l    1x40mm   3844mm
- 70.3Hz 132Hz  248Hz   99.9dB    1l +   1l    1x40mm   3426mm
- 76.8Hz 140Hz  255Hz  101.4dB    1l +   1l    1x40mm   3054mm
- 83.9Hz 148Hz  262Hz  103.0dB    1l +   1l    1x40mm   2721mm
- 91.5Hz 157Hz  269Hz  104.5dB    1l +   1l    1x40mm   2426mm
- 99.6Hz 166Hz  277Hz  105.9dB    1l +   1l    1x40mm   2162mm
-108.3Hz 176Hz  286Hz  107.4dB    0l +   1l    1x40mm   1927mm
-117.7Hz 186Hz  295Hz  108.8dB    0l +   1l    1x40mm   1717mm
-127.7Hz 198Hz  306Hz  110.3dB    0l +   1l    1x40mm   1530mm
-138.5Hz 209Hz  316Hz  111.7dB    0l +   1l    1x40mm   1364mm
-149.9Hz 222Hz  328Hz  113.0dB    0l +   1l    1x40mm   1216mm
 -------------
 Aura_NFS8_495_8B
             84.0dB           100W       1x70mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 18.8Hz  39Hz   81Hz   89.9dB -118l +   7l  * 1x40mm   3355mm
- 20.6Hz  41Hz   83Hz   91.5dB -526l +   7l  * 1x40mm   2990mm
  22.6Hz  44Hz   85Hz   93.1dB  182l +   7l  * 1x40mm   2665mm
  24.7Hz  46Hz   87Hz   94.7dB   73l +   7l  * 1x40mm   2376mm
  27.0Hz  49Hz   89Hz   96.2dB   43l +   7l  * 1x40mm   2117mm
@@ -326,8 +100,6 @@ Aura_NFS8_495_8B
  67.1Hz 109Hz  177Hz  112.0dB    3l +   4l  * 1x40mm    843mm
  72.9Hz 116Hz  183Hz  113.5dB    2l +   4l  * 1x40mm    751mm
  79.1Hz 122Hz  189Hz  114.9dB    2l +   4l  * 1x40mm    669mm
- 85.8Hz 130Hz  196Hz  116.3dB    2l +   4l  * 1x40mm    597mm
- 92.9Hz 137Hz  203Hz  117.7dB    2l +   4l  * 1x40mm    532mm
 -------------
 Aura_NFS8_495_4A
             84.0dB           100W       1x70mm
@@ -346,9 +118,6 @@ Aura_NFS8_495_4A
  69.3Hz 105Hz  158Hz  107.9dB    2l +   3l  * 1x40mm   1282mm
  75.1Hz 108Hz  164Hz  109.3dB    2l +   3l  * 1x40mm   1200mm
  81.2Hz 118Hz  170Hz  110.7dB    2l +   3l  * 1x40mm   1018mm
- 87.7Hz 124Hz  177Hz  112.0dB    1l +   3l  * 1x40mm    907mm
- 94.7Hz 132Hz  184Hz  113.3dB    1l +   3l  * 1x40mm    809mm
-102.1Hz 140Hz  191Hz  114.6dB    1l +   3l  * 1x40mm    721mm
  26.7Hz  65Hz  116Hz   91.4dB    7l +   2l  * 1x40mm   4547mm
  29.3Hz  69Hz  118Hz   93.0dB    6l +   2l  * 1x40mm   4052mm
  32.1Hz  73Hz  121Hz   94.6dB    5l +   2l  * 1x40mm   3611mm
@@ -365,7 +134,6 @@ Aura_NFS8_495_4A
  81.2Hz 118Hz  170Hz  110.7dB    2l +   2l  * 1x40mm   1386mm
  75.4Hz 124Hz  177Hz  109.4dB    1l +   2l  * 1x40mm   1235mm
  82.3Hz 132Hz  184Hz  110.9dB    1l +   2l  * 1x40mm   1101mm
-102.1Hz 140Hz  191Hz  114.6dB    1l +   2l  * 1x40mm    981mm
  32.1Hz  78Hz  189Hz   94.5dB    4l +   1l  * 1x40mm   4547mm
  35.4Hz  82Hz  192Hz   96.2dB    4l +   1l  * 1x40mm   4053mm
  39.0Hz  87Hz  196Hz   97.9dB    3l +   1l  * 1x40mm   3612mm
@@ -377,12 +145,6 @@ Aura_NFS8_495_4A
  67.8Hz 123Hz  225Hz  107.5dB    1l +   1l  * 1x40mm   1810mm
  74.0Hz 131Hz  231Hz  109.1dB    1l +   1l  * 1x40mm   1613mm
  80.7Hz 138Hz  237Hz  110.6dB    1l +   1l  * 1x40mm   1438mm
- 87.9Hz 147Hz  245Hz  112.0dB    1l +   1l  * 1x40mm   1282mm
- 95.6Hz 155Hz  252Hz  113.5dB    1l +   1l  * 1x40mm   1142mm
-103.8Hz 165Hz  261Hz  114.9dB    1l +   1l  * 1x40mm   1018mm
-112.7Hz 174Hz  269Hz  116.4dB    1l +   1l  * 1x40mm    907mm
-122.1Hz 185Hz  279Hz  117.8dB    1l +   1l  * 1x40mm    809mm
-132.2Hz 196Hz  289Hz  119.1dB    1l +   1l  * 1x40mm    721mm
 -------------
 Aura_NS10_513_4A
             84.0dB           200W      1x100mm
@@ -437,7 +199,6 @@ Aura_NS10_513_4A
  68.0Hz 108Hz  171Hz  121.6dB    4l +   7l  * 1x50mm    729mm
  73.8Hz 114Hz  176Hz  123.0dB    4l +   7l  * 1x50mm    650mm
  80.0Hz 121Hz  183Hz  124.4dB    3l +   7l  * 1x50mm    579mm
- 86.6Hz 128Hz  189Hz  125.8dB    3l +   7l  * 1x50mm    516mm
 -------------
 Aura_NS10_794_4A
             83.0dB           400W      1x100mm
@@ -662,8 +423,6 @@ Aura_NS15_992_4A
 Aura_NS18_992_4A
             86.0dB           800W      3x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
-  8.7Hz  18Hz   38Hz  104.5dB -1785l + 156l  * 1x100mm  4595mm
-  9.6Hz  19Hz   39Hz  106.1dB -4003l + 156l  * 1x100mm  4095mm
  10.5Hz  20Hz   39Hz  107.7dB 10124l + 156l  * 1x100mm  3650mm
  11.5Hz  22Hz   40Hz  109.3dB 2045l + 156l  * 1x100mm  3254mm
  12.5Hz  23Hz   41Hz  110.8dB 1077l + 156l  * 1x100mm  2899mm

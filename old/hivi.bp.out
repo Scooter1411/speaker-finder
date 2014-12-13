@@ -16,9 +16,6 @@ M5N
  69.5Hz 105Hz  159Hz   98.1dB    3l +   4l  + 1x40mm    862mm
  75.3Hz 109Hz  164Hz   99.5dB    3l +   4l  + 1x40mm    807mm
  81.4Hz 118Hz  171Hz  100.9dB    3l +   4l  - 1x40mm    684mm
- 88.0Hz 125Hz  177Hz  102.2dB    2l +   4l  - 1x40mm    610mm
- 95.0Hz 132Hz  184Hz  103.5dB    2l +   4l  - 1x40mm    544mm
-102.4Hz 140Hz  192Hz  104.8dB    2l +   4l    1x50mm    757mm
  26.8Hz  65Hz  116Hz   81.6dB   13l +   3l  + 1x40mm   3057mm
  29.4Hz  69Hz  119Hz   83.2dB   11l +   3l  + 1x40mm   2724mm
  32.2Hz  73Hz  121Hz   84.8dB    9l +   3l  + 1x40mm   2428mm
@@ -35,7 +32,6 @@ M5N
  81.4Hz 118Hz  171Hz  100.9dB    3l +   3l  + 1x40mm    932mm
  75.6Hz 125Hz  177Hz   99.6dB    2l +   3l  + 1x40mm    830mm
  82.6Hz 132Hz  184Hz  101.1dB    2l +   3l  - 1x40mm    740mm
-102.4Hz 140Hz  192Hz  104.8dB    2l +   3l  - 1x40mm    659mm
  32.2Hz  78Hz  189Hz   84.7dB    7l +   2l  + 1x40mm   3057mm
  35.5Hz  83Hz  193Hz   86.4dB    6l +   2l  + 1x40mm   2725mm
  39.1Hz  88Hz  196Hz   88.1dB    5l +   2l  + 1x40mm   2429mm
@@ -47,17 +43,10 @@ M5N
  68.0Hz 124Hz  225Hz   97.7dB    2l +   2l  + 1x40mm   1217mm
  74.2Hz 131Hz  231Hz   99.2dB    2l +   2l  + 1x40mm   1085mm
  80.9Hz 139Hz  238Hz  100.7dB    2l +   2l  + 1x40mm    967mm
- 88.1Hz 147Hz  245Hz  102.2dB    2l +   2l  + 1x40mm    862mm
- 95.8Hz 156Hz  253Hz  103.7dB    1l +   2l  - 1x40mm    768mm
-104.1Hz 165Hz  261Hz  105.1dB    1l +   2l  - 1x40mm    684mm
-113.0Hz 175Hz  270Hz  106.6dB    1l +   2l  - 1x40mm    610mm
-122.5Hz 185Hz  280Hz  108.0dB    1l +   2l  - 1x40mm    544mm
-132.6Hz 196Hz  290Hz  109.3dB    1l +   2l    1x50mm    757mm
 -------------
 M8N
             86.0dB            80W       1x70mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 13.4Hz  28Hz   58Hz   84.4dB -762l +  23l  * 1x40mm   2105mm
  14.8Hz  30Hz   59Hz   86.0dB 1237l +  23l  * 1x40mm   1876mm
  16.2Hz  31Hz   61Hz   87.6dB  314l +  23l  * 1x40mm   1672mm
  17.7Hz  33Hz   62Hz   89.2dB  171l +  23l  * 1x40mm   1490mm
@@ -126,9 +115,6 @@ F5
  68.9Hz 104Hz  157Hz   98.0dB    3l +   3l  + 1x40mm   1109mm
  74.6Hz 108Hz  163Hz   99.3dB    3l +   3l  + 1x40mm   1039mm
  80.7Hz 117Hz  169Hz  100.7dB    2l +   3l  + 1x40mm    881mm
- 87.2Hz 124Hz  176Hz  102.0dB    2l +   3l  - 1x40mm    785mm
- 94.1Hz 131Hz  182Hz  103.4dB    2l +   3l  - 1x40mm    700mm
-101.5Hz 139Hz  190Hz  104.7dB    1l +   3l  - 1x40mm    624mm
  26.6Hz  64Hz  115Hz   81.4dB   17l +   2l  + 1x40mm   3935mm
  29.2Hz  68Hz  118Hz   83.0dB   12l +   2l  + 1x40mm   3506mm
  32.0Hz  72Hz  120Hz   84.6dB   10l +   2l  + 1x40mm   3125mm
@@ -145,7 +131,6 @@ F5
  80.7Hz 117Hz  169Hz  100.7dB    2l +   2l  + 1x40mm   1199mm
  74.9Hz 124Hz  176Hz   99.4dB    2l +   2l  + 1x40mm   1069mm
  81.9Hz 131Hz  182Hz  101.0dB    2l +   2l  + 1x40mm    952mm
-101.5Hz 139Hz  190Hz  104.7dB    1l +   2l  + 1x40mm    849mm
  31.9Hz  77Hz  188Hz   84.6dB    7l +   2l  + 1x40mm   3934mm
  35.2Hz  82Hz  191Hz   86.3dB    6l +   2l  + 1x40mm   3507mm
  38.7Hz  87Hz  195Hz   87.9dB    5l +   2l  + 1x40mm   3126mm
@@ -157,17 +142,10 @@ F5
  67.4Hz 123Hz  223Hz   97.6dB    2l +   2l  + 1x40mm   1567mm
  73.5Hz 130Hz  229Hz   99.1dB    2l +   2l  + 1x40mm   1396mm
  80.2Hz 138Hz  236Hz  100.6dB    1l +   2l  + 1x40mm   1244mm
- 87.3Hz 146Hz  243Hz  102.1dB    1l +   2l  + 1x40mm   1109mm
- 95.0Hz 154Hz  251Hz  103.5dB    1l +   2l  + 1x40mm    988mm
-103.2Hz 164Hz  259Hz  105.0dB    1l +   2l  + 1x40mm    881mm
-112.0Hz 173Hz  268Hz  106.4dB    1l +   2l  - 1x40mm    785mm
-121.4Hz 183Hz  277Hz  107.8dB    1l +   2l  - 1x40mm    700mm
-131.5Hz 194Hz  287Hz  109.2dB    1l +   2l  - 1x40mm    624mm
 -------------
 D8G
             86.0dB           150W       1x70mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 16.4Hz  34Hz   71Hz   91.2dB -652l +  13l  * 1x40mm   2577mm
  18.0Hz  36Hz   73Hz   92.9dB  426l +  13l  * 1x40mm   2296mm
  19.8Hz  38Hz   74Hz   94.5dB  149l +  13l  * 1x40mm   2047mm
  21.6Hz  41Hz   76Hz   96.0dB   86l +  13l  * 1x40mm   1824mm
@@ -222,7 +200,6 @@ D8G
 M8A
             88.0dB            80W       1x70mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 15.7Hz  33Hz   68Hz   87.1dB -2244l +  17l  * 1x40mm   2056mm
  17.2Hz  35Hz   70Hz   88.7dB  419l +  17l  * 1x40mm   1832mm
  18.9Hz  37Hz   71Hz   90.3dB  180l +  17l  * 1x40mm   1633mm
  20.7Hz  39Hz   73Hz   91.9dB  110l +  17l  * 1x40mm   1456mm

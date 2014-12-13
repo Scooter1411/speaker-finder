@@ -13,12 +13,6 @@ C90-T6-89
  66.6Hz 108Hz  176Hz   98.6dB    3l +   2l  + 1x40mm   1421mm
  72.4Hz 115Hz  182Hz  100.0dB    2l +   2l  + 1x40mm   1266mm
  78.5Hz 121Hz  188Hz  101.4dB    2l +   2l  + 1x40mm   1129mm
- 85.1Hz 129Hz  194Hz  102.8dB    2l +   2l  + 1x40mm   1006mm
- 92.2Hz 133Hz  201Hz  104.2dB    2l +   2l  + 1x40mm    942mm
- 99.7Hz 144Hz  209Hz  105.6dB    1l +   2l  - 1x40mm    799mm
-107.7Hz 153Hz  217Hz  106.9dB    1l +   2l  - 1x40mm    712mm
-116.3Hz 162Hz  225Hz  108.2dB    1l +   2l  - 1x40mm    635mm
-125.4Hz 172Hz  235Hz  109.6dB    1l +   2l  - 1x40mm    566mm
  32.8Hz  80Hz  142Hz   86.3dB    5l +   2l  + 1x40mm   3569mm
  36.0Hz  84Hz  145Hz   87.9dB    4l +   2l  + 1x40mm   3181mm
  39.5Hz  89Hz  149Hz   89.5dB    4l +   2l  + 1x40mm   2835mm
@@ -30,12 +24,6 @@ C90-T6-89
  66.6Hz 126Hz  176Hz   98.6dB    2l +   2l  + 1x40mm   1421mm
  72.4Hz 134Hz  182Hz  100.0dB    2l +   2l  + 1x40mm   1266mm
  78.5Hz 142Hz  188Hz  101.4dB    1l +   2l  + 1x40mm   1129mm
- 85.1Hz 129Hz  194Hz  102.8dB    2l +   2l  + 1x40mm   1369mm
- 92.2Hz 133Hz  201Hz  104.2dB    2l +   2l  + 1x40mm   1282mm
- 99.7Hz 144Hz  209Hz  105.6dB    1l +   2l  + 1x40mm   1088mm
- 92.6Hz 153Hz  217Hz  104.3dB    1l +   2l  + 1x40mm    969mm
-101.1Hz 162Hz  225Hz  105.8dB    1l +   2l  + 1x40mm    864mm
-125.4Hz 172Hz  235Hz  109.6dB    1l +   2l  - 1x40mm    770mm
  39.4Hz  96Hz  232Hz   89.4dB    3l +   1l  + 1x40mm   3569mm
  43.4Hz 101Hz  236Hz   91.1dB    3l +   1l  + 1x40mm   3182mm
  47.8Hz 107Hz  240Hz   92.8dB    3l +   1l  + 1x40mm   2836mm
@@ -45,14 +33,6 @@ C90-T6-89
  69.6Hz 135Hz  262Hz   99.3dB    2l +   1l  + 1x40mm   1789mm
  76.1Hz 143Hz  269Hz  100.9dB    1l +   1l  + 1x40mm   1594mm
  83.2Hz 152Hz  276Hz  102.4dB    1l +   1l  + 1x40mm   1421mm
- 90.9Hz 160Hz  283Hz  104.0dB    1l +   1l  + 1x40mm   1266mm
- 99.1Hz 170Hz  292Hz  105.5dB    1l +   1l  + 1x40mm   1129mm
-107.9Hz 180Hz  300Hz  106.9dB    1l +   1l  + 1x40mm   1006mm
-117.4Hz 191Hz  310Hz  108.4dB    1l +   1l  + 1x40mm    897mm
-127.5Hz 202Hz  320Hz  109.8dB    1l +   1l  - 1x40mm    799mm
-138.4Hz 214Hz  331Hz  111.3dB    1l +   1l  - 1x40mm    712mm
-150.0Hz 227Hz  343Hz  112.7dB    1l +   1l  - 1x40mm    635mm
-162.4Hz 240Hz  355Hz  114.1dB    0l +   1l  - 1x40mm    566mm
 -------------
 C180 T6-95
             89.1dB           130W       1x70mm
@@ -72,8 +52,6 @@ C180 T6-95
  67.6Hz  98Hz  148Hz  107.0dB    4l +   6l  * 1x40mm    714mm
  73.2Hz 106Hz  153Hz  108.4dB    3l +   6l  * 1x40mm    605mm
  79.1Hz 112Hz  159Hz  109.8dB    3l +   6l  * 1x40mm    539mm
- 85.3Hz 119Hz  165Hz  111.1dB    3l +   6l  - 1x50mm    751mm
- 92.0Hz 126Hz  172Hz  112.4dB    2l +   6l  - 1x50mm    670mm
  24.1Hz  58Hz  104Hz   89.1dB   15l +   4l  * 1x40mm   2704mm
  26.4Hz  62Hz  107Hz   90.7dB   12l +   4l  * 1x40mm   2410mm
  29.0Hz  66Hz  109Hz   92.3dB   11l +   4l  * 1x40mm   2148mm
@@ -90,7 +68,6 @@ C180 T6-95
  73.2Hz 106Hz  153Hz  108.4dB    3l +   4l  * 1x40mm    824mm
  67.9Hz 112Hz  159Hz  107.1dB    3l +   4l  * 1x40mm    734mm
  74.2Hz 119Hz  165Hz  108.7dB    3l +   4l  * 1x40mm    655mm
- 92.0Hz 126Hz  172Hz  112.4dB    2l +   4l  * 1x40mm    583mm
  28.9Hz  70Hz  170Hz   92.3dB    9l +   3l  * 1x40mm   2704mm
  31.9Hz  74Hz  173Hz   94.0dB    8l +   3l  * 1x40mm   2410mm
  35.1Hz  79Hz  176Hz   95.7dB    7l +   3l  * 1x40mm   2148mm
@@ -103,8 +80,3 @@ C180 T6-95
  66.7Hz 118Hz  208Hz  106.8dB    3l +   3l  * 1x40mm    959mm
  72.7Hz 125Hz  214Hz  108.3dB    2l +   3l  * 1x40mm    855mm
  79.2Hz 132Hz  220Hz  109.8dB    2l +   3l  * 1x40mm    762mm
- 86.1Hz 140Hz  227Hz  111.2dB    2l +   3l  * 1x40mm    679mm
- 93.6Hz 148Hz  235Hz  112.7dB    2l +   3l  * 1x40mm    605mm
-101.5Hz 157Hz  243Hz  114.1dB    1l +   3l  * 1x40mm    540mm
-110.1Hz 166Hz  251Hz  115.5dB    1l +   3l  - 1x50mm    751mm
-119.2Hz 176Hz  260Hz  116.9dB    1l +   3l  - 1x50mm    670mm

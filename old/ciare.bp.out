@@ -16,9 +16,6 @@ CW330
  70.4Hz 106Hz  161Hz  125.9dB    5l +   6l  * 1x50mm    869mm
  76.2Hz 110Hz  167Hz  127.3dB    5l +   6l  * 1x50mm    814mm
  82.5Hz 119Hz  173Hz  128.7dB    4l +   6l  * 1x50mm    690mm
- 89.1Hz 126Hz  179Hz  130.0dB    3l +   6l  * 1x50mm    615mm
- 96.2Hz 134Hz  186Hz  131.3dB    3l +   6l  * 1x50mm    548mm
-103.7Hz 142Hz  194Hz  132.7dB    3l +   6l  * 1x50mm    489mm
  27.2Hz  66Hz  117Hz  109.4dB   18l +   4l  * 1x50mm   3083mm
  29.8Hz  70Hz  120Hz  111.0dB   15l +   4l  * 1x50mm   2747mm
  32.7Hz  74Hz  123Hz  112.6dB   12l +   4l  * 1x50mm   2448mm
@@ -35,7 +32,6 @@ CW330
  82.5Hz 119Hz  173Hz  128.7dB    4l +   4l  * 1x50mm    939mm
  76.6Hz 126Hz  179Hz  127.4dB    3l +   4l  * 1x50mm    837mm
  83.6Hz 134Hz  186Hz  128.9dB    3l +   4l  * 1x50mm    746mm
-103.7Hz 142Hz  194Hz  132.7dB    3l +   4l  * 1x50mm    665mm
  32.6Hz  79Hz  192Hz  112.5dB   10l +   3l  * 1x50mm   3082mm
  35.9Hz  84Hz  195Hz  114.2dB    9l +   3l  * 1x50mm   2748mm
  39.6Hz  89Hz  199Hz  115.9dB    8l +   3l  * 1x50mm   2449mm
@@ -47,17 +43,10 @@ CW330
  68.8Hz 125Hz  228Hz  125.5dB    3l +   3l  * 1x50mm   1227mm
  75.1Hz 133Hz  234Hz  127.1dB    3l +   3l  * 1x50mm   1094mm
  81.9Hz 141Hz  241Hz  128.6dB    3l +   3l  * 1x50mm    975mm
- 89.2Hz 149Hz  249Hz  130.0dB    2l +   3l  * 1x50mm    869mm
- 97.1Hz 158Hz  256Hz  131.5dB    2l +   3l  * 1x50mm    774mm
-105.5Hz 167Hz  265Hz  132.9dB    2l +   3l  * 1x50mm    690mm
-114.5Hz 177Hz  274Hz  134.4dB    2l +   3l  * 1x50mm    615mm
-124.1Hz 187Hz  283Hz  135.8dB    1l +   3l  * 1x50mm    548mm
-134.3Hz 199Hz  294Hz  137.1dB    1l +   3l  * 1x50mm    489mm
 -------------
 HW202
             88.0dB           180W       1x70mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 14.3Hz  30Hz   62Hz   84.4dB -3795l +  34l  * 1x40mm   1268mm
  15.7Hz  31Hz   63Hz   86.0dB  852l +  34l  * 1x40mm   1130mm
  17.2Hz  33Hz   65Hz   87.6dB  359l +  34l  * 1x40mm   1007mm
  18.8Hz  35Hz   66Hz   89.2dB  218l +  34l  * 1x40mm    898mm
@@ -127,8 +116,6 @@ HW203
  69.3Hz 100Hz  151Hz  107.4dB    9l +  11l  - 1x50mm    516mm
  75.0Hz 109Hz  157Hz  108.8dB    7l +  11l  - 1x50mm    438mm
  81.1Hz 115Hz  163Hz  110.1dB    6l +  11l    1x70mm    764mm
- 87.5Hz 122Hz  170Hz  111.5dB    6l +  11l    1x70mm    681mm
- 94.3Hz 129Hz  176Hz  112.8dB    5l +  11l    1x70mm    607mm
  24.7Hz  60Hz  107Hz   89.5dB   34l +   8l  * 1x40mm   1251mm
  27.1Hz  63Hz  109Hz   91.1dB   28l +   8l  * 1x40mm   1115mm
  29.7Hz  67Hz  112Hz   92.7dB   24l +   8l  * 1x40mm    993mm
@@ -145,7 +132,6 @@ HW203
  75.0Hz 109Hz  157Hz  108.8dB    7l +   8l  - 1x50mm    596mm
  69.7Hz 115Hz  163Hz  107.5dB    6l +   8l  - 1x50mm    531mm
  76.1Hz 122Hz  170Hz  109.0dB    6l +   8l  - 1x50mm    473mm
- 94.3Hz 129Hz  176Hz  112.8dB    5l +   8l  - 1x50mm    422mm
  29.6Hz  72Hz  175Hz   92.6dB   20l +   6l  * 1x40mm   1251mm
  32.7Hz  76Hz  178Hz   94.3dB   17l +   6l  * 1x40mm   1115mm
  36.0Hz  81Hz  181Hz   96.0dB   15l +   6l  * 1x40mm    994mm
@@ -158,19 +144,10 @@ HW203
  68.4Hz 121Hz  213Hz  107.2dB    6l +   6l  - 1x50mm    693mm
  74.5Hz 128Hz  219Hz  108.7dB    5l +   6l  - 1x50mm    618mm
  81.2Hz 135Hz  226Hz  110.2dB    4l +   6l  - 1x50mm    551mm
- 88.3Hz 143Hz  233Hz  111.6dB    4l +   6l  - 1x50mm    491mm
- 95.9Hz 152Hz  241Hz  113.1dB    3l +   6l  - 1x50mm    438mm
-104.1Hz 161Hz  249Hz  114.5dB    3l +   6l    1x70mm    764mm
-112.9Hz 171Hz  258Hz  115.9dB    3l +   6l    1x70mm    681mm
-122.2Hz 181Hz  267Hz  117.3dB    2l +   6l    1x70mm    607mm
 -------------
 HX132
              0.0dB            10W       1x50mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 34.7Hz  72Hz  150Hz   84.5dB  -48l +   9l  + 1x40mm    834mm
- 38.1Hz  76Hz  153Hz   86.1dB  -66l +   9l  - 1x40mm    743mm
- 41.7Hz  81Hz  157Hz   87.7dB -113l +   9l  - 1x40mm    662mm
- 45.7Hz  86Hz  161Hz   89.3dB -540l +   9l  - 1x40mm    591mm
  49.9Hz  91Hz  165Hz   90.9dB  165l +   9l  - 1x40mm    526mm
  54.5Hz  96Hz  170Hz   92.4dB   67l +   9l    1x50mm    733mm
  59.5Hz 102Hz  175Hz   93.9dB   40l +   9l    1x50mm    653mm
@@ -178,13 +155,6 @@ HX132
  70.4Hz 114Hz  186Hz   96.8dB   21l +   9l    1x50mm    519mm
  76.5Hz 121Hz  192Hz   98.3dB   16l +   9l    1x50mm    462mm
  83.0Hz 128Hz  198Hz   99.7dB   13l +   9l    1x50mm    412mm
- 90.0Hz 136Hz  205Hz  101.1dB   10l +   9l    1x50mm    367mm
- 97.4Hz 140Hz  213Hz  102.5dB    9l +   9l    1x50mm    344mm
-105.4Hz 153Hz  221Hz  103.8dB    7l +   9l    1x50mm    292mm
-113.9Hz 162Hz  229Hz  105.2dB    6l +   9l    1x50mm    260mm
-122.9Hz 171Hz  238Hz  106.5dB    5l +   9l    1x50mm    232mm
-132.6Hz 181Hz  248Hz  107.8dB    4l +   9l    1x50mm    207mm
- 34.7Hz  84Hz  150Hz   84.5dB -238l +   6l  + 1x40mm    834mm
  38.1Hz  89Hz  153Hz   86.1dB  292l +   6l  - 1x40mm    743mm
  41.7Hz  94Hz  157Hz   87.7dB   83l +   6l  - 1x40mm    662mm
  45.7Hz 100Hz  161Hz   89.3dB   46l +   6l  - 1x40mm    590mm
@@ -195,12 +165,6 @@ HX132
  70.4Hz 133Hz  186Hz   96.8dB   11l +   6l    1x50mm    519mm
  76.5Hz 141Hz  192Hz   98.3dB    9l +   6l    1x50mm    462mm
  83.0Hz 150Hz  198Hz   99.7dB    8l +   6l    1x50mm    412mm
- 90.0Hz 136Hz  205Hz  101.1dB   10l +   6l    1x50mm    500mm
- 97.4Hz 140Hz  213Hz  102.5dB    9l +   6l    1x50mm    468mm
-105.4Hz 153Hz  221Hz  103.8dB    7l +   6l    1x50mm    397mm
- 97.9Hz 162Hz  229Hz  102.5dB    6l +   6l    1x50mm    354mm
-106.9Hz 171Hz  238Hz  104.1dB    5l +   6l    1x50mm    315mm
-132.6Hz 181Hz  248Hz  107.8dB    4l +   6l    1x50mm    281mm
  41.6Hz 101Hz  245Hz   87.7dB   43l +   4l  + 1x40mm    834mm
  45.9Hz 107Hz  250Hz   89.4dB   29l +   4l  - 1x40mm    743mm
  50.6Hz 113Hz  254Hz   91.1dB   21l +   4l  - 1x40mm    663mm
@@ -209,15 +173,6 @@ HX132
  67.1Hz 135Hz  271Hz   96.0dB   11l +   4l    1x50mm    733mm
  73.5Hz 143Hz  277Hz   97.6dB    9l +   4l    1x50mm    653mm
  80.5Hz 151Hz  284Hz   99.1dB    7l +   4l    1x50mm    582mm
- 88.0Hz 160Hz  292Hz  100.7dB    6l +   4l    1x50mm    519mm
- 96.0Hz 170Hz  300Hz  102.2dB    5l +   4l    1x50mm    462mm
-104.7Hz 180Hz  308Hz  103.7dB    5l +   4l    1x50mm    412mm
-114.1Hz 190Hz  318Hz  105.2dB    4l +   4l    1x50mm    367mm
-124.1Hz 202Hz  328Hz  106.7dB    3l +   4l    1x50mm    327mm
-134.8Hz 214Hz  338Hz  108.1dB    3l +   4l    1x50mm    292mm
-146.3Hz 226Hz  350Hz  109.5dB    3l +   4l    1x50mm    260mm
-158.6Hz 240Hz  362Hz  110.9dB    2l +   4l    1x50mm    232mm
-171.7Hz 254Hz  375Hz  112.3dB    2l +   4l    1x50mm    207mm
 -------------
 HW321
             93.0dB           150W      2x100mm
@@ -272,4 +227,3 @@ HW321
  66.8Hz 106Hz  168Hz  122.0dB   14l +  24l  * 1x70mm    434mm
  72.5Hz 112Hz  173Hz  123.5dB   13l +  24l  - 1x100mm   790mm
  78.6Hz 119Hz  179Hz  124.9dB   11l +  24l  - 1x100mm   704mm
- 85.1Hz 126Hz  186Hz  126.2dB   10l +  24l  - 1x100mm   628mm

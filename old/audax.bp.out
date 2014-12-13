@@ -13,12 +13,6 @@ hm130c0
  67.0Hz 109Hz  177Hz   98.3dB    3l +   2l  + 1x40mm   1391mm
  72.7Hz 115Hz  182Hz   99.8dB    2l +   2l  + 1x40mm   1240mm
  78.9Hz 122Hz  189Hz  101.2dB    2l +   2l  + 1x40mm   1105mm
- 85.6Hz 129Hz  195Hz  102.6dB    2l +   2l  + 1x40mm    985mm
- 92.6Hz 134Hz  202Hz  104.0dB    2l +   2l  + 1x40mm    922mm
-100.2Hz 145Hz  210Hz  105.3dB    1l +   2l  - 1x40mm    782mm
-108.3Hz 154Hz  218Hz  106.7dB    1l +   2l  - 1x40mm    697mm
-116.9Hz 163Hz  227Hz  108.0dB    1l +   2l  - 1x40mm    621mm
-126.0Hz 172Hz  236Hz  109.3dB    1l +   2l  - 1x40mm    554mm
  33.0Hz  80Hz  143Hz   86.0dB    6l +   2l  + 1x40mm   3494mm
  36.2Hz  85Hz  146Hz   87.7dB    5l +   2l  + 1x40mm   3113mm
  39.7Hz  90Hz  149Hz   89.3dB    4l +   2l  + 1x40mm   2775mm
@@ -30,12 +24,6 @@ hm130c0
  67.0Hz 127Hz  177Hz   98.3dB    2l +   2l  + 1x40mm   1391mm
  72.7Hz 134Hz  182Hz   99.8dB    2l +   2l  + 1x40mm   1240mm
  78.9Hz 142Hz  189Hz  101.2dB    1l +   2l  + 1x40mm   1105mm
- 85.6Hz 129Hz  195Hz  102.6dB    2l +   2l  + 1x40mm   1340mm
- 92.6Hz 134Hz  202Hz  104.0dB    2l +   2l  + 1x40mm   1255mm
-100.2Hz 145Hz  210Hz  105.3dB    1l +   2l  + 1x40mm   1065mm
- 93.1Hz 154Hz  218Hz  104.1dB    1l +   2l  + 1x40mm    949mm
-101.6Hz 163Hz  227Hz  105.6dB    1l +   2l  + 1x40mm    846mm
-126.0Hz 172Hz  236Hz  109.3dB    1l +   2l  - 1x40mm    754mm
  39.6Hz  96Hz  233Hz   89.2dB    4l +   1l  + 1x40mm   3493mm
  43.7Hz 102Hz  237Hz   90.9dB    3l +   1l  + 1x40mm   3114mm
  48.1Hz 108Hz  242Hz   92.6dB    3l +   1l  + 1x40mm   2776mm
@@ -45,14 +33,6 @@ hm130c0
  69.9Hz 136Hz  263Hz   99.1dB    2l +   1l  + 1x40mm   1751mm
  76.5Hz 144Hz  270Hz  100.7dB    1l +   1l  + 1x40mm   1560mm
  83.6Hz 152Hz  277Hz  102.2dB    1l +   1l  + 1x40mm   1391mm
- 91.3Hz 161Hz  285Hz  103.7dB    1l +   1l  + 1x40mm   1240mm
- 99.6Hz 171Hz  293Hz  105.2dB    1l +   1l  + 1x40mm   1105mm
-108.4Hz 181Hz  302Hz  106.7dB    1l +   1l  + 1x40mm    985mm
-118.0Hz 192Hz  312Hz  108.2dB    1l +   1l  + 1x40mm    878mm
-128.2Hz 203Hz  322Hz  109.6dB    1l +   1l  - 1x40mm    782mm
-139.1Hz 215Hz  333Hz  111.0dB    1l +   1l  - 1x40mm    697mm
-150.8Hz 228Hz  344Hz  112.4dB    1l +   1l  - 1x40mm    621mm
-163.2Hz 241Hz  357Hz  113.8dB    0l +   1l  - 1x40mm    554mm
 -------------
 hm170z18
             89.5dB            60W       1x70mm
@@ -72,8 +52,6 @@ hm170z18
  70.9Hz 102Hz  155Hz  103.8dB    5l +   7l  * 1x40mm    525mm
  76.7Hz 111Hz  161Hz  105.1dB    4l +   7l  - 1x50mm    695mm
  82.8Hz 118Hz  167Hz  106.5dB    4l +   7l  - 1x50mm    619mm
- 89.4Hz 124Hz  173Hz  107.8dB    3l +   7l  - 1x50mm    552mm
- 96.4Hz 132Hz  180Hz  109.1dB    3l +   7l  - 1x50mm    492mm
  25.2Hz  61Hz  109Hz   85.8dB   21l +   5l  * 1x40mm   1987mm
  27.7Hz  65Hz  112Hz   87.5dB   17l +   5l  * 1x40mm   1771mm
  30.4Hz  69Hz  114Hz   89.1dB   15l +   5l  * 1x40mm   1578mm
@@ -90,7 +68,6 @@ hm170z18
  76.7Hz 111Hz  161Hz  105.1dB    4l +   5l  * 1x40mm    606mm
  71.2Hz 118Hz  167Hz  103.9dB    4l +   5l  * 1x40mm    540mm
  77.7Hz 124Hz  173Hz  105.4dB    3l +   5l  - 1x50mm    752mm
- 96.4Hz 132Hz  180Hz  109.1dB    3l +   5l  - 1x50mm    670mm
  30.3Hz  73Hz  178Hz   89.0dB   12l +   4l  * 1x40mm   1987mm
  33.4Hz  78Hz  181Hz   90.7dB   10l +   4l  * 1x40mm   1771mm
  36.8Hz  82Hz  185Hz   92.4dB    9l +   4l  * 1x40mm   1579mm
@@ -103,11 +80,6 @@ hm170z18
  69.9Hz 123Hz  218Hz  103.5dB    3l +   4l  * 1x40mm    705mm
  76.2Hz 131Hz  224Hz  105.0dB    3l +   4l  * 1x40mm    628mm
  83.0Hz 138Hz  231Hz  106.5dB    3l +   4l  * 1x40mm    560mm
- 90.2Hz 147Hz  238Hz  108.0dB    2l +   4l  - 1x50mm    780mm
- 98.0Hz 155Hz  246Hz  109.4dB    2l +   4l  - 1x50mm    695mm
-106.4Hz 165Hz  254Hz  110.8dB    2l +   4l  - 1x50mm    620mm
-115.3Hz 174Hz  263Hz  112.2dB    2l +   4l  - 1x50mm    552mm
-124.9Hz 185Hz  273Hz  113.6dB    1l +   4l  - 1x50mm    492mm
 -------------
 hm210c0
             91.0dB            80W       1x70mm
@@ -160,9 +132,6 @@ hm210c0
  69.0Hz 115Hz  192Hz  110.0dB    6l +   8l  - 1x50mm    532mm
  75.0Hz 122Hz  198Hz  111.4dB    6l +   8l  - 1x50mm    474mm
  81.5Hz 129Hz  205Hz  112.9dB    5l +   8l  - 1x50mm    423mm
- 88.5Hz 137Hz  212Hz  114.3dB    4l +   8l    1x70mm    738mm
- 95.9Hz 145Hz  219Hz  115.7dB    4l +   8l    1x70mm    658mm
-103.9Hz 154Hz  227Hz  117.1dB    3l +   8l    1x70mm    586mm
 -------------
 hp210z0
             88.0dB            70W       1x70mm
@@ -214,10 +183,6 @@ hp210z0
  66.8Hz 115Hz  197Hz  107.3dB    7l +   8l  - 1x50mm    571mm
  72.7Hz 121Hz  203Hz  108.8dB    6l +   8l  - 1x50mm    509mm
  79.1Hz 129Hz  209Hz  110.3dB    5l +   8l  - 1x50mm    454mm
- 86.0Hz 136Hz  216Hz  111.7dB    5l +   8l    1x70mm    793mm
- 93.3Hz 144Hz  223Hz  113.1dB    4l +   8l    1x70mm    707mm
-101.1Hz 153Hz  231Hz  114.5dB    4l +   8l    1x70mm    630mm
-109.5Hz 162Hz  239Hz  115.9dB    3l +   8l    1x70mm    561mm
 -------------
 am210g0
             91.0dB            80W       1x70mm
@@ -269,7 +234,3 @@ am210g0
  66.8Hz 115Hz  197Hz  110.3dB    7l +   8l  - 1x50mm    579mm
  72.7Hz 121Hz  202Hz  111.8dB    6l +   8l  - 1x50mm    516mm
  79.1Hz 129Hz  209Hz  113.2dB    5l +   8l  - 1x50mm    460mm
- 85.9Hz 136Hz  216Hz  114.7dB    5l +   8l  - 1x50mm    410mm
- 93.2Hz 144Hz  223Hz  116.1dB    4l +   8l    1x70mm    717mm
-101.1Hz 153Hz  231Hz  117.5dB    4l +   8l    1x70mm    639mm
-109.4Hz 162Hz  239Hz  118.9dB    3l +   8l    1x70mm    569mm

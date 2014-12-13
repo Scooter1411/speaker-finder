@@ -18,7 +18,6 @@ fr810hq
  69.2Hz 100Hz  145Hz  104.4dB   22l +  32l    1x100mm   744mm
  74.8Hz 106Hz  151Hz  105.7dB   19l +  32l    1x100mm   663mm
  80.7Hz 112Hz  157Hz  107.1dB   17l +  32l    1x100mm   591mm
- 87.1Hz 119Hz  163Hz  108.4dB   15l +  32l    1x100mm   526mm
  22.8Hz  55Hz   99Hz   85.1dB  172l +  23l  * 1x50mm    830mm
  25.0Hz  59Hz  101Hz   86.7dB  127l +  23l  * 1x50mm    740mm
  27.4Hz  62Hz  103Hz   88.3dB   98l +  23l  * 1x50mm    659mm
@@ -35,7 +34,6 @@ fr810hq
  69.2Hz 100Hz  145Hz  104.4dB   22l +  23l  - 1x70mm    496mm
  64.3Hz 106Hz  151Hz  103.1dB   19l +  23l  - 1x70mm    442mm
  70.2Hz 112Hz  157Hz  104.6dB   17l +  23l  - 1x70mm    394mm
- 87.1Hz 119Hz  163Hz  108.4dB   15l +  23l    1x100mm   716mm
  27.3Hz  66Hz  161Hz   88.3dB   75l +  16l  * 1x50mm    830mm
  30.2Hz  70Hz  164Hz   90.0dB   61l +  16l  * 1x50mm    740mm
  33.2Hz  74Hz  167Hz   91.6dB   51l +  16l  * 1x50mm    660mm
@@ -49,10 +47,6 @@ fr810hq
  68.8Hz 118Hz  202Hz  104.3dB   15l +  16l  - 1x70mm    515mm
  74.9Hz 125Hz  209Hz  105.8dB   13l +  16l  - 1x70mm    459mm
  81.5Hz 132Hz  215Hz  107.2dB   11l +  16l  - 1x70mm    409mm
- 88.5Hz 140Hz  222Hz  108.7dB   10l +  16l    1x100mm   744mm
- 96.1Hz 149Hz  230Hz  110.1dB    9l +  16l    1x100mm   663mm
-104.1Hz 157Hz  238Hz  111.5dB    8l +  16l    1x100mm   591mm
-112.8Hz 167Hz  246Hz  112.9dB    7l +  16l    1x100mm   526mm
 -------------
 tsuzureko
             96.0dB          1000W      4x100mm

@@ -2,12 +2,6 @@
 GZTW10MK2
             85.2dB           300W      1x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 11.5Hz  24Hz   50Hz   92.7dB  -82l +  30l  * 1x50mm   3436mm
- 12.6Hz  25Hz   51Hz   94.3dB  -94l +  30l  * 1x50mm   3063mm
- 13.8Hz  27Hz   52Hz   95.9dB -113l +  30l  * 1x50mm   2729mm
- 15.1Hz  28Hz   53Hz   97.4dB -147l +  30l  * 1x50mm   2433mm
- 16.5Hz  30Hz   55Hz   99.0dB -222l +  30l  * 1x50mm   2168mm
- 18.0Hz  32Hz   56Hz  100.5dB -512l +  30l  * 1x50mm   1932mm
  19.6Hz  34Hz   58Hz  102.0dB 1096l +  30l  * 1x50mm   1722mm
  21.4Hz  36Hz   60Hz  103.5dB  242l +  30l  * 1x50mm   1535mm
  23.3Hz  38Hz   61Hz  104.9dB  129l +  30l  * 1x50mm   1368mm
@@ -19,10 +13,6 @@ GZTW10MK2
  37.6Hz  53Hz   76Hz  113.3dB   25l +  30l  * 1x50mm    686mm
  40.6Hz  57Hz   79Hz  114.6dB   20l +  30l  * 1x50mm    611mm
  43.8Hz  60Hz   82Hz  115.9dB   17l +  30l  * 1x50mm    545mm
- 11.5Hz  28Hz   50Hz   92.7dB -134l +  22l  * 1x50mm   3436mm
- 12.6Hz  29Hz   51Hz   94.3dB -190l +  22l  * 1x50mm   3062mm
- 13.8Hz  31Hz   52Hz   95.9dB -356l +  22l  * 1x50mm   2729mm
- 15.1Hz  33Hz   53Hz   97.4dB -21095l +  22l  * 1x50mm   2433mm
  16.5Hz  35Hz   55Hz   99.0dB  328l +  22l  * 1x50mm   2168mm
  18.0Hz  37Hz   56Hz  100.5dB  153l +  22l  * 1x50mm   1932mm
  19.6Hz  39Hz   58Hz  102.0dB   96l +  22l  * 1x50mm   1722mm
@@ -57,8 +47,6 @@ GZTW10MK2
 GZTW12MK2
             86.7dB           400W      1x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
-  9.6Hz  20Hz   42Hz   92.8dB -727l +  74l  * 1x50mm   1967mm
- 10.6Hz  21Hz   43Hz   94.4dB -1385l +  74l  * 1x50mm   1753mm
  11.6Hz  23Hz   44Hz   96.0dB 87969l +  74l  * 1x50mm   1562mm
  12.7Hz  24Hz   45Hz   97.5dB 1202l +  74l  * 1x50mm   1393mm
  13.9Hz  25Hz   46Hz   99.1dB  569l +  74l  * 1x50mm   1241mm
@@ -167,7 +155,6 @@ GZRW 10
 GZRW 12	    
             91.0dB           500W      1x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 12.3Hz  26Hz   53Hz   99.1dB -2908l +  44l  * 1x50mm   2045mm
  13.5Hz  27Hz   54Hz  100.7dB 1326l +  44l  * 1x50mm   1823mm
  14.8Hz  29Hz   56Hz  102.3dB  503l +  44l  * 1x50mm   1625mm
  16.1Hz  30Hz   57Hz  103.9dB  297l +  44l  * 1x50mm   1448mm
@@ -222,8 +209,6 @@ GZRW 12
 GZRW 15	    
             92.5dB           600W      2x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 10.5Hz  22Hz   45Hz  100.9dB -1556l + 130l  * 1x70mm   1865mm
- 11.5Hz  23Hz   46Hz  102.5dB -3712l + 130l  * 1x70mm   1662mm
  12.6Hz  24Hz   47Hz  104.1dB 6673l + 130l  * 1x70mm   1481mm
  13.8Hz  26Hz   49Hz  105.7dB 1615l + 130l  * 1x70mm   1320mm
  15.1Hz  27Hz   50Hz  107.2dB  871l + 130l  * 1x70mm   1176mm
@@ -277,7 +262,6 @@ GZRW 15
 GZRW 12S-AL 
             91.4dB           500W      1x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 12.7Hz  27Hz   55Hz   99.8dB -2727l +  41l  * 1x50mm   2030mm
  14.0Hz  28Hz   56Hz  101.4dB 1237l +  41l  * 1x50mm   1809mm
  15.3Hz  30Hz   58Hz  103.0dB  470l +  41l  * 1x50mm   1612mm
  16.8Hz  31Hz   59Hz  104.5dB  277l +  41l  * 1x50mm   1437mm
@@ -387,7 +371,6 @@ GZHW 10
 GZHW 12	    
             86.4dB           800W      2x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 11.8Hz  25Hz   51Hz  108.5dB -728l +  33l  * 1x70mm   5720mm
  13.0Hz  26Hz   52Hz  110.1dB 11760l +  33l  * 1x70mm   5098mm
  14.2Hz  28Hz   54Hz  111.7dB  580l +  33l  * 1x70mm   4543mm
  15.6Hz  29Hz   55Hz  113.2dB  281l +  33l  * 1x70mm   4050mm
@@ -442,7 +425,6 @@ GZHW 12
 GZHW 15	    
             90.0dB          1000W      2x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 12.3Hz  26Hz   53Hz  113.5dB -6075l +  70l  * 1x70mm   2523mm
  13.5Hz  27Hz   55Hz  115.1dB 1876l +  70l  * 1x70mm   2249mm
  14.8Hz  29Hz   56Hz  116.7dB  760l +  70l  * 1x70mm   2004mm
  16.2Hz  30Hz   57Hz  118.3dB  456l +  70l  * 1x70mm   1787mm

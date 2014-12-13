@@ -17,8 +17,6 @@ SB15NRXC30-8
  68.6Hz  99Hz  150Hz  103.1dB    4l +   5l  + 1x40mm    836mm
  74.2Hz 107Hz  156Hz  104.5dB    3l +   5l  - 1x40mm    709mm
  80.2Hz 114Hz  162Hz  105.8dB    3l +   5l  - 1x40mm    632mm
- 86.6Hz 121Hz  168Hz  107.1dB    2l +   5l  - 1x40mm    563mm
- 93.4Hz 128Hz  175Hz  108.4dB    2l +   5l    1x50mm    784mm
  24.4Hz  59Hz  106Hz   85.2dB   14l +   3l  + 1x40mm   3168mm
  26.8Hz  63Hz  108Hz   86.8dB   12l +   3l  + 1x40mm   2823mm
  29.4Hz  67Hz  111Hz   88.4dB   10l +   3l  + 1x40mm   2516mm
@@ -35,7 +33,6 @@ SB15NRXC30-8
  74.2Hz 107Hz  156Hz  104.5dB    3l +   3l  + 1x40mm    965mm
  68.9Hz 114Hz  162Hz  103.2dB    3l +   3l  + 1x40mm    860mm
  75.3Hz 121Hz  168Hz  104.7dB    2l +   3l  - 1x40mm    767mm
- 93.4Hz 128Hz  175Hz  108.4dB    2l +   3l  - 1x40mm    683mm
  29.3Hz  71Hz  173Hz   88.3dB    8l +   2l  + 1x40mm   3168mm
  32.3Hz  75Hz  176Hz   90.0dB    7l +   2l  + 1x40mm   2824mm
  35.6Hz  80Hz  179Hz   91.7dB    6l +   2l  + 1x40mm   2517mm
@@ -48,11 +45,6 @@ SB15NRXC30-8
  67.7Hz 119Hz  211Hz  102.9dB    2l +   2l  + 1x40mm   1124mm
  73.8Hz 127Hz  217Hz  104.4dB    2l +   2l  + 1x40mm   1002mm
  80.3Hz 134Hz  224Hz  105.8dB    2l +   2l  + 1x40mm    893mm
- 87.4Hz 142Hz  231Hz  107.3dB    2l +   2l  - 1x40mm    796mm
- 95.0Hz 150Hz  238Hz  108.7dB    1l +   2l  - 1x40mm    709mm
-103.0Hz 159Hz  246Hz  110.2dB    1l +   2l  - 1x40mm    632mm
-111.7Hz 169Hz  255Hz  111.6dB    1l +   2l  - 1x40mm    563mm
-120.9Hz 179Hz  264Hz  112.9dB    1l +   2l    1x50mm    785mm
 -------------
 SB17NRXC35-8
             89.0dB            60W       1x50mm
@@ -106,8 +98,6 @@ SB17NRXC35-8
  71.5Hz 116Hz  189Hz  107.8dB    4l +   5l  - 1x40mm    522mm
  77.7Hz 123Hz  195Hz  109.2dB    3l +   5l    1x50mm    727mm
  84.3Hz 130Hz  202Hz  110.7dB    3l +   5l    1x50mm    648mm
- 91.4Hz 138Hz  209Hz  112.1dB    3l +   5l    1x50mm    577mm
- 98.9Hz 146Hz  216Hz  113.4dB    2l +   5l    1x50mm    515mm
 -------------
 SB17NRXC35-4
             92.0dB            60W       1x50mm
@@ -128,7 +118,6 @@ SB17NRXC35-4
  67.8Hz  98Hz  142Hz  106.9dB    5l +   8l    1x50mm    768mm
  73.3Hz 104Hz  148Hz  108.2dB    4l +   8l    1x50mm    685mm
  79.1Hz 110Hz  153Hz  109.6dB    4l +   8l    1x50mm    610mm
- 85.3Hz 117Hz  160Hz  110.9dB    3l +   8l    1x50mm    544mm
  22.3Hz  54Hz   97Hz   87.6dB   25l +   6l  + 1x40mm   2196mm
  24.5Hz  57Hz   99Hz   89.2dB   21l +   6l  + 1x40mm   1957mm
  26.9Hz  61Hz  101Hz   90.8dB   17l +   6l  + 1x40mm   1744mm
@@ -145,7 +134,6 @@ SB17NRXC35-4
  67.8Hz  98Hz  142Hz  106.9dB    5l +   6l  - 1x40mm    669mm
  63.0Hz 104Hz  148Hz  105.6dB    4l +   6l  - 1x40mm    596mm
  68.8Hz 110Hz  153Hz  107.1dB    4l +   6l  - 1x40mm    532mm
- 85.3Hz 117Hz  160Hz  110.9dB    3l +   6l    1x50mm    740mm
  26.8Hz  65Hz  158Hz   90.8dB   14l +   4l  + 1x40mm   2196mm
  29.5Hz  69Hz  161Hz   92.5dB   12l +   4l  + 1x40mm   1958mm
  32.5Hz  73Hz  164Hz   94.1dB   11l +   4l  + 1x40mm   1745mm
@@ -159,10 +147,6 @@ SB17NRXC35-4
  67.4Hz 116Hz  198Hz  106.8dB    4l +   4l  - 1x40mm    694mm
  73.4Hz 122Hz  204Hz  108.3dB    3l +   4l  - 1x40mm    619mm
  79.8Hz 130Hz  211Hz  109.7dB    3l +   4l  - 1x40mm    552mm
- 86.8Hz 137Hz  218Hz  111.2dB    2l +   4l    1x50mm    768mm
- 94.1Hz 146Hz  225Hz  112.6dB    2l +   4l    1x50mm    685mm
-102.0Hz 154Hz  233Hz  114.0dB    2l +   4l    1x50mm    610mm
-110.5Hz 163Hz  241Hz  115.4dB    2l +   4l    1x50mm    544mm
 -------------
 SB23NRXS45-8
             88.5dB            60W       1x70mm
@@ -217,7 +201,6 @@ SB23NRXS45-8
  66.8Hz 106Hz  168Hz  113.1dB    6l +  10l  - 1x50mm    514mm
  72.4Hz 112Hz  173Hz  114.5dB    6l +  10l  - 1x50mm    458mm
  78.5Hz 119Hz  179Hz  115.9dB    5l +  10l  - 1x50mm    408mm
- 85.0Hz 126Hz  186Hz  117.3dB    4l +  10l    1x70mm    713mm
 -------------
 SB29NRX75
             88.0dB           200W      1x100mm
@@ -381,5 +364,3 @@ mw16p-8
  67.2Hz 109Hz  177Hz  107.5dB    4l +   5l  - 1x40mm    589mm
  73.0Hz 116Hz  183Hz  109.0dB    3l +   5l  - 1x40mm    525mm
  79.2Hz 122Hz  189Hz  110.4dB    3l +   5l    1x50mm    731mm
- 85.9Hz 130Hz  196Hz  111.8dB    3l +   5l    1x50mm    652mm
- 93.0Hz 137Hz  203Hz  113.2dB    2l +   5l    1x50mm    581mm

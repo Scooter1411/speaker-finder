@@ -52,7 +52,6 @@ m10
  66.8Hz 106Hz  168Hz  115.6dB    6l +  10l  * 1x50mm    532mm
  72.5Hz 112Hz  173Hz  117.0dB    5l +  10l  * 1x50mm    474mm
  78.5Hz 119Hz  179Hz  118.4dB    5l +  10l  * 1x50mm    422mm
- 85.0Hz 126Hz  186Hz  119.8dB    4l +  10l  - 1x70mm    738mm
 -------------
 m12
             92.2dB           300W      1x100mm
@@ -112,9 +111,6 @@ m12
 m15
             93.3dB           400W      2x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 11.7Hz  24Hz   51Hz   98.5dB -813l +  91l  * 1x70mm   2129mm
- 12.9Hz  26Hz   52Hz  100.1dB -1432l +  91l  * 1x70mm   1898mm
- 14.1Hz  27Hz   53Hz  101.7dB -9910l +  91l  * 1x70mm   1691mm
  15.4Hz  29Hz   54Hz  103.3dB 1761l +  91l  * 1x70mm   1508mm
  16.9Hz  31Hz   56Hz  104.8dB  757l +  91l  * 1x70mm   1343mm
  18.4Hz  33Hz   57Hz  106.4dB  462l +  91l  * 1x70mm   1197mm

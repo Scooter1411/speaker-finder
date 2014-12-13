@@ -2,11 +2,6 @@
 Sovereign 18-500
             96.0dB           500W      3x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 12.3Hz  26Hz   53Hz   98.3dB -859l + 231l  * 1x100mm  1571mm
- 13.5Hz  27Hz   54Hz  100.0dB -1049l + 231l  * 1x100mm  1400mm
- 14.7Hz  29Hz   56Hz  101.5dB -1395l + 231l  * 1x100mm  1248mm
- 16.1Hz  30Hz   57Hz  103.1dB -2211l + 231l  * 1x100mm  1112mm
- 17.6Hz  32Hz   58Hz  104.7dB -6484l + 231l  * 1x100mm   991mm
  19.3Hz  34Hz   60Hz  106.2dB 5574l + 231l  * 1x100mm   883mm
  21.0Hz  36Hz   62Hz  107.7dB 1806l + 231l  * 1x100mm   787mm
  22.9Hz  38Hz   64Hz  109.2dB 1027l + 231l  * 1x100mm   702mm
@@ -19,8 +14,6 @@ Sovereign 18-500
  40.2Hz  57Hz   81Hz  119.0dB  174l + 231l  - 2x100mm   623mm
  43.4Hz  60Hz   84Hz  120.3dB  147l + 231l  - 2x100mm   555mm
  46.8Hz  64Hz   88Hz  121.6dB  125l + 231l    3x100mm   745mm
- 12.3Hz  30Hz   53Hz   98.3dB -1849l + 169l  * 1x100mm  1571mm
- 13.5Hz  32Hz   54Hz  100.0dB -3943l + 169l  * 1x100mm  1400mm
  14.7Hz  33Hz   56Hz  101.5dB 14693l + 169l  * 1x100mm  1248mm
  16.1Hz  35Hz   57Hz  103.1dB 2334l + 169l  * 1x100mm  1112mm
  17.6Hz  37Hz   58Hz  104.7dB 1200l + 169l  * 1x100mm   991mm
@@ -105,6 +98,3 @@ Colossus 18XB
  67.8Hz 113Hz  189Hz  128.0dB   22l +  28l  * 1x100mm   649mm
  73.7Hz 120Hz  195Hz  129.4dB   19l +  28l  * 1x100mm   578mm
  80.1Hz 127Hz  201Hz  130.9dB   17l +  28l  * 1x100mm   516mm
- 86.9Hz 134Hz  208Hz  132.3dB   15l +  28l  * 1x100mm   460mm
- 94.2Hz 142Hz  215Hz  133.7dB   13l +  28l  * 1x100mm   410mm
-102.0Hz 151Hz  223Hz  135.1dB   12l +  28l  - 2x100mm   726mm

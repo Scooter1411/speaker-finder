@@ -2,7 +2,6 @@
 SHX-8S4
             86.7dB           200W       1x70mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 19.5Hz  40Hz   84Hz   92.1dB -506l +   8l  * 1x40mm   2735mm
  21.3Hz  43Hz   86Hz   93.7dB  264l +   8l  * 1x40mm   2437mm
  23.4Hz  45Hz   88Hz   95.3dB   97l +   8l  * 1x40mm   2172mm
  25.6Hz  48Hz   90Hz   96.9dB   57l +   8l  * 1x40mm   1936mm
@@ -51,13 +50,10 @@ SHX-8S4
  69.6Hz 113Hz  184Hz  114.3dB    3l +   4l  * 1x40mm    687mm
  75.6Hz 120Hz  190Hz  115.7dB    3l +   4l  * 1x40mm    612mm
  82.0Hz 127Hz  196Hz  117.1dB    2l +   4l  * 1x40mm    546mm
- 88.9Hz 134Hz  203Hz  118.5dB    2l +   4l  - 1x50mm    760mm
- 96.2Hz 142Hz  210Hz  119.9dB    2l +   4l  - 1x50mm    677mm
 -------------
 SHX-10S4
             85.7dB           300W      1x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 15.8Hz  33Hz   69Hz   94.9dB -349l +  12l  * 1x50mm   4372mm
  17.4Hz  35Hz   70Hz   96.5dB  954l +  12l  * 1x50mm   3896mm
  19.1Hz  37Hz   72Hz   98.1dB  184l +  12l  * 1x50mm   3472mm
  20.9Hz  39Hz   74Hz   99.7dB   96l +  12l  * 1x50mm   3096mm
@@ -112,7 +108,6 @@ SHX-10S4
 SHX-12S4
             88.2dB           400W      2x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 14.2Hz  30Hz   61Hz   97.2dB -1167l +  31l  * 1x70mm   4276mm
  15.6Hz  31Hz   63Hz   98.8dB 1404l +  31l  * 1x70mm   3811mm
  17.1Hz  33Hz   64Hz  100.4dB  404l +  31l  * 1x70mm   3397mm
  18.7Hz  35Hz   66Hz  102.0dB  225l +  31l  * 1x70mm   3028mm

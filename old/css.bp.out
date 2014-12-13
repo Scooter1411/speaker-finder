@@ -2,11 +2,6 @@
 FR125S
             80.0dB            30W       1x40mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 17.0Hz  35Hz   74Hz   76.1dB  -23l +   6l    1x40mm   5423mm
- 18.7Hz  37Hz   75Hz   77.8dB  -29l +   6l    1x40mm   4833mm
- 20.4Hz  40Hz   77Hz   79.4dB  -40l +   6l    1x40mm   4307mm
- 22.4Hz  42Hz   79Hz   80.9dB  -72l +   6l    1x40mm   3840mm
- 24.5Hz  45Hz   81Hz   82.5dB -699l +   6l    1x40mm   3422mm
  26.7Hz  47Hz   83Hz   84.0dB   81l +   6l    1x40mm   3050mm
  29.1Hz  50Hz   86Hz   85.5dB   36l +   6l    1x40mm   2718mm
  31.7Hz  53Hz   88Hz   87.0dB   22l +   6l    1x40mm   2423mm
@@ -19,8 +14,6 @@ FR125S
  55.8Hz  79Hz  112Hz   96.8dB    4l +   6l    1x40mm   1082mm
  60.2Hz  84Hz  117Hz   98.1dB    3l +   6l    1x40mm    964mm
  64.9Hz  89Hz  121Hz   99.4dB    3l +   6l    1x40mm    859mm
- 17.0Hz  41Hz   74Hz   76.1dB  -57l +   4l    1x40mm   5423mm
- 18.7Hz  44Hz   75Hz   77.8dB -180l +   4l    1x40mm   4833mm
  20.4Hz  46Hz   77Hz   79.4dB  128l +   4l    1x40mm   4307mm
  22.4Hz  49Hz   79Hz   80.9dB   44l +   4l    1x40mm   3839mm
  24.5Hz  52Hz   81Hz   82.5dB   25l +   4l    1x40mm   3422mm
@@ -57,32 +50,12 @@ FR125S
 WR125S
             80.0dB            30W       1x40mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 15.4Hz  32Hz   67Hz   74.4dB   -8l +   8l    1x40mm   4565mm
- 16.9Hz  34Hz   68Hz   76.1dB   -9l +   8l    1x40mm   4069mm
- 18.5Hz  36Hz   70Hz   77.6dB   -9l +   8l    1x40mm   3626mm
- 20.3Hz  38Hz   72Hz   79.2dB  -10l +   8l    1x40mm   3233mm
- 22.2Hz  40Hz   73Hz   80.8dB  -11l +   8l    1x40mm   2880mm
- 24.2Hz  43Hz   75Hz   82.3dB  -12l +   8l    1x40mm   2567mm
- 26.4Hz  45Hz   78Hz   83.8dB  -14l +   8l    1x40mm   2288mm
- 28.7Hz  48Hz   80Hz   85.3dB  -16l +   8l    1x40mm   2040mm
- 31.3Hz  51Hz   82Hz   86.7dB  -21l +   8l    1x40mm   1818mm
- 34.0Hz  54Hz   85Hz   88.2dB  -30l +   8l    1x40mm   1620mm
- 36.9Hz  57Hz   88Hz   89.6dB  -63l +   8l    1x40mm   1444mm
  40.0Hz  60Hz   91Hz   91.0dB  310l +   8l    1x40mm   1287mm
  43.3Hz  62Hz   94Hz   92.4dB   66l +   8l    1x40mm   1205mm
  46.8Hz  68Hz   98Hz   93.7dB   21l +   8l    1x40mm   1022mm
  50.6Hz  72Hz  102Hz   95.1dB   13l +   8l    1x40mm    911mm
  54.6Hz  76Hz  106Hz   96.4dB    9l +   8l    1x40mm    812mm
  58.8Hz  80Hz  110Hz   97.7dB    7l +   8l    1x40mm    724mm
- 15.4Hz  37Hz   67Hz   74.4dB  -10l +   6l    1x40mm   4566mm
- 16.9Hz  40Hz   68Hz   76.1dB  -10l +   6l    1x40mm   4068mm
- 18.5Hz  42Hz   70Hz   77.6dB  -11l +   6l    1x40mm   3626mm
- 20.3Hz  44Hz   72Hz   79.2dB  -13l +   6l    1x40mm   3232mm
- 22.2Hz  47Hz   73Hz   80.8dB  -15l +   6l    1x40mm   2881mm
- 24.2Hz  50Hz   75Hz   82.3dB  -19l +   6l    1x40mm   2567mm
- 26.4Hz  53Hz   78Hz   83.8dB  -26l +   6l    1x40mm   2288mm
- 28.7Hz  56Hz   80Hz   85.3dB  -46l +   6l    1x40mm   2039mm
- 31.3Hz  59Hz   82Hz   86.7dB -315l +   6l    1x40mm   1818mm
  34.0Hz  63Hz   85Hz   88.2dB   57l +   6l    1x40mm   1620mm
  36.9Hz  66Hz   88Hz   89.6dB   25l +   6l    1x40mm   1444mm
  40.0Hz  60Hz   91Hz   91.0dB  310l +   6l    1x40mm   1752mm
@@ -91,11 +64,6 @@ WR125S
  43.4Hz  72Hz  102Hz   92.4dB   13l +   6l    1x40mm   1240mm
  47.5Hz  76Hz  106Hz   94.0dB    9l +   6l    1x40mm   1105mm
  58.8Hz  80Hz  110Hz   97.7dB    7l +   6l    1x40mm    985mm
- 18.5Hz  45Hz  109Hz   77.6dB  -13l +   4l    1x40mm   4565mm
- 20.4Hz  48Hz  111Hz   79.3dB  -16l +   4l    1x40mm   4070mm
- 22.5Hz  50Hz  113Hz   81.0dB  -20l +   4l    1x40mm   3627mm
- 24.7Hz  53Hz  115Hz   82.6dB  -28l +   4l    1x40mm   3232mm
- 27.1Hz  56Hz  118Hz   84.3dB  -54l +   4l    1x40mm   2881mm
  29.8Hz  60Hz  120Hz   85.9dB 7545l +   4l    1x40mm   2567mm
  32.6Hz  63Hz  123Hz   87.5dB   47l +   4l    1x40mm   2288mm
  35.7Hz  67Hz  126Hz   89.0dB   22l +   4l    1x40mm   2039mm
@@ -112,16 +80,6 @@ WR125S
 WR125ST
             80.0dB            30W       1x40mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
- 18.9Hz  39Hz   82Hz   78.0dB   -7l +   5l    1x40mm   4682mm
- 20.7Hz  42Hz   84Hz   79.6dB   -7l +   5l    1x40mm   4173mm
- 22.7Hz  44Hz   86Hz   81.2dB   -8l +   5l    1x40mm   3719mm
- 24.9Hz  47Hz   88Hz   82.7dB   -8l +   5l    1x40mm   3315mm
- 27.2Hz  49Hz   90Hz   84.3dB   -9l +   5l    1x40mm   2954mm
- 29.7Hz  52Hz   92Hz   85.8dB  -11l +   5l    1x40mm   2633mm
- 32.3Hz  55Hz   95Hz   87.3dB  -13l +   5l    1x40mm   2347mm
- 35.2Hz  59Hz   98Hz   88.8dB  -18l +   5l    1x40mm   2091mm
- 38.3Hz  62Hz  101Hz   90.3dB  -28l +   5l    1x40mm   1864mm
- 41.6Hz  66Hz  104Hz   91.7dB  -81l +   5l    1x40mm   1661mm
  45.2Hz  70Hz  108Hz   93.1dB   72l +   5l    1x40mm   1481mm
  49.0Hz  74Hz  112Hz   94.5dB   23l +   5l    1x40mm   1320mm
  53.0Hz  76Hz  116Hz   95.9dB   16l +   5l    1x40mm   1236mm
@@ -129,13 +87,6 @@ WR125ST
  62.0Hz  88Hz  125Hz   98.6dB    6l +   5l    1x40mm    934mm
  66.9Hz  93Hz  130Hz   99.9dB    5l +   5l    1x40mm    833mm
  72.1Hz  99Hz  135Hz  101.3dB    4l +   5l    1x40mm    742mm
- 18.9Hz  46Hz   82Hz   78.0dB   -8l +   4l    1x40mm   4682mm
- 20.7Hz  49Hz   84Hz   79.6dB   -9l +   4l    1x40mm   4172mm
- 22.7Hz  51Hz   86Hz   81.2dB  -10l +   4l    1x40mm   3718mm
- 24.9Hz  54Hz   88Hz   82.7dB  -12l +   4l    1x40mm   3315mm
- 27.2Hz  58Hz   90Hz   84.3dB  -16l +   4l    1x40mm   2954mm
- 29.7Hz  61Hz   92Hz   85.8dB  -23l +   4l    1x40mm   2633mm
- 32.3Hz  65Hz   95Hz   87.3dB  -50l +   4l    1x40mm   2347mm
  35.2Hz  69Hz   98Hz   88.8dB  196l +   4l    1x40mm   2091mm
  38.3Hz  73Hz  101Hz   90.3dB   30l +   4l    1x40mm   1864mm
  41.6Hz  77Hz  104Hz   91.7dB   15l +   4l    1x40mm   1661mm
@@ -146,10 +97,6 @@ WR125ST
  53.3Hz  88Hz  125Hz   96.0dB    6l +   4l    1x40mm   1271mm
  58.2Hz  93Hz  130Hz   97.5dB    5l +   4l    1x40mm   1133mm
  72.1Hz  99Hz  135Hz  101.3dB    4l +   4l    1x40mm   1010mm
- 22.7Hz  55Hz  133Hz   81.1dB  -13l +   3l    1x40mm   4681mm
- 25.0Hz  58Hz  136Hz   82.8dB  -17l +   3l    1x40mm   4173mm
- 27.5Hz  62Hz  138Hz   84.5dB  -26l +   3l    1x40mm   3719mm
- 30.3Hz  65Hz  141Hz   86.2dB  -62l +   3l    1x40mm   3314mm
  33.3Hz  69Hz  144Hz   87.8dB  104l +   3l    1x40mm   2954mm
  36.5Hz  73Hz  147Hz   89.4dB   26l +   3l    1x40mm   2633mm
  40.0Hz  78Hz  151Hz   91.0dB   14l +   3l    1x40mm   2346mm
@@ -161,8 +108,6 @@ WR125ST
  67.5Hz 110Hz  178Hz  100.1dB    3l +   3l    1x40mm   1176mm
  73.4Hz 116Hz  184Hz  101.5dB    2l +   3l    1x40mm   1048mm
  79.6Hz 123Hz  190Hz  103.0dB    2l +   3l    1x40mm    934mm
- 86.3Hz 130Hz  197Hz  104.4dB    2l +   3l    1x40mm    833mm
- 93.4Hz 138Hz  204Hz  105.7dB    1l +   3l    1x40mm    742mm
 -------------
 SDX7
             85.0dB           100W       1x70mm
@@ -215,9 +160,6 @@ SDX7
  68.3Hz 114Hz  190Hz  113.8dB    2l +   3l  * 1x40mm    970mm
  74.3Hz 121Hz  196Hz  115.3dB    2l +   3l  * 1x40mm    865mm
  80.7Hz 128Hz  203Hz  116.7dB    2l +   3l  * 1x40mm    771mm
- 87.6Hz 135Hz  209Hz  118.1dB    2l +   3l  * 1x40mm    687mm
- 94.9Hz 143Hz  217Hz  119.5dB    1l +   3l  * 1x40mm    612mm
-102.8Hz 152Hz  225Hz  120.9dB    1l +   3l  * 1x40mm    545mm
 -------------
 SDX10
             85.0dB           250W      1x100mm
