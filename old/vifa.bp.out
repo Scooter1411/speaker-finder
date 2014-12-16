@@ -32,6 +32,22 @@
  76.1Hz 139Hz  252Hz   92.5dB    2l +   1l    1x40mm   1780mm
  83.1Hz 147Hz  259Hz   94.1dB    1l +   1l    1x40mm   1586mm
 -------------
+TG9FD-10-08
+            84.4dB            25W       1x40mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 67.4Hz 107Hz  169Hz   89.8dB   31l +   1l    1x40mm   3088mm
+ 73.1Hz 113Hz  175Hz   91.3dB    6l +   1l    1x40mm   2752mm
+ 79.2Hz 120Hz  181Hz   92.7dB    3l +   1l    1x40mm   2453mm
+-------------
+TC9FD-18-08
+            84.6dB            30W       1x40mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 71.2Hz 128Hz  170Hz   90.8dB   22l +   1l    1x40mm   1544mm
+ 84.0Hz 139Hz  197Hz   93.6dB    5l +   1l    1x40mm   1326mm
+ 69.0Hz 130Hz  244Hz   90.2dB   16l +   1l    1x40mm   2181mm
+ 75.5Hz 137Hz  250Hz   91.8dB    6l +   1l    1x40mm   1944mm
+ 82.4Hz 146Hz  257Hz   93.3dB    3l +   1l    1x40mm   1733mm
+-------------
 10BGS119_8
             86.0dB            30W       1x40mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C

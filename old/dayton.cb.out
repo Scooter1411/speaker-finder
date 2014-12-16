@@ -382,6 +382,29 @@ Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3
                 1.1  297.7l: (109.8dB   277W 110.8dB) @  19Hz ( 2228uF)
 
 -------------
+nd90-8
+      82.1dB                             20W
+Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3
+
+0.20  80.9dB:   0.8    6.2l: ( 95.9dB    34W  93.6dB) @  82Hz
+                0.9    2.5l: ( 96.4dB    38W  93.6dB) @  85Hz
+                1.0    1.5l: ( 96.9dB    43W  93.6dB) @  87Hz
+                1.1    1.0l: ( 97.7dB    52W  93.6dB) @  91Hz
+                1.1    1.0l: ( 94.8dB    27W  93.6dB) @  77Hz (  381uF)
+
+0.60  80.6dB:   0.8   11.1l: ( 95.2dB    30W  93.4dB) @  79Hz
+                0.9    3.2l: ( 95.7dB    34W  93.4dB) @  81Hz
+                1.0    1.8l: ( 96.2dB    39W  93.4dB) @  84Hz
+                1.1    1.2l: ( 97.0dB    46W  93.4dB) @  87Hz
+                1.1    1.2l: ( 94.1dB    24W  93.4dB) @  74Hz (  398uF)
+
+1.00  80.4dB:   0.8   36.1l: ( 94.5dB    27W  93.2dB) @  76Hz
+                0.9    4.3l: ( 95.0dB    30W  93.2dB) @  78Hz
+                1.0    2.2l: ( 95.5dB    35W  93.2dB) @  80Hz
+                1.1    1.4l: ( 96.3dB    41W  93.2dB) @  84Hz
+                1.1    1.4l: ( 93.4dB    21W  93.2dB) @  71Hz (  414uF)
+
+-------------
 nd140-4
       85.3dB                             40W
 Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3

@@ -26,6 +26,14 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 1.00  93.5dB: (120.7dB  1314W 116.5dB) @  50Hz
               (123.7dB  2628W 116.5dB) @  59Hz
 -------------
+AW2000
+      88.0dB            120W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  86.5dB: (113.2dB  1248W 103.0dB) @  67Hz
+0.60  86.0dB: (111.3dB   911W 102.5dB) @  60Hz
+1.00  85.5dB: (109.7dB   689W 102.1dB) @  54Hz
+-------------
 AW3000
       89.6dB            180W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -34,6 +42,14 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 0.60  87.7dB: (113.3dB   990W 105.9dB) @  44Hz
 1.00  87.2dB: (111.7dB   759W 105.5dB) @  40Hz
               (114.7dB  1517W 105.5dB) @  48Hz
+-------------
+AW3000
+      93.0dB            180W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  89.2dB: (118.2dB  2146W 107.5dB) @  58Hz
+0.60  88.7dB: (116.4dB  1568W 107.0dB) @  52Hz
+1.00  88.2dB: (114.7dB  1188W 106.5dB) @  48Hz
 -------------
 WPP150
       86.0dB             70W

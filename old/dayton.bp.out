@@ -626,6 +626,27 @@ ib385-8
  30.8Hz  46Hz   70Hz  118.1dB   80l + 142l  - 1x100mm   770mm
  33.3Hz  49Hz   73Hz  119.5dB   69l + 142l  - 1x100mm   686mm
 -------------
+nd90-8
+            82.1dB            20W       1x40mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 52.8Hz  84Hz  132Hz   88.2dB   15l +   1l    1x40mm   3860mm
+ 57.3Hz  89Hz  137Hz   89.6dB    6l +   1l    1x40mm   3441mm
+ 62.1Hz  94Hz  142Hz   91.0dB    4l +   1l    1x40mm   3067mm
+ 67.2Hz  97Hz  147Hz   92.4dB    3l +   1l    1x40mm   2872mm
+ 72.7Hz 105Hz  152Hz   93.8dB    2l +   1l    1x40mm   2436mm
+ 78.6Hz 111Hz  158Hz   95.1dB    1l +   1l    1x40mm   2171mm
+ 84.8Hz 118Hz  164Hz   96.4dB    1l +   1l    1x40mm   1935mm
+ 41.0Hz  82Hz  121Hz   83.8dB   26l +   1l    1x40mm   5453mm
+ 44.7Hz  87Hz  124Hz   85.3dB    8l +   1l    1x40mm   4860mm
+ 48.6Hz  92Hz  128Hz   86.8dB    4l +   1l    1x40mm   4332mm
+ 52.8Hz  98Hz  132Hz   88.2dB    3l +   1l    1x40mm   3860mm
+ 57.3Hz 103Hz  137Hz   89.6dB    2l +   1l    1x40mm   3441mm
+ 62.1Hz  94Hz  142Hz   91.0dB    4l +   1l    1x40mm   4174mm
+ 67.2Hz  97Hz  147Hz   92.4dB    3l +   1l    1x40mm   3909mm
+ 72.7Hz 105Hz  152Hz   93.8dB    2l +   1l    1x40mm   3315mm
+ 67.5Hz 111Hz  158Hz   92.5dB    1l +   1l    1x40mm   2954mm
+ 73.8Hz 118Hz  164Hz   94.0dB    1l +   1l    1x40mm   2634mm
+-------------
 nd140-4
             85.3dB            40W       1x50mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C

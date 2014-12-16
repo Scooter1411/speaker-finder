@@ -717,6 +717,34 @@ SplMech  Pmech SplEle     f3
 125.1dB   498W 123.6dB @  46Hz  -12
 125.8dB   498W 124.3dB @  48Hz  -13
 -------------
+nd90-8
+-------------
+ 82.1dB             1.0l (1.1)                20W
+SplMech  Pmech SplEle     f3
+
+ 75.9dB    32W  73.9dB @  26Hz   20
+ 77.2dB    32W  75.1dB @  28Hz   18
+            2W  67.3dB @  30Hz 
+            3W  68.3dB @  30Hz 
+            4W  69.3dB @  30Hz 
+            5W  70.3dB @  30Hz 
+            6W  71.3dB @  30Hz 
+            8W  72.3dB @  30Hz 
+           10W  73.3dB @  30Hz 
+           13W  74.3dB @  30Hz 
+           16W  75.3dB @  30Hz 
+           20W  76.3dB @  30Hz 
+ 78.4dB    32W  76.3dB @  30Hz   17
+ 79.5dB    32W  77.5dB @  32Hz   16
+ 80.6dB    32W  78.5dB @  34Hz   15
+ 81.6dB    32W  79.5dB @  36Hz   14
+ 82.5dB    32W  80.4dB @  38Hz   13
+ 83.4dB    32W  81.3dB @  40Hz   12
+ 84.2dB    32W  82.2dB @  42Hz   11
+ 85.0dB    32W  83.0dB @  44Hz   11
+ 85.8dB    32W  83.7dB @  46Hz   10
+ 86.6dB    32W  84.5dB @  48Hz    9
+-------------
 nd140-4
 -------------
  85.3dB             6.9l (1.1)                40W

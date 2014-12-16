@@ -13,6 +13,35 @@ SplMech  Pmech SplEle     f3
  83.8dB    40W  82.6dB @  46Hz   14
  84.5dB    40W  83.3dB @  48Hz   13
 -------------
+TG9FD-10-08
+-------------
+ 84.4dB             0.8l (1.1)                25W
+SplMech  Pmech SplEle     f3
+
+ 78.0dB    51W  74.9dB @  34Hz   19
+ 79.0dB    51W  75.9dB @  36Hz   18
+ 79.9dB    51W  76.8dB @  38Hz   17
+ 80.8dB    51W  77.7dB @  40Hz   16
+ 81.6dB    51W  78.5dB @  42Hz   16
+ 82.5dB    51W  79.3dB @  44Hz   15
+ 83.2dB    51W  80.1dB @  46Hz   14
+ 84.0dB    51W  80.9dB @  48Hz   13
+-------------
+TC9FD-18-08
+-------------
+ 84.6dB             2.7l (1.1)                30W
+SplMech  Pmech SplEle     f3
+
+ 76.9dB    22W  78.1dB @  32Hz   20
+ 77.9dB    22W  79.2dB @  34Hz   19
+ 78.9dB    22W  80.2dB @  36Hz   18
+ 79.9dB    22W  81.1dB @  38Hz   17
+ 80.7dB    22W  82.0dB @  40Hz   16
+ 81.6dB    22W  82.9dB @  42Hz   15
+ 82.4dB    22W  83.7dB @  44Hz   14
+ 83.2dB    22W  84.4dB @  46Hz   14
+ 83.9dB    22W  85.2dB @  48Hz   13
+-------------
 10BGS119_8
 -------------
  86.0dB             0.8l (1.1)                30W
