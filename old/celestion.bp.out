@@ -397,3 +397,9 @@ CF18VJD
  70.4Hz 117Hz  196Hz  132.0dB   14l +  18l  * 1x100mm   942mm
  76.6Hz 124Hz  202Hz  133.4dB   12l +  18l  * 1x100mm   839mm
  83.2Hz 132Hz  209Hz  134.9dB   11l +  18l  * 1x100mm   748mm
+-------------
+FTR08-2011D
+            93.0dB           200W       1x70mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 75.4Hz 157Hz  326Hz  110.5dB    4l +   1l  * 1x40mm   1382mm
+ 82.8Hz 166Hz  334Hz  112.1dB    3l +   1l  * 1x40mm   1231mm

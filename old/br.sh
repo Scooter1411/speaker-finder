@@ -152,11 +152,11 @@ BEGIN{
     
                 if( vbx > 0 && l >= lmin && l <= lmax ) {
                     if( first == "true" ) {
-                        printf("%4.2f %5.1fdB:",r,spl1);
+                        printf("%4.2f %5.1fdB --------------------------------------------------------------\n",r,spl1);
                         first = "false";
-                    } else {
-                        printf("             ");
-                    }
+                    } #else {
+                      #  printf("             ");
+                    #}
 
                     printf("%1s %6.1fl @ %5.1fHz  =>  %5.1fdB %4.0fW %5.1fdB @ %5.1fHz ",mark,vbx,fbx,spl2,p2,spl3,f3x);
                     printf("%1s %-8s %4.0f mm \n",dkorr,dname[di],l);
@@ -167,7 +167,7 @@ BEGIN{
                 #            fu,fc,fo,spl2,vb1,vb2,dkorr,dname[di],l,cs);
                 #}
             }
-            printf("\n");
+            #printf("\n");
         }
     }
 }
