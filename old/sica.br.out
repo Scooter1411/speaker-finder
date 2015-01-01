@@ -1,6 +1,7 @@
 -------------
 Sica LP 208.38/1100                    94.9dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  93.8dB --------------------------------------------------------------
      8.9l @  87.3Hz  =>  108.5dB   38W 112.7dB @ 103.0Hz   1x70mm    253 mm 

@@ -1,6 +1,7 @@
 -------------
 F180                                   90.0dB   30W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.3dB --------------------------------------------------------------
     53.4l @  36.2Hz  =>   97.3dB   11W 101.7dB @  34.4Hz   1x70mm     84 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    143.0l @  26.4Hz  =>   88.8dB    2W 101.1dB @  21.0Hz + 1x100mm    30 mm 
 -------------
 F155                                   90.0dB   20W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.1dB --------------------------------------------------------------
     16.1l @  47.6Hz  =>   92.6dB    6W  97.7dB @  45.8Hz   1x50mm    103 mm 

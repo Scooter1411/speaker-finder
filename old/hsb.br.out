@@ -1,6 +1,7 @@
 -------------
 HSB21                                  94.9dB  500W                     4x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  94.1dB --------------------------------------------------------------
    631.0l @  22.5Hz  =>  118.5dB  315W 120.5dB @  23.3Hz   4x100mm   186 mm 

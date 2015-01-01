@@ -1,6 +1,7 @@
 -------------
 e250 esprit                            89.0dB  300W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.7dB --------------------------------------------------------------
     45.2l @  37.1Hz  =>  105.2dB   78W 111.0dB @  32.1Hz   1x100mm   151 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    112.7l @  27.7Hz  =>   97.2dB   14W 110.6dB @  20.4Hz + 2x100mm    76 mm 
 -------------
 e300 esprit                            88.0dB  400W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.5dB --------------------------------------------------------------
    121.2l @  26.4Hz  =>  102.1dB   40W 112.0dB @  22.5Hz   1x100mm    85 mm 

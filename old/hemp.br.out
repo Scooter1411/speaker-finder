@@ -1,6 +1,7 @@
 -------------
 fr810hq                                94.0dB   45W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  93.8dB --------------------------------------------------------------
     80.8l @  46.2Hz  =>  101.6dB    8W 109.2dB @  47.0Hz   1x100mm    70 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    210.4l @  34.0Hz  =>   93.3dB    1W 108.7dB @  29.1Hz + 3x100mm    38 mm 
 -------------
 tsuzureko                              96.0dB 1000W                     4x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  92.3dB --------------------------------------------------------------
    462.3l @  21.3Hz  =>  124.3dB 3475W 118.8dB @  23.5Hz   4x100mm   479 mm 

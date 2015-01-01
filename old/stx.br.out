@@ -1,6 +1,7 @@
 -------------
 SW.STX.10.2.500.8.F.A.FC.X             88.0dB  300W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.4dB --------------------------------------------------------------
     34.1l @  29.8Hz  =>  115.5dB 1589W 108.3dB @  32.9Hz - 1x70mm    487 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     95.9l @  21.4Hz  =>  106.6dB  231W 107.7dB @  19.6Hz   1x100mm   317 mm 
 -------------
 WM.STX.6_5.1_5.180.16.F.A.FC.X         90.0dB  140W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.2dB --------------------------------------------------------------
     22.8l @  39.9Hz  =>  104.6dB   37W 110.4dB @  41.7Hz   1x50mm    151 mm 
@@ -56,7 +58,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     53.7l @  30.4Hz  =>   97.2dB    7W 110.1dB @  27.2Hz   1x50mm     43 mm 
 -------------
 WM.STX.6_5.1_5.180.8.F.A.FC.X          90.0dB  140W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.4dB --------------------------------------------------------------
     14.9l @  44.5Hz  =>  107.5dB  152W 107.2dB @  50.2Hz   1x50mm    266 mm 

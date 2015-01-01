@@ -1,10 +1,12 @@
 -------------
 Sovereign 18-500                       96.0dB  500W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 -------------
 Colossus 18XB                          99.0dB 1000W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  95.5dB --------------------------------------------------------------
    118.6l @  41.1Hz  =>  125.4dB 1224W 124.5dB @  46.5Hz   3x100mm   416 mm 

@@ -1,6 +1,7 @@
 -------------
 shiva                                  84.0dB  600W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.4dB --------------------------------------------------------------
    101.2l @  24.5Hz  =>  115.8dB  971W 113.7dB @  26.0Hz - 1x100mm   405 mm 
@@ -45,7 +46,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    283.4l @  17.6Hz  =>  106.8dB  141W 113.1dB @  15.5Hz   2x100mm   236 mm 
 -------------
 koda10d4                               89.0dB  300W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.4dB --------------------------------------------------------------
     39.1l @  36.4Hz  =>  120.5dB 1747W 112.8dB @  38.4Hz   1x100mm   476 mm 
@@ -73,7 +75,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    101.1l @  26.8Hz  =>  112.2dB  289W 112.4dB @  23.9Hz   1x100mm   139 mm 
 -------------
 koda10d8                               89.0dB  300W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.4dB --------------------------------------------------------------
     63.6l @  33.0Hz  =>  117.3dB 1708W 109.7dB @  31.9Hz   1x100mm   227 mm 
@@ -101,7 +104,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    206.9l @  22.6Hz  =>  107.0dB  195W 108.9dB @  17.7Hz + 2x100mm    81 mm 
 -------------
 koda12d4                               89.0dB  300W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.1dB --------------------------------------------------------------
    106.2l @  28.7Hz  =>  118.2dB  883W 113.5dB @  28.6Hz   1x100mm   189 mm 
@@ -141,7 +145,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    274.6l @  21.2Hz  =>  110.0dB  146W 113.1dB @  17.8Hz   1x100mm    28 mm 
 -------------
 koda12d8                               89.0dB  300W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.6dB --------------------------------------------------------------
    183.0l @  25.0Hz  =>  114.1dB  766W 110.0dB @  22.5Hz   1x100mm    69 mm 
@@ -175,7 +180,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    595.2l @  17.1Hz  =>  103.8dB   87W 109.2dB @  12.5Hz + 4x100mm    29 mm 
 -------------
 koda15d4                               91.0dB  300W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  90.8dB --------------------------------------------------------------
    456.9l @  21.4Hz  =>  116.0dB  358W 115.2dB @  19.6Hz   2x100mm    60 mm 
@@ -203,7 +209,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
   1054.7l @  16.4Hz  =>  108.7dB   74W 114.8dB @  12.9Hz + 6x100mm    34 mm 
 -------------
 koda15d8                               90.0dB  300W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  90.4dB --------------------------------------------------------------
    802.4l @  18.6Hz  =>  111.8dB  303W 111.8dB @  15.4Hz + 4x100mm    26 mm 

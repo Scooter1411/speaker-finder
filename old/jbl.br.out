@@ -1,6 +1,7 @@
 -------------
 2118H                                  97.0dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  95.0dB --------------------------------------------------------------
      7.4l @ 104.1Hz  =>  120.4dB  501W 113.4dB @ 116.7Hz   1x70mm    162 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     20.2l @  75.6Hz  =>  111.7dB   78W 112.8dB @  70.8Hz   1x70mm     28 mm 
 -------------
 2118J                                  97.0dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  95.1dB --------------------------------------------------------------
      7.1l @ 105.4Hz  =>  120.7dB  285W 116.2dB @ 119.0Hz   1x70mm    171 mm 

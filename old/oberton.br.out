@@ -1,6 +1,7 @@
 -------------
 15B450                                100.0dB  450W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  98.3dB --------------------------------------------------------------
     46.7l @  65.0Hz  =>  132.5dB 3937W 123.0dB @  79.9Hz   2x100mm   387 mm 

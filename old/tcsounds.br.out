@@ -1,6 +1,7 @@
 -------------
 10lms4000svc                           81.1dB  800W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  81.6dB --------------------------------------------------------------
     83.9l @  17.5Hz  =>  110.6dB 2292W 106.1dB @  17.4Hz - 1x70mm    381 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    315.7l @  11.5Hz  =>   99.1dB  205W 105.0dB @   9.0Hz   1x100mm   161 mm 
 -------------
 12lms4000svc                           82.6dB  800W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  81.9dB --------------------------------------------------------------
    244.2l @  13.5Hz  =>  108.6dB 1338W 106.3dB @  12.5Hz   1x100mm   321 mm 
@@ -57,7 +59,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    864.2l @   9.0Hz  =>   97.6dB  135W 105.3dB @   6.6Hz   1x100mm    38 mm 
 -------------
 15lms4000svc                           85.6dB  800W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  84.8dB --------------------------------------------------------------
    717.7l @  11.8Hz  =>  110.7dB 1132W 109.2dB @  10.7Hz   2x100mm   228 mm 

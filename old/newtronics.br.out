@@ -1,6 +1,7 @@
 -------------
 BMS 13/4                               86.5dB   60W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.7dB --------------------------------------------------------------
      2.6l @  73.1Hz  =>  109.9dB  379W 101.9dB @  94.9Hz - 1x40mm    655 mm 
@@ -27,7 +28,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
      7.7l @  51.6Hz  =>  100.5dB   53W 101.1dB @  55.1Hz   1x50mm    324 mm 
 -------------
 BM 17/8                                89.0dB   90W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.9dB --------------------------------------------------------------
     22.1l @  50.0Hz  =>  103.6dB   39W 107.2dB @  47.9Hz   1x70mm    126 mm 

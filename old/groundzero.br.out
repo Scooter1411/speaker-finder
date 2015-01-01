@@ -1,6 +1,7 @@
 -------------
 GZTW10MK2                              85.2dB  300W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.0dB --------------------------------------------------------------
    107.3l @  24.0Hz  =>  106.3dB  274W 106.7dB @  20.0Hz   1x100mm   126 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    331.5l @  16.7Hz  =>   96.5dB   34W 106.0dB @  11.4Hz + 2x100mm    25 mm 
 -------------
 GZTW12MK2                              86.7dB  400W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.5dB --------------------------------------------------------------
    220.0l @  19.8Hz  =>  108.1dB  286W 109.5dB @  18.5Hz   1x100mm   137 mm 
@@ -66,7 +68,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    669.3l @  13.9Hz  =>   98.4dB   37W 108.8dB @  10.6Hz + 2x100mm    34 mm 
 -------------
 GZRW 10                                89.4dB  400W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.8dB --------------------------------------------------------------
     33.1l @  31.6Hz  =>  117.1dB 2920W 108.5dB @  32.8Hz - 1x70mm    347 mm 
@@ -94,7 +97,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    109.6l @  21.5Hz  =>  106.7dB  321W 107.7dB @  18.0Hz   1x100mm   172 mm 
 -------------
 GZRW 12	                               91.0dB  500W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.8dB --------------------------------------------------------------
    120.4l @  25.0Hz  =>  115.1dB 1164W 111.5dB @  24.5Hz   1x100mm   214 mm 
@@ -135,7 +139,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    398.4l @  17.1Hz  =>  104.7dB  128W 110.6dB @  13.5Hz + 2x100mm    70 mm 
 -------------
 GZRW 15	                               92.5dB  600W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  90.4dB --------------------------------------------------------------
    378.4l @  21.5Hz  =>  116.3dB  841W 114.9dB @  20.3Hz   2x100mm   110 mm 
@@ -166,7 +171,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
   1112.9l @  15.3Hz  =>  107.0dB  117W 114.0dB @  11.8Hz + 6x100mm    40 mm 
 -------------
 GZRW 12S-AL                            91.4dB  500W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.0dB --------------------------------------------------------------
    112.5l @  26.0Hz  =>  115.8dB 1294W 111.7dB @  25.5Hz   1x100mm   212 mm 
@@ -206,7 +212,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    372.3l @  17.7Hz  =>  105.4dB  142W 110.8dB @  14.0Hz + 2x100mm    68 mm 
 -------------
 GZRW 12D-AL                            91.3dB  500W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.9dB --------------------------------------------------------------
    110.9l @  25.6Hz  =>  115.8dB  662W 114.5dB @  25.4Hz   1x100mm   239 mm 
@@ -247,7 +254,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    289.1l @  18.9Hz  =>  107.4dB  108W 114.1dB @  15.7Hz   1x100mm    47 mm 
 -------------
 GZHW 10                                86.0dB  600W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.7dB --------------------------------------------------------------
     33.3l @  30.0Hz  =>  127.5dB 32127W 110.2dB @  33.6Hz - 1x70mm    519 mm 
@@ -275,7 +283,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    108.6l @  20.6Hz  =>  117.2dB 3630W 109.4dB @  18.6Hz   1x100mm   283 mm 
 -------------
 GZHW 12	                               86.4dB  800W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.9dB --------------------------------------------------------------
     93.5l @  24.2Hz  =>  124.2dB 14545W 111.6dB @  23.3Hz   2x100mm   633 mm 
@@ -318,7 +327,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    302.4l @  16.6Hz  =>  114.0dB 1675W 110.8dB @  12.9Hz   2x100mm   125 mm 
 -------------
 GZHW 15	                               90.0dB 1000W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.7dB --------------------------------------------------------------
    188.8l @  25.1Hz  =>  129.6dB 21048W 116.3dB @  24.7Hz   2x100mm   262 mm 
@@ -355,7 +365,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    612.7l @  17.3Hz  =>  119.4dB 2408W 115.5dB @  13.7Hz + 3x100mm    43 mm 
 -------------
 GZPW15SPL                              93.4dB 5000W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.4dB --------------------------------------------------------------
     36.3l @  36.9Hz  =>  129.2dB 38601W 120.3dB @  41.4Hz - 1x100mm   635 mm 
@@ -404,7 +415,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    101.6l @  26.6Hz  =>  120.3dB 6703W 119.0dB @  24.7Hz   2x100mm   399 mm 
 -------------
 GZPW18SPL                              98.1dB 5000W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  94.7dB --------------------------------------------------------------
     48.9l @  44.8Hz  =>  135.7dB 50252W 125.7dB @  50.6Hz - 2x100mm   632 mm 
@@ -433,7 +445,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     48.6l @  44.9Hz  =>  135.8dB 69240W 124.4dB @  50.8Hz - 2x100mm   636 mm 
 -------------
 GZPW15XQ                               91.5dB 5000W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.1dB --------------------------------------------------------------
     36.1l @  33.1Hz  =>  126.3dB 13280W 122.0dB @  34.9Hz - 1x100mm   647 mm 

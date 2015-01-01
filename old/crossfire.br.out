@@ -1,6 +1,7 @@
 -------------
 W15D                                   89.0dB  450W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.3dB --------------------------------------------------------------
    262.8l @  20.3Hz  =>  114.3dB  401W 114.8dB @  19.9Hz   2x100mm   298 mm 

@@ -1,6 +1,7 @@
 -------------
 Super 8.cf                             97.3dB   30W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  97.2dB --------------------------------------------------------------
      5.5l @ 102.1Hz  =>  116.1dB   86W 111.5dB @ 162.5Hz - 1x50mm    495 mm 

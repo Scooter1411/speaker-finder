@@ -1,6 +1,7 @@
 -------------
 W8137K                                 89.5dB   80W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.7dB --------------------------------------------------------------
     71.2l @  32.2Hz  =>  102.0dB   31W 106.1dB @  31.8Hz   1x70mm     97 mm 

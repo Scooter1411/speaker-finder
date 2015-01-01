@@ -1,6 +1,7 @@
 -------------
 SHX-8S4                                86.7dB  200W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.3dB --------------------------------------------------------------
     23.0l @  39.7Hz  =>  108.1dB  367W 105.5dB @  38.8Hz   1x70mm    242 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     77.0l @  27.0Hz  =>   97.6dB   40W 104.6dB @  21.2Hz   1x70mm     36 mm 
 -------------
 SHX-8D4                                86.8dB  200W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.6dB --------------------------------------------------------------
     22.9l @  41.7Hz  =>  108.6dB  187W 108.9dB @  40.0Hz   1x70mm    196 mm 
@@ -56,7 +58,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     59.3l @  30.8Hz  =>  100.4dB   31W 108.5dB @  24.9Hz   1x70mm     44 mm 
 -------------
 SHX-10S4                               85.7dB  300W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.4dB --------------------------------------------------------------
     34.5l @  32.4Hz  =>  110.7dB  851W 106.2dB @  31.3Hz   1x100mm   501 mm 
@@ -84,7 +87,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    118.2l @  21.8Hz  =>  100.0dB   89W 105.3dB @  16.9Hz   1x100mm    94 mm 
 -------------
 SHX-10D4                               85.0dB  300W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  84.8dB --------------------------------------------------------------
     59.2l @  27.7Hz  =>  106.6dB  178W 108.9dB @  24.7Hz   1x100mm   273 mm 
@@ -112,7 +116,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    153.7l @  20.4Hz  =>   98.3dB   29W 108.4dB @  15.3Hz   1x100mm    60 mm 
 -------------
 SHX-12S4                               88.2dB  400W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.9dB --------------------------------------------------------------
     85.3l @  29.0Hz  =>  113.1dB  826W 110.0dB @  28.2Hz   2x100mm   484 mm 

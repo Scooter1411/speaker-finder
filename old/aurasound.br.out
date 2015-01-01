@@ -1,6 +1,7 @@
 -------------
 Aura_NS4_255_8D                        84.0dB   20W                      1x40mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  83.8dB --------------------------------------------------------------
      3.5l @  60.0Hz  =>  100.8dB   65W  95.7dB @  58.9Hz   1x40mm    246 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
      9.6l @  43.6Hz  =>   92.2dB   10W  95.2dB @  35.8Hz   1x40mm     72 mm 
 -------------
 Aura_NS4_255_4D                        84.0dB   20W                      1x40mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  84.0dB --------------------------------------------------------------
      3.0l @  61.2Hz  =>  102.2dB  149W  93.5dB @  63.8Hz   1x40mm    350 mm 
@@ -56,7 +58,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     10.0l @  41.8Hz  =>   91.8dB   17W  92.7dB @  35.1Hz   1x40mm     86 mm 
 -------------
 Aura_NFS8_495_8B                       84.0dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.3dB --------------------------------------------------------------
     21.0l @  38.5Hz  =>  105.5dB  128W 104.4dB @  36.6Hz   1x70mm    258 mm 
@@ -84,7 +87,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     55.3l @  28.2Hz  =>   97.1dB   21W 104.0dB @  22.6Hz   1x70mm     66 mm 
 -------------
 Aura_NFS8_495_4A                       84.0dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.7dB --------------------------------------------------------------
 *    6.7l @  47.0Hz  =>  108.1dB  536W 100.8dB @  55.6Hz - 1x50mm    671 mm 
@@ -109,7 +113,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     18.6l @  34.0Hz  =>   99.3dB   91W  99.7dB @  33.5Hz   1x70mm    453 mm 
 -------------
 Aura_NS10_513_4A                       84.0dB  200W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.3dB --------------------------------------------------------------
     30.0l @  35.0Hz  =>  115.9dB 1914W 106.1dB @  38.9Hz - 1x70mm    404 mm 
@@ -137,7 +142,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    109.3l @  23.1Hz  =>  104.6dB  180W 105.1dB @  20.4Hz   1x100mm   182 mm 
 -------------
 Aura_NS10_794_4A                       83.0dB  400W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.7dB --------------------------------------------------------------
     28.6l @  33.5Hz  =>  117.9dB 3723W 108.3dB @  34.4Hz - 1x70mm    340 mm 
@@ -165,7 +171,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     94.7l @  22.8Hz  =>  107.6dB  412W 107.4dB @  18.9Hz   1x100mm   168 mm 
 -------------
 Aura_NS12_513_4A                       85.0dB  200W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.6dB --------------------------------------------------------------
     97.6l @  25.2Hz  =>  112.3dB  814W 106.2dB @  26.5Hz - 1x100mm   380 mm 
@@ -210,7 +217,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    360.5l @  16.6Hz  =>  101.0dB   75W 105.2dB @  13.8Hz   2x100mm   141 mm 
 -------------
 Aura_NS12_794_4A                       84.0dB  400W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.9dB --------------------------------------------------------------
     80.6l @  26.7Hz  =>  117.2dB 2440W 109.4dB @  26.6Hz   1x100mm   325 mm 
@@ -253,7 +261,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    268.5l @  18.2Hz  =>  106.8dB  268W 108.5dB @  14.6Hz   1x100mm    46 mm 
 -------------
 Aura_NS15_992_4A                       86.0dB  800W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.9dB --------------------------------------------------------------
    130.6l @  21.7Hz  =>  121.4dB 6808W 112.1dB @  22.8Hz - 1x100mm   375 mm 
@@ -295,7 +304,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    450.3l @  14.6Hz  =>  110.6dB  703W 111.2dB @  12.3Hz   2x100mm   155 mm 
 -------------
 Aura_NS18_992_4A                       86.0dB  800W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.7dB --------------------------------------------------------------
    456.8l @  17.9Hz  =>  119.9dB 3439W 113.6dB @  16.8Hz   3x100mm   257 mm 

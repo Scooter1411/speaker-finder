@@ -1,6 +1,7 @@
 -------------
 18 HP 1030 A                           98.0dB 1200W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  93.8dB --------------------------------------------------------------
    151.6l @  35.8Hz  =>  123.3dB 1436W 122.5dB @  36.2Hz   3x100mm   251 mm 

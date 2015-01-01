@@ -1,6 +1,7 @@
 -------------
 DL18MT                                 94.0dB  400W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  97.8dB --------------------------------------------------------------
    263.1l @  38.7Hz  =>  123.4dB  453W 122.9dB @  42.4Hz   3x100mm   119 mm 

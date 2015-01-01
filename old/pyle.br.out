@@ -1,6 +1,7 @@
 -------------
 PDW21250                               95.0dB 1000W                     4x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  94.9dB --------------------------------------------------------------
    336.2l @  28.4Hz  =>  125.5dB 1476W 123.8dB @  32.4Hz   4x100mm   409 mm 

@@ -1,6 +1,7 @@
 -------------
 JA5006                                 85.0dB  100W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  84.5dB --------------------------------------------------------------
     10.0l @  51.2Hz  =>  100.4dB   64W 102.4dB @  45.9Hz   1x50mm    115 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     27.1l @  37.2Hz  =>   91.8dB   10W 101.8dB @  27.9Hz + 1x70mm     59 mm 
 -------------
 JA6006                                 85.6dB  100W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.2dB --------------------------------------------------------------
     28.0l @  39.4Hz  =>  100.0dB   47W 103.2dB @  34.5Hz   1x50mm     47 mm 
@@ -56,7 +58,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     74.7l @  28.8Hz  =>   91.4dB    8W 102.6dB @  21.1Hz + 1x100mm    52 mm 
 -------------
 JA6012                                 85.9dB  100W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.6dB --------------------------------------------------------------
     31.2l @  40.6Hz  =>  100.0dB   21W 106.7dB @  34.6Hz   1x50mm     28 mm 
@@ -84,7 +87,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     71.5l @  31.1Hz  =>   92.8dB    4W 106.4dB @  22.8Hz + 1x100mm    39 mm 
 -------------
 JA8008                                 94.0dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  92.8dB --------------------------------------------------------------
      9.3l @  71.2Hz  =>  117.3dB  380W 111.5dB @  95.8Hz   1x70mm    649 mm 

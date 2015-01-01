@@ -1,6 +1,7 @@
 -------------
 C90-T6-89                              89.2dB  100W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.6dB --------------------------------------------------------------
 *    4.6l @  56.6Hz  =>  104.8dB   72W 106.3dB @  76.0Hz - 1x40mm    692 mm 
@@ -22,7 +23,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
      9.0l @  45.7Hz  =>   99.0dB   21W 105.7dB @  54.4Hz   1x50mm    541 mm 
 -------------
 C180 T6-95                             89.1dB  130W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.4dB --------------------------------------------------------------
     10.1l @  47.3Hz  =>  108.7dB  181W 107.2dB @  59.0Hz - 1x50mm    531 mm 

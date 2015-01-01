@@ -1,6 +1,7 @@
 -------------
 LAT250 4/4                             91.0dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.6dB --------------------------------------------------------------
     29.4l @  41.2Hz  =>   97.2dB   59W  99.6dB @  32.5Hz   1x70mm     47 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    121.0l @  26.2Hz  =>   84.9dB    5W  98.2dB @  16.0Hz + 4x100mm    49 mm 
 -------------
 LAT500 16/16                           89.0dB  250W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.2dB --------------------------------------------------------------
     57.9l @  31.2Hz  =>  111.4dB  206W 112.2dB @  33.1Hz - 1x100mm   443 mm 
@@ -74,7 +76,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    147.0l @  23.1Hz  =>  103.3dB   35W 111.8dB @  20.8Hz   2x100mm   301 mm 
 -------------
 LAT500 8/8                             92.0dB  250W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.1dB --------------------------------------------------------------
    117.4l @  24.9Hz  =>  107.0dB  244W 107.1dB @  23.3Hz   2x100mm   402 mm 
@@ -113,7 +116,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    409.5l @  16.7Hz  =>   96.1dB   25W 106.2dB @  12.5Hz   2x100mm    42 mm 
 -------------
 LAT700 16/16                           86.0dB  500W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.0dB --------------------------------------------------------------
    360.1l @  17.1Hz  =>  103.3dB   77W 111.4dB @  13.8Hz   2x100mm   104 mm 
@@ -145,7 +149,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    905.6l @  12.7Hz  =>   95.3dB   14W 111.0dB @   8.7Hz + 5x100mm    44 mm 
 -------------
 LAT700 8/8                             89.0dB  500W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.3dB --------------------------------------------------------------
    234.4l @  18.8Hz  =>  106.4dB  284W 108.8dB @  16.4Hz   2x100mm   242 mm 

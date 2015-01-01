@@ -1,6 +1,7 @@
 -------------
 C104                                   87.0dB  150W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.0dB --------------------------------------------------------------
     77.2l @  27.7Hz  =>  109.9dB  387W 105.8dB @  26.9Hz   1x100mm   278 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    244.8l @  19.2Hz  =>   99.9dB   46W 105.0dB @  15.1Hz   1x100mm    38 mm 
 -------------
 C108                                   87.0dB  150W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.2dB --------------------------------------------------------------
     72.3l @  28.3Hz  =>  110.5dB  215W 108.9dB @  27.8Hz   1x100mm   301 mm 
@@ -56,7 +58,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    183.9l @  21.0Hz  =>  102.4dB   37W 108.5dB @  17.4Hz   1x100mm    74 mm 
 -------------
 C124                                   89.0dB  150W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.9dB --------------------------------------------------------------
    136.2l @  26.0Hz  =>  112.3dB  439W 107.6dB @  25.7Hz   2x100mm   383 mm 
@@ -95,7 +98,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    432.2l @  18.0Hz  =>  102.2dB   52W 106.9dB @  14.4Hz   2x100mm    50 mm 
 -------------
 C128                                   89.0dB  150W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.0dB --------------------------------------------------------------
    127.5l @  26.5Hz  =>  112.9dB  245W 110.7dB @  26.6Hz   2x100mm   417 mm 
@@ -135,7 +139,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    324.5l @  19.7Hz  =>  104.7dB   41W 110.3dB @  16.6Hz   2x100mm   101 mm 
 -------------
 C154                                   90.0dB  250W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  90.0dB --------------------------------------------------------------
    213.1l @  23.5Hz  =>  117.2dB 1038W 111.0dB @  24.5Hz   2x100mm   361 mm 
@@ -174,7 +179,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    680.3l @  16.2Hz  =>  107.1dB  121W 110.3dB @  13.7Hz   2x100mm    42 mm 
 -------------
 C158                                   90.0dB  250W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  90.2dB --------------------------------------------------------------
    199.4l @  24.0Hz  =>  117.8dB  579W 114.1dB @  25.3Hz   2x100mm   393 mm 
@@ -213,7 +219,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    509.0l @  17.8Hz  =>  109.6dB   98W 113.7dB @  15.9Hz   2x100mm    91 mm 
 -------------
 C84                                    86.0dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.3dB --------------------------------------------------------------
     34.3l @  33.6Hz  =>  106.0dB  234W 102.3dB @  30.3Hz   1x70mm    156 mm 
@@ -241,7 +248,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    108.4l @  23.2Hz  =>   96.0dB   28W 101.6dB @  17.0Hz + 1x100mm    60 mm 
 -------------
 C88                                    86.0dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.4dB --------------------------------------------------------------
     32.1l @  34.3Hz  =>  106.6dB  130W 105.4dB @  31.3Hz   1x70mm    170 mm 
@@ -269,7 +277,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     81.6l @  25.4Hz  =>   98.5dB   22W 105.0dB @  19.6Hz   1x70mm     36 mm 
 -------------
 CVR102                                 86.0dB  400W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.2dB --------------------------------------------------------------
    109.5l @  24.1Hz  =>  107.4dB  327W 108.2dB @  20.1Hz   1x100mm   121 mm 
@@ -297,7 +306,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    343.3l @  16.7Hz  =>   97.5dB   40W 107.5dB @  11.4Hz + 3x100mm    59 mm 
 -------------
 CVR104                                 86.0dB  400W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.3dB --------------------------------------------------------------
    102.7l @  24.6Hz  =>  107.9dB  182W 111.4dB @  20.8Hz   1x100mm   134 mm 
@@ -325,7 +335,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    259.8l @  18.3Hz  =>   99.9dB   31W 111.0dB @  13.1Hz + 2x100mm    59 mm 
 -------------
 CVR122                                 87.0dB  400W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.4dB --------------------------------------------------------------
    185.2l @  21.1Hz  =>  109.1dB  367W 109.4dB @  18.7Hz   2x100mm   266 mm 
@@ -362,7 +373,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    584.9l @  14.6Hz  =>   99.1dB   44W 108.7dB @  10.5Hz + 3x100mm    49 mm 
 -------------
 CVR124                                 87.0dB  400W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.5dB --------------------------------------------------------------
    173.5l @  21.6Hz  =>  109.6dB  204W 112.6dB @  19.4Hz   2x100mm   291 mm 
@@ -399,7 +411,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    440.5l @  16.0Hz  =>  101.5dB   35W 112.2dB @  12.1Hz   2x100mm    52 mm 
 -------------
 CVR152                                 89.0dB  500W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.9dB --------------------------------------------------------------
    264.9l @  20.7Hz  =>  115.2dB  845W 112.9dB @  20.6Hz   2x100mm   303 mm 
@@ -437,7 +450,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    843.5l @  14.3Hz  =>  105.1dB   99W 112.1dB @  11.6Hz   2x100mm    24 mm 
 -------------
 CVR154                                 89.0dB  500W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.0dB --------------------------------------------------------------
    247.9l @  21.1Hz  =>  115.7dB  471W 116.0dB @  21.3Hz   2x100mm   331 mm 
@@ -475,7 +489,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    632.1l @  15.7Hz  =>  107.6dB   80W 115.6dB @  13.4Hz   2x100mm    67 mm 
 -------------
 CVT102                                 87.0dB  400W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.9dB --------------------------------------------------------------
     47.6l @  30.2Hz  =>  113.7dB 2376W 105.9dB @  28.9Hz   1x100mm   387 mm 
@@ -503,7 +518,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    217.0l @  18.6Hz  =>  100.5dB  156W 104.6dB @  13.5Hz   1x100mm    28 mm 
 -------------
 CVT104                                 87.0dB  400W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.1dB --------------------------------------------------------------
     41.9l @  31.5Hz  =>  114.8dB 1462W 109.1dB @  30.8Hz   1x100mm   449 mm 
@@ -531,7 +547,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    132.8l @  21.7Hz  =>  104.7dB  173W 108.4dB @  17.3Hz   1x100mm    92 mm 
 -------------
 CVT122                                 87.0dB  400W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.2dB --------------------------------------------------------------
    128.3l @  25.5Hz  =>  112.1dB 1250W 107.1dB @  22.3Hz   2x100mm   245 mm 
@@ -567,7 +584,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    581.8l @  15.7Hz  =>   99.0dB   83W 105.8dB @  10.5Hz + 5x100mm    30 mm 
 -------------
 CVT124                                 87.0dB  400W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.4dB --------------------------------------------------------------
    113.0l @  26.5Hz  =>  113.2dB  768W 110.4dB @  23.7Hz   2x100mm   291 mm 
@@ -604,7 +622,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    357.4l @  18.3Hz  =>  103.2dB   91W 109.6dB @  13.3Hz   2x100mm    22 mm 
 -------------
 CVT82                                  85.0dB  200W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  84.5dB --------------------------------------------------------------
     27.6l @  35.9Hz  =>  102.3dB  242W 101.5dB @  30.0Hz   1x70mm    120 mm 
@@ -632,7 +651,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    125.0l @  22.1Hz  =>   89.2dB   16W 100.2dB @  14.1Hz + 2x100mm    51 mm 
 -------------
 CVT84                                  85.0dB  200W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  84.7dB --------------------------------------------------------------
     24.3l @  37.4Hz  =>  103.4dB  148W 104.7dB @  32.0Hz   1x70mm    143 mm 
@@ -660,7 +680,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     76.9l @  25.9Hz  =>   93.4dB   18W 104.0dB @  18.0Hz + 1x100mm    53 mm 
 -------------
 CVX102                                 87.2dB  600W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.2dB --------------------------------------------------------------
     19.7l @  38.0Hz  =>  120.9dB 5850W 111.0dB @  40.8Hz - 1x70mm    465 mm 
@@ -688,7 +709,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     62.9l @  26.2Hz  =>  110.8dB  683W 110.3dB @  22.8Hz   1x100mm   257 mm 
 -------------
 CVX104                                 86.6dB  600W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.5dB --------------------------------------------------------------
     27.9l @  36.0Hz  =>  118.9dB 1771W 114.2dB @  36.4Hz   1x100mm   600 mm 
@@ -716,7 +738,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     71.0l @  26.7Hz  =>  110.8dB  300W 113.8dB @  22.8Hz   1x100mm   191 mm 
 -------------
 CVX122                                 87.1dB  750W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.3dB --------------------------------------------------------------
     46.9l @  28.4Hz  =>  118.3dB 3149W 112.0dB @  29.6Hz - 1x100mm   643 mm 
@@ -765,7 +788,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    119.5l @  21.1Hz  =>  110.1dB  577W 111.3dB @  18.5Hz   2x100mm   455 mm 
 -------------
 CVX124                                 87.2dB  750W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.9dB --------------------------------------------------------------
     45.4l @  30.6Hz  =>  119.9dB 1977W 115.7dB @  32.5Hz - 1x100mm   604 mm 
@@ -813,7 +837,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    115.7l @  22.7Hz  =>  111.8dB  334W 115.3dB @  20.4Hz   2x100mm   425 mm 
 -------------
 CVX152                                 92.3dB 1000W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.6dB --------------------------------------------------------------
     83.7l @  28.4Hz  =>  125.8dB 8336W 116.5dB @  33.2Hz - 1x100mm   532 mm 
@@ -860,7 +885,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    267.9l @  19.6Hz  =>  115.7dB  969W 115.8dB @  18.6Hz   2x100mm   273 mm 
 -------------
 CVX154                                 90.2dB 1000W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  90.0dB --------------------------------------------------------------
     99.9l @  28.6Hz  =>  125.1dB 3229W 120.0dB @  31.9Hz - 1x100mm   348 mm 
@@ -904,7 +930,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    255.2l @  21.2Hz  =>  116.9dB  543W 119.6dB @  20.0Hz   2x100mm   224 mm 
 -------------
 S10C2                                  86.0dB  450W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.1dB --------------------------------------------------------------
     24.9l @  34.3Hz  =>  119.4dB 4306W 109.6dB @  37.4Hz - 1x70mm    479 mm 
@@ -932,7 +959,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     79.2l @  23.7Hz  =>  109.3dB  504W 108.8dB @  20.9Hz   1x100mm   266 mm 
 -------------
 S10C4                                  86.0dB  450W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.6dB --------------------------------------------------------------
     27.8l @  32.3Hz  =>  118.1dB 1781W 112.1dB @  34.8Hz - 1x70mm    463 mm 
@@ -960,7 +988,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     70.9l @  23.9Hz  =>  110.0dB  302W 111.7dB @  21.8Hz   1x100mm   339 mm 
 -------------
 S10L3                                  85.3dB  400W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.1dB --------------------------------------------------------------
    121.1l @  23.2Hz  =>   85.5dB    2W 108.1dB @  19.1Hz   1x100mm   105 mm 
@@ -996,7 +1025,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    379.3l @  16.1Hz  =>   75.6dB    0W 107.3dB @  10.8Hz + 3x100mm    44 mm 
 -------------
 S10L52                                 86.3dB  450W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.0dB --------------------------------------------------------------
     41.2l @  30.4Hz  =>  117.3dB 2727W 109.5dB @  30.8Hz   1x100mm   566 mm 
@@ -1044,7 +1074,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    130.9l @  21.0Hz  =>  107.3dB  322W 108.7dB @  17.3Hz   1x100mm   128 mm 
 -------------
 S10L54                                 86.2dB  450W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.0dB --------------------------------------------------------------
     62.2l @  28.4Hz  =>  114.6dB  729W 112.5dB @  26.4Hz   1x100mm   292 mm 
@@ -1087,7 +1118,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    158.0l @  21.0Hz  =>  106.5dB  124W 112.1dB @  16.6Hz   1x100mm    71 mm 
 -------------
 S10L72                                 86.8dB  600W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.5dB --------------------------------------------------------------
     32.8l @  34.8Hz  =>  118.9dB 3449W 111.3dB @  34.9Hz   1x100mm   520 mm 
@@ -1134,7 +1166,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    102.7l @  24.2Hz  =>  109.0dB  419W 110.5dB @  19.7Hz   1x100mm   116 mm 
 -------------
 S10L74                                 86.3dB  600W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.1dB --------------------------------------------------------------
     55.2l @  30.7Hz  =>  114.9dB  768W 113.9dB @  27.8Hz   1x100mm   247 mm 
@@ -1176,7 +1209,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    138.7l @  22.8Hz  =>  106.9dB  133W 113.5dB @  17.6Hz   1x100mm    54 mm 
 -------------
 S10X2                                  85.7dB 2500W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.6dB --------------------------------------------------------------
     14.8l @  40.1Hz  =>  127.4dB 30454W 116.5dB @  42.5Hz - 1x70mm    541 mm 
@@ -1229,7 +1263,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     47.1l @  27.7Hz  =>  117.3dB 3566W 115.8dB @  23.8Hz   1x100mm   306 mm 
 -------------
 S10X4                                  86.0dB 2500W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.8dB --------------------------------------------------------------
     25.4l @  36.9Hz  =>  124.0dB 6736W 119.7dB @  35.1Hz   1x100mm   490 mm 
@@ -1275,7 +1310,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     64.5l @  27.4Hz  =>  115.9dB 1143W 119.3dB @  22.0Hz   1x100mm   148 mm 
 -------------
 S12C2                                  87.0dB  600W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.3dB --------------------------------------------------------------
    108.0l @  24.0Hz  =>  113.9dB 1141W 111.1dB @  22.5Hz   2x100mm   492 mm 
@@ -1316,7 +1352,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    342.0l @  16.6Hz  =>  103.9dB  135W 110.3dB @  12.7Hz   2x100mm    85 mm 
 -------------
 S12C4                                  87.0dB  600W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.4dB --------------------------------------------------------------
     85.7l @  25.3Hz  =>  115.6dB  824W 114.2dB @  24.9Hz   2x100mm   688 mm 
@@ -1359,7 +1396,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    217.8l @  18.8Hz  =>  107.5dB  140W 113.8dB @  15.6Hz   2x100mm   208 mm 
 -------------
 S12L52                                 86.8dB  600W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.6dB --------------------------------------------------------------
    139.9l @  23.1Hz  =>  113.9dB 1091W 111.3dB @  20.9Hz   2x100mm   337 mm 
@@ -1397,7 +1435,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    440.7l @  16.0Hz  =>  104.0dB  131W 110.6dB @  11.8Hz   2x100mm    37 mm 
 -------------
 S12L54                                 86.9dB  600W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.7dB --------------------------------------------------------------
    182.5l @  22.3Hz  =>  112.3dB  362W 114.5dB @  19.1Hz   2x100mm   190 mm 
@@ -1432,7 +1471,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    462.8l @  16.6Hz  =>  104.2dB   62W 114.1dB @  12.0Hz + 3x100mm    47 mm 
 -------------
 S12L72                                 87.3dB  750W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.4dB --------------------------------------------------------------
     63.0l @  31.5Hz  =>  119.4dB 3155W 113.2dB @  29.7Hz   2x100mm   503 mm 
@@ -1473,7 +1513,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    196.5l @  21.9Hz  =>  109.5dB  386W 112.4dB @  16.8Hz   2x100mm    91 mm 
 -------------
 S12L74                                 87.5dB  750W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.6dB --------------------------------------------------------------
     84.6l @  25.9Hz  =>  115.1dB  892W 114.3dB @  23.2Hz   2x100mm   448 mm 
@@ -1513,7 +1554,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    212.5l @  19.3Hz  =>  107.1dB  155W 113.9dB @  14.6Hz   2x100mm   116 mm 
 -------------
 S12X2                                  87.6dB 2500W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.5dB --------------------------------------------------------------
     37.6l @  36.3Hz  =>  127.4dB 19303W 118.5dB @  35.4Hz - 1x100mm   362 mm 
@@ -1557,7 +1599,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    119.6l @  25.1Hz  =>  117.3dB 2279W 117.7dB @  19.9Hz   2x100mm   169 mm 
 -------------
 S12X4                                  87.8dB 2500W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.6dB --------------------------------------------------------------
     67.8l @  31.8Hz  =>  123.8dB 4147W 121.6dB @  28.9Hz   2x100mm   377 mm 
@@ -1596,7 +1639,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    172.0l @  23.6Hz  =>  115.7dB  707W 121.2dB @  18.1Hz   2x100mm    86 mm 
 -------------
 S15C2                                  88.0dB  750W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.0dB --------------------------------------------------------------
    195.4l @  21.4Hz  =>  118.2dB 2092W 113.7dB @  21.4Hz   2x100mm   422 mm 
@@ -1636,7 +1680,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    619.5l @  14.8Hz  =>  108.2dB  248W 113.0dB @  12.0Hz   2x100mm    62 mm 
 -------------
 S15C4                                  88.0dB  750W                     2x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.2dB --------------------------------------------------------------
    228.6l @  21.0Hz  =>  117.5dB  845W 117.0dB @  20.5Hz   2x100mm   329 mm 
@@ -1674,7 +1719,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    581.4l @  15.5Hz  =>  109.4dB  143W 116.6dB @  12.9Hz   2x100mm    67 mm 
 -------------
 S15L3                                  90.3dB  500W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  90.0dB --------------------------------------------------------------
    205.7l @  24.6Hz  =>   97.0dB   10W 114.0dB @  24.6Hz   3x100mm   436 mm 
@@ -1711,7 +1757,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    653.7l @  17.0Hz  =>   86.9dB    1W 113.3dB @  13.8Hz   3x100mm    51 mm 
 -------------
 S15L52                                 87.6dB  750W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.4dB --------------------------------------------------------------
    354.3l @  17.6Hz  =>  115.0dB 1170W 113.1dB @  16.4Hz   3x100mm   363 mm 
@@ -1747,7 +1794,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
   1122.4l @  12.2Hz  =>  105.0dB  139W 112.3dB @   9.2Hz   3x100mm    28 mm 
 -------------
 S15L54                                 87.8dB  750W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  87.7dB --------------------------------------------------------------
    369.0l @  17.6Hz  =>  115.2dB  573W 116.4dB @  16.6Hz   3x100mm   363 mm 
@@ -1783,7 +1831,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    938.6l @  13.1Hz  =>  107.1dB   97W 116.0dB @  10.4Hz   3x100mm    66 mm 
 -------------
 S15L72                                 89.3dB 1000W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.1dB --------------------------------------------------------------
    225.2l @  23.3Hz  =>  119.5dB 2235W 116.0dB @  21.9Hz   3x100mm   327 mm 
@@ -1818,7 +1867,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    707.0l @  16.2Hz  =>  109.6dB  270W 115.3dB @  12.3Hz + 4x100mm    47 mm 
 -------------
 S15L74                                 89.4dB 1000W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.3dB --------------------------------------------------------------
    240.9l @  23.3Hz  =>  119.5dB 1051W 119.3dB @  21.8Hz   3x100mm   294 mm 
@@ -1852,7 +1902,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    608.1l @  17.4Hz  =>  111.5dB  181W 118.9dB @  13.7Hz   3x100mm    40 mm 
 -------------
 S18X2                                  89.7dB 5000W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.9dB --------------------------------------------------------------
    122.0l @  25.1Hz  =>  129.6dB 18511W 123.9dB @  26.8Hz - 2x100mm   671 mm 
@@ -1887,7 +1938,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    176.1l @  22.3Hz  =>  126.4dB 10584W 123.1dB @  22.3Hz   3x100mm   681 mm 
 -------------
 S18X4                                  89.6dB 5000W                     3x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.4dB --------------------------------------------------------------
    133.5l @  26.6Hz  =>  129.9dB 11273W 126.4dB @  27.4Hz   3x100mm   700 mm 
@@ -1927,7 +1979,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
    338.9l @  19.7Hz  =>  121.9dB 1921W 126.0dB @  17.2Hz   3x100mm   199 mm 
 -------------
 S8C2                                   83.0dB  300W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  80.9dB --------------------------------------------------------------
     21.6l @  28.1Hz  =>  104.6dB  466W 102.7dB @  25.3Hz   1x70mm    411 mm 
@@ -1955,7 +2008,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     67.9l @  19.5Hz  =>   94.6dB   56W 101.9dB @  14.3Hz   1x70mm     96 mm 
 -------------
 S8C4                                   83.0dB  300W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  82.6dB --------------------------------------------------------------
     28.8l @  30.2Hz  =>  104.9dB  172W 107.4dB @  25.8Hz   1x70mm    197 mm 
@@ -1983,7 +2037,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     72.8l @  22.5Hz  =>   96.9dB   30W 107.0dB @  16.2Hz   1x70mm     47 mm 
 -------------
 S8L72                                  82.5dB  450W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  82.2dB --------------------------------------------------------------
     24.2l @  31.4Hz  =>  108.7dB  894W 105.7dB @  26.6Hz   1x100mm   477 mm 
@@ -2011,7 +2066,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     75.3l @  21.8Hz  =>   98.9dB  110W 105.0dB @  15.1Hz   1x100mm   104 mm 
 -------------
 S8L74                                  83.6dB  450W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  83.5dB --------------------------------------------------------------
     30.3l @  32.8Hz  =>  108.9dB  354W 110.0dB @  27.0Hz   1x100mm   285 mm 

@@ -85,7 +85,7 @@ BEGIN{
         d  = dlist[di];
 
         printf("-------------\n%-37s %5.1fdB %4.0fW                    %8s\n",name, spl, pmax, dname[di]);
-        printf("Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv\n");
+        printf("Rpre   Spl\n      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv\n");
         printf("\n");
 
         vd = sd * 2 * xmax / 10;

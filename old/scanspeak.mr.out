@@ -83,6 +83,17 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (104.7dB   156W 100.5dB) @  61Hz
               (107.7dB   311W 100.5dB) @  73Hz
 -------------
+15W8434G00
+      86.9dB             60W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.0dB: (111.2dB   293W 104.4dB) @ 121Hz
+              (114.3dB   587W 104.4dB) @ 144Hz
+0.60  87.8dB: (110.2dB   245W 104.1dB) @ 114Hz
+              (113.2dB   491W 104.1dB) @ 136Hz
+1.00  87.5dB: (109.2dB   208W 103.8dB) @ 108Hz
+              (112.2dB   416W 103.8dB) @ 128Hz
+-------------
 18S8535-00
       86.0dB             70W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -102,20 +113,6 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (104.5dB   112W 102.5dB) @  57Hz
               (107.5dB   223W 102.5dB) @  68Hz
               (110.5dB   446W 102.5dB) @  81Hz
--------------
-18W8434G00
-      88.7dB             55W
-Rpre   Spl     SplMech Pmech SplEle      f3
-
-0.20  88.9dB: (108.3dB   122W 104.8dB) @  78Hz
-              (111.3dB   244W 104.8dB) @  93Hz
-              (114.3dB   487W 104.8dB) @ 110Hz
-0.60  88.7dB: (107.2dB   101W 104.5dB) @  73Hz
-              (110.2dB   203W 104.5dB) @  87Hz
-              (113.2dB   405W 104.5dB) @ 104Hz
-1.00  88.4dB: (106.1dB    85W 104.2dB) @  69Hz
-              (109.2dB   171W 104.2dB) @  82Hz
-              (112.2dB   342W 104.2dB) @  98Hz
 -------------
 18W8434G00
       88.7dB             55W

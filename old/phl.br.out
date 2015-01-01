@@ -1,6 +1,7 @@
 -------------
 b20-2002                               93.0dB  120W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  91.1dB --------------------------------------------------------------
     22.9l @  59.8Hz  =>  112.4dB  195W 110.3dB @  56.5Hz   1x70mm     63 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     62.4l @  43.4Hz  =>  103.7dB   30W 109.7dB @  34.2Hz + 2x100mm    67 mm 
 -------------
 B25-3002                               91.0dB  200W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  90.3dB --------------------------------------------------------------
     31.0l @  47.6Hz  =>  111.4dB  192W 111.6dB @  47.0Hz   1x100mm   246 mm 
@@ -56,7 +58,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     87.7l @  34.1Hz  =>  102.4dB   27W 111.0dB @  28.0Hz   1x100mm    40 mm 
 -------------
 1280                                   93.0dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  92.2dB --------------------------------------------------------------
      4.0l @  85.7Hz  =>  117.9dB  500W 111.0dB @ 120.2Hz - 1x50mm    630 mm 

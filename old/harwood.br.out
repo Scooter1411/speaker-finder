@@ -1,6 +1,7 @@
 -------------
 13 wxp-mg                              84.0dB   60W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.5dB --------------------------------------------------------------
      6.0l @  50.8Hz  =>  102.6dB  102W 100.3dB @  67.1Hz - 1x40mm    622 mm 
@@ -27,7 +28,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     17.6l @  35.9Hz  =>   93.2dB   14W  99.4dB @  39.1Hz   1x50mm    309 mm 
 -------------
 17 wxp-mg                              87.0dB   80W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.0dB --------------------------------------------------------------
      9.2l @  51.7Hz  =>  105.5dB  139W 103.1dB @  64.4Hz - 1x50mm    485 mm 
@@ -55,7 +57,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     31.1l @  35.0Hz  =>   94.9dB   15W 102.2dB @  35.0Hz   1x70mm    250 mm 
 -------------
 18 wxp kegel                           87.0dB   80W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.9dB --------------------------------------------------------------
     34.4l @  38.9Hz  =>   94.4dB   12W 102.8dB @  34.9Hz   1x50mm     40 mm 

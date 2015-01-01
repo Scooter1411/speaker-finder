@@ -1,6 +1,7 @@
 -------------
 BB_301                                 86.0dB   15W                      1x40mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.0dB --------------------------------------------------------------
      3.0l @  86.6Hz  =>   86.3dB    2W  94.5dB @  75.3Hz   1x40mm     71 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
      9.1l @  61.0Hz  =>   76.8dB    0W  93.6dB @  43.5Hz + 1x70mm     51 mm 
 -------------
 Omnes_MW_7.01                          88.0dB   80W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.6dB --------------------------------------------------------------
     34.8l @  37.9Hz  =>   99.6dB   28W 104.1dB @  34.0Hz   1x70mm    105 mm 
@@ -56,7 +58,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     84.2l @  28.6Hz  =>   91.9dB    5W 103.6dB @  21.9Hz + 1x100mm    58 mm 
 -------------
 Omnes_MW_5W                            85.0dB   60W                      1x50mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  88.4dB --------------------------------------------------------------
     12.2l @  55.5Hz  =>  102.1dB   36W 104.3dB @  56.0Hz   1x50mm    123 mm 
@@ -84,7 +87,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     34.8l @  39.7Hz  =>   93.0dB    5W 103.7dB @  33.2Hz + 1x70mm     59 mm 
 -------------
 Omnes_MW_6W                            85.0dB   80W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  90.3dB --------------------------------------------------------------
     17.3l @  53.3Hz  =>  109.4dB  103W 108.3dB @  58.9Hz   1x70mm    282 mm 
@@ -112,7 +116,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     46.9l @  38.7Hz  =>  100.7dB   16W 107.8dB @  35.8Hz   1x70mm     72 mm 
 -------------
 Omnes_MW_8W                            85.0dB  100W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  89.1dB --------------------------------------------------------------
     14.3l @  49.3Hz  =>  112.7dB  314W 107.7dB @  58.4Hz   1x70mm    552 mm 
@@ -140,7 +145,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     39.7l @  35.5Hz  =>  103.8dB   46W 107.2dB @  35.0Hz   1x70mm    165 mm 
 -------------
 MW146                                  86.1dB   35W                      1x40mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.0dB --------------------------------------------------------------
      8.3l @  52.8Hz  =>   99.7dB   32W 100.2dB @  54.4Hz   1x40mm    152 mm 

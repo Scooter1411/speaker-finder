@@ -1,6 +1,7 @@
 -------------
 XTR-08                                 85.0dB  250W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.9dB --------------------------------------------------------------
      7.0l @  51.7Hz  =>  123.5dB 6387W 109.4dB @  56.6Hz - 1x50mm    395 mm 
@@ -28,7 +29,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     18.2l @  38.1Hz  =>  115.1dB 1042W 108.9dB @  35.1Hz   1x70mm    273 mm 
 -------------
 XTR-10                                 85.0dB  350W                     1x100mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.6dB --------------------------------------------------------------
     29.4l @  29.8Hz  =>  118.7dB 2290W 110.6dB @  33.7Hz - 1x70mm    625 mm 
@@ -54,7 +56,8 @@ Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv     
     61.2l @  23.6Hz  =>  112.4dB  587W 110.1dB @  23.4Hz   1x100mm   591 mm 
 -------------
 XTR-12                                 85.0dB  250W                      1x70mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  85.9dB --------------------------------------------------------------
      7.0l @  51.7Hz  =>  123.5dB 6387W 109.4dB @  56.6Hz - 1x50mm    395 mm 

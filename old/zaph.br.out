@@ -1,6 +1,7 @@
 -------------
 ZA14W08                                87.0dB   60W                      1x40mm
-Rpre   Spl         Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
+Rpre   Spl
+      Vb      fb         SplMech Pmech  SplEle     f3       dv       lv
 
 0.20  86.0dB --------------------------------------------------------------
      5.7l @  64.1Hz  =>  100.3dB   31W 103.2dB @  63.2Hz   1x40mm    123 mm 
