@@ -13,6 +13,18 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (101.7dB   243W  96.9dB) @  50Hz
               (104.7dB   485W  96.9dB) @  59Hz
 -------------
+c16n001/f
+      84.1dB             80W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  83.7dB: (104.2dB   282W  98.7dB) @  57Hz
+              (107.2dB   564W  98.7dB) @  68Hz
+0.60  83.2dB: (102.6dB   217W  98.2dB) @  52Hz
+              (105.6dB   435W  98.2dB) @  62Hz
+1.00  82.7dB: (101.1dB   173W  97.8dB) @  48Hz
+              (104.1dB   346W  97.8dB) @  57Hz
+              (107.1dB   691W  97.8dB) @  68Hz
+-------------
 m15ch002
       88.0dB             70W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -161,18 +173,6 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (105.1dB   139W 101.5dB) @  81Hz
               (108.1dB   277W 101.5dB) @  96Hz
               (111.1dB   555W 101.5dB) @ 114Hz
--------------
-c16n001/f
-      84.1dB             80W
-Rpre   Spl     SplMech Pmech SplEle      f3
-
-0.20  83.7dB: (104.2dB   282W  98.7dB) @  57Hz
-              (107.2dB   564W  98.7dB) @  68Hz
-0.60  83.2dB: (102.6dB   217W  98.2dB) @  52Hz
-              (105.6dB   435W  98.2dB) @  62Hz
-1.00  82.7dB: (101.1dB   173W  97.8dB) @  48Hz
-              (104.1dB   346W  97.8dB) @  57Hz
-              (107.1dB   691W  97.8dB) @  68Hz
 -------------
 w17e002
       87.0dB            100W
