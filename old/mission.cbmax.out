@@ -1,0 +1,31 @@
+-------------
+CP-168
+-------------
+ 89.0dB             4.2l (1.1)                40W
+SplMech  Pmech SplEle     f3
+
+ 86.5dB    51W  85.5dB @  26Hz   19
+ 87.8dB    51W  86.7dB @  28Hz   18
+            2W  75.9dB @  30Hz 
+            3W  76.9dB @  30Hz 
+            4W  77.9dB @  30Hz 
+            5W  78.9dB @  30Hz 
+            6W  79.9dB @  30Hz 
+            8W  80.9dB @  30Hz 
+           10W  81.9dB @  30Hz 
+           13W  82.9dB @  30Hz 
+           16W  83.9dB @  30Hz 
+           20W  84.9dB @  30Hz 
+           25W  85.9dB @  30Hz 
+           32W  86.9dB @  30Hz 
+           40W  87.9dB @  30Hz 
+ 89.0dB    51W  87.9dB @  30Hz   17
+ 90.1dB    51W  89.1dB @  32Hz   16
+ 91.2dB    51W  90.1dB @  34Hz   15
+ 92.2dB    51W  91.1dB @  36Hz   14
+ 93.1dB    51W  92.0dB @  38Hz   13
+ 94.0dB    51W  92.9dB @  40Hz   12
+ 94.8dB    51W  93.8dB @  42Hz   11
+ 95.6dB    51W  94.6dB @  44Hz   10
+ 96.4dB    51W  95.3dB @  46Hz    9
+ 97.2dB    51W  96.1dB @  48Hz    9

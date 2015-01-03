@@ -1,0 +1,33 @@
+-------------
+EW 638
+-------------
+ 87.0dB             2.0l (1.1)               150W
+SplMech  Pmech SplEle     f3
+
+ 92.3dB   568W  86.6dB @  28Hz   20
+            5W  72.7dB @  30Hz 
+            6W  73.7dB @  30Hz 
+            7W  74.7dB @  30Hz 
+            9W  75.7dB @  30Hz 
+           12W  76.7dB @  30Hz 
+           15W  77.7dB @  30Hz 
+           19W  78.7dB @  30Hz 
+           24W  79.7dB @  30Hz 
+           30W  80.7dB @  30Hz 
+           37W  81.7dB @  30Hz 
+           47W  82.7dB @  30Hz 
+           60W  83.7dB @  30Hz 
+           75W  84.7dB @  30Hz 
+           94W  85.8dB @  30Hz 
+          119W  86.8dB @  30Hz 
+          150W  87.8dB @  30Hz 
+ 93.5dB   568W  87.8dB @  30Hz   19
+ 94.7dB   569W  88.9dB @  32Hz   17
+ 95.7dB   569W  89.9dB @  34Hz   16
+ 96.7dB   570W  90.9dB @  36Hz   15
+ 97.6dB   570W  91.9dB @  38Hz   14
+ 98.5dB   571W  92.7dB @  40Hz   14
+ 99.4dB   571W  93.6dB @  42Hz   13
+100.2dB   571W  94.4dB @  44Hz   12
+101.0dB   572W  95.2dB @  46Hz   11
+101.7dB   572W  95.9dB @  48Hz   10
