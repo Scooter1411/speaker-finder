@@ -5,3 +5,25 @@ Sica LP 208.38/1100
 SplMech  Pmech SplEle     f3
 
  91.2dB    66W  93.0dB @  48Hz   20
+ 92.6dB    66W  94.4dB @  52Hz   18
+ 93.9dB    66W  95.7dB @  56Hz   17
+ 95.1dB    67W  96.9dB @  60Hz   16
+ 96.2dB    67W  98.0dB @  64Hz   15
+ 97.3dB    67W  99.1dB @  68Hz   14
+ 98.3dB    67W 100.0dB @  72Hz   13
+ 99.2dB    67W 101.0dB @  76Hz   12
+            3W  86.8dB @  80Hz 
+            4W  87.8dB @  80Hz 
+            5W  88.8dB @  80Hz 
+            6W  89.8dB @  80Hz 
+            8W  90.8dB @  80Hz 
+           10W  91.8dB @  80Hz 
+           12W  92.8dB @  80Hz 
+           16W  93.8dB @  80Hz 
+           20W  94.8dB @  80Hz 
+           25W  95.8dB @  80Hz 
+           31W  96.9dB @  80Hz 
+           40W  97.9dB @  80Hz 
+           50W  98.9dB @  80Hz 
+           63W  99.9dB @  80Hz 
+100.1dB    67W 101.9dB @  80Hz   11

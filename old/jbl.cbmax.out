@@ -4,9 +4,54 @@
  97.0dB             1.6l (1.1)               100W
 SplMech  Pmech SplEle     f3
 
+103.6dB  1034W  93.5dB @  56Hz   20
+104.8dB  1035W  94.7dB @  60Hz   19
+105.9dB  1036W  95.8dB @  64Hz   18
+107.0dB  1037W  96.8dB @  68Hz   17
+108.0dB  1037W  97.8dB @  72Hz   16
+108.9dB  1038W  98.8dB @  76Hz   15
+            3W  84.6dB @  80Hz 
+            4W  85.6dB @  80Hz 
+            5W  86.6dB @  80Hz 
+            6W  87.6dB @  80Hz 
+            8W  88.6dB @  80Hz 
+           10W  89.6dB @  80Hz 
+           12W  90.6dB @  80Hz 
+           16W  91.6dB @  80Hz 
+           20W  92.6dB @  80Hz 
+           25W  93.6dB @  80Hz 
+           31W  94.6dB @  80Hz 
+           40W  95.6dB @  80Hz 
+           50W  96.6dB @  80Hz 
+           63W  97.6dB @  80Hz 
+           79W  98.6dB @  80Hz 
+          100W  99.7dB @  80Hz 
+109.8dB  1039W  99.7dB @  80Hz   14
 -------------
 2118J
 -------------
  97.0dB             1.6l (1.1)               100W
 SplMech  Pmech SplEle     f3
 
+104.8dB   575W  97.2dB @  60Hz   19
+105.9dB   575W  98.3dB @  64Hz   18
+107.0dB   576W  99.4dB @  68Hz   17
+108.0dB   576W 100.4dB @  72Hz   16
+108.9dB   577W 101.3dB @  76Hz   15
+            3W  87.2dB @  80Hz 
+            4W  88.2dB @  80Hz 
+            5W  89.2dB @  80Hz 
+            6W  90.2dB @  80Hz 
+            8W  91.2dB @  80Hz 
+           10W  92.2dB @  80Hz 
+           12W  93.2dB @  80Hz 
+           16W  94.2dB @  80Hz 
+           20W  95.2dB @  80Hz 
+           25W  96.2dB @  80Hz 
+           31W  97.2dB @  80Hz 
+           40W  98.2dB @  80Hz 
+           50W  99.2dB @  80Hz 
+           63W 100.2dB @  80Hz 
+           79W 101.2dB @  80Hz 
+          100W 102.2dB @  80Hz 
+109.8dB   577W 102.2dB @  80Hz   14
