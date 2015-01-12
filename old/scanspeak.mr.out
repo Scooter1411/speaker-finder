@@ -256,11 +256,9 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (114.3dB   671W 105.1dB) @  58Hz
 -------------
 30W4558T00
-      89.0dB            350W
+      89.0dB            150W
 Rpre   Spl     SplMech Pmech SplEle      f3
 
-0.20  86.1dB: (114.4dB  2097W 106.6dB) @  35Hz
-0.60  85.5dB: (112.2dB  1460W 106.0dB) @  31Hz
-              (115.2dB  2920W 106.0dB) @  37Hz
-1.00  85.0dB: (110.4dB  1065W 105.5dB) @  28Hz
-              (113.4dB  2131W 105.5dB) @  33Hz
+0.20  86.1dB: (114.4dB  2097W 102.9dB) @  35Hz
+0.60  85.5dB: (112.2dB  1460W 102.4dB) @  31Hz
+1.00  85.0dB: (110.4dB  1065W 101.8dB) @  28Hz

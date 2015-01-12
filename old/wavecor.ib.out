@@ -1,4 +1,14 @@
 -------------
+SW310WA01
+                    85.0dB           250W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.63  32Hz  85.4dB  113.1dB  588W  109.4dB
+-------------
+SW310WA02
+                    89.0dB           250W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.57  35Hz  85.4dB  114.6dB  839W  109.4dB
+-------------
 SW319WA02
                     90.5dB           250W
          qts   f3   Spl     SplMech Pmech  SplEle  

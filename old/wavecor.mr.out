@@ -174,6 +174,25 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 0.60  81.9dB: (108.6dB  1168W  99.6dB) @  40Hz
 1.00  81.4dB: (106.9dB   879W  99.2dB) @  36Hz
 -------------
+SW223BD02
+      83.0dB            150W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  81.2dB: (108.8dB  1318W  99.4dB) @  39Hz
+0.60  80.8dB: (107.1dB   985W  99.0dB) @  36Hz
+1.00  80.4dB: (105.6dB   758W  98.6dB) @  33Hz
+-------------
+SW223BD03
+      81.0dB            150W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  81.3dB: (107.8dB   590W 101.8dB) @  37Hz
+              (110.8dB  1181W 101.8dB) @  44Hz
+0.60  81.0dB: (106.7dB   495W 101.5dB) @  35Hz
+              (109.7dB   991W 101.5dB) @  41Hz
+1.00  80.8dB: (105.7dB   420W 101.3dB) @  33Hz
+              (108.8dB   840W 101.3dB) @  39Hz
+-------------
 SW263WA01
       84.0dB            200W
 Rpre   Spl     SplMech Pmech SplEle      f3
@@ -202,6 +221,29 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (112.0dB  1445W 102.2dB) @  40Hz
 1.00  84.0dB: (107.4dB   553W 101.8dB) @  30Hz
               (110.4dB  1107W 101.8dB) @  36Hz
+-------------
+SW310WA01
+      85.0dB            250W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  85.4dB: (112.7dB   682W 108.3dB) @  32Hz
+              (115.7dB  1364W 108.3dB) @  38Hz
+0.60  85.1dB: (111.7dB   577W 108.1dB) @  30Hz
+              (114.7dB  1154W 108.1dB) @  36Hz
+              (117.7dB  2307W 108.1dB) @  42Hz
+1.00  84.9dB: (110.8dB   493W 107.8dB) @  28Hz
+              (113.8dB   986W 107.8dB) @  34Hz
+              (116.8dB  1971W 107.8dB) @  40Hz
+-------------
+SW310WA02
+      89.0dB            250W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  85.4dB: (113.7dB  1696W 105.4dB) @  34Hz
+0.60  84.9dB: (111.8dB  1237W 104.9dB) @  30Hz
+              (114.8dB  2474W 104.9dB) @  36Hz
+1.00  84.5dB: (110.2dB   933W 104.4dB) @  27Hz
+              (113.2dB  1865W 104.4dB) @  33Hz
 -------------
 SW319WA01
       90.5dB            250W

@@ -75,6 +75,32 @@ SW182BD02
  30.0 Hz  57 Hz  108 Hz   96.9 dB    7 l +   5 l    1x70mm    701 mm   575 µF
 
 -------------
+SW223BD03
+            81.0dB           150W       1x70mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 10.9 Hz  25 Hz   57 Hz   86.5 dB   oo l +  12 l  - 1x50mm    750 mm  2044 µF
+ 11.0 Hz  25 Hz   58 Hz   86.7 dB 1953 l +  12 l  - 1x50mm    739 mm  2015 µF
+ 12.0 Hz  27 Hz   59 Hz   88.2 dB  201 l +  12 l  - 1x50mm    653 mm  1794 µF
+ 13.0 Hz  28 Hz   61 Hz   89.6 dB  105 l +  12 l  - 1x50mm    583 mm  1613 µF
+ 14.0 Hz  30 Hz   62 Hz   90.9 dB   70 l +  12 l  - 1x50mm    525 mm  1461 µF
+ 15.0 Hz  31 Hz   64 Hz   92.1 dB   52 l +  12 l  - 1x50mm    475 mm  1332 µF
+ 16.0 Hz  32 Hz   65 Hz   93.2 dB   42 l +  12 l  - 1x50mm    433 mm  1223 µF
+ 17.0 Hz  34 Hz   67 Hz   94.2 dB   34 l +  12 l    1x70mm    798 mm  1128 µF
+ 18.0 Hz  35 Hz   68 Hz   95.2 dB   29 l +  12 l    1x70mm    736 mm  1045 µF
+ 19.0 Hz  36 Hz   69 Hz   96.2 dB   25 l +  12 l    1x70mm    680 mm   972 µF
+ 20.0 Hz  38 Hz   70 Hz   97.1 dB   22 l +  12 l    1x70mm    632 mm   908 µF
+ 21.0 Hz  39 Hz   71 Hz   97.9 dB   20 l +  12 l    1x70mm    588 mm   851 µF
+ 22.0 Hz  40 Hz   73 Hz   98.7 dB   18 l +  12 l    1x70mm    550 mm   800 µF
+ 23.0 Hz  41 Hz   74 Hz   99.5 dB   16 l +  12 l    1x70mm    515 mm   754 µF
+ 24.0 Hz  42 Hz   75 Hz  100.2 dB   15 l +  12 l    1x70mm    483 mm   712 µF
+ 25.0 Hz  44 Hz   76 Hz  100.9 dB   14 l +  12 l    1x70mm    455 mm   674 µF
+ 26.0 Hz  45 Hz   77 Hz  101.6 dB   13 l +  12 l    1x70mm    429 mm   640 µF
+ 27.0 Hz  46 Hz   78 Hz  102.3 dB   12 l +  12 l    1x70mm    405 mm   609 µF
+ 28.0 Hz  47 Hz   79 Hz  102.9 dB   11 l +  12 l    1x70mm    383 mm   580 µF
+ 29.0 Hz  48 Hz   80 Hz  103.5 dB   10 l +  12 l    1x70mm    363 mm   553 µF
+ 30.0 Hz  49 Hz   81 Hz  104.1 dB   10 l +  12 l    1x70mm    345 mm   529 µF
+
+-------------
 SW263WA01
             84.0dB           200W      1x100mm
    fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
@@ -127,6 +153,28 @@ SW270WA01
  28.0 Hz  47 Hz   79 Hz  106.0 dB   26 l +  27 l    1x100mm   318 mm  1087 µF
  29.0 Hz  48 Hz   80 Hz  106.6 dB   25 l +  27 l    1x100mm   299 mm  1037 µF
  30.0 Hz  49 Hz   80 Hz  107.2 dB   23 l +  27 l    1x100mm   283 mm   991 µF
+
+-------------
+SW310WA01
+            85.0dB           250W      2x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 14.3 Hz  28 Hz   57 Hz   98.8 dB   oo l +  48 l  - 1x100mm   520 mm  1285 µF
+ 15.0 Hz  29 Hz   58 Hz   99.7 dB  981 l +  48 l  - 1x100mm   483 mm  1206 µF
+ 16.0 Hz  31 Hz   59 Hz  100.8 dB  399 l +  48 l  - 1x100mm   437 mm  1106 µF
+ 17.0 Hz  32 Hz   60 Hz  101.8 dB  249 l +  48 l  - 1x100mm   397 mm  1021 µF
+ 18.0 Hz  33 Hz   61 Hz  102.8 dB  180 l +  48 l    2x100mm   765 mm   946 µF
+ 19.0 Hz  34 Hz   62 Hz  103.8 dB  140 l +  48 l    2x100mm   704 mm   880 µF
+ 20.0 Hz  36 Hz   64 Hz  104.7 dB  114 l +  48 l    2x100mm   650 mm   822 µF
+ 21.0 Hz  37 Hz   65 Hz  105.5 dB   96 l +  48 l    2x100mm   602 mm   770 µF
+ 22.0 Hz  38 Hz   66 Hz  106.3 dB   83 l +  48 l    2x100mm   559 mm   724 µF
+ 23.0 Hz  39 Hz   67 Hz  107.1 dB   73 l +  48 l    2x100mm   520 mm   682 µF
+ 24.0 Hz  40 Hz   67 Hz  107.8 dB   65 l +  48 l    2x100mm   485 mm   644 µF
+ 25.0 Hz  41 Hz   68 Hz  108.5 dB   58 l +  48 l    2x100mm   454 mm   610 µF
+ 26.0 Hz  42 Hz   69 Hz  109.2 dB   53 l +  48 l    2x100mm   425 mm   579 µF
+ 27.0 Hz  44 Hz   70 Hz  109.9 dB   48 l +  48 l    2x100mm   399 mm   551 µF
+ 28.0 Hz  45 Hz   71 Hz  110.5 dB   44 l +  48 l    2x100mm   374 mm   525 µF
+ 29.0 Hz  46 Hz   72 Hz  111.1 dB   41 l +  48 l    2x100mm   352 mm   501 µF
+ 30.0 Hz  47 Hz   73 Hz  111.7 dB   38 l +  48 l    2x100mm   332 mm   479 µF
 
 -------------
 SW319WA01
