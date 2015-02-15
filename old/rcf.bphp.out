@@ -226,3 +226,28 @@ LF21N551
  29.0 Hz  60 Hz  123 Hz  120.9 dB  104 l +  44 l    4x100mm   441 mm   795 µF
  30.0 Hz  61 Hz  125 Hz  121.4 dB   97 l +  44 l    4x100mm   414 mm   759 µF
 
+-------------
+LF15G401
+            97.0dB           800W      2x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 11.8 Hz  36 Hz  110 Hz   94.3 dB   oo l +  20 l  * 1x70mm    380 mm  3119 µF
+ 12.0 Hz  36 Hz  110 Hz   94.5 dB 7351 l +  20 l  - 1x100mm   793 mm  3057 µF
+ 13.0 Hz  38 Hz  113 Hz   95.9 dB 1108 l +  20 l  - 1x100mm   704 mm  2747 µF
+ 14.0 Hz  40 Hz  116 Hz   97.2 dB  592 l +  20 l  - 1x100mm   630 mm  2489 µF
+ 15.0 Hz  42 Hz  119 Hz   98.4 dB  401 l +  20 l  - 1x100mm   568 mm  2270 µF
+ 16.0 Hz  44 Hz  121 Hz   99.5 dB  302 l +  20 l  - 1x100mm   515 mm  2083 µF
+ 17.0 Hz  46 Hz  124 Hz  100.6 dB  241 l +  20 l  - 1x100mm   468 mm  1921 µF
+ 18.0 Hz  48 Hz  126 Hz  101.6 dB  199 l +  20 l  - 1x100mm   428 mm  1780 µF
+ 19.0 Hz  49 Hz  128 Hz  102.5 dB  170 l +  20 l  - 1x100mm   393 mm  1656 µF
+ 20.0 Hz  51 Hz  131 Hz  103.4 dB  148 l +  20 l    2x100mm   765 mm  1547 µF
+ 21.0 Hz  53 Hz  133 Hz  104.3 dB  130 l +  20 l    2x100mm   710 mm  1449 µF
+ 22.0 Hz  54 Hz  135 Hz  105.1 dB  116 l +  20 l    2x100mm   660 mm  1362 µF
+ 23.0 Hz  56 Hz  137 Hz  105.8 dB  105 l +  20 l    2x100mm   616 mm  1284 µF
+ 24.0 Hz  58 Hz  139 Hz  106.6 dB   95 l +  20 l    2x100mm   576 mm  1213 µF
+ 25.0 Hz  59 Hz  141 Hz  107.3 dB   87 l +  20 l    2x100mm   539 mm  1149 µF
+ 26.0 Hz  61 Hz  143 Hz  108.0 dB   81 l +  20 l    2x100mm   506 mm  1090 µF
+ 27.0 Hz  62 Hz  144 Hz  108.6 dB   75 l +  20 l    2x100mm   476 mm  1037 µF
+ 28.0 Hz  64 Hz  146 Hz  109.3 dB   70 l +  20 l    2x100mm   448 mm   988 µF
+ 29.0 Hz  65 Hz  148 Hz  109.9 dB   65 l +  20 l    2x100mm   422 mm   942 µF
+ 30.0 Hz  67 Hz  150 Hz  110.5 dB   61 l +  20 l    2x100mm   398 mm   901 µF
+

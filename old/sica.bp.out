@@ -1,5 +1,5 @@
 -------------
-Sica LP 208.38/1100
+LP 208.38/1100
             94.9dB           100W       1x70mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
  44.1Hz  92Hz  191Hz   89.8dB   23l +   4l  * 1x40mm   1001mm
@@ -23,3 +23,47 @@ Sica LP 208.38/1100
  64.2Hz 144Hz  323Hz   96.3dB    6l +   2l  * 1x40mm    795mm
  70.6Hz 152Hz  329Hz   97.9dB    5l +   2l  * 1x40mm    708mm
  77.6Hz 161Hz  336Hz   99.6dB    4l +   2l  * 1x40mm    631mm
+-------------
+8L 2SL
+            94.6dB           150W       1x70mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 44.4Hz  92Hz  192Hz  100.1dB   18l +   3l  * 1x40mm   1271mm
+ 48.8Hz  98Hz  197Hz  101.8dB   15l +   3l  * 1x40mm   1133mm
+ 53.5Hz 104Hz  201Hz  103.3dB   12l +   3l  * 1x40mm   1009mm
+ 58.5Hz 110Hz  206Hz  104.9dB   10l +   3l  * 1x40mm    900mm
+ 64.0Hz 116Hz  212Hz  106.5dB    8l +   3l  * 1x40mm    802mm
+ 69.8Hz 123Hz  218Hz  108.0dB    7l +   3l  * 1x40mm    715mm
+ 76.1Hz 131Hz  224Hz  109.5dB    6l +   3l  * 1x40mm    637mm
+ 82.9Hz 138Hz  231Hz  111.0dB    5l +   3l  * 1x40mm    568mm
+ 44.4Hz 108Hz  192Hz  100.1dB   10l +   3l  * 1x40mm   1271mm
+ 48.8Hz 114Hz  197Hz  101.8dB    9l +   3l  * 1x40mm   1132mm
+ 53.5Hz 121Hz  201Hz  103.3dB    7l +   3l  * 1x40mm   1009mm
+ 58.5Hz 128Hz  206Hz  104.9dB    6l +   3l  * 1x40mm    900mm
+ 64.0Hz 136Hz  212Hz  106.5dB    5l +   3l  * 1x40mm    802mm
+ 69.8Hz 144Hz  218Hz  108.0dB    5l +   3l  * 1x40mm    715mm
+ 76.1Hz 152Hz  224Hz  109.5dB    4l +   3l  * 1x40mm    637mm
+ 82.9Hz 161Hz  231Hz  111.0dB    3l +   3l  * 1x40mm    568mm
+ 53.3Hz 129Hz  314Hz  103.3dB    6l +   2l  * 1x40mm   1271mm
+ 58.8Hz 137Hz  320Hz  105.0dB    5l +   2l  * 1x40mm   1133mm
+ 64.8Hz 145Hz  326Hz  106.7dB    4l +   2l  * 1x40mm   1010mm
+ 71.3Hz 154Hz  332Hz  108.3dB    4l +   2l  * 1x40mm    900mm
+ 78.3Hz 163Hz  339Hz  110.0dB    3l +   2l  * 1x40mm    802mm
+-------------
+8N 2.5 PL
+            96.4dB           250W       1x70mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 53.8Hz 112Hz  233Hz  104.1dB   14l +   3l  * 1x40mm   1175mm
+ 59.0Hz 118Hz  238Hz  105.7dB   11l +   3l  * 1x40mm   1047mm
+ 64.7Hz 125Hz  243Hz  107.3dB    9l +   3l  * 1x40mm    933mm
+ 70.8Hz 133Hz  250Hz  108.9dB    7l +   3l  * 1x40mm    832mm
+ 77.4Hz 141Hz  256Hz  110.4dB    6l +   3l  * 1x40mm    741mm
+ 84.5Hz 149Hz  263Hz  111.9dB    5l +   3l  * 1x40mm    661mm
+ 53.8Hz 130Hz  233Hz  104.1dB    8l +   2l  * 1x40mm   1175mm
+ 59.0Hz 138Hz  238Hz  105.7dB    7l +   2l  * 1x40mm   1047mm
+ 64.7Hz 146Hz  243Hz  107.3dB    6l +   2l  * 1x40mm    933mm
+ 70.8Hz 155Hz  250Hz  108.9dB    5l +   2l  * 1x40mm    832mm
+ 77.4Hz 164Hz  256Hz  110.4dB    4l +   2l  * 1x40mm    741mm
+ 84.5Hz 174Hz  263Hz  111.9dB    3l +   2l  * 1x40mm    661mm
+ 64.5Hz 157Hz  380Hz  107.3dB    5l +   1l  * 1x40mm   1175mm
+ 71.1Hz 166Hz  387Hz  109.0dB    4l +   1l  * 1x40mm   1047mm
+ 78.4Hz 176Hz  394Hz  110.6dB    3l +   1l  * 1x40mm    933mm

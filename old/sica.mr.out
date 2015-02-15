@@ -1,5 +1,5 @@
 -------------
-Sica LP 208.38/1100
+LP 208.38/1100
       94.9dB            100W
 Rpre   Spl     SplMech Pmech SplEle      f3
 
@@ -18,3 +18,24 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (114.5dB   171W 112.2dB) @ 183Hz
               (117.5dB   341W 112.2dB) @ 218Hz
               (120.5dB   682W 112.2dB) @ 259Hz
+-------------
+8L 2SL
+      94.6dB            150W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  93.1dB: (120.5dB   720W 113.7dB) @ 144Hz
+              (123.5dB  1440W 113.7dB) @ 171Hz
+0.60  92.9dB: (119.6dB   617W 113.4dB) @ 136Hz
+              (122.6dB  1235W 113.4dB) @ 162Hz
+1.00  92.6dB: (118.7dB   535W 113.2dB) @ 129Hz
+              (121.7dB  1070W 113.2dB) @ 154Hz
+-------------
+8N 2.5 PL
+      96.4dB            250W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  94.5dB: (124.5dB  1421W 116.9dB) @ 174Hz
+0.60  94.2dB: (123.4dB  1188W 116.6dB) @ 163Hz
+              (126.4dB  2376W 116.6dB) @ 194Hz
+1.00  93.9dB: (122.4dB  1005W 116.3dB) @ 154Hz
+              (125.4dB  2011W 116.3dB) @ 183Hz

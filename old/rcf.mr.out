@@ -106,3 +106,13 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 1.00  91.3dB: (113.9dB   238W 112.4dB) @  89Hz
               (116.9dB   476W 112.4dB) @ 105Hz
               (119.9dB   952W 112.4dB) @ 125Hz
+-------------
+LF15G401
+      97.0dB            800W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  95.8dB: (130.2dB  4634W 122.6dB) @  94Hz
+0.60  95.5dB: (129.0dB  3730W 122.3dB) @  87Hz
+              (132.0dB  7459W 122.3dB) @ 103Hz
+1.00  95.2dB: (127.8dB  3052W 122.0dB) @  81Hz
+              (130.8dB  6104W 122.0dB) @  97Hz
