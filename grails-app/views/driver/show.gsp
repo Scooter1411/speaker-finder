@@ -23,11 +23,31 @@
 			</g:if>
 			<ol class="property-list driver">
 			
+				<g:if test="${driverInstance?.company}">
+				<li class="fieldcontain">
+					<span id="company-label" class="property-label"><g:message code="driver.company.label" default="Company" /></span>
+					
+						<span class="property-value" aria-labelledby="company-label"><g:fieldValue bean="${driverInstance}" field="company"/></span>
+					
+				</li>
+				</g:if>
+			
 				<g:if test="${driverInstance?.name}">
 				<li class="fieldcontain">
 					<span id="name-label" class="property-label"><g:message code="driver.name.label" default="Name" /></span>
 					
 						<span class="property-value" aria-labelledby="name-label"><g:fieldValue bean="${driverInstance}" field="name"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${driverInstance?.parameterSets}">
+				<li class="fieldcontain">
+					<span id="parameterSets-label" class="property-label"><g:message code="driver.parameterSets.label" default="Parameter Sets" /></span>
+					
+						<g:each in="${driverInstance.parameterSets}" var="p">
+						<span class="property-value" aria-labelledby="parameterSets-label"><g:link controller="parameterSet" action="show" id="${p.id}">${p?.encodeAsHTML()}</g:link></span>
+						</g:each>
 					
 				</li>
 				</g:if>
