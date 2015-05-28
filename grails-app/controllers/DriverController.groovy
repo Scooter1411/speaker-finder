@@ -6,9 +6,12 @@ import grails.transaction.Transactional
 @Transactional(readOnly = true)
 class DriverController {
 
+    def driverService
+
     static allowedMethods = [save: "POST", update: "PUT", delete: "DELETE"]
 
     def index(Integer max) {
+        driverService.importOld()
         params.max = Math.min(max ?: 10, 100)
         respond Driver.list(params), model:[driverInstanceCount: Driver.count()]
     }

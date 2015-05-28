@@ -101,24 +101,43 @@ environments {
 
 // log4j configuration
 log4j = {
-    // Example of changing the log pattern for the default console appender:
-    //
-    //appenders {
-    //    console name:'stdout', layout:pattern(conversionPattern: '%c{2} %m%n')
-    //}
-
-    error  'org.codehaus.groovy.grails.web.servlet',        // controllers
-           'org.codehaus.groovy.grails.web.pages',          // GSP
-           'org.codehaus.groovy.grails.web.sitemesh',       // layouts
-           'org.codehaus.groovy.grails.web.mapping.filter', // URL mapping
-           'org.codehaus.groovy.grails.web.mapping',        // URL mapping
-           'org.codehaus.groovy.grails.commons',            // core / classloading
-           'org.codehaus.groovy.grails.plugins',            // plugins
-           'org.codehaus.groovy.grails.orm.hibernate',      // hibernate integration
-           'org.springframework',
-           'org.hibernate',
-           'net.sf.ehcache.hibernate'
+        appenders {
+            console name:'stdout', layout:pattern(conversionPattern: '%d %5p [%r] %c{2} %m%n')
+            rollingFile name: 'logfile', file: 'logs/sight.log', maxFileSize: 26214400, maxBackupIndex: 3, layout: pattern(conversionPattern: '%d{yyyy-MM-dd HH:mm:ss,SSS} %p %c{2} %m%n')
+        }
+        root {
+            info 'logfile','stdout'
+        }
+        trace  'org.grails.mail',
+               'com.sun.mail.smtp'
+        
+        error  'org.codehaus.groovy.grails.web.servlet', 
+               'org.codehaus.groovy.grails.web.pages',
+               'org.codehaus.groovy.grails.web.sitemesh',
+               'org.codehaus.groovy.grails.web.mapping.filter',
+               'org.codehaus.groovy.grails.web.mapping',
+               'org.codehaus.groovy.grails.commons',
+               'org.codehaus.groovy.grails.plugins',
+               'org.codehaus.groovy.grails.orm.hibernate',
+               'org.hibernate',
+               'grails.app.taglib',
+               'net.sf.ehcache.hibernate'    
+    
+        warn   'org.mortbay.log',
+               'org.springframework',
+               'org.compass'
+                
+        debug  'org.codehaus.groovy.grails.plugins.searchable',
+               'grails.app.conf',
+               'grails.app.controllers',
+               'grails.app.services',
+               'grails.app.domain',
+               'grails.app.filters',
+               'grails.app.jobs',
+               'grails.app.task',
+               'com.cimpa'
 }
+
 
 
 // Added by the Spring Security Core plugin:
