@@ -1,8 +1,19 @@
 -------------
-sph8xtb
-                    87.0dB            80W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.56  44Hz  86.9dB  109.4dB  178W  105.9dB
+sph200tc
+                    88.0dB            90W
+  R||    qts   f3   Spl     SplMech Pmech  SplEle  
+-------------
+sph200ctc
+                    88.0dB            90W
+  R||    qts   f3   Spl     SplMech Pmech  SplEle  
+-------------
+sph250tc
+                    91.0dB           150W
+  R||    qts   f3   Spl     SplMech Pmech  SplEle  
+-------------
+sph250ctc
+                    91.0dB           150W
+  R||    qts   f3   Spl     SplMech Pmech  SplEle  
 -------------
 sph300tc
                     91.0dB           180W
@@ -31,3 +42,7 @@ sph390tc
  100.0  0.52  33Hz  89.4dB  113.8dB  272W  113.0dB
  150.0  0.53  31Hz  89.4dB  112.6dB  205W  113.0dB
 9999.0  0.55  31Hz  89.4dB  112.6dB  205W  113.0dB
+-------------
+sph450tc
+                    93.0dB           525W
+  R||    qts   f3   Spl     SplMech Pmech  SplEle  

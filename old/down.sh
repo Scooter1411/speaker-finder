@@ -20,6 +20,7 @@ if [ ! -f "$IN" ] ; then
     echo "Keine Eingabe"
 fi
 OUT=`basename $IN .in`.$BASE.out
+export LC_ALL=C
 
 cat <<EOF > $TMP.awk
 BEGIN{
@@ -36,21 +37,22 @@ BEGIN{
     fs=\$6
     gsub("\\\\.",",",fs);
     mms=\$7
-    gsub("\\\\.",",",mms);
+    #gsub("\\\\.",",",mms);
     #mms /= 1000;
     cms=\$8;
-    gsub("\\\\.",",",cms);
+    #gsub("\\\\.",",",cms);
     #cms /= 1000;
     nvc=\$9
     re1=\$10
     le1=\$11
     sd=\$12
-    gsub("\\\\.",",",sd);
+    #gsub("\\\\.",",",sd);
 #print sd
     xmax=\$13
-    gsub("\\\\.",",",xmax);
+    #gsub("\\\\.",",",xmax);
     spl=\$14
     pmax=\$15
+#printf("%s %s %f %s %f\n", name, mms, mms, xmax, xmax )
 
     if( mms > 0 && xmax > 0 ){
         if( cms < 0.00001 ) {

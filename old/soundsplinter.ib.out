@@ -17,6 +17,14 @@ RLi-10 2x4
  150.0  0.53  34Hz  82.4dB  114.6dB 1652W  108.1dB
 9999.0  0.54  34Hz  82.4dB  114.6dB 1652W  108.1dB
 -------------
+RLp-12 2x2
+                    88.8dB           750W
+  R||    qts   f3   Spl     SplMech Pmech  SplEle  
+-------------
+RLp-12 2x4
+                    87.8dB           750W
+  R||    qts   f3   Spl     SplMech Pmech  SplEle  
+-------------
 RLp-15 2x2
                     89.4dB           750W
   R||    qts   f3   Spl     SplMech Pmech  SplEle  

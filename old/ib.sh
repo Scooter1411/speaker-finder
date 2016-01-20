@@ -76,7 +76,7 @@ BEGIN{
         r = 0.2;
         qes1=qes * ( re + r ) / re;
         qts1=1/((1/qms)+(1/qes1))
-        if( qts1 >= 0.5 ) {
+        if( qts1 >= 0.4 ) {
 
             fc  = fs;
             qtc = qts1;
@@ -110,7 +110,7 @@ BEGIN{
             } else {
                 f3 = 0.75 * fs 
             } 
-            if( f3 < 50 ){
+            if( f3 < 40 ){
 
                 printf("-------------\n%s\n",name);
                 printf("                   %5.1fdB          %4.0fW\n", spl, pmax );
@@ -143,7 +143,7 @@ BEGIN{
         pmax1 = 0.75 * pmax;
 
         qts1=1/((1/qms)+(1/qes1))
-        if(( qts1 >= 0.5 )&&( fs < 80 )) {
+        if(( qts1 >= 0.4 )&&( fs < 60 )) {
             printf("-------------\n%s\n",name);
             printf("                   %5.1fdB          %4.0fW\n", spl, pmax1 );
             printf("  R||    qts   f3   Spl     SplMech Pmech  SplEle  ");
@@ -211,4 +211,7 @@ END{
 EOF
 
 grep -v \# $IN|grep .|awk -F, -f $TMP.awk|tee $OUT
+if [ ! -s $OUT ] ; then
+   rm -f $OUT
+fi
 

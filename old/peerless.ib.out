@@ -1,18 +1,8 @@
 -------------
-sls w 10-39/08
-                    88.7dB            80W
+xxls10/8
+                    87.2dB           175W
          qts   f3   Spl     SplMech Pmech  SplEle  
-        0.53  45Hz  88.2dB  112.1dB  243W  107.2dB
--------------
-sls10 (830668)
-                    88.7dB           100W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.53  45Hz  88.2dB  112.1dB  243W  108.2dB
--------------
-sls8
-                    88.0dB           220W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.57  47Hz  86.0dB  109.1dB  201W  109.5dB
+        0.46  36Hz  86.3dB  112.6dB  430W  108.7dB
 -------------
 xxls10/8/dvc
                     86.0dB           131W
@@ -25,6 +15,11 @@ xxls10/8/dvc
  100.0  0.63  27Hz  83.9dB  107.7dB  239W  105.1dB
  150.0  0.64  27Hz  83.9dB  107.7dB  239W  105.1dB
 9999.0  0.66  25Hz  83.9dB  106.3dB  172W  105.1dB
+-------------
+xxls12/8
+                    88.0dB           175W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.46  31Hz  87.1dB  112.4dB  346W  109.5dB
 -------------
 xxls12/8/dvc
                     86.0dB           131W

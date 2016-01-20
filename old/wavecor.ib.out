@@ -1,4 +1,24 @@
 -------------
+SW223BD02
+                    83.0dB           150W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.43  35Hz  81.2dB  106.7dB  350W  103.0dB
+-------------
+SW223BD03
+                    81.0dB           150W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.47  36Hz  81.3dB  107.4dB  408W  103.1dB
+-------------
+SW263WA03
+                    87.0dB           200W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.48  39Hz  82.2dB  112.2dB 1013W  105.2dB
+-------------
+SW270WA01
+                    89.0dB           150W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.47  36Hz  84.9dB  110.5dB  361W  106.7dB
+-------------
 SW310WA01
                     85.0dB           250W
          qts   f3   Spl     SplMech Pmech  SplEle  

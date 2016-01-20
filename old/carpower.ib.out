@@ -109,11 +109,6 @@ predator10
  150.0  0.86  33Hz  82.5dB  110.4dB  621W  107.3dB
 9999.0  0.87  33Hz  82.5dB  110.4dB  621W  107.3dB
 -------------
-pulsar-300
-                    89.0dB           225W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.56  44Hz  88.3dB  115.3dB  498W  111.8dB
--------------
 raptor15
                     89.0dB          1000W
          qts   f3   Spl     SplMech Pmech  SplEle  

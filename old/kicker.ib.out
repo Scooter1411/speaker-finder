@@ -1,13 +1,18 @@
 -------------
-CVT122 
-                    87.0dB           400W
+C124   
+                    89.0dB           150W
          qts   f3   Spl     SplMech Pmech  SplEle  
-        0.57  42Hz  87.2dB  119.0dB 1521W  113.2dB
+        0.45  38Hz  88.9dB  115.3dB  437W  110.6dB
 -------------
-CVT124 
-                    87.0dB           400W
+C128   
+                    89.0dB           150W
          qts   f3   Spl     SplMech Pmech  SplEle  
-        0.55  44Hz  87.4dB  119.8dB 1741W  113.4dB
+        0.44  38Hz  89.0dB  115.3dB  427W  110.7dB
+-------------
+C154   
+                    90.0dB           250W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.40  31Hz  90.0dB  117.5dB  560W  114.0dB
 -------------
 S10L3  
                     85.3dB           400W
@@ -18,3 +23,8 @@ S12L3
                     86.3dB           400W
          qts   f3   Spl     SplMech Pmech  SplEle  
         0.76  29Hz  86.1dB   92.1dB    4W  112.1dB
+-------------
+S15L3  
+                    90.3dB           500W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.44  36Hz  90.0dB   99.5dB    9W  117.0dB

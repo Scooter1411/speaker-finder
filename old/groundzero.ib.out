@@ -9,6 +9,21 @@ GZTW12MK2
          qts   f3   Spl     SplMech Pmech  SplEle  
         0.51  33Hz  86.5dB  113.9dB  550W  112.5dB
 -------------
+GZRW 12	    
+                    91.0dB           500W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.46  38Hz  87.8dB  118.6dB 1198W  114.8dB
+-------------
+GZRW 15	    
+                    92.5dB           600W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.50  35Hz  90.4dB  121.7dB 1343W  118.2dB
+-------------
+GZRW 12S-AL 
+                    91.4dB           500W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.46  39Hz  88.0dB  119.3dB 1331W  115.0dB
+-------------
 GZRW 12D-AL 
                     91.3dB           375W
   R||    qts   f3   Spl     SplMech Pmech  SplEle  
@@ -28,6 +43,16 @@ GZRW 12D-AL
  150.0  0.87  22Hz  84.8dB  109.3dB  286W  110.5dB
 9999.0  0.89  22Hz  84.8dB  109.3dB  286W  110.5dB
 -------------
+GZHW 12	    
+                    86.4dB           800W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.48  38Hz  85.9dB  128.6dB 18368W  115.0dB
+-------------
+GZHW 15	    
+                    90.0dB          1000W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.46  38Hz  89.7dB  132.9dB 21105W  119.7dB
+-------------
 GZPW15SPL
                     93.4dB          3750W
   R||    qts   f3   Spl     SplMech Pmech  SplEle  
@@ -42,6 +67,10 @@ GZPW15SPL
  100.0  0.59  37Hz  86.0dB  123.5dB 5628W  121.7dB
  150.0  0.60  37Hz  86.0dB  123.5dB 5628W  121.7dB
 9999.0  0.60  37Hz  86.0dB  123.5dB 5628W  121.7dB
+-------------
+GZPW18SPL
+                    98.1dB          3750W
+  R||    qts   f3   Spl     SplMech Pmech  SplEle  
 -------------
 GZPW15XQ
                     91.5dB          3750W
