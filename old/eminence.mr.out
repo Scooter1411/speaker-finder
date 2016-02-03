@@ -127,3 +127,16 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 0.20  89.6dB: (126.6dB  8299W 115.2dB) @  55Hz
 0.60  89.2dB: (125.4dB  6757W 114.9dB) @  51Hz
 1.00  88.9dB: (124.3dB  5589W 114.6dB) @  48Hz
+-------------
+Deltalite II 2515
+      99.2dB            300W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  97.3dB: (124.8dB   840W 120.3dB) @  76Hz
+              (127.8dB  1681W 120.3dB) @  90Hz
+0.60  97.0dB: (123.7dB   698W 120.0dB) @  71Hz
+              (126.7dB  1395W 120.0dB) @  84Hz
+              (129.7dB  2791W 120.0dB) @ 100Hz
+1.00  96.8dB: (122.6dB   587W 119.7dB) @  67Hz
+              (125.7dB  1174W 119.7dB) @  79Hz
+              (128.7dB  2349W 119.7dB) @  94Hz

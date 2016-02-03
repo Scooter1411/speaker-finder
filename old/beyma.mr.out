@@ -16,6 +16,18 @@ Rpre   Spl     SplMech Pmech SplEle      f3
 1.00  89.2dB: (117.0dB   908W 110.5dB) @ 114Hz
               (120.0dB  1815W 110.5dB) @ 135Hz
 -------------
+SM115/K
+      97.0dB            500W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  95.8dB: (126.6dB  1586W 121.6dB) @  79Hz
+              (129.6dB  3171W 121.6dB) @  94Hz
+0.60  95.5dB: (125.6dB  1333W 121.3dB) @  75Hz
+              (128.6dB  2666W 121.3dB) @  89Hz
+1.00  95.3dB: (124.6dB  1133W 121.1dB) @  71Hz
+              (127.6dB  2266W 121.1dB) @  84Hz
+              (130.6dB  4531W 121.1dB) @ 100Hz
+-------------
 SM118N
       97.0dB            400W
 Rpre   Spl     SplMech Pmech SplEle      f3

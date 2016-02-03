@@ -13,7 +13,7 @@ for I in *.sh
         for J in *.in
           do
             echo $J
-            nice ./$I $J > /dev/null &
+            ./$I $J > /dev/null &
           done
     fi
   done

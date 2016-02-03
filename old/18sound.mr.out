@@ -38,3 +38,11 @@ Rpre   Spl     SplMech Pmech SplEle      f3
               (131.8dB 12457W 123.4dB) @  60Hz
 1.00  93.0dB: (127.6dB  5041W 123.1dB) @  47Hz
               (130.6dB 10082W 123.1dB) @  56Hz
+-------------
+15ND930
+      98.0dB            500W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  97.9dB: (135.2dB  7836W 123.3dB) @ 110Hz
+0.60  97.6dB: (134.1dB  6471W 123.0dB) @ 104Hz
+1.00  97.3dB: (133.0dB  5413W 122.7dB) @  97Hz
