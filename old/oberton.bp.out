@@ -1,0 +1,35 @@
+-------------
+15B450
+           100.0dB           450W      2x100mm
+   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
+ 33.0Hz  69Hz  143Hz  113.1dB  111l +  25l  * 1x70mm    972mm
+ 36.3Hz  73Hz  146Hz  114.7dB   91l +  25l  * 1x70mm    866mm
+ 39.7Hz  77Hz  150Hz  116.3dB   76l +  25l  * 1x70mm    772mm
+ 43.5Hz  82Hz  153Hz  117.9dB   64l +  25l  * 1x70mm    688mm
+ 47.5Hz  87Hz  157Hz  119.4dB   55l +  25l  * 1x70mm    613mm
+ 51.9Hz  92Hz  162Hz  121.0dB   47l +  25l  * 1x70mm    546mm
+ 56.6Hz  97Hz  166Hz  122.5dB   40l +  25l  * 1x70mm    487mm
+ 61.6Hz 103Hz  172Hz  123.9dB   35l +  25l  * 1x70mm    434mm
+ 67.0Hz 109Hz  177Hz  125.4dB   30l +  25l  - 1x100mm   790mm
+ 72.8Hz 115Hz  183Hz  126.8dB   26l +  25l  - 1x100mm   704mm
+ 79.0Hz 122Hz  189Hz  128.3dB   23l +  25l  - 1x100mm   627mm
+ 33.0Hz  80Hz  143Hz  113.1dB   68l +  18l  * 1x70mm    972mm
+ 36.3Hz  85Hz  146Hz  114.7dB   58l +  18l  * 1x70mm    866mm
+ 39.7Hz  90Hz  150Hz  116.3dB   49l +  18l  * 1x70mm    772mm
+ 43.5Hz  95Hz  153Hz  117.9dB   42l +  18l  * 1x70mm    688mm
+ 47.5Hz 101Hz  157Hz  119.4dB   37l +  18l  * 1x70mm    613mm
+ 51.9Hz 107Hz  162Hz  121.0dB   32l +  18l  * 1x70mm    546mm
+ 56.6Hz 113Hz  166Hz  122.5dB   28l +  18l  * 1x70mm    487mm
+ 61.6Hz 120Hz  172Hz  123.9dB   24l +  18l  * 1x70mm    434mm
+ 67.0Hz 127Hz  177Hz  125.4dB   21l +  18l  - 1x100mm   790mm
+ 72.8Hz 135Hz  183Hz  126.8dB   19l +  18l  - 1x100mm   704mm
+ 79.0Hz 143Hz  189Hz  128.3dB   16l +  18l  - 1x100mm   627mm
+ 39.6Hz  96Hz  233Hz  116.3dB   41l +  13l  * 1x70mm    972mm
+ 43.7Hz 102Hz  238Hz  118.0dB   36l +  13l  * 1x70mm    866mm
+ 48.2Hz 108Hz  242Hz  119.7dB   31l +  13l  * 1x70mm    772mm
+ 53.0Hz 114Hz  247Hz  121.3dB   27l +  13l  * 1x70mm    688mm
+ 58.2Hz 121Hz  252Hz  122.9dB   24l +  13l  * 1x70mm    613mm
+ 63.9Hz 128Hz  258Hz  124.6dB   21l +  13l  * 1x70mm    546mm
+ 70.0Hz 136Hz  264Hz  126.2dB   18l +  13l  * 1x70mm    487mm
+ 76.6Hz 144Hz  270Hz  127.7dB   16l +  13l  * 1x70mm    434mm
+ 83.8Hz 152Hz  278Hz  129.3dB   14l +  13l  - 1x100mm   790mm

@@ -1,0 +1,24 @@
+-------------
+Colossus 18XB
+            99.0dB          1000W      3x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 12.3 Hz  33 Hz   89 Hz   98.3 dB   oo l +  54 l  - 2x100mm   684 mm  1949 µF
+ 13.0 Hz  34 Hz   90 Hz   99.3 dB 3089 l +  54 l  - 2x100mm   628 mm  1811 µF
+ 14.0 Hz  36 Hz   92 Hz  100.6 dB 1254 l +  54 l  - 2x100mm   558 mm  1640 µF
+ 15.0 Hz  38 Hz   95 Hz  101.8 dB  780 l +  54 l    3x100mm   783 mm  1496 µF
+ 16.0 Hz  39 Hz   97 Hz  102.9 dB  562 l +  54 l    3x100mm   707 mm  1373 µF
+ 17.0 Hz  41 Hz   99 Hz  103.9 dB  438 l +  54 l    3x100mm   641 mm  1266 µF
+ 18.0 Hz  43 Hz  101 Hz  104.9 dB  357 l +  54 l    3x100mm   584 mm  1173 µF
+ 19.0 Hz  44 Hz  102 Hz  105.9 dB  301 l +  54 l    3x100mm   534 mm  1092 µF
+ 20.0 Hz  46 Hz  104 Hz  106.8 dB  259 l +  54 l    3x100mm   489 mm  1020 µF
+ 21.0 Hz  47 Hz  106 Hz  107.6 dB  227 l +  54 l    3x100mm   450 mm   955 µF
+ 22.0 Hz  49 Hz  107 Hz  108.4 dB  202 l +  54 l    3x100mm   414 mm   898 µF
+ 23.0 Hz  50 Hz  109 Hz  109.2 dB  181 l +  54 l    3x100mm   382 mm   846 µF
+ 24.0 Hz  52 Hz  111 Hz  109.9 dB  164 l +  54 l    3x100mm   354 mm   800 µF
+ 25.0 Hz  53 Hz  112 Hz  110.6 dB  150 l +  54 l    3x100mm   328 mm   757 µF
+ 26.0 Hz  54 Hz  114 Hz  111.3 dB  138 l +  54 l    3x100mm   304 mm   719 µF
+ 27.0 Hz  56 Hz  115 Hz  112.0 dB  127 l +  54 l    3x100mm   282 mm   683 µF
+ 28.0 Hz  57 Hz  116 Hz  112.6 dB  118 l +  54 l    3x100mm   262 mm   651 µF
+ 29.0 Hz  58 Hz  118 Hz  113.2 dB  110 l +  54 l    3x100mm   244 mm   621 µF
+ 30.0 Hz  60 Hz  119 Hz  113.8 dB  103 l +  54 l    3x100mm   227 mm   594 µF
+

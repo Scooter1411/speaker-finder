@@ -1,0 +1,82 @@
+-------------
+SHX-8S4
+      86.7dB            200W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  86.3dB: (112.5dB  1001W 105.5dB) @  63Hz
+0.60  85.9dB: (110.8dB   755W 105.0dB) @  57Hz
+              (113.8dB  1510W 105.0dB) @  68Hz
+1.00  85.5dB: (109.3dB   587W 104.6dB) @  52Hz
+              (112.3dB  1174W 104.6dB) @  62Hz
+-------------
+SHX-8D4
+      86.8dB            200W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  86.6dB: (113.3dB   546W 108.9dB) @  66Hz
+              (116.3dB  1093W 108.9dB) @  78Hz
+0.60  86.4dB: (112.5dB   476W 108.7dB) @  63Hz
+              (115.5dB   951W 108.7dB) @  75Hz
+              (118.5dB  1903W 108.7dB) @  89Hz
+1.00  86.2dB: (111.7dB   418W 108.5dB) @  60Hz
+              (114.7dB   836W 108.5dB) @  71Hz
+              (117.7dB  1671W 108.5dB) @  85Hz
+-------------
+SHX-10S4
+      85.7dB            300W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  85.4dB: (115.2dB  2413W 106.2dB) @  51Hz
+0.60  84.9dB: (113.5dB  1796W 105.7dB) @  46Hz
+1.00  84.5dB: (111.9dB  1381W 105.3dB) @  42Hz
+              (114.9dB  2763W 105.3dB) @  50Hz
+-------------
+SHX-10D4
+      85.0dB            300W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  84.8dB: (112.3dB   658W 108.9dB) @  43Hz
+              (115.3dB  1317W 108.9dB) @  51Hz
+              (118.3dB  2634W 108.9dB) @  61Hz
+0.60  84.6dB: (111.4dB   572W 108.6dB) @  41Hz
+              (114.4dB  1143W 108.6dB) @  49Hz
+              (117.5dB  2287W 108.6dB) @  58Hz
+1.00  84.3dB: (110.6dB   501W 108.4dB) @  39Hz
+              (113.6dB  1001W 108.4dB) @  47Hz
+              (116.6dB  2002W 108.4dB) @  55Hz
+-------------
+SHX-12S4
+      88.2dB            400W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  87.9dB: (117.6dB  2300W 110.0dB) @  46Hz
+0.60  87.4dB: (115.8dB  1714W 109.5dB) @  41Hz
+              (118.8dB  3429W 109.5dB) @  49Hz
+1.00  87.0dB: (114.2dB  1321W 109.0dB) @  38Hz
+              (117.2dB  2642W 109.0dB) @  45Hz
+-------------
+SHX-15D2
+      89.7dB            500W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  89.4dB: (119.3dB  1944W 113.4dB) @  35Hz
+              (122.3dB  3887W 113.4dB) @  42Hz
+0.60  89.0dB: (117.9dB  1535W 113.0dB) @  33Hz
+              (120.9dB  3070W 113.0dB) @  39Hz
+1.00  88.6dB: (116.6dB  1240W 112.6dB) @  30Hz
+              (119.6dB  2480W 112.6dB) @  36Hz
+              (122.6dB  4961W 112.6dB) @  43Hz
+-------------
+SHX-15D4
+      88.7dB            500W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.5dB: (117.8dB  1007W 114.8dB) @  33Hz
+              (120.8dB  2013W 114.8dB) @  39Hz
+              (123.9dB  4026W 114.8dB) @  46Hz
+0.60  88.3dB: (117.0dB   874W 114.6dB) @  31Hz
+              (120.0dB  1747W 114.6dB) @  37Hz
+              (123.0dB  3494W 114.6dB) @  44Hz
+1.00  88.1dB: (116.2dB   765W 114.3dB) @  30Hz
+              (119.2dB  1530W 114.3dB) @  35Hz
+              (122.2dB  3059W 114.3dB) @  42Hz

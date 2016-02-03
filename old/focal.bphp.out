@@ -1,0 +1,125 @@
+-------------
+11V7512D
+            89.4dB           225W      1x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+  8.5 Hz  24 Hz   71 Hz   83.3 dB   oo l +  23 l  - 1x70mm    780 mm  3431 µF
+  9.0 Hz  26 Hz   72 Hz   84.4 dB 1555 l +  23 l  - 1x70mm    712 mm  3155 µF
+ 10.0 Hz  27 Hz   75 Hz   86.2 dB  542 l +  23 l  - 1x70mm    611 mm  2741 µF
+ 11.0 Hz  29 Hz   77 Hz   87.9 dB  324 l +  23 l  - 1x70mm    532 mm  2414 µF
+ 12.0 Hz  31 Hz   80 Hz   89.4 dB  229 l +  23 l  - 1x70mm    467 mm  2150 µF
+ 13.0 Hz  33 Hz   82 Hz   90.8 dB  176 l +  23 l  - 1x70mm    414 mm  1932 µF
+ 14.0 Hz  34 Hz   84 Hz   92.1 dB  142 l +  23 l    1x100mm   790 mm  1750 µF
+ 15.0 Hz  36 Hz   86 Hz   93.3 dB  119 l +  23 l    1x100mm   713 mm  1596 µF
+ 16.0 Hz  37 Hz   88 Hz   94.4 dB  102 l +  23 l    1x100mm   648 mm  1465 µF
+ 17.0 Hz  39 Hz   89 Hz   95.5 dB   89 l +  23 l    1x100mm   591 mm  1351 µF
+ 18.0 Hz  40 Hz   91 Hz   96.4 dB   78 l +  23 l    1x100mm   542 mm  1252 µF
+ 19.0 Hz  42 Hz   93 Hz   97.4 dB   70 l +  23 l    1x100mm   499 mm  1165 µF
+ 20.0 Hz  43 Hz   94 Hz   98.3 dB   63 l +  23 l    1x100mm   461 mm  1088 µF
+ 21.0 Hz  45 Hz   96 Hz   99.1 dB   58 l +  23 l    1x100mm   427 mm  1019 µF
+ 22.0 Hz  46 Hz   97 Hz   99.9 dB   53 l +  23 l    1x100mm   396 mm   958 µF
+ 23.0 Hz  48 Hz   99 Hz  100.7 dB   49 l +  23 l    1x100mm   369 mm   903 µF
+ 24.0 Hz  49 Hz  100 Hz  101.4 dB   45 l +  23 l    1x100mm   344 mm   853 µF
+ 25.0 Hz  50 Hz  102 Hz  102.2 dB   42 l +  23 l    1x100mm   321 mm   808 µF
+ 26.0 Hz  52 Hz  103 Hz  102.8 dB   39 l +  23 l    1x100mm   301 mm   767 µF
+ 27.0 Hz  53 Hz  104 Hz  103.5 dB   37 l +  23 l    1x100mm   282 mm   729 µF
+ 28.0 Hz  54 Hz  106 Hz  104.1 dB   35 l +  23 l    1x100mm   265 mm   695 µF
+ 29.0 Hz  56 Hz  107 Hz  104.7 dB   33 l +  23 l    1x100mm   249 mm   663 µF
+ 30.0 Hz  57 Hz  108 Hz  105.3 dB   31 l +  23 l    1x100mm   235 mm   634 µF
+
+-------------
+11W7670
+            88.1dB           200W      1x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 19.5 Hz  45 Hz  102 Hz   97.4 dB   oo l +   9 l  - 1x70mm    566 mm  2070 µF
+ 20.0 Hz  45 Hz  103 Hz   97.9 dB  630 l +   9 l  - 1x70mm    544 mm  1998 µF
+ 21.0 Hz  47 Hz  105 Hz   98.7 dB  216 l +   9 l  - 1x70mm    506 mm  1872 µF
+ 22.0 Hz  48 Hz  106 Hz   99.5 dB  130 l +   9 l  - 1x70mm    472 mm  1759 µF
+ 23.0 Hz  50 Hz  108 Hz  100.3 dB   92 l +   9 l  - 1x70mm    442 mm  1658 µF
+ 24.0 Hz  51 Hz  109 Hz  101.0 dB   71 l +   9 l  - 1x70mm    414 mm  1567 µF
+ 25.0 Hz  53 Hz  111 Hz  101.7 dB   58 l +   9 l  - 1x70mm    389 mm  1484 µF
+ 26.0 Hz  54 Hz  112 Hz  102.4 dB   49 l +   9 l    1x100mm   783 mm  1408 µF
+ 27.0 Hz  55 Hz  114 Hz  103.1 dB   42 l +   9 l    1x100mm   740 mm  1339 µF
+ 28.0 Hz  57 Hz  115 Hz  103.7 dB   37 l +   9 l    1x100mm   701 mm  1276 µF
+ 29.0 Hz  58 Hz  117 Hz  104.3 dB   33 l +   9 l    1x100mm   666 mm  1217 µF
+ 30.0 Hz  59 Hz  118 Hz  104.9 dB   29 l +   9 l    1x100mm   633 mm  1164 µF
+
+-------------
+13V7512D
+            90.9dB           250W      2x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+  6.6 Hz  19 Hz   54 Hz   83.2 dB   oo l +  77 l  - 1x100mm   769 mm  4287 µF
+  7.0 Hz  20 Hz   55 Hz   84.1 dB 5974 l +  77 l  - 1x100mm   712 mm  4000 µF
+  8.0 Hz  21 Hz   57 Hz   86.4 dB 1528 l +  77 l  - 1x100mm   583 mm  3347 µF
+  9.0 Hz  23 Hz   59 Hz   88.4 dB  860 l +  77 l  - 1x100mm   487 mm  2861 µF
+ 10.0 Hz  25 Hz   62 Hz   90.3 dB  592 l +  77 l  - 1x100mm   412 mm  2486 µF
+ 11.0 Hz  26 Hz   64 Hz   91.9 dB  447 l +  77 l    2x100mm   749 mm  2189 µF
+ 12.0 Hz  28 Hz   65 Hz   93.4 dB  358 l +  77 l    2x100mm   655 mm  1949 µF
+ 13.0 Hz  30 Hz   67 Hz   94.8 dB  296 l +  77 l    2x100mm   577 mm  1752 µF
+ 14.0 Hz  31 Hz   69 Hz   96.1 dB  252 l +  77 l    2x100mm   512 mm  1587 µF
+ 15.0 Hz  33 Hz   71 Hz   97.3 dB  219 l +  77 l    2x100mm   457 mm  1448 µF
+ 16.0 Hz  34 Hz   72 Hz   98.4 dB  192 l +  77 l    2x100mm   410 mm  1328 µF
+ 17.0 Hz  35 Hz   74 Hz   99.5 dB  172 l +  77 l    2x100mm   370 mm  1225 µF
+ 18.0 Hz  37 Hz   75 Hz  100.5 dB  154 l +  77 l    2x100mm   334 mm  1135 µF
+ 19.0 Hz  38 Hz   76 Hz  101.4 dB  140 l +  77 l    2x100mm   303 mm  1056 µF
+ 20.0 Hz  39 Hz   78 Hz  102.3 dB  128 l +  77 l    2x100mm   276 mm   987 µF
+ 21.0 Hz  41 Hz   79 Hz  103.2 dB  118 l +  77 l    2x100mm   251 mm   924 µF
+ 22.0 Hz  42 Hz   80 Hz  104.0 dB  109 l +  77 l    2x100mm   229 mm   869 µF
+ 23.0 Hz  43 Hz   81 Hz  104.7 dB  101 l +  77 l    2x100mm   210 mm   819 µF
+ 24.0 Hz  44 Hz   82 Hz  105.5 dB   94 l +  77 l    2x100mm   192 mm   774 µF
+ 25.0 Hz  46 Hz   84 Hz  106.2 dB   88 l +  77 l    2x100mm   176 mm   733 µF
+ 26.0 Hz  47 Hz   85 Hz  106.9 dB   83 l +  77 l    2x100mm   161 mm   695 µF
+ 27.0 Hz  48 Hz   86 Hz  107.5 dB   78 l +  77 l    2x100mm   148 mm   661 µF
+ 28.0 Hz  49 Hz   87 Hz  108.2 dB   74 l +  77 l    2x100mm   135 mm   630 µF
+ 29.0 Hz  50 Hz   88 Hz  108.8 dB   70 l +  77 l    2x100mm   124 mm   601 µF
+ 30.0 Hz  52 Hz   89 Hz  109.4 dB   66 l +  77 l    2x100mm   113 mm   575 µF
+
+-------------
+13WX
+            90.9dB           175W      2x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+ 13.0 Hz  34 Hz   87 Hz   92.4 dB   oo l +  24 l  - 1x100mm   771 mm  1837 µF
+ 14.0 Hz  35 Hz   89 Hz   93.6 dB  895 l +  24 l  - 1x100mm   694 mm  1671 µF
+ 15.0 Hz  37 Hz   91 Hz   94.8 dB  433 l +  24 l  - 1x100mm   626 mm  1524 µF
+ 16.0 Hz  39 Hz   93 Hz   95.9 dB  284 l +  24 l  - 1x100mm   567 mm  1398 µF
+ 17.0 Hz  40 Hz   95 Hz   97.0 dB  210 l +  24 l  - 1x100mm   517 mm  1290 µF
+ 18.0 Hz  42 Hz   96 Hz   98.0 dB  166 l +  24 l  - 1x100mm   473 mm  1195 µF
+ 19.0 Hz  43 Hz   98 Hz   98.9 dB  137 l +  24 l  - 1x100mm   435 mm  1112 µF
+ 20.0 Hz  45 Hz  100 Hz   99.8 dB  116 l +  24 l  - 1x100mm   401 mm  1038 µF
+ 21.0 Hz  46 Hz  101 Hz  100.7 dB  100 l +  24 l    2x100mm   783 mm   973 µF
+ 22.0 Hz  48 Hz  103 Hz  101.5 dB   88 l +  24 l    2x100mm   729 mm   915 µF
+ 23.0 Hz  49 Hz  105 Hz  102.2 dB   79 l +  24 l    2x100mm   681 mm   862 µF
+ 24.0 Hz  50 Hz  106 Hz  103.0 dB   71 l +  24 l    2x100mm   637 mm   814 µF
+ 25.0 Hz  52 Hz  108 Hz  103.7 dB   64 l +  24 l    2x100mm   597 mm   771 µF
+ 26.0 Hz  53 Hz  109 Hz  104.4 dB   59 l +  24 l    2x100mm   561 mm   732 µF
+ 27.0 Hz  55 Hz  110 Hz  105.0 dB   54 l +  24 l    2x100mm   528 mm   696 µF
+ 28.0 Hz  56 Hz  112 Hz  105.7 dB   50 l +  24 l    2x100mm   498 mm   663 µF
+ 29.0 Hz  57 Hz  113 Hz  106.3 dB   47 l +  24 l    2x100mm   470 mm   633 µF
+ 30.0 Hz  59 Hz  114 Hz  106.9 dB   44 l +  24 l    2x100mm   444 mm   605 µF
+
+-------------
+15WX
+            92.4dB           225W      2x100mm
+   fu     fc      fo      SplMech  Vb1     Vb2       d         l        C
+  9.3 Hz  24 Hz   64 Hz   90.3 dB   oo l +  78 l  - 1x100mm   423 mm  2581 µF
+ 10.0 Hz  26 Hz   66 Hz   91.6 dB 3136 l +  78 l    2x100mm   795 mm  2343 µF
+ 11.0 Hz  27 Hz   68 Hz   93.2 dB 1271 l +  78 l    2x100mm   687 mm  2063 µF
+ 12.0 Hz  29 Hz   70 Hz   94.8 dB  788 l +  78 l    2x100mm   599 mm  1837 µF
+ 13.0 Hz  31 Hz   72 Hz   96.1 dB  566 l +  78 l    2x100mm   527 mm  1651 µF
+ 14.0 Hz  32 Hz   73 Hz   97.4 dB  440 l +  78 l    2x100mm   467 mm  1496 µF
+ 15.0 Hz  34 Hz   75 Hz   98.6 dB  358 l +  78 l    2x100mm   416 mm  1365 µF
+ 16.0 Hz  35 Hz   77 Hz   99.8 dB  300 l +  78 l    2x100mm   372 mm  1252 µF
+ 17.0 Hz  36 Hz   78 Hz  100.8 dB  258 l +  78 l    2x100mm   335 mm  1155 µF
+ 18.0 Hz  38 Hz   80 Hz  101.8 dB  226 l +  78 l    2x100mm   302 mm  1070 µF
+ 19.0 Hz  39 Hz   81 Hz  102.7 dB  200 l +  78 l    2x100mm   273 mm   996 µF
+ 20.0 Hz  41 Hz   83 Hz  103.6 dB  180 l +  78 l    2x100mm   247 mm   930 µF
+ 21.0 Hz  42 Hz   84 Hz  104.5 dB  162 l +  78 l    2x100mm   225 mm   871 µF
+ 22.0 Hz  43 Hz   85 Hz  105.3 dB  148 l +  78 l    2x100mm   204 mm   819 µF
+ 23.0 Hz  45 Hz   87 Hz  106.1 dB  136 l +  78 l    2x100mm   186 mm   772 µF
+ 24.0 Hz  46 Hz   88 Hz  106.8 dB  126 l +  78 l    2x100mm   170 mm   729 µF
+ 25.0 Hz  47 Hz   89 Hz  107.5 dB  116 l +  78 l    2x100mm   155 mm   691 µF
+ 26.0 Hz  48 Hz   90 Hz  108.2 dB  109 l +  78 l    2x100mm   141 mm   655 µF
+ 27.0 Hz  50 Hz   91 Hz  108.8 dB  101 l +  78 l    2x100mm   129 mm   623 µF
+ 28.0 Hz  51 Hz   92 Hz  109.5 dB   95 l +  78 l    2x100mm   117 mm   594 µF
+ 29.0 Hz  52 Hz   94 Hz  110.1 dB   90 l +  78 l    2x100mm   107 mm   567 µF
+ 30.0 Hz  53 Hz   95 Hz  110.7 dB   85 l +  78 l    2x100mm    97 mm   542 µF
+
