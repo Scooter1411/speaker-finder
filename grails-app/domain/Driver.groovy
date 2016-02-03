@@ -1,13 +1,14 @@
 class Driver {
 
     String name
-    String company
 
+	static belongsTo = [maker:Maker]
+	
     static hasMany = [parameterSets: ParameterSet]
 
-    static searchable = [ except: ['version', 'dateCreated', 'lastUpdated'] ]
+    //static searchable = [ except: ['version', 'dateCreated', 'lastUpdated'] ]
 
     
 
-    String toString(){"$company $name"}
+    String toString(){"$maker $name"}
 }
