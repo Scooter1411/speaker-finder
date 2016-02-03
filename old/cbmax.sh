@@ -81,14 +81,14 @@ BEGIN{
             printf("SplMech  Pmech SplEle     f3\n");
             printf("\n");
 
-            for( f3=16; f3<=80; f3+=4 ) {
+            for( f3=20; f3<=80; f3+=7 ) {
                     
                 spl2 = 20 * log( 0.37 * f3 * f3 * vd ) / log(10);   
                 splx = 12 / log(2) * log( f3x/f3 )
                 if( splx < 20 ){
                     p2   = p0 * exp(( spl2 - spl1 + splx )/10*log(10));
                     spl3 = spl1 + 10 * log( pmax / p0 ) / log(10) - splx;
-                    if(( f3 == 20 )||( f3 == 32 )||( f3 == 80 )){
+                    if(( f3 == 20 )||( f3 == 27 )){
                         for( px = pmax / pdiv; px <= pmax; px *= 1.2599 ) {
                                 
                             spl3 = spl1 + 10 * log( px / p0 ) / log(10) - splx;
