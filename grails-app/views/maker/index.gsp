@@ -26,6 +26,14 @@
 					
 						<g:sortableColumn property="name" title="${message(code: 'maker.name.label', default: 'Name')}" />
 					
+						<g:sortableColumn property="dateCreated" title="${message(code: 'maker.dateCreated.label', default: 'Date Created')}" />
+					
+						<g:sortableColumn property="lastUpdated" title="${message(code: 'maker.lastUpdated.label', default: 'Last Updated')}" />
+					
+						<g:sortableColumn property="createdBy" title="${message(code: 'maker.createdBy.label', default: 'Created By')}" />
+					
+						<g:sortableColumn property="lastModifiedBy" title="${message(code: 'maker.lastModifiedBy.label', default: 'Last Modified By')}" />
+					
 					</tr>
 				</thead>
 				<tbody>
@@ -33,6 +41,14 @@
 					<tr class="${(i % 2) == 0 ? 'even' : 'odd'}">
 					
 						<td><g:link action="show" id="${makerInstance.id}">${fieldValue(bean: makerInstance, field: "name")}</g:link></td>
+					
+						<td><g:formatDate date="${makerInstance.dateCreated}" /></td>
+					
+						<td><g:formatDate date="${makerInstance.lastUpdated}" /></td>
+					
+						<td>${fieldValue(bean: makerInstance, field: "createdBy")}</td>
+					
+						<td>${fieldValue(bean: makerInstance, field: "lastModifiedBy")}</td>
 					
 					</tr>
 				</g:each>

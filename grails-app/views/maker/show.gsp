@@ -23,6 +23,51 @@
 			</g:if>
 			<ol class="property-list maker">
 			
+				<g:if test="${makerInstance?.name}">
+				<li class="fieldcontain">
+					<span id="name-label" class="property-label"><g:message code="maker.name.label" default="Name" /></span>
+					
+						<span class="property-value" aria-labelledby="name-label"><g:fieldValue bean="${makerInstance}" field="name"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${makerInstance?.dateCreated}">
+				<li class="fieldcontain">
+					<span id="dateCreated-label" class="property-label"><g:message code="maker.dateCreated.label" default="Date Created" /></span>
+					
+						<span class="property-value" aria-labelledby="dateCreated-label"><g:formatDate date="${makerInstance?.dateCreated}" /></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${makerInstance?.lastUpdated}">
+				<li class="fieldcontain">
+					<span id="lastUpdated-label" class="property-label"><g:message code="maker.lastUpdated.label" default="Last Updated" /></span>
+					
+						<span class="property-value" aria-labelledby="lastUpdated-label"><g:formatDate date="${makerInstance?.lastUpdated}" /></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${makerInstance?.createdBy}">
+				<li class="fieldcontain">
+					<span id="createdBy-label" class="property-label"><g:message code="maker.createdBy.label" default="Created By" /></span>
+					
+						<span class="property-value" aria-labelledby="createdBy-label"><g:fieldValue bean="${makerInstance}" field="createdBy"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${makerInstance?.lastModifiedBy}">
+				<li class="fieldcontain">
+					<span id="lastModifiedBy-label" class="property-label"><g:message code="maker.lastModifiedBy.label" default="Last Modified By" /></span>
+					
+						<span class="property-value" aria-labelledby="lastModifiedBy-label"><g:fieldValue bean="${makerInstance}" field="lastModifiedBy"/></span>
+					
+				</li>
+				</g:if>
+			
 				<g:if test="${makerInstance?.drivers}">
 				<li class="fieldcontain">
 					<span id="drivers-label" class="property-label"><g:message code="maker.drivers.label" default="Drivers" /></span>
@@ -30,15 +75,6 @@
 						<g:each in="${makerInstance.drivers}" var="d">
 						<span class="property-value" aria-labelledby="drivers-label"><g:link controller="driver" action="show" id="${d.id}">${d?.encodeAsHTML()}</g:link></span>
 						</g:each>
-					
-				</li>
-				</g:if>
-			
-				<g:if test="${makerInstance?.name}">
-				<li class="fieldcontain">
-					<span id="name-label" class="property-label"><g:message code="maker.name.label" default="Name" /></span>
-					
-						<span class="property-value" aria-labelledby="name-label"><g:fieldValue bean="${makerInstance}" field="name"/></span>
 					
 				</li>
 				</g:if>

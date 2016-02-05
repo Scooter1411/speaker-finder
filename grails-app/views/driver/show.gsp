@@ -23,20 +23,56 @@
 			</g:if>
 			<ol class="property-list driver">
 			
-				<g:if test="${driverInstance?.maker}">
-				<li class="fieldcontain">
-					<span id="maker-label" class="property-label"><g:message code="driver.maker.label" default="Maker" /></span>
-					
-						<span class="property-value" aria-labelledby="maker-label"><g:link controller="maker" action="show" id="${driverInstance?.maker?.id}">${driverInstance?.maker?.encodeAsHTML()}</g:link></span>
-					
-				</li>
-				</g:if>
-			
 				<g:if test="${driverInstance?.name}">
 				<li class="fieldcontain">
 					<span id="name-label" class="property-label"><g:message code="driver.name.label" default="Name" /></span>
 					
 						<span class="property-value" aria-labelledby="name-label"><g:fieldValue bean="${driverInstance}" field="name"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${driverInstance?.dateCreated}">
+				<li class="fieldcontain">
+					<span id="dateCreated-label" class="property-label"><g:message code="driver.dateCreated.label" default="Date Created" /></span>
+					
+						<span class="property-value" aria-labelledby="dateCreated-label"><g:formatDate date="${driverInstance?.dateCreated}" /></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${driverInstance?.lastUpdated}">
+				<li class="fieldcontain">
+					<span id="lastUpdated-label" class="property-label"><g:message code="driver.lastUpdated.label" default="Last Updated" /></span>
+					
+						<span class="property-value" aria-labelledby="lastUpdated-label"><g:formatDate date="${driverInstance?.lastUpdated}" /></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${driverInstance?.createdBy}">
+				<li class="fieldcontain">
+					<span id="createdBy-label" class="property-label"><g:message code="driver.createdBy.label" default="Created By" /></span>
+					
+						<span class="property-value" aria-labelledby="createdBy-label"><g:fieldValue bean="${driverInstance}" field="createdBy"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${driverInstance?.lastModifiedBy}">
+				<li class="fieldcontain">
+					<span id="lastModifiedBy-label" class="property-label"><g:message code="driver.lastModifiedBy.label" default="Last Modified By" /></span>
+					
+						<span class="property-value" aria-labelledby="lastModifiedBy-label"><g:fieldValue bean="${driverInstance}" field="lastModifiedBy"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${driverInstance?.maker}">
+				<li class="fieldcontain">
+					<span id="maker-label" class="property-label"><g:message code="driver.maker.label" default="Maker" /></span>
+					
+						<span class="property-value" aria-labelledby="maker-label"><g:link controller="maker" action="show" id="${driverInstance?.maker?.id}">${driverInstance?.maker?.encodeAsHTML()}</g:link></span>
 					
 				</li>
 				</g:if>

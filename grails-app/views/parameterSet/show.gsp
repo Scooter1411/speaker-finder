@@ -23,6 +23,78 @@
 			</g:if>
 			<ol class="property-list parameterSet">
 			
+				<g:if test="${parameterSetInstance?.vas}">
+				<li class="fieldcontain">
+					<span id="vas-label" class="property-label"><g:message code="parameterSet.vas.label" default="Vas" /></span>
+					
+						<span class="property-value" aria-labelledby="vas-label"><g:fieldValue bean="${parameterSetInstance}" field="vas"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${parameterSetInstance?.qts}">
+				<li class="fieldcontain">
+					<span id="qts-label" class="property-label"><g:message code="parameterSet.qts.label" default="Qts" /></span>
+					
+						<span class="property-value" aria-labelledby="qts-label"><g:fieldValue bean="${parameterSetInstance}" field="qts"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${parameterSetInstance?.qes}">
+				<li class="fieldcontain">
+					<span id="qes-label" class="property-label"><g:message code="parameterSet.qes.label" default="Qes" /></span>
+					
+						<span class="property-value" aria-labelledby="qes-label"><g:fieldValue bean="${parameterSetInstance}" field="qes"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${parameterSetInstance?.qms}">
+				<li class="fieldcontain">
+					<span id="qms-label" class="property-label"><g:message code="parameterSet.qms.label" default="Qms" /></span>
+					
+						<span class="property-value" aria-labelledby="qms-label"><g:fieldValue bean="${parameterSetInstance}" field="qms"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${parameterSetInstance?.dateCreated}">
+				<li class="fieldcontain">
+					<span id="dateCreated-label" class="property-label"><g:message code="parameterSet.dateCreated.label" default="Date Created" /></span>
+					
+						<span class="property-value" aria-labelledby="dateCreated-label"><g:formatDate date="${parameterSetInstance?.dateCreated}" /></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${parameterSetInstance?.lastUpdated}">
+				<li class="fieldcontain">
+					<span id="lastUpdated-label" class="property-label"><g:message code="parameterSet.lastUpdated.label" default="Last Updated" /></span>
+					
+						<span class="property-value" aria-labelledby="lastUpdated-label"><g:formatDate date="${parameterSetInstance?.lastUpdated}" /></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${parameterSetInstance?.createdBy}">
+				<li class="fieldcontain">
+					<span id="createdBy-label" class="property-label"><g:message code="parameterSet.createdBy.label" default="Created By" /></span>
+					
+						<span class="property-value" aria-labelledby="createdBy-label"><g:fieldValue bean="${parameterSetInstance}" field="createdBy"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${parameterSetInstance?.lastModifiedBy}">
+				<li class="fieldcontain">
+					<span id="lastModifiedBy-label" class="property-label"><g:message code="parameterSet.lastModifiedBy.label" default="Last Modified By" /></span>
+					
+						<span class="property-value" aria-labelledby="lastModifiedBy-label"><g:fieldValue bean="${parameterSetInstance}" field="lastModifiedBy"/></span>
+					
+				</li>
+				</g:if>
+			
 				<g:if test="${parameterSetInstance?.cms}">
 				<li class="fieldcontain">
 					<span id="cms-label" class="property-label"><g:message code="parameterSet.cms.label" default="Cms" /></span>
@@ -86,33 +158,6 @@
 				</li>
 				</g:if>
 			
-				<g:if test="${parameterSetInstance?.qes}">
-				<li class="fieldcontain">
-					<span id="qes-label" class="property-label"><g:message code="parameterSet.qes.label" default="Qes" /></span>
-					
-						<span class="property-value" aria-labelledby="qes-label"><g:fieldValue bean="${parameterSetInstance}" field="qes"/></span>
-					
-				</li>
-				</g:if>
-			
-				<g:if test="${parameterSetInstance?.qms}">
-				<li class="fieldcontain">
-					<span id="qms-label" class="property-label"><g:message code="parameterSet.qms.label" default="Qms" /></span>
-					
-						<span class="property-value" aria-labelledby="qms-label"><g:fieldValue bean="${parameterSetInstance}" field="qms"/></span>
-					
-				</li>
-				</g:if>
-			
-				<g:if test="${parameterSetInstance?.qts}">
-				<li class="fieldcontain">
-					<span id="qts-label" class="property-label"><g:message code="parameterSet.qts.label" default="Qts" /></span>
-					
-						<span class="property-value" aria-labelledby="qts-label"><g:fieldValue bean="${parameterSetInstance}" field="qts"/></span>
-					
-				</li>
-				</g:if>
-			
 				<g:if test="${parameterSetInstance?.re}">
 				<li class="fieldcontain">
 					<span id="re-label" class="property-label"><g:message code="parameterSet.re.label" default="Re" /></span>
@@ -136,15 +181,6 @@
 					<span id="spl-label" class="property-label"><g:message code="parameterSet.spl.label" default="Spl" /></span>
 					
 						<span class="property-value" aria-labelledby="spl-label"><g:fieldValue bean="${parameterSetInstance}" field="spl"/></span>
-					
-				</li>
-				</g:if>
-			
-				<g:if test="${parameterSetInstance?.vas}">
-				<li class="fieldcontain">
-					<span id="vas-label" class="property-label"><g:message code="parameterSet.vas.label" default="Vas" /></span>
-					
-						<span class="property-value" aria-labelledby="vas-label"><g:fieldValue bean="${parameterSetInstance}" field="vas"/></span>
 					
 				</li>
 				</g:if>
