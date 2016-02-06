@@ -3,9 +3,9 @@
 import grails.test.mixin.*
 import spock.lang.*
 
-@TestFor(DriverController)
-@Mock(Driver)
-class DriverControllerSpec extends Specification {
+@TestFor(MakerController)
+@Mock(Maker)
+class MakerControllerSpec extends Specification {
 
     def populateValidParams(params) {
         assert params != null
@@ -19,8 +19,8 @@ class DriverControllerSpec extends Specification {
             controller.index()
 
         then:"The model is correct"
-            !model.driverInstanceList
-            model.driverInstanceCount == 0
+            !model.makerInstanceList
+            model.makerInstanceCount == 0
     }
 
     void "Test the create action returns the correct model"() {
@@ -28,7 +28,7 @@ class DriverControllerSpec extends Specification {
             controller.create()
 
         then:"The model is correctly created"
-            model.driverInstance!= null
+            model.makerInstance!= null
     }
 
     void "Test the save action correctly persists an instance"() {
@@ -36,25 +36,25 @@ class DriverControllerSpec extends Specification {
         when:"The save action is executed with an invalid instance"
             request.contentType = FORM_CONTENT_TYPE
             request.method = 'POST'
-            def driver = new Driver()
-            driver.validate()
-            controller.save(driver)
+            def maker = new Maker()
+            maker.validate()
+            controller.save(maker)
 
         then:"The create view is rendered again with the correct model"
-            model.driverInstance!= null
+            model.makerInstance!= null
             view == 'create'
 
         when:"The save action is executed with a valid instance"
             response.reset()
             populateValidParams(params)
-            driver = new Driver(params)
+            maker = new Maker(params)
 
-            controller.save(driver)
+            controller.save(maker)
 
         then:"A redirect is issued to the show action"
-            response.redirectedUrl == '/driver/show/1'
+            response.redirectedUrl == '/maker/show/1'
             controller.flash.message != null
-            Driver.count() == 1
+            Maker.count() == 1
     }
 
     void "Test that the show action returns the correct model"() {
@@ -66,11 +66,11 @@ class DriverControllerSpec extends Specification {
 
         when:"A domain instance is passed to the show action"
             populateValidParams(params)
-            def driver = new Driver(params)
-            controller.show(driver)
+            def maker = new Maker(params)
+            controller.show(maker)
 
         then:"A model is populated containing the domain instance"
-            model.driverInstance == driver
+            model.makerInstance == maker
     }
 
     void "Test that the edit action returns the correct model"() {
@@ -82,11 +82,11 @@ class DriverControllerSpec extends Specification {
 
         when:"A domain instance is passed to the edit action"
             populateValidParams(params)
-            def driver = new Driver(params)
-            controller.edit(driver)
+            def maker = new Maker(params)
+            controller.edit(maker)
 
         then:"A model is populated containing the domain instance"
-            model.driverInstance == driver
+            model.makerInstance == maker
     }
 
     void "Test the update action performs an update on a valid domain instance"() {
@@ -96,28 +96,28 @@ class DriverControllerSpec extends Specification {
             controller.update(null)
 
         then:"A 404 error is returned"
-            response.redirectedUrl == '/driver/index'
+            response.redirectedUrl == '/maker/index'
             flash.message != null
 
 
         when:"An invalid domain instance is passed to the update action"
             response.reset()
-            def driver = new Driver()
-            driver.validate()
-            controller.update(driver)
+            def maker = new Maker()
+            maker.validate()
+            controller.update(maker)
 
         then:"The edit view is rendered again with the invalid instance"
             view == 'edit'
-            model.driverInstance == driver
+            model.makerInstance == maker
 
         when:"A valid domain instance is passed to the update action"
             response.reset()
             populateValidParams(params)
-            driver = new Driver(params).save(flush: true)
-            controller.update(driver)
+            maker = new Maker(params).save(flush: true)
+            controller.update(maker)
 
         then:"A redirect is issues to the show action"
-            response.redirectedUrl == "/driver/show/$driver.id"
+            response.redirectedUrl == "/maker/show/$maker.id"
             flash.message != null
     }
 
@@ -128,23 +128,23 @@ class DriverControllerSpec extends Specification {
             controller.delete(null)
 
         then:"A 404 is returned"
-            response.redirectedUrl == '/driver/index'
+            response.redirectedUrl == '/maker/index'
             flash.message != null
 
         when:"A domain instance is created"
             response.reset()
             populateValidParams(params)
-            def driver = new Driver(params).save(flush: true)
+            def maker = new Maker(params).save(flush: true)
 
         then:"It exists"
-            Driver.count() == 1
+            Maker.count() == 1
 
         when:"The domain instance is passed to the delete action"
-            controller.delete(driver)
+            controller.delete(maker)
 
         then:"The instance is deleted"
-            Driver.count() == 0
-            response.redirectedUrl == '/driver/index'
+            Maker.count() == 0
+            response.redirectedUrl == '/maker/index'
             flash.message != null
     }
 }

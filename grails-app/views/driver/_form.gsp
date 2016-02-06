@@ -2,12 +2,12 @@
 
 
 
-<div class="fieldcontain ${hasErrors(bean: driverInstance, field: 'company', 'error')} required">
-	<label for="company">
-		<g:message code="driver.company.label" default="Company" />
+<div class="fieldcontain ${hasErrors(bean: driverInstance, field: 'maker', 'error')} required">
+	<label for="maker">
+		<g:message code="driver.maker.label" default="Maker" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:textField name="company" required="" value="${driverInstance?.company}"/>
+	<g:select id="maker" name="maker.id" from="${Maker.list()}" optionKey="id" required="" value="${driverInstance?.maker?.id}" class="many-to-one"/>
 
 </div>
 
