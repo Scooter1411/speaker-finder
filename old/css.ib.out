@@ -2,27 +2,3 @@
 SDX10
                     85.0dB           250W
          qts   f3   Spl     SplMech Pmech  SplEle  
-        0.44  38Hz  84.6dB  116.1dB 1424W  108.5dB
--------------
-SD12
-                    85.6dB           250W
-         qts   f3   Spl     SplMech Pmech  SplEle  
-        0.41  34Hz  85.3dB  118.1dB 1922W  109.3dB
--------------
-SDX15
-                    87.3dB           225W
-  R||    qts   f3   Spl     SplMech Pmech  SplEle  
-   1.5  0.52  28Hz  83.8dB  122.7dB 7650W  107.4dB
-   2.2  0.55  25Hz  83.8dB  120.6dB 4792W  107.4dB
-   3.3  0.59  24Hz  83.8dB  119.9dB 4091W  107.4dB
-   4.7  0.62  22Hz  83.8dB  118.5dB 2923W  107.4dB
-   6.8  0.65  20Hz  83.8dB  117.1dB 2103W  107.4dB
-  10.0  0.68  20Hz  83.8dB  117.1dB 2103W  107.4dB
-  15.0  0.70  19Hz  83.8dB  115.9dB 1596W  107.4dB
-  22.0  0.72  19Hz  83.8dB  115.9dB 1596W  107.4dB
-  33.0  0.74  19Hz  83.8dB  115.9dB 1596W  107.4dB
-  47.0  0.75  19Hz  83.8dB  115.9dB 1596W  107.4dB
-  68.0  0.75  18Hz  83.8dB  115.0dB 1295W  107.4dB
- 100.0  0.76  18Hz  83.8dB  115.0dB 1295W  107.4dB
- 150.0  0.76  18Hz  83.8dB  115.0dB 1295W  107.4dB
-9999.0  0.77  18Hz  83.8dB  115.0dB 1295W  107.4dB
