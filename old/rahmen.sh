@@ -12,8 +12,15 @@ for I in *.sh
     if [ ! "$I" = "rahmen.sh" ] ; then
         for J in *.in
           do
+<<<<<<< HEAD
             echo $J
             ./$I $J > /dev/null &
+=======
+            nice ./$I $J > /dev/null &
+            TOSLEEP=`uptime|awk '{print $8}'|sed -e's/,//g'`
+            echo $TOSLEEP '  ' $J
+            sleep $TOSLEEP
+>>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b
           done
     fi
   done

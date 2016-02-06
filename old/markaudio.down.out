@@ -1,2 +1,8 @@
                        fs    mms    cms    sag    pct
-alpair10bass          35.0   11.0  0.002  0.000  0.0% OK
+chr70                 70.0    4.8  1.000  0.047  1.0% OK
+alpair5gold          125.0    1.5  1.08   0.016  0.6% OK
+alpair5grey          136.0    1.6  0.911  0.014  0.6% OK
+alpair10bass          35.0   11.2  1.84   0.203  2.3% OK
+alpair10fr            40.0    9.2  1.70   0.154  1.8% OK
+alpair12p             42.0   10.2  1.40   0.140  2.6% OK
+alpair10.2            35.0    8.0  0.003  0.000  0.0% OK

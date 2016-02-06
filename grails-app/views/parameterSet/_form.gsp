@@ -2,6 +2,60 @@
 
 
 
+<div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'vas', 'error')} required">
+	<label for="vas">
+		<g:message code="parameterSet.vas.label" default="Vas" />
+		<span class="required-indicator">*</span>
+	</label>
+	<g:field name="vas" value="${fieldValue(bean: parameterSetInstance, field: 'vas')}" required=""/>
+
+</div>
+
+<div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'qts', 'error')} required">
+	<label for="qts">
+		<g:message code="parameterSet.qts.label" default="Qts" />
+		<span class="required-indicator">*</span>
+	</label>
+	<g:field name="qts" value="${fieldValue(bean: parameterSetInstance, field: 'qts')}" required=""/>
+
+</div>
+
+<div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'qes', 'error')} required">
+	<label for="qes">
+		<g:message code="parameterSet.qes.label" default="Qes" />
+		<span class="required-indicator">*</span>
+	</label>
+	<g:field name="qes" value="${fieldValue(bean: parameterSetInstance, field: 'qes')}" required=""/>
+
+</div>
+
+<div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'qms', 'error')} required">
+	<label for="qms">
+		<g:message code="parameterSet.qms.label" default="Qms" />
+		<span class="required-indicator">*</span>
+	</label>
+	<g:field name="qms" value="${fieldValue(bean: parameterSetInstance, field: 'qms')}" required=""/>
+
+</div>
+
+<div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'createdBy', 'error')} ">
+	<label for="createdBy">
+		<g:message code="parameterSet.createdBy.label" default="Created By" />
+		
+	</label>
+	<g:textField name="createdBy" value="${parameterSetInstance?.createdBy}"/>
+
+</div>
+
+<div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'lastModifiedBy', 'error')} ">
+	<label for="lastModifiedBy">
+		<g:message code="parameterSet.lastModifiedBy.label" default="Last Modified By" />
+		
+	</label>
+	<g:textField name="lastModifiedBy" value="${parameterSetInstance?.lastModifiedBy}"/>
+
+</div>
+
 <div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'cms', 'error')} required">
 	<label for="cms">
 		<g:message code="parameterSet.cms.label" default="Cms" />
@@ -65,33 +119,6 @@
 
 </div>
 
-<div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'qes', 'error')} required">
-	<label for="qes">
-		<g:message code="parameterSet.qes.label" default="Qes" />
-		<span class="required-indicator">*</span>
-	</label>
-	<g:field name="qes" value="${fieldValue(bean: parameterSetInstance, field: 'qes')}" required=""/>
-
-</div>
-
-<div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'qms', 'error')} required">
-	<label for="qms">
-		<g:message code="parameterSet.qms.label" default="Qms" />
-		<span class="required-indicator">*</span>
-	</label>
-	<g:field name="qms" value="${fieldValue(bean: parameterSetInstance, field: 'qms')}" required=""/>
-
-</div>
-
-<div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'qts', 'error')} required">
-	<label for="qts">
-		<g:message code="parameterSet.qts.label" default="Qts" />
-		<span class="required-indicator">*</span>
-	</label>
-	<g:field name="qts" value="${fieldValue(bean: parameterSetInstance, field: 'qts')}" required=""/>
-
-</div>
-
 <div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 're', 'error')} required">
 	<label for="re">
 		<g:message code="parameterSet.re.label" default="Re" />
@@ -116,15 +143,6 @@
 		<span class="required-indicator">*</span>
 	</label>
 	<g:field name="spl" value="${fieldValue(bean: parameterSetInstance, field: 'spl')}" required=""/>
-
-</div>
-
-<div class="fieldcontain ${hasErrors(bean: parameterSetInstance, field: 'vas', 'error')} required">
-	<label for="vas">
-		<g:message code="parameterSet.vas.label" default="Vas" />
-		<span class="required-indicator">*</span>
-	</label>
-	<g:field name="vas" value="${fieldValue(bean: parameterSetInstance, field: 'vas')}" required=""/>
 
 </div>
 

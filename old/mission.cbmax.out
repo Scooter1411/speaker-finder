@@ -4,43 +4,24 @@ CP-168
  89.0dB             4.2l (1.1)                40W
 SplMech  Pmech SplEle     f3
 
- 87.8dB    51W  86.7dB @  28Hz   18
-            2W  77.0dB @  32Hz 
-            3W  78.0dB @  32Hz 
-            4W  79.0dB @  32Hz 
-            5W  80.0dB @  32Hz 
-            6W  81.0dB @  32Hz 
-            8W  82.0dB @  32Hz 
-           10W  83.0dB @  32Hz 
-           13W  84.0dB @  32Hz 
-           16W  85.0dB @  32Hz 
-           20W  86.0dB @  32Hz 
-           25W  87.0dB @  32Hz 
-           32W  88.0dB @  32Hz 
-           40W  89.0dB @  32Hz 
- 90.1dB    51W  89.0dB @  32Hz   16
- 92.2dB    51W  91.1dB @  36Hz   14
- 94.0dB    51W  92.9dB @  40Hz   12
- 95.6dB    51W  94.6dB @  44Hz   10
+            2W  74.1dB @  27Hz 
+            3W  75.1dB @  27Hz 
+            4W  76.1dB @  27Hz 
+            5W  77.1dB @  27Hz 
+            6W  78.1dB @  27Hz 
+            8W  79.1dB @  27Hz 
+           10W  80.1dB @  27Hz 
+           13W  81.1dB @  27Hz 
+           16W  82.1dB @  27Hz 
+           20W  83.1dB @  27Hz 
+           25W  84.1dB @  27Hz 
+           32W  85.1dB @  27Hz 
+           40W  86.1dB @  27Hz 
+ 87.2dB    51W  86.1dB @  27Hz   19
+ 91.2dB    51W  90.1dB @  34Hz   15
+ 94.4dB    51W  93.3dB @  41Hz   11
  97.2dB    51W  96.1dB @  48Hz    9
- 98.6dB    51W  97.5dB @  52Hz    7
- 99.8dB    52W  98.7dB @  56Hz    6
-101.0dB    52W  99.9dB @  60Hz    5
-102.2dB    52W 101.1dB @  64Hz    4
-103.2dB    52W 102.1dB @  68Hz    3
-104.2dB    52W 103.1dB @  72Hz    2
+ 99.5dB    52W  98.4dB @  55Hz    6
+101.6dB    52W 100.5dB @  62Hz    4
+103.5dB    52W 102.4dB @  69Hz    2
 105.1dB    52W 104.0dB @  76Hz    1
-            2W  92.9dB @  80Hz 
-            3W  93.9dB @  80Hz 
-            4W  94.9dB @  80Hz 
-            5W  95.9dB @  80Hz 
-            6W  96.9dB @  80Hz 
-            8W  97.9dB @  80Hz 
-           10W  98.9dB @  80Hz 
-           13W  99.9dB @  80Hz 
-           16W 100.9dB @  80Hz 
-           20W 101.9dB @  80Hz 
-           25W 102.9dB @  80Hz 
-           32W 103.9dB @  80Hz 
-           40W 104.9dB @  80Hz 
-106.0dB    52W 104.9dB @  80Hz   -0

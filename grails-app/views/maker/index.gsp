@@ -24,7 +24,19 @@
 			<thead>
 					<tr>
 					
+<<<<<<< HEAD:grails-app/views/maker/index.gsp
 						<g:sortableColumn property="name" title="${message(code: 'maker.name.label', default: 'Name')}" />
+=======
+						<g:sortableColumn property="rpre" title="${message(code: 'alignment.rpre.label', default: 'Rpre')}" />
+					
+						<g:sortableColumn property="dateCreated" title="${message(code: 'alignment.dateCreated.label', default: 'Date Created')}" />
+					
+						<g:sortableColumn property="lastUpdated" title="${message(code: 'alignment.lastUpdated.label', default: 'Last Updated')}" />
+					
+						<g:sortableColumn property="createdBy" title="${message(code: 'alignment.createdBy.label', default: 'Created By')}" />
+					
+						<g:sortableColumn property="lastModifiedBy" title="${message(code: 'alignment.lastModifiedBy.label', default: 'Last Modified By')}" />
+>>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b:grails-app/views/alignment/index.gsp
 					
 					</tr>
 				</thead>
@@ -32,7 +44,19 @@
 				<g:each in="${makerInstanceList}" status="i" var="makerInstance">
 					<tr class="${(i % 2) == 0 ? 'even' : 'odd'}">
 					
+<<<<<<< HEAD:grails-app/views/maker/index.gsp
 						<td><g:link action="show" id="${makerInstance.id}">${fieldValue(bean: makerInstance, field: "name")}</g:link></td>
+=======
+						<td><g:link action="show" id="${alignmentInstance.id}">${fieldValue(bean: alignmentInstance, field: "rpre")}</g:link></td>
+					
+						<td><g:formatDate date="${alignmentInstance.dateCreated}" /></td>
+					
+						<td><g:formatDate date="${alignmentInstance.lastUpdated}" /></td>
+					
+						<td>${fieldValue(bean: alignmentInstance, field: "createdBy")}</td>
+					
+						<td>${fieldValue(bean: alignmentInstance, field: "lastModifiedBy")}</td>
+>>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b:grails-app/views/alignment/index.gsp
 					
 					</tr>
 				</g:each>

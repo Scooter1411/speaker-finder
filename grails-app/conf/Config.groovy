@@ -114,4 +114,19 @@ log4j.main = {
            'org.springframework',
            'org.hibernate',
            'net.sf.ehcache.hibernate'
+		   
+	warn   	'org.mortbay.log',
+			'org.compass'
+			
+	debug 	'grails.app.controller',
+			'grails.app.service',
+			'grails.app.domain',
+			'grails.app.filters',
+			'grails.app.tagLib',
+			'grails.app.jobs',
+			'grails.app.task',
+			'grails.app.bootstrap',
+			//'org.springframework.security',
+			'com.cimpa.GExcel',
+			'com.cimpa'
 }
