@@ -27,7 +27,7 @@ class ParameterSet {
         vas( min:0.03, max:1000.0 )
 		qts( min:0.11,  max:1.23     )
 		qes( min:0.12,  max:1.6     )
-		qms( min:1.1,  max:17.0     )
+		qms( min:1.1,  max:25.0     )
 		/*fs( min: 10.0, max:300.0 )
 		mms( min: 0.0, max:3000.0 )
 		cms( min: 0.0, max:500.0, nullable:true )

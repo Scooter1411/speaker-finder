@@ -266,12 +266,3 @@ select
 	spl3 as spl_ele,
 	f3
 from closed_enclosure_view5 order by driver, rpre, qtc;
-
-create or replace view enclosure_view as
-select 
-    driver, parameter_set_d, closed_alignment_id, rownum as id, pmax, rpre, spl1 as spl, qtc, vb, spl_mech, pmech, spl_ele, f3, 'ClosedEnclosure' as class
-from closed_enclosure_view;
-
-create or replace view closed_enclosure_view_rounded as
-SELECT driver, round(pmax,0), rpre, round(spl,1), qtc, round(vb,1), round(spl_mech,1), round(pmech,1), round(spl_ele,1),	round(f3,1) 
-FROM CLOSED_ENCLOSURE_VIEW;

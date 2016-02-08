@@ -33,6 +33,7 @@ class BootStrap {
         //if( ! line ==~ /#.*/ ){
             def params = line.split(',')
             if( params.size() == 15 ){    
+			    log.debug "$maker $line"
                 def driver             
                 maker.drivers.each{ 
                     if( it.name == params[0] ){
@@ -175,16 +176,16 @@ class BootStrap {
             }
         }
 
-        //def old = new File('old')
-        //assert old.isDirectory()
-    	//
-        //old.eachFileMatch(FileType.FILES, ~/.*in/){
-        //    def maker = bootstrapMaker(FilenameUtils.getBaseName(it.name))
-        //    it.eachLine{ line ->
-        //        bootstrapDriver( maker, line )
-        //    }
-        //}
-        //log.error "${Maker.count()} makers with ${Driver.count()} drivers"
+        def old = new File('old')
+        assert old.isDirectory()
+    	
+        old.eachFileMatch(FileType.FILES, ~/.*in/){
+            def maker = bootstrapMaker(FilenameUtils.getBaseName(it.name))
+            it.eachLine{ line ->
+                bootstrapDriver( maker, line )
+            }
+        }
+        log.error "${Maker.count()} makers with ${Driver.count()} drivers"
     }
     def destroy = {
     }

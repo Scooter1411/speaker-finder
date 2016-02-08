@@ -4,3 +4,4 @@ target
 *.groovy~
 /grails-app/views/maker/index.gsp~31a21eb335dfb7b03323bd9498ef71be639a1d9b
 /old/*.out#
+/.asscache

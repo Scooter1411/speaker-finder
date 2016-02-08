@@ -94,7 +94,7 @@ BEGIN{
         
             qes1 = qes * ( re + r ) / re;
             qts1=1/((1/qms)+(1/qes1))
-	    vb = 15 * vas * ( qts1  ^ 2.87 );
+			vb = 15 * vas * ( qts1  ^ 2.87 );
             f3 = 0.26 * fs / ( qts1 ^ 1.4 );
             fb = 0.42 * fs / ( qts1 ^ 0.9 );
 

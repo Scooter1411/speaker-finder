@@ -1,0 +1,179 @@
+Project & Method
+•	Agile
+•	Business Requirements Management
+•	GPP (Project management)
+Education
+•	Mathematics Degree – 1995
+Trainings
+•	VPM (admin & programmer) – 2003
+•	CATIA V5 (general) – 2005
+•	CIM Database (admin & scripting) – 2006
+•	CATIA V5 (electrical perimeter) – 2012.2013
+•	C# & .NET (web applications) – 2015
+Languages
+•	German – Native 
+•	English – Fluent 
+•	Russian – Basic
+
+
+Project description	Subsidiary Information System
+Industry	Aerospace
+Duration	Since May 2014 
+Role / Function	Architect, Developer
+Activities	Requirements Analysis, Interface Design, Development, Test, Deployment
+Technical Environment	Grails, Oracle
+
+Project description	CATIA V5 Data Migration in Electrics Perimeter
+Industry	Aerospace
+Duration	July 2011 – October 2014
+Role / Function	PLM Consultant
+Activities	Requirements Analysis, Functional Specification, Test Design, Test Management, Test Execution
+Technical Environment	CATIA V4 & V5, CADDS5, 3DCOM, purpose-built tools
+
+Project description	Interface System for Electrical Data
+Industry	Aerospace
+Duration	January 2009 – December 2009
+Role / Function	PLM Consultant, Developer
+Activities	Technical Specification, Architecture, Development, Test Design, Test Management, Test Execution
+Technical Environment	CIRCE, IGE-XAO See Topology, Groovy, Oracle
+
+Project description	Implement PDM solution
+Industry	Aerospace
+Duration	January 2007 – March 2008
+Role / Function	PLM Consultant
+Activities	Requirements Analysis, Functional Specification, Test, Deployment, Data Migration, Change Management
+Technical Environment	CIM Database, CATIA V4 & V5, SAP
+
+Project description	Support Tool for Electrics Process
+Industry	Aerospace
+Duration	October 2004 – November 2006
+February 2015 – January 2016 
+Role / Function	Analyst, Developer
+Activities	Requirements Analysis, Functional Specification, Development, Test, Deployment, Data Migration, Change Management
+Technical Environment	Java, Oracle
+
+Project description	Implementation 3D Toolset
+Industry	Aerospace
+Duration	November 2004 – May 2005
+Role / Function	PLM Consultant
+Activities	2nd and 3rd Level  Support
+Technical Environment	CATIA V4 & V5, VPM
+
+Project description	Introduction of a new Interface Layer in a Software Product
+Industry	IT (Software Development)
+Duration	1997 – 1999
+Role / Function	Project Leader, Developer
+Activities	Functional Specification, Development, Test, Change Management
+Technical Environment	C++
+
+Project description	Architectural Refactoring of a Software Product
+Industry	IT (Software Development)
+Duration	1996 – 1997
+Role / Function	Project Leader, Developer
+Activities	Architecture, Development, Test
+Technical Environment	C, C++
+
+Project description	Internationalization of a Software Product
+Industry	IT (Software Development)
+Duration	1995 – 1996
+Role / Function	Project Leader, Developer
+Activities	Functional Specification, Development, Test, Change Management
+Technical Environment	C
+
+Methodenkompetenz
+•	Agile
+•	Business Requirements Management
+•	GPP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projektbeschreibung	Subsidiary Information System
+Branche	Luft- und Raumfahrt
+Dauer	Seit Mai 2014 
+Rolle / Funktion	Architekt, Entwickler
+Aktivitäten	Anforderungsanalyse, Schnittstellendesign, Entwicklung, Deployment
+Technologieumfeld	Grails, Oracle
+
+Projektbeschreibung	CATIA V5 Datenmigration
+Branche	Luft- und Raumfahrt
+Dauer	Juli 2011 – Oktober 2014
+Rolle / Funktion	PLM Consultant
+Aktivitäten	Anforderungsanalyse, Funktionale Spezifikation, Test Design, Test Management, Test-Durchführung
+Technologieumfeld	CATIA V4 & V5, CADDS5, 3DCOM, spezielle Tools
+
+Projektbeschreibung	Schnittstellensystem für Elektrik-Daten
+Branche	Luft- und Raumfahrt
+Dauer	Januar 2009 – Dezember 2009
+Rolle / Funktion	PLM Consultant, Entwickler
+Aktivitäten	Technische Spezifikation, Architektur, Entwicklung, Test Design, Test Management, Test-Durchführung
+Technologieumfeld	CIRCE, IGE-XAO See Topology, Groovy, Oracle
+
+
+
+
+
+Projektbeschreibung	Einführung eines PDM-Systems
+Branche	Luft- und Raumfahrt
+Dauer	Januar 2007 – März 2008
+Rolle / Funktion	PLM Consultant
+Aktivitäten	Anforderungsanalyse, Funktionale Spezifikation, Test, Deployment, Datenmigration, Change Management
+Technologieumfeld	CIM Database, CATIA V4 & V5, SAP
+
+Projektbeschreibung	Support-Tool für den Elektrik-Prozess
+Branche	Luft- und Raumfahrt
+Dauer	Oktober 2004 – November 2006 
+Februar 2015 – Januar 2016
+Rolle / Funktion	Analyst, Developer
+Aktivitäten	Anforderungsanalyse, Funktionale Spezifikation, Entwicklung, Test, Deployment, Data Migration, Change Management
+Technologieumfeld	Java, Oracle
+
+Projektbeschreibung	Implementation 3D Toolset
+Branche	Luft- und Raumfahrt
+Dauer	November 2004 – Mai 2005
+Rolle / Funktion	PLM Consultant
+Aktivitäten	2nd und 3rd Level  Support
+Technologieumfeld	CATIA V4 & V5, VPM
+
+
+
+
+
+Projektbeschreibung	Einführung eines neuen Schichtenmodells
+Branche	IT (Softwareentwicklung)
+Dauer	1997 – 1999
+Rolle / Funktion	Project Leader, Developer
+Aktivitäten	Funktionale Spezifikation, Entwicklung, Test, Change Management
+Technologieumfeld	C++
+
+Projektbeschreibung	Refactoring der Architektur eines Softwareproduktes
+Branche	IT (Softwareentwicklung)
+Dauer	1996 – 1997
+Rolle / Funktion	Project Leader, Developer
+Aktivitäten	Architektur, Entwicklung, Test
+Technologieumfeld	C, C++
+
+Projektbeschreibung	Internationalisierung eines Softwareproduktes
+Branche	IT (Softwareentwicklung)
+Dauer	1995 – 1996
+Rolle / Funktion	Project Leader, Developer
+Aktivitäten	Funktionale Spezifikation, Entwicklung, Test, Change Management
+Technologieumfeld	C
+
+
