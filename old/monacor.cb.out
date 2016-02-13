@@ -3,8 +3,6 @@ sph165kep
       89.0dB                             60W
 Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3
 
-<<<<<<< HEAD
-=======
 0.20  86.6dB:   0.5   26.0l: (106.4dB   126W 103.2dB) @  68Hz
                 0.6   14.9l: (105.4dB   100W 103.2dB) @  64Hz
                 0.7    9.9l: (105.4dB   101W 103.2dB) @  65Hz
@@ -592,4 +590,3 @@ Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3
                 1.1   10.7l: (127.1dB  1747W 119.4dB) @ 107Hz
                 1.1   10.7l: (124.2dB   906W 119.4dB) @  91Hz (  380uF)
 
->>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b

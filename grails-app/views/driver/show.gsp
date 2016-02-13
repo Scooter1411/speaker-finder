@@ -23,19 +23,11 @@
 			</g:if>
 			<ol class="property-list driver">
 			
-<<<<<<< HEAD
-				<g:if test="${driverInstance?.maker}">
-				<li class="fieldcontain">
-					<span id="maker-label" class="property-label"><g:message code="driver.maker.label" default="Maker" /></span>
-					
-						<span class="property-value" aria-labelledby="maker-label"><g:link controller="maker" action="show" id="${driverInstance?.maker?.id}">${driverInstance?.maker?.encodeAsHTML()}</g:link></span>
-=======
 				<g:if test="${driverInstance?.name}">
 				<li class="fieldcontain">
 					<span id="name-label" class="property-label"><g:message code="driver.name.label" default="Name" /></span>
 					
 						<span class="property-value" aria-labelledby="name-label"><g:fieldValue bean="${driverInstance}" field="name"/></span>
->>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b
 					
 				</li>
 				</g:if>

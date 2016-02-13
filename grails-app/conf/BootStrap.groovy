@@ -170,11 +170,15 @@ class BootStrap {
         }
         bootstrapInfiniteBaffleAlignment( 0.2, 1, null )
         
-        [0.2,0.6,1.0].each{ rpre ->
-            [0.7,0.78,0.87, 1.0, 1.1, 1.2, 1.4].each{ vx ->
+        /*[0.2,0.6,1.0].each{ rpre ->
+            [0.712,0.797,0.893, 1.0, 1.12, 1.25, 1.40].each{ vx ->
                 bootstrapVentedAlignment( rpre, vx )
             }
-        }
+        }*/
+		// LLT subs
+		[2.0,2.83,4.0,5.66,8.0,11.3,16.0,22.6,32.0,45.3,64.0,90.5,128.0,181.0,256.0,362.0,512.0,724.0].each{ vx ->
+			bootstrapVentedAlignment( 0.2, vx )
+		}
 
         def old = new File('old')
         assert old.isDirectory()

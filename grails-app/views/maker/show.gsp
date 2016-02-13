@@ -23,32 +23,15 @@
 			</g:if>
 			<ol class="property-list maker">
 			
-<<<<<<< HEAD
-				<g:if test="${makerInstance?.drivers}">
-				<li class="fieldcontain">
-					<span id="drivers-label" class="property-label"><g:message code="maker.drivers.label" default="Drivers" /></span>
-					
-						<g:each in="${makerInstance.drivers}" var="d">
-						<span class="property-value" aria-labelledby="drivers-label"><g:link controller="driver" action="show" id="${d.id}">${d?.encodeAsHTML()}</g:link></span>
-						</g:each>
-=======
 				<g:if test="${makerInstance?.name}">
 				<li class="fieldcontain">
 					<span id="name-label" class="property-label"><g:message code="maker.name.label" default="Name" /></span>
 					
 						<span class="property-value" aria-labelledby="name-label"><g:fieldValue bean="${makerInstance}" field="name"/></span>
->>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b
 					
 				</li>
 				</g:if>
 			
-<<<<<<< HEAD
-				<g:if test="${makerInstance?.name}">
-				<li class="fieldcontain">
-					<span id="name-label" class="property-label"><g:message code="maker.name.label" default="Name" /></span>
-					
-						<span class="property-value" aria-labelledby="name-label"><g:fieldValue bean="${makerInstance}" field="name"/></span>
-=======
 				<g:if test="${makerInstance?.dateCreated}">
 				<li class="fieldcontain">
 					<span id="dateCreated-label" class="property-label"><g:message code="maker.dateCreated.label" default="Date Created" /></span>
@@ -92,7 +75,6 @@
 						<g:each in="${makerInstance.drivers}" var="d">
 						<span class="property-value" aria-labelledby="drivers-label"><g:link controller="driver" action="show" id="${d.id}">${d?.encodeAsHTML()}</g:link></span>
 						</g:each>
->>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b
 					
 				</li>
 				</g:if>

@@ -1,24 +1,4 @@
 -------------
-fr810hq
-      94.0dB             45W
-Rpre   Spl     SplMech Pmech SplEle      f3
-
-0.20  93.8dB: (105.5dB    19W 109.2dB) @  74Hz
-              (108.5dB    38W 109.2dB) @  88Hz
-              (111.5dB    77W 109.2dB) @ 104Hz
-              (114.5dB   153W 109.2dB) @ 124Hz
-              (117.5dB   306W 109.2dB) @ 147Hz
-0.60  93.5dB: (104.6dB    17W 108.9dB) @  70Hz
-              (107.6dB    33W 108.9dB) @  83Hz
-              (110.6dB    67W 108.9dB) @  99Hz
-              (113.6dB   133W 108.9dB) @ 118Hz
-              (116.6dB   266W 108.9dB) @ 140Hz
-1.00  93.2dB: (103.8dB    15W 108.7dB) @  67Hz
-              (106.8dB    29W 108.7dB) @  79Hz
-              (109.8dB    59W 108.7dB) @  95Hz
-              (112.8dB   117W 108.7dB) @ 112Hz
-              (115.8dB   234W 108.7dB) @ 134Hz
--------------
 tsuzureko
       96.0dB           1000W
 Rpre   Spl     SplMech Pmech SplEle      f3

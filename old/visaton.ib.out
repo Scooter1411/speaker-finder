@@ -2,3 +2,29 @@
 V_B200
                     96.0dB            40W
          qts   f3   Spl     SplMech Pmech  SplEle  
+        0.78  37Hz  90.6dB   92.8dB    2W  106.6dB
+-------------
+V_Tiw200xs
+                    84.0dB           120W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.43  38Hz  85.7dB  107.5dB  151W  106.5dB
+-------------
+V_WS17E8
+                    88.0dB            60W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.83  40Hz  83.6dB   95.3dB   15W  101.4dB
+-------------
+V_WS20E8
+                    88.0dB            80W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        1.25  35Hz  86.3dB   95.7dB    9W  105.3dB
+-------------
+V_WS25E4
+                    88.0dB            80W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        1.09  31Hz  87.3dB  102.1dB   30W  106.4dB
+-------------
+V_WS25E8
+                    88.0dB            80W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        1.02  31Hz  87.5dB  102.1dB   29W  106.5dB

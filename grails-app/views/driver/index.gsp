@@ -24,11 +24,6 @@
 			<thead>
 					<tr>
 					
-<<<<<<< HEAD
-						<th><g:message code="driver.maker.label" default="Maker" /></th>
-					
-=======
->>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b
 						<g:sortableColumn property="name" title="${message(code: 'driver.name.label', default: 'Name')}" />
 					
 						<g:sortableColumn property="dateCreated" title="${message(code: 'driver.dateCreated.label', default: 'Date Created')}" />
@@ -47,9 +42,6 @@
 				<g:each in="${driverInstanceList}" status="i" var="driverInstance">
 					<tr class="${(i % 2) == 0 ? 'even' : 'odd'}">
 					
-<<<<<<< HEAD
-						<td><g:link action="show" id="${driverInstance.id}">${fieldValue(bean: driverInstance, field: "maker")}</g:link></td>
-=======
 						<td><g:link action="show" id="${driverInstance.id}">${fieldValue(bean: driverInstance, field: "name")}</g:link></td>
 					
 						<td><g:formatDate date="${driverInstance.dateCreated}" /></td>
@@ -59,7 +51,6 @@
 						<td>${fieldValue(bean: driverInstance, field: "createdBy")}</td>
 					
 						<td>${fieldValue(bean: driverInstance, field: "lastModifiedBy")}</td>
->>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b
 					
 						<td>${fieldValue(bean: driverInstance, field: "maker")}</td>
 					

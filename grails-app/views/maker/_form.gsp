@@ -2,8 +2,6 @@
 
 
 
-<<<<<<< HEAD
-=======
 <div class="fieldcontain ${hasErrors(bean: makerInstance, field: 'name', 'error')} required">
 	<label for="name">
 		<g:message code="maker.name.label" default="Name" />
@@ -31,7 +29,6 @@
 
 </div>
 
->>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b
 <div class="fieldcontain ${hasErrors(bean: makerInstance, field: 'drivers', 'error')} ">
 	<label for="drivers">
 		<g:message code="maker.drivers.label" default="Drivers" />
@@ -50,15 +47,3 @@
 
 </div>
 
-<<<<<<< HEAD
-<div class="fieldcontain ${hasErrors(bean: makerInstance, field: 'name', 'error')} required">
-	<label for="name">
-		<g:message code="maker.name.label" default="Name" />
-		<span class="required-indicator">*</span>
-	</label>
-	<g:textField name="name" required="" value="${makerInstance?.name}"/>
-
-</div>
-
-=======
->>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b

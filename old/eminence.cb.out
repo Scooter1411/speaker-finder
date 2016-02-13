@@ -3,8 +3,6 @@ Beta 8cx
       93.3dB                            250W
 Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3
 
-<<<<<<< HEAD
-=======
 0.20  93.4dB:   0.5   16.9l: (113.1dB   135W 115.8dB) @ 135Hz
                 0.6    9.3l: (112.1dB   107W 115.8dB) @ 127Hz
                 0.7    6.1l: (112.1dB   108W 115.8dB) @ 128Hz
@@ -285,4 +283,3 @@ Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3
                 1.1   38.9l: (125.5dB  1133W 119.7dB) @  79Hz
                 1.1   38.9l: (122.6dB   587W 119.7dB) @  67Hz (  626uF)
 
->>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b

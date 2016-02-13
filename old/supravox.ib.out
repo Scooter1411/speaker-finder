@@ -2,3 +2,14 @@
 400exc 5V
                     91.5dB            70W
          qts   f3   Spl     SplMech Pmech  SplEle  
+        1.04  19Hz  89.7dB  101.4dB   15W  108.1dB
+-------------
+400exc 7V
+                    94.0dB            70W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.62  28Hz  92.1dB  108.2dB   40W  110.6dB
+-------------
+400exc 9V
+                    95.4dB            70W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.44  36Hz  93.6dB  112.4dB   76W  112.0dB

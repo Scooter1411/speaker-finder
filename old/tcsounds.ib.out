@@ -2,3 +2,14 @@
 10lms4000svc
                     81.1dB           800W
          qts   f3   Spl     SplMech Pmech  SplEle  
+        0.45  26Hz  81.6dB  113.5dB 1533W  110.7dB
+-------------
+12lms4000svc
+                    82.6dB           800W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.52  23Hz  81.9dB  114.9dB 2018W  110.9dB
+-------------
+15lms4000svc
+                    85.6dB           800W
+         qts   f3   Spl     SplMech Pmech  SplEle  
+        0.53  19Hz  84.8dB  116.6dB 1513W  113.8dB

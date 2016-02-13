@@ -3,8 +3,6 @@ WF110WA01
       88.5dB                             50W
 Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3
 
-<<<<<<< HEAD
-=======
 0.20  86.6dB:   0.5    7.8l: (106.4dB   191W 100.6dB) @ 121Hz
                 0.6    3.4l: (105.4dB   152W 100.6dB) @ 114Hz
                 0.7    2.0l: (105.4dB   153W 100.6dB) @ 115Hz
@@ -1027,4 +1025,3 @@ Rpre   Spl      qtc    Vb     SplMech Pmech SplEle      f3
                 1.1   38.9l: (113.8dB  1976W 104.9dB) @  34Hz
                 1.1   38.9l: (111.0dB  1024W 104.9dB) @  28Hz ( 2426uF)
 
->>>>>>> 31a21eb335dfb7b03323bd9498ef71be639a1d9b
