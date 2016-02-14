@@ -1,0 +1,66 @@
+-------------
+shiva
+      84.0dB            600W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  87.4dB: (118.9dB  2011W 113.7dB) @  39Hz
+              (121.9dB  4022W 113.7dB) @  47Hz
+0.60  87.1dB: (117.8dB  1670W 113.4dB) @  37Hz
+              (120.8dB  3341W 113.4dB) @  44Hz
+1.00  86.9dB: (116.8dB  1405W 113.1dB) @  35Hz
+              (119.8dB  2810W 113.1dB) @  41Hz
+              (122.8dB  5619W 113.1dB) @  49Hz
+-------------
+koda10d4
+      89.0dB            300W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.4dB: (123.7dB  3681W 112.8dB) @  58Hz
+0.60  88.2dB: (122.9dB  3195W 112.6dB) @  56Hz
+1.00  88.0dB: (122.1dB  2794W 112.4dB) @  53Hz
+-------------
+koda10d8
+      89.0dB            300W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.4dB: (121.8dB  4834W 109.7dB) @  52Hz
+0.60  87.9dB: (120.2dB  3703W 109.3dB) @  48Hz
+1.00  87.5dB: (118.8dB  2912W 108.9dB) @  44Hz
+-------------
+koda12d4
+      89.0dB            300W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  89.1dB: (122.3dB  2279W 113.5dB) @  46Hz
+0.60  88.9dB: (121.5dB  1977W 113.3dB) @  43Hz
+1.00  88.7dB: (120.7dB  1729W 113.1dB) @  41Hz
+-------------
+koda12d8
+      89.0dB            300W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  88.6dB: (119.6dB  2748W 110.0dB) @  39Hz
+0.60  88.2dB: (118.0dB  2105W 109.6dB) @  36Hz
+1.00  87.8dB: (116.6dB  1655W 109.2dB) @  33Hz
+-------------
+koda15d4
+      91.0dB            300W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  90.8dB: (121.3dB  1221W 115.2dB) @  33Hz
+              (124.3dB  2442W 115.2dB) @  40Hz
+0.60  90.6dB: (120.5dB  1060W 115.0dB) @  32Hz
+              (123.5dB  2119W 115.0dB) @  38Hz
+1.00  90.4dB: (119.7dB   926W 114.8dB) @  30Hz
+              (122.7dB  1853W 114.8dB) @  36Hz
+-------------
+koda15d8
+      90.0dB            300W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  90.4dB: (118.6dB  1452W 111.8dB) @  29Hz
+              (121.6dB  2904W 111.8dB) @  34Hz
+0.60  90.0dB: (117.0dB  1112W 111.3dB) @  26Hz
+              (120.0dB  2224W 111.3dB) @  31Hz
+1.00  89.6dB: (115.6dB   875W 110.9dB) @  24Hz
+              (118.6dB  1749W 110.9dB) @  29Hz

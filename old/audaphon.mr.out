@@ -1,4 +1,13 @@
 -------------
+AC250SW
+      88.0dB            180W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  86.7dB: (114.4dB  1321W 105.8dB) @  52Hz
+0.60  86.2dB: (113.0dB  1064W 105.3dB) @  48Hz
+1.00  85.8dB: (111.8dB   879W 104.9dB) @  45Hz
+              (114.8dB  1758W 104.9dB) @  53Hz
+-------------
 SW31-8
       85.0dB            250W
 Rpre   Spl     SplMech Pmech SplEle      f3
