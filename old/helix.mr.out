@@ -1,4 +1,21 @@
 -------------
+e250 esprit
+      89.0dB            300W
+Rpre   Spl     SplMech Pmech SplEle      f3
+
+0.20  86.7dB: (111.3dB   321W 111.0dB) @  58Hz
+              (114.3dB   641W 111.0dB) @  69Hz
+              (117.3dB  1282W 111.0dB) @  82Hz
+              (120.3dB  2564W 111.0dB) @  97Hz
+0.60  86.5dB: (110.6dB   286W 110.8dB) @  55Hz
+              (113.6dB   572W 110.8dB) @  66Hz
+              (116.6dB  1143W 110.8dB) @  78Hz
+              (119.6dB  2286W 110.8dB) @  93Hz
+1.00  86.3dB: (109.9dB   257W 110.6dB) @  53Hz
+              (112.9dB   513W 110.6dB) @  63Hz
+              (115.9dB  1027W 110.6dB) @  75Hz
+              (118.9dB  2054W 110.6dB) @  89Hz
+-------------
 e300 esprit
       88.0dB            400W
 Rpre   Spl     SplMech Pmech SplEle      f3

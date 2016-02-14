@@ -240,10 +240,6 @@ ax165fl
  74.0Hz 117Hz  186Hz   93.7dB    6l +   8l    1x50mm    541mm
  80.3Hz 124Hz  192Hz   95.2dB    5l +   8l    1x50mm    482mm
 -------------
-ax8fl
-            90.0dB           100W       1x40mm
-   fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
--------------
 cx12
             96.0dB           700W      2x100mm
    fu     fb      fo      SplMech  Vb1     Vb2       d         l        C
