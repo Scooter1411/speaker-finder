@@ -86,11 +86,11 @@
 				</li>
 				</g:if>
 			
-				<g:if test="${closedEnclosureInstance?.closedAlignment}">
+				<g:if test="${closedEnclosureInstance?.alignment}">
 				<li class="fieldcontain">
-					<span id="closedAlignment-label" class="property-label"><g:message code="closedEnclosure.closedAlignment.label" default="Closed Alignment" /></span>
+					<span id="alignment-label" class="property-label"><g:message code="closedEnclosure.alignment.label" default="Alignment" /></span>
 					
-						<span class="property-value" aria-labelledby="closedAlignment-label"><g:link controller="closedAlignment" action="show" id="${closedEnclosureInstance?.closedAlignment?.id}">${closedEnclosureInstance?.closedAlignment?.encodeAsHTML()}</g:link></span>
+						<span class="property-value" aria-labelledby="alignment-label"><g:link controller="alignment" action="show" id="${closedEnclosureInstance?.alignment?.id}">${closedEnclosureInstance?.alignment?.encodeAsHTML()}</g:link></span>
 					
 				</li>
 				</g:if>

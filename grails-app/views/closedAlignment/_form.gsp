@@ -38,3 +38,12 @@
 
 </div>
 
+<div class="fieldcontain ${hasErrors(bean: closedAlignmentInstance, field: 'factor', 'error')} required">
+	<label for="factor">
+		<g:message code="closedAlignment.factor.label" default="Factor" />
+		<span class="required-indicator">*</span>
+	</label>
+	<g:field name="factor" value="${fieldValue(bean: closedAlignmentInstance, field: 'factor')}" required=""/>
+
+</div>
+

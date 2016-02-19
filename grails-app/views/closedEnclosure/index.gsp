@@ -38,7 +38,7 @@
 					
 						<g:sortableColumn property="vb" title="${message(code: 'closedEnclosure.vb.label', default: 'Vb')}" />
 					
-						<th><g:message code="closedEnclosure.closedAlignment.label" default="Closed Alignment" /></th>
+						<th><g:message code="closedEnclosure.alignment.label" default="Alignment" /></th>
 					
 						<th><g:message code="closedEnclosure.parameterSet.label" default="Parameter Set" /></th>
 					
@@ -62,7 +62,7 @@
 					
 						<td>${fieldValue(bean: closedEnclosureInstance, field: "vb")}</td>
 					
-						<td>${fieldValue(bean: closedEnclosureInstance, field: "closedAlignment")}</td>
+						<td>${fieldValue(bean: closedEnclosureInstance, field: "alignment")}</td>
 					
 						<td>${fieldValue(bean: closedEnclosureInstance, field: "parameterSet")}</td>
 					

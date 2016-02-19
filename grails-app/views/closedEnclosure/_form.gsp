@@ -65,12 +65,12 @@
 
 </div>
 
-<div class="fieldcontain ${hasErrors(bean: closedEnclosureInstance, field: 'closedAlignment', 'error')} required">
-	<label for="closedAlignment">
-		<g:message code="closedEnclosure.closedAlignment.label" default="Closed Alignment" />
+<div class="fieldcontain ${hasErrors(bean: closedEnclosureInstance, field: 'alignment', 'error')} required">
+	<label for="alignment">
+		<g:message code="closedEnclosure.alignment.label" default="Alignment" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:select id="closedAlignment" name="closedAlignment.id" from="${ClosedAlignment.list()}" optionKey="id" required="" value="${closedEnclosureInstance?.closedAlignment?.id}" class="many-to-one"/>
+	<g:select id="alignment" name="alignment.id" from="${Alignment.list()}" optionKey="id" required="" value="${closedEnclosureInstance?.alignment?.id}" class="many-to-one"/>
 
 </div>
 

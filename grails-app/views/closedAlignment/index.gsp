@@ -36,6 +36,8 @@
 					
 						<g:sortableColumn property="qtc" title="${message(code: 'closedAlignment.qtc.label', default: 'Qtc')}" />
 					
+						<g:sortableColumn property="factor" title="${message(code: 'closedAlignment.factor.label', default: 'Factor')}" />
+					
 					</tr>
 				</thead>
 				<tbody>
@@ -53,6 +55,8 @@
 						<td>${fieldValue(bean: closedAlignmentInstance, field: "lastModifiedBy")}</td>
 					
 						<td>${fieldValue(bean: closedAlignmentInstance, field: "qtc")}</td>
+					
+						<td>${fieldValue(bean: closedAlignmentInstance, field: "factor")}</td>
 					
 					</tr>
 				</g:each>

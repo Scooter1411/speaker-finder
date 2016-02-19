@@ -125,7 +125,7 @@ log4j.main = {
 			'grails.app.tagLib',
 			'grails.app.jobs',
 			'grails.app.task',
-			'grails.app.bootstrap',
+			'grails.app.conf.BootStrap',
 			//'org.springframework.security',
 			'com.cimpa.GExcel',
 			'com.cimpa'

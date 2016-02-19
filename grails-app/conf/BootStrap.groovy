@@ -33,21 +33,20 @@ class BootStrap {
         //if( ! line ==~ /#.*/ ){
             def params = line.split(',')
             if( params.size() == 15 ){    
-			    log.debug "$maker $line"
-                def driver             
-                maker.drivers.each{ 
-                    if( it.name == params[0] ){
-                        driver = it
-                        log.debug "* ${it.name}"
-                    }else{
-                        log.debug "  ${it.name}"
-                    }
-                }
-                //= Driver.findByMakerAndName(maker,params[0])
+ 				def driverName = params[0].trim()
+                // def driver2 
+                // maker.drivers.each{ 
+                    // if( it.name == driverName ){
+                        // driver2 = it
+                        // log.debug "* |${it.name}| |${params[0]}|"
+                    // }else{
+                        // log.debug "  |${it.name}| |${params[0]}|"
+                    // }
+                // }
+                def driver = Driver.findByMakerAndName(maker,driverName)
                 if( ! driver ){
-                    driver = new Driver( name:params[0], maker:maker )
+                    driver = new Driver( name:driverName, maker:maker )
                     if( ! driver.validate() ){
-                        log.error "$maker ${params[0]}"
                         driver.errors.each{ log.error it }
                         assert false
                     }
@@ -157,8 +156,33 @@ class BootStrap {
         assert ali
     }
     
+    private bootstrapTube( diameter, name ){
+        def tub = Tube.findByName( name )
+        if( !tub ){
+            tub = new Tube( name:name, diameter:diameter )
+            if( ! tub.validate() ){
+                tub.errors.each{log.error it}
+                assert false
+            }
+            tub.save( flush:true )
+        }else{
+            assert tub.validate()
+        }
+        assert tub
+    }
+
     def init = { servletContext ->
     
+        bootstrapTube(  40,'1x40mm' )
+        bootstrapTube(  50,'1x50mm' )
+        bootstrapTube(  70,'1x70mm' )
+        bootstrapTube(  100,'1x100mm' )
+        bootstrapTube(  141,'2x100mm' )
+        bootstrapTube(  173,'3x100mm' )
+        bootstrapTube(  200,'4x100mm' )
+        bootstrapTube(  224,'5x100mm' )
+        bootstrapTube(  245,'6x100mm' )
+	
         [0.2,0.6,1.0].each{ rpre ->
             [0.5,0.6,0.7,0.8,0.9,1.0,1.1].each{ qtc ->
                 bootstrapClosedAlignment( rpre, qtc )
@@ -180,6 +204,11 @@ class BootStrap {
 			bootstrapVentedAlignment( 0.2, vx )
 		}
 
+		Driver.list().each{
+		    it.name = it.name.trim()
+			it.save(flush:true)
+		}
+		
         def old = new File('old')
         assert old.isDirectory()
     	
@@ -189,7 +218,7 @@ class BootStrap {
                 bootstrapDriver( maker, line )
             }
         }
-        log.error "${Maker.count()} makers with ${Driver.count()} drivers"
+        log.info "------------------------------------------- ${Maker.count()} makers with ${Driver.count()} drivers"
     }
     def destroy = {
     }

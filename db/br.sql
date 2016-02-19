@@ -67,11 +67,11 @@ from vented_enclosure_view6 order by driver, rpre, vb;
 
 create or replace view enclosure_view as
 select 
-    driver, parameter_set_id, closed_alignment_id, rownum as id, pmax, rpre, spl, vb, spl_mech, pmech, spl_ele, f3, 'ClosedEnclosure' as class
+    driver, parameter_set_id, closed_alignment_id as alignment_id, rownum as id, pmax, rpre, spl, vb, spl_mech, pmech, spl_ele, f3, 'ClosedEnclosure' as class
 from closed_enclosure_view
 union all
 select 
-    driver, parameter_set_id, vented_alignment_id, rownum as id, pmax, rpre, spl, vb, spl_mech, pmech, spl_ele, f3, 'VentedEnclosure' as class
+    driver, parameter_set_id, vented_alignment_id as alignment_id, rownum as id, pmax, rpre, spl, vb, spl_mech, pmech, spl_ele, f3, 'VentedEnclosure' as class
 from vented_enclosure_view;
 
 create or replace view tube as 

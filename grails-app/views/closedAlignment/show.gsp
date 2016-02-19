@@ -77,6 +77,15 @@
 				</li>
 				</g:if>
 			
+				<g:if test="${closedAlignmentInstance?.factor}">
+				<li class="fieldcontain">
+					<span id="factor-label" class="property-label"><g:message code="closedAlignment.factor.label" default="Factor" /></span>
+					
+						<span class="property-value" aria-labelledby="factor-label"><g:fieldValue bean="${closedAlignmentInstance}" field="factor"/></span>
+					
+				</li>
+				</g:if>
+			
 			</ol>
 			<g:form url="[resource:closedAlignmentInstance, action:'delete']" method="DELETE">
 				<fieldset class="buttons">
